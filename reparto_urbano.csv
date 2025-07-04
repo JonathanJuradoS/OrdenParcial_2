@@ -1,0 +1,3001 @@
+Pedido_ID,Zona,Hora_disponibilidad,Acción,Vehículo_asignado,Acción_antes
+1,Centro,2025-07-01 08:00:00,Cargar vehículo,VAN-703,Ruta principal
+2,Este,2025-07-01 08:01:00,Cargar vehículo,VAN-774,Entrega
+3,Norte,2025-07-01 08:02:00,Recoger pedido,VAN-417,Ruta principal
+4,Este,2025-07-01 08:03:00,Cargar vehículo,VAN-353,Recoger pedido
+5,Oeste,2025-07-01 08:04:00,Confirmación,VAN-489,Ruta principal
+6,Norte,2025-07-01 08:05:00,Recoger pedido,VAN-902,Recoger pedido
+7,Sur,2025-07-01 08:06:00,Entrega,VAN-872,Entrega
+8,Norte,2025-07-01 08:07:00,Recoger pedido,VAN-131,Cargar vehículo
+9,Norte,2025-07-01 08:08:00,Ruta principal,VAN-670,Entrega
+10,Oeste,2025-07-01 08:09:00,Confirmación,VAN-307,Cargar vehículo
+11,Oeste,2025-07-01 08:10:00,Confirmación,VAN-668,Entrega
+12,Norte,2025-07-01 08:11:00,Cargar vehículo,VAN-217,Confirmación
+13,Este,2025-07-01 08:12:00,Recoger pedido,VAN-795,Entrega
+14,Norte,2025-07-01 08:13:00,Ruta principal,VAN-574,Ruta principal
+15,Sur,2025-07-01 08:14:00,Ruta principal,VAN-695,Confirmación
+16,Centro,2025-07-01 08:15:00,Recoger pedido,VAN-403,Recoger pedido
+17,Este,2025-07-01 08:16:00,Recoger pedido,VAN-897,Entrega
+18,Oeste,2025-07-01 08:17:00,Confirmación,VAN-702,Ruta principal
+19,Norte,2025-07-01 08:18:00,Entrega,VAN-277,Entrega
+20,Sur,2025-07-01 08:19:00,Recoger pedido,VAN-360,Cargar vehículo
+21,Sur,2025-07-01 08:20:00,Cargar vehículo,VAN-110,Ruta principal
+22,Sur,2025-07-01 08:21:00,Cargar vehículo,VAN-362,Entrega
+23,Oeste,2025-07-01 08:22:00,Ruta principal,VAN-693,Confirmación
+24,Centro,2025-07-01 08:23:00,Cargar vehículo,VAN-441,Ruta principal
+25,Sur,2025-07-01 08:24:00,Confirmación,VAN-845,Entrega
+26,Oeste,2025-07-01 08:25:00,Cargar vehículo,VAN-457,Entrega
+27,Centro,2025-07-01 08:26:00,Ruta principal,VAN-574,Cargar vehículo
+28,Norte,2025-07-01 08:27:00,Ruta principal,VAN-687,Recoger pedido
+29,Sur,2025-07-01 08:28:00,Cargar vehículo,VAN-366,Confirmación
+30,Oeste,2025-07-01 08:29:00,Cargar vehículo,VAN-731,Cargar vehículo
+31,Centro,2025-07-01 08:30:00,Recoger pedido,VAN-819,Ruta principal
+32,Oeste,2025-07-01 08:31:00,Cargar vehículo,VAN-167,Confirmación
+33,Norte,2025-07-01 08:32:00,Ruta principal,VAN-592,Recoger pedido
+34,Este,2025-07-01 08:33:00,Ruta principal,VAN-619,Entrega
+35,Centro,2025-07-01 08:34:00,Entrega,VAN-887,Recoger pedido
+36,Sur,2025-07-01 08:35:00,Recoger pedido,VAN-864,Recoger pedido
+37,Este,2025-07-01 08:36:00,Confirmación,VAN-289,Ruta principal
+38,Este,2025-07-01 08:37:00,Cargar vehículo,VAN-602,Recoger pedido
+39,Norte,2025-07-01 08:38:00,Recoger pedido,VAN-820,Ruta principal
+40,Sur,2025-07-01 08:39:00,Entrega,VAN-500,Recoger pedido
+41,Centro,2025-07-01 08:40:00,Cargar vehículo,VAN-304,Ruta principal
+42,Oeste,2025-07-01 08:41:00,Cargar vehículo,VAN-750,Confirmación
+43,Centro,2025-07-01 08:42:00,Entrega,VAN-624,Ruta principal
+44,Centro,2025-07-01 08:43:00,Cargar vehículo,VAN-103,Cargar vehículo
+45,Centro,2025-07-01 08:44:00,Cargar vehículo,VAN-289,Entrega
+46,Norte,2025-07-01 08:45:00,Cargar vehículo,VAN-801,Recoger pedido
+47,Centro,2025-07-01 08:46:00,Recoger pedido,VAN-143,Entrega
+48,Sur,2025-07-01 08:47:00,Ruta principal,VAN-587,Entrega
+49,Sur,2025-07-01 08:48:00,Ruta principal,VAN-111,Recoger pedido
+50,Norte,2025-07-01 08:49:00,Cargar vehículo,VAN-148,Confirmación
+51,Norte,2025-07-01 08:50:00,Entrega,VAN-992,Confirmación
+52,Sur,2025-07-01 08:51:00,Cargar vehículo,VAN-520,Entrega
+53,Norte,2025-07-01 08:52:00,Recoger pedido,VAN-566,Entrega
+54,Centro,2025-07-01 08:53:00,Ruta principal,VAN-953,Cargar vehículo
+55,Este,2025-07-01 08:54:00,Entrega,VAN-533,Entrega
+56,Centro,2025-07-01 08:55:00,Confirmación,VAN-189,Confirmación
+57,Norte,2025-07-01 08:56:00,Confirmación,VAN-584,Cargar vehículo
+58,Centro,2025-07-01 08:57:00,Confirmación,VAN-532,Ruta principal
+59,Este,2025-07-01 08:58:00,Cargar vehículo,VAN-245,Confirmación
+60,Sur,2025-07-01 08:59:00,Ruta principal,VAN-258,Confirmación
+61,Oeste,2025-07-01 09:00:00,Ruta principal,VAN-302,Ruta principal
+62,Centro,2025-07-01 09:01:00,Entrega,VAN-811,Recoger pedido
+63,Centro,2025-07-01 09:02:00,Confirmación,VAN-996,Cargar vehículo
+64,Este,2025-07-01 09:03:00,Recoger pedido,VAN-922,Cargar vehículo
+65,Norte,2025-07-01 09:04:00,Confirmación,VAN-801,Cargar vehículo
+66,Centro,2025-07-01 09:05:00,Recoger pedido,VAN-817,Recoger pedido
+67,Centro,2025-07-01 09:06:00,Cargar vehículo,VAN-611,Cargar vehículo
+68,Este,2025-07-01 09:07:00,Entrega,VAN-415,Cargar vehículo
+69,Este,2025-07-01 09:08:00,Recoger pedido,VAN-953,Recoger pedido
+70,Centro,2025-07-01 09:09:00,Confirmación,VAN-709,Cargar vehículo
+71,Norte,2025-07-01 09:10:00,Cargar vehículo,VAN-584,Recoger pedido
+72,Norte,2025-07-01 09:11:00,Confirmación,VAN-263,Entrega
+73,Este,2025-07-01 09:12:00,Cargar vehículo,VAN-297,Ruta principal
+74,Norte,2025-07-01 09:13:00,Recoger pedido,VAN-728,Recoger pedido
+75,Sur,2025-07-01 09:14:00,Confirmación,VAN-793,Ruta principal
+76,Este,2025-07-01 09:15:00,Recoger pedido,VAN-937,Cargar vehículo
+77,Sur,2025-07-01 09:16:00,Entrega,VAN-216,Ruta principal
+78,Centro,2025-07-01 09:17:00,Entrega,VAN-591,Ruta principal
+79,Oeste,2025-07-01 09:18:00,Recoger pedido,VAN-828,Recoger pedido
+80,Sur,2025-07-01 09:19:00,Recoger pedido,VAN-437,Cargar vehículo
+81,Centro,2025-07-01 09:20:00,Recoger pedido,VAN-863,Entrega
+82,Este,2025-07-01 09:21:00,Recoger pedido,VAN-670,Ruta principal
+83,Oeste,2025-07-01 09:22:00,Entrega,VAN-570,Ruta principal
+84,Oeste,2025-07-01 09:23:00,Ruta principal,VAN-415,Ruta principal
+85,Oeste,2025-07-01 09:24:00,Cargar vehículo,VAN-389,Recoger pedido
+86,Sur,2025-07-01 09:25:00,Confirmación,VAN-887,Confirmación
+87,Sur,2025-07-01 09:26:00,Recoger pedido,VAN-769,Recoger pedido
+88,Este,2025-07-01 09:27:00,Recoger pedido,VAN-967,Cargar vehículo
+89,Este,2025-07-01 09:28:00,Recoger pedido,VAN-129,Recoger pedido
+90,Centro,2025-07-01 09:29:00,Entrega,VAN-879,Recoger pedido
+91,Centro,2025-07-01 09:30:00,Confirmación,VAN-997,Ruta principal
+92,Este,2025-07-01 09:31:00,Ruta principal,VAN-310,Entrega
+93,Oeste,2025-07-01 09:32:00,Cargar vehículo,VAN-112,Confirmación
+94,Sur,2025-07-01 09:33:00,Entrega,VAN-633,Entrega
+95,Norte,2025-07-01 09:34:00,Confirmación,VAN-963,Cargar vehículo
+96,Norte,2025-07-01 09:35:00,Confirmación,VAN-289,Recoger pedido
+97,Sur,2025-07-01 09:36:00,Entrega,VAN-482,Recoger pedido
+98,Este,2025-07-01 09:37:00,Recoger pedido,VAN-543,Entrega
+99,Norte,2025-07-01 09:38:00,Entrega,VAN-637,Entrega
+100,Norte,2025-07-01 09:39:00,Ruta principal,VAN-882,Ruta principal
+101,Oeste,2025-07-01 09:40:00,Recoger pedido,VAN-544,Entrega
+102,Norte,2025-07-01 09:41:00,Confirmación,VAN-267,Ruta principal
+103,Oeste,2025-07-01 09:42:00,Cargar vehículo,VAN-364,Recoger pedido
+104,Centro,2025-07-01 09:43:00,Recoger pedido,VAN-693,Cargar vehículo
+105,Norte,2025-07-01 09:44:00,Ruta principal,VAN-496,Cargar vehículo
+106,Norte,2025-07-01 09:45:00,Cargar vehículo,VAN-402,Confirmación
+107,Centro,2025-07-01 09:46:00,Entrega,VAN-543,Entrega
+108,Este,2025-07-01 09:47:00,Cargar vehículo,VAN-452,Confirmación
+109,Sur,2025-07-01 09:48:00,Ruta principal,VAN-414,Cargar vehículo
+110,Este,2025-07-01 09:49:00,Confirmación,VAN-566,Cargar vehículo
+111,Norte,2025-07-01 09:50:00,Entrega,VAN-422,Entrega
+112,Sur,2025-07-01 09:51:00,Entrega,VAN-122,Confirmación
+113,Norte,2025-07-01 09:52:00,Recoger pedido,VAN-278,Entrega
+114,Oeste,2025-07-01 09:53:00,Entrega,VAN-770,Cargar vehículo
+115,Norte,2025-07-01 09:54:00,Cargar vehículo,VAN-846,Ruta principal
+116,Norte,2025-07-01 09:55:00,Recoger pedido,VAN-287,Confirmación
+117,Oeste,2025-07-01 09:56:00,Cargar vehículo,VAN-224,Confirmación
+118,Norte,2025-07-01 09:57:00,Cargar vehículo,VAN-908,Recoger pedido
+119,Norte,2025-07-01 09:58:00,Recoger pedido,VAN-952,Cargar vehículo
+120,Sur,2025-07-01 09:59:00,Recoger pedido,VAN-313,Recoger pedido
+121,Oeste,2025-07-01 10:00:00,Confirmación,VAN-184,Cargar vehículo
+122,Centro,2025-07-01 10:01:00,Entrega,VAN-531,Recoger pedido
+123,Centro,2025-07-01 10:02:00,Recoger pedido,VAN-640,Entrega
+124,Centro,2025-07-01 10:03:00,Entrega,VAN-394,Recoger pedido
+125,Oeste,2025-07-01 10:04:00,Recoger pedido,VAN-674,Recoger pedido
+126,Oeste,2025-07-01 10:05:00,Recoger pedido,VAN-458,Cargar vehículo
+127,Centro,2025-07-01 10:06:00,Recoger pedido,VAN-180,Cargar vehículo
+128,Sur,2025-07-01 10:07:00,Ruta principal,VAN-262,Ruta principal
+129,Este,2025-07-01 10:08:00,Ruta principal,VAN-827,Recoger pedido
+130,Este,2025-07-01 10:09:00,Cargar vehículo,VAN-539,Confirmación
+131,Norte,2025-07-01 10:10:00,Recoger pedido,VAN-648,Recoger pedido
+132,Norte,2025-07-01 10:11:00,Cargar vehículo,VAN-824,Cargar vehículo
+133,Sur,2025-07-01 10:12:00,Recoger pedido,VAN-531,Confirmación
+134,Este,2025-07-01 10:13:00,Cargar vehículo,VAN-360,Confirmación
+135,Este,2025-07-01 10:14:00,Cargar vehículo,VAN-769,Cargar vehículo
+136,Sur,2025-07-01 10:15:00,Recoger pedido,VAN-580,Ruta principal
+137,Centro,2025-07-01 10:16:00,Cargar vehículo,VAN-711,Entrega
+138,Este,2025-07-01 10:17:00,Cargar vehículo,VAN-902,Entrega
+139,Este,2025-07-01 10:18:00,Ruta principal,VAN-384,Confirmación
+140,Norte,2025-07-01 10:19:00,Confirmación,VAN-453,Cargar vehículo
+141,Este,2025-07-01 10:20:00,Confirmación,VAN-595,Entrega
+142,Oeste,2025-07-01 10:21:00,Ruta principal,VAN-658,Cargar vehículo
+143,Este,2025-07-01 10:22:00,Confirmación,VAN-660,Cargar vehículo
+144,Sur,2025-07-01 10:23:00,Confirmación,VAN-665,Recoger pedido
+145,Centro,2025-07-01 10:24:00,Cargar vehículo,VAN-403,Recoger pedido
+146,Oeste,2025-07-01 10:25:00,Cargar vehículo,VAN-235,Cargar vehículo
+147,Centro,2025-07-01 10:26:00,Entrega,VAN-509,Recoger pedido
+148,Centro,2025-07-01 10:27:00,Confirmación,VAN-574,Confirmación
+149,Este,2025-07-01 10:28:00,Entrega,VAN-378,Entrega
+150,Este,2025-07-01 10:29:00,Entrega,VAN-272,Cargar vehículo
+151,Centro,2025-07-01 10:30:00,Recoger pedido,VAN-637,Confirmación
+152,Norte,2025-07-01 10:31:00,Entrega,VAN-565,Recoger pedido
+153,Centro,2025-07-01 10:32:00,Ruta principal,VAN-412,Entrega
+154,Centro,2025-07-01 10:33:00,Ruta principal,VAN-359,Confirmación
+155,Centro,2025-07-01 10:34:00,Recoger pedido,VAN-881,Recoger pedido
+156,Sur,2025-07-01 10:35:00,Entrega,VAN-316,Confirmación
+157,Norte,2025-07-01 10:36:00,Recoger pedido,VAN-685,Confirmación
+158,Oeste,2025-07-01 10:37:00,Recoger pedido,VAN-598,Recoger pedido
+159,Oeste,2025-07-01 10:38:00,Ruta principal,VAN-992,Ruta principal
+160,Centro,2025-07-01 10:39:00,Confirmación,VAN-277,Ruta principal
+161,Norte,2025-07-01 10:40:00,Entrega,VAN-502,Recoger pedido
+162,Sur,2025-07-01 10:41:00,Ruta principal,VAN-304,Entrega
+163,Sur,2025-07-01 10:42:00,Entrega,VAN-396,Ruta principal
+164,Oeste,2025-07-01 10:43:00,Cargar vehículo,VAN-596,Ruta principal
+165,Este,2025-07-01 10:44:00,Cargar vehículo,VAN-688,Ruta principal
+166,Centro,2025-07-01 10:45:00,Entrega,VAN-584,Cargar vehículo
+167,Este,2025-07-01 10:46:00,Recoger pedido,VAN-879,Confirmación
+168,Norte,2025-07-01 10:47:00,Ruta principal,VAN-654,Ruta principal
+169,Oeste,2025-07-01 10:48:00,Confirmación,VAN-311,Cargar vehículo
+170,Oeste,2025-07-01 10:49:00,Recoger pedido,VAN-816,Recoger pedido
+171,Sur,2025-07-01 10:50:00,Confirmación,VAN-760,Entrega
+172,Sur,2025-07-01 10:51:00,Ruta principal,VAN-165,Confirmación
+173,Oeste,2025-07-01 10:52:00,Confirmación,VAN-268,Cargar vehículo
+174,Oeste,2025-07-01 10:53:00,Entrega,VAN-927,Ruta principal
+175,Sur,2025-07-01 10:54:00,Cargar vehículo,VAN-265,Entrega
+176,Norte,2025-07-01 10:55:00,Cargar vehículo,VAN-796,Confirmación
+177,Sur,2025-07-01 10:56:00,Cargar vehículo,VAN-775,Entrega
+178,Sur,2025-07-01 10:57:00,Confirmación,VAN-882,Ruta principal
+179,Sur,2025-07-01 10:58:00,Recoger pedido,VAN-164,Entrega
+180,Norte,2025-07-01 10:59:00,Cargar vehículo,VAN-959,Cargar vehículo
+181,Este,2025-07-01 11:00:00,Entrega,VAN-270,Recoger pedido
+182,Oeste,2025-07-01 11:01:00,Cargar vehículo,VAN-494,Confirmación
+183,Oeste,2025-07-01 11:02:00,Confirmación,VAN-569,Cargar vehículo
+184,Oeste,2025-07-01 11:03:00,Recoger pedido,VAN-906,Cargar vehículo
+185,Centro,2025-07-01 11:04:00,Recoger pedido,VAN-601,Entrega
+186,Sur,2025-07-01 11:05:00,Cargar vehículo,VAN-687,Recoger pedido
+187,Este,2025-07-01 11:06:00,Recoger pedido,VAN-859,Recoger pedido
+188,Norte,2025-07-01 11:07:00,Confirmación,VAN-637,Recoger pedido
+189,Norte,2025-07-01 11:08:00,Recoger pedido,VAN-769,Ruta principal
+190,Sur,2025-07-01 11:09:00,Recoger pedido,VAN-745,Cargar vehículo
+191,Este,2025-07-01 11:10:00,Entrega,VAN-992,Confirmación
+192,Sur,2025-07-01 11:11:00,Entrega,VAN-360,Cargar vehículo
+193,Norte,2025-07-01 11:12:00,Confirmación,VAN-203,Entrega
+194,Este,2025-07-01 11:13:00,Entrega,VAN-944,Ruta principal
+195,Oeste,2025-07-01 11:14:00,Entrega,VAN-744,Recoger pedido
+196,Centro,2025-07-01 11:15:00,Entrega,VAN-999,Cargar vehículo
+197,Centro,2025-07-01 11:16:00,Cargar vehículo,VAN-751,Cargar vehículo
+198,Este,2025-07-01 11:17:00,Recoger pedido,VAN-969,Recoger pedido
+199,Oeste,2025-07-01 11:18:00,Ruta principal,VAN-316,Cargar vehículo
+200,Norte,2025-07-01 11:19:00,Confirmación,VAN-661,Confirmación
+201,Centro,2025-07-01 11:20:00,Ruta principal,VAN-886,Cargar vehículo
+202,Norte,2025-07-01 11:21:00,Ruta principal,VAN-494,Cargar vehículo
+203,Norte,2025-07-01 11:22:00,Confirmación,VAN-183,Entrega
+204,Este,2025-07-01 11:23:00,Ruta principal,VAN-463,Confirmación
+205,Este,2025-07-01 11:24:00,Entrega,VAN-921,Recoger pedido
+206,Norte,2025-07-01 11:25:00,Entrega,VAN-920,Confirmación
+207,Centro,2025-07-01 11:26:00,Cargar vehículo,VAN-514,Confirmación
+208,Oeste,2025-07-01 11:27:00,Ruta principal,VAN-362,Confirmación
+209,Norte,2025-07-01 11:28:00,Entrega,VAN-656,Confirmación
+210,Centro,2025-07-01 11:29:00,Ruta principal,VAN-859,Recoger pedido
+211,Oeste,2025-07-01 11:30:00,Cargar vehículo,VAN-833,Ruta principal
+212,Oeste,2025-07-01 11:31:00,Entrega,VAN-135,Cargar vehículo
+213,Centro,2025-07-01 11:32:00,Cargar vehículo,VAN-225,Cargar vehículo
+214,Oeste,2025-07-01 11:33:00,Ruta principal,VAN-119,Cargar vehículo
+215,Centro,2025-07-01 11:34:00,Ruta principal,VAN-377,Confirmación
+216,Centro,2025-07-01 11:35:00,Confirmación,VAN-861,Confirmación
+217,Oeste,2025-07-01 11:36:00,Recoger pedido,VAN-512,Confirmación
+218,Este,2025-07-01 11:37:00,Ruta principal,VAN-185,Recoger pedido
+219,Sur,2025-07-01 11:38:00,Recoger pedido,VAN-837,Cargar vehículo
+220,Este,2025-07-01 11:39:00,Recoger pedido,VAN-488,Ruta principal
+221,Este,2025-07-01 11:40:00,Ruta principal,VAN-841,Ruta principal
+222,Oeste,2025-07-01 11:41:00,Ruta principal,VAN-790,Confirmación
+223,Norte,2025-07-01 11:42:00,Confirmación,VAN-250,Ruta principal
+224,Este,2025-07-01 11:43:00,Ruta principal,VAN-457,Entrega
+225,Sur,2025-07-01 11:44:00,Cargar vehículo,VAN-371,Recoger pedido
+226,Sur,2025-07-01 11:45:00,Cargar vehículo,VAN-488,Confirmación
+227,Este,2025-07-01 11:46:00,Ruta principal,VAN-283,Recoger pedido
+228,Norte,2025-07-01 11:47:00,Ruta principal,VAN-540,Ruta principal
+229,Oeste,2025-07-01 11:48:00,Cargar vehículo,VAN-373,Ruta principal
+230,Oeste,2025-07-01 11:49:00,Confirmación,VAN-809,Confirmación
+231,Sur,2025-07-01 11:50:00,Cargar vehículo,VAN-238,Ruta principal
+232,Norte,2025-07-01 11:51:00,Cargar vehículo,VAN-678,Entrega
+233,Oeste,2025-07-01 11:52:00,Entrega,VAN-639,Cargar vehículo
+234,Norte,2025-07-01 11:53:00,Entrega,VAN-312,Recoger pedido
+235,Sur,2025-07-01 11:54:00,Confirmación,VAN-229,Ruta principal
+236,Centro,2025-07-01 11:55:00,Recoger pedido,VAN-785,Ruta principal
+237,Norte,2025-07-01 11:56:00,Cargar vehículo,VAN-600,Entrega
+238,Sur,2025-07-01 11:57:00,Ruta principal,VAN-725,Confirmación
+239,Centro,2025-07-01 11:58:00,Cargar vehículo,VAN-237,Entrega
+240,Este,2025-07-01 11:59:00,Entrega,VAN-966,Ruta principal
+241,Norte,2025-07-01 12:00:00,Recoger pedido,VAN-304,Ruta principal
+242,Oeste,2025-07-01 12:01:00,Recoger pedido,VAN-563,Confirmación
+243,Oeste,2025-07-01 12:02:00,Ruta principal,VAN-295,Ruta principal
+244,Centro,2025-07-01 12:03:00,Confirmación,VAN-283,Recoger pedido
+245,Centro,2025-07-01 12:04:00,Ruta principal,VAN-672,Entrega
+246,Este,2025-07-01 12:05:00,Ruta principal,VAN-270,Entrega
+247,Este,2025-07-01 12:06:00,Entrega,VAN-240,Cargar vehículo
+248,Oeste,2025-07-01 12:07:00,Confirmación,VAN-308,Entrega
+249,Sur,2025-07-01 12:08:00,Recoger pedido,VAN-645,Entrega
+250,Sur,2025-07-01 12:09:00,Confirmación,VAN-406,Ruta principal
+251,Este,2025-07-01 12:10:00,Confirmación,VAN-312,Recoger pedido
+252,Este,2025-07-01 12:11:00,Entrega,VAN-940,Recoger pedido
+253,Sur,2025-07-01 12:12:00,Recoger pedido,VAN-823,Ruta principal
+254,Norte,2025-07-01 12:13:00,Ruta principal,VAN-147,Confirmación
+255,Norte,2025-07-01 12:14:00,Cargar vehículo,VAN-557,Cargar vehículo
+256,Este,2025-07-01 12:15:00,Confirmación,VAN-245,Recoger pedido
+257,Sur,2025-07-01 12:16:00,Cargar vehículo,VAN-656,Ruta principal
+258,Sur,2025-07-01 12:17:00,Confirmación,VAN-524,Confirmación
+259,Oeste,2025-07-01 12:18:00,Entrega,VAN-342,Recoger pedido
+260,Sur,2025-07-01 12:19:00,Cargar vehículo,VAN-807,Recoger pedido
+261,Centro,2025-07-01 12:20:00,Ruta principal,VAN-918,Cargar vehículo
+262,Este,2025-07-01 12:21:00,Recoger pedido,VAN-832,Recoger pedido
+263,Sur,2025-07-01 12:22:00,Confirmación,VAN-845,Ruta principal
+264,Oeste,2025-07-01 12:23:00,Cargar vehículo,VAN-333,Entrega
+265,Norte,2025-07-01 12:24:00,Ruta principal,VAN-982,Entrega
+266,Oeste,2025-07-01 12:25:00,Cargar vehículo,VAN-193,Confirmación
+267,Este,2025-07-01 12:26:00,Cargar vehículo,VAN-410,Recoger pedido
+268,Centro,2025-07-01 12:27:00,Recoger pedido,VAN-949,Confirmación
+269,Oeste,2025-07-01 12:28:00,Cargar vehículo,VAN-490,Ruta principal
+270,Sur,2025-07-01 12:29:00,Ruta principal,VAN-592,Confirmación
+271,Oeste,2025-07-01 12:30:00,Confirmación,VAN-621,Entrega
+272,Oeste,2025-07-01 12:31:00,Entrega,VAN-780,Ruta principal
+273,Oeste,2025-07-01 12:32:00,Entrega,VAN-665,Recoger pedido
+274,Este,2025-07-01 12:33:00,Recoger pedido,VAN-908,Ruta principal
+275,Norte,2025-07-01 12:34:00,Cargar vehículo,VAN-502,Confirmación
+276,Sur,2025-07-01 12:35:00,Ruta principal,VAN-843,Confirmación
+277,Norte,2025-07-01 12:36:00,Confirmación,VAN-381,Ruta principal
+278,Norte,2025-07-01 12:37:00,Recoger pedido,VAN-935,Ruta principal
+279,Este,2025-07-01 12:38:00,Cargar vehículo,VAN-239,Cargar vehículo
+280,Oeste,2025-07-01 12:39:00,Entrega,VAN-449,Recoger pedido
+281,Norte,2025-07-01 12:40:00,Cargar vehículo,VAN-952,Cargar vehículo
+282,Centro,2025-07-01 12:41:00,Cargar vehículo,VAN-374,Entrega
+283,Sur,2025-07-01 12:42:00,Confirmación,VAN-203,Cargar vehículo
+284,Sur,2025-07-01 12:43:00,Entrega,VAN-122,Recoger pedido
+285,Norte,2025-07-01 12:44:00,Recoger pedido,VAN-239,Cargar vehículo
+286,Centro,2025-07-01 12:45:00,Recoger pedido,VAN-475,Ruta principal
+287,Sur,2025-07-01 12:46:00,Entrega,VAN-128,Confirmación
+288,Oeste,2025-07-01 12:47:00,Entrega,VAN-257,Recoger pedido
+289,Norte,2025-07-01 12:48:00,Entrega,VAN-885,Entrega
+290,Oeste,2025-07-01 12:49:00,Ruta principal,VAN-113,Entrega
+291,Sur,2025-07-01 12:50:00,Confirmación,VAN-433,Entrega
+292,Sur,2025-07-01 12:51:00,Recoger pedido,VAN-744,Confirmación
+293,Sur,2025-07-01 12:52:00,Cargar vehículo,VAN-721,Cargar vehículo
+294,Sur,2025-07-01 12:53:00,Entrega,VAN-238,Ruta principal
+295,Norte,2025-07-01 12:54:00,Entrega,VAN-510,Cargar vehículo
+296,Oeste,2025-07-01 12:55:00,Recoger pedido,VAN-919,Recoger pedido
+297,Este,2025-07-01 12:56:00,Entrega,VAN-715,Entrega
+298,Norte,2025-07-01 12:57:00,Entrega,VAN-896,Confirmación
+299,Oeste,2025-07-01 12:58:00,Cargar vehículo,VAN-505,Entrega
+300,Sur,2025-07-01 12:59:00,Ruta principal,VAN-779,Cargar vehículo
+301,Oeste,2025-07-01 13:00:00,Entrega,VAN-417,Cargar vehículo
+302,Norte,2025-07-01 13:01:00,Ruta principal,VAN-634,Cargar vehículo
+303,Oeste,2025-07-01 13:02:00,Entrega,VAN-119,Ruta principal
+304,Sur,2025-07-01 13:03:00,Entrega,VAN-560,Entrega
+305,Este,2025-07-01 13:04:00,Entrega,VAN-727,Cargar vehículo
+306,Este,2025-07-01 13:05:00,Cargar vehículo,VAN-199,Confirmación
+307,Oeste,2025-07-01 13:06:00,Cargar vehículo,VAN-675,Entrega
+308,Norte,2025-07-01 13:07:00,Cargar vehículo,VAN-377,Ruta principal
+309,Sur,2025-07-01 13:08:00,Entrega,VAN-649,Ruta principal
+310,Norte,2025-07-01 13:09:00,Entrega,VAN-172,Ruta principal
+311,Norte,2025-07-01 13:10:00,Cargar vehículo,VAN-801,Confirmación
+312,Norte,2025-07-01 13:11:00,Cargar vehículo,VAN-665,Ruta principal
+313,Este,2025-07-01 13:12:00,Confirmación,VAN-946,Ruta principal
+314,Oeste,2025-07-01 13:13:00,Cargar vehículo,VAN-273,Recoger pedido
+315,Centro,2025-07-01 13:14:00,Ruta principal,VAN-130,Confirmación
+316,Este,2025-07-01 13:15:00,Cargar vehículo,VAN-580,Cargar vehículo
+317,Oeste,2025-07-01 13:16:00,Cargar vehículo,VAN-560,Entrega
+318,Norte,2025-07-01 13:17:00,Confirmación,VAN-587,Ruta principal
+319,Norte,2025-07-01 13:18:00,Recoger pedido,VAN-681,Confirmación
+320,Sur,2025-07-01 13:19:00,Recoger pedido,VAN-674,Entrega
+321,Norte,2025-07-01 13:20:00,Entrega,VAN-732,Cargar vehículo
+322,Centro,2025-07-01 13:21:00,Recoger pedido,VAN-272,Cargar vehículo
+323,Oeste,2025-07-01 13:22:00,Cargar vehículo,VAN-622,Confirmación
+324,Sur,2025-07-01 13:23:00,Recoger pedido,VAN-909,Ruta principal
+325,Este,2025-07-01 13:24:00,Entrega,VAN-724,Cargar vehículo
+326,Norte,2025-07-01 13:25:00,Recoger pedido,VAN-417,Confirmación
+327,Norte,2025-07-01 13:26:00,Recoger pedido,VAN-319,Confirmación
+328,Norte,2025-07-01 13:27:00,Ruta principal,VAN-977,Cargar vehículo
+329,Centro,2025-07-01 13:28:00,Ruta principal,VAN-617,Entrega
+330,Este,2025-07-01 13:29:00,Confirmación,VAN-517,Entrega
+331,Oeste,2025-07-01 13:30:00,Entrega,VAN-143,Entrega
+332,Centro,2025-07-01 13:31:00,Ruta principal,VAN-678,Ruta principal
+333,Este,2025-07-01 13:32:00,Confirmación,VAN-964,Recoger pedido
+334,Centro,2025-07-01 13:33:00,Entrega,VAN-340,Entrega
+335,Centro,2025-07-01 13:34:00,Confirmación,VAN-453,Entrega
+336,Oeste,2025-07-01 13:35:00,Recoger pedido,VAN-807,Ruta principal
+337,Sur,2025-07-01 13:36:00,Confirmación,VAN-982,Entrega
+338,Este,2025-07-01 13:37:00,Recoger pedido,VAN-752,Confirmación
+339,Oeste,2025-07-01 13:38:00,Confirmación,VAN-964,Ruta principal
+340,Norte,2025-07-01 13:39:00,Recoger pedido,VAN-320,Entrega
+341,Este,2025-07-01 13:40:00,Recoger pedido,VAN-208,Confirmación
+342,Centro,2025-07-01 13:41:00,Recoger pedido,VAN-846,Recoger pedido
+343,Oeste,2025-07-01 13:42:00,Entrega,VAN-846,Confirmación
+344,Este,2025-07-01 13:43:00,Cargar vehículo,VAN-359,Cargar vehículo
+345,Centro,2025-07-01 13:44:00,Confirmación,VAN-557,Cargar vehículo
+346,Oeste,2025-07-01 13:45:00,Cargar vehículo,VAN-462,Ruta principal
+347,Centro,2025-07-01 13:46:00,Entrega,VAN-392,Entrega
+348,Sur,2025-07-01 13:47:00,Confirmación,VAN-150,Recoger pedido
+349,Sur,2025-07-01 13:48:00,Confirmación,VAN-515,Ruta principal
+350,Este,2025-07-01 13:49:00,Cargar vehículo,VAN-703,Ruta principal
+351,Sur,2025-07-01 13:50:00,Cargar vehículo,VAN-686,Cargar vehículo
+352,Norte,2025-07-01 13:51:00,Ruta principal,VAN-524,Confirmación
+353,Norte,2025-07-01 13:52:00,Entrega,VAN-351,Cargar vehículo
+354,Norte,2025-07-01 13:53:00,Ruta principal,VAN-745,Ruta principal
+355,Norte,2025-07-01 13:54:00,Entrega,VAN-281,Entrega
+356,Oeste,2025-07-01 13:55:00,Confirmación,VAN-582,Ruta principal
+357,Sur,2025-07-01 13:56:00,Cargar vehículo,VAN-905,Entrega
+358,Oeste,2025-07-01 13:57:00,Recoger pedido,VAN-338,Recoger pedido
+359,Centro,2025-07-01 13:58:00,Ruta principal,VAN-380,Entrega
+360,Sur,2025-07-01 13:59:00,Ruta principal,VAN-472,Confirmación
+361,Oeste,2025-07-01 14:00:00,Entrega,VAN-520,Ruta principal
+362,Oeste,2025-07-01 14:01:00,Ruta principal,VAN-219,Ruta principal
+363,Este,2025-07-01 14:02:00,Ruta principal,VAN-674,Recoger pedido
+364,Centro,2025-07-01 14:03:00,Recoger pedido,VAN-110,Recoger pedido
+365,Este,2025-07-01 14:04:00,Recoger pedido,VAN-651,Confirmación
+366,Sur,2025-07-01 14:05:00,Ruta principal,VAN-587,Recoger pedido
+367,Oeste,2025-07-01 14:06:00,Ruta principal,VAN-142,Entrega
+368,Centro,2025-07-01 14:07:00,Confirmación,VAN-748,Confirmación
+369,Centro,2025-07-01 14:08:00,Entrega,VAN-441,Recoger pedido
+370,Norte,2025-07-01 14:09:00,Recoger pedido,VAN-306,Ruta principal
+371,Este,2025-07-01 14:10:00,Cargar vehículo,VAN-441,Recoger pedido
+372,Oeste,2025-07-01 14:11:00,Entrega,VAN-359,Recoger pedido
+373,Sur,2025-07-01 14:12:00,Confirmación,VAN-107,Recoger pedido
+374,Centro,2025-07-01 14:13:00,Ruta principal,VAN-498,Cargar vehículo
+375,Sur,2025-07-01 14:14:00,Recoger pedido,VAN-214,Entrega
+376,Norte,2025-07-01 14:15:00,Recoger pedido,VAN-827,Ruta principal
+377,Oeste,2025-07-01 14:16:00,Ruta principal,VAN-306,Confirmación
+378,Sur,2025-07-01 14:17:00,Ruta principal,VAN-558,Ruta principal
+379,Sur,2025-07-01 14:18:00,Entrega,VAN-629,Ruta principal
+380,Sur,2025-07-01 14:19:00,Cargar vehículo,VAN-875,Entrega
+381,Sur,2025-07-01 14:20:00,Recoger pedido,VAN-487,Cargar vehículo
+382,Norte,2025-07-01 14:21:00,Confirmación,VAN-511,Ruta principal
+383,Oeste,2025-07-01 14:22:00,Entrega,VAN-895,Cargar vehículo
+384,Norte,2025-07-01 14:23:00,Confirmación,VAN-815,Entrega
+385,Sur,2025-07-01 14:24:00,Ruta principal,VAN-409,Ruta principal
+386,Oeste,2025-07-01 14:25:00,Ruta principal,VAN-359,Ruta principal
+387,Oeste,2025-07-01 14:26:00,Ruta principal,VAN-778,Confirmación
+388,Oeste,2025-07-01 14:27:00,Entrega,VAN-594,Cargar vehículo
+389,Centro,2025-07-01 14:28:00,Cargar vehículo,VAN-631,Ruta principal
+390,Centro,2025-07-01 14:29:00,Ruta principal,VAN-267,Recoger pedido
+391,Sur,2025-07-01 14:30:00,Ruta principal,VAN-431,Recoger pedido
+392,Norte,2025-07-01 14:31:00,Ruta principal,VAN-138,Cargar vehículo
+393,Este,2025-07-01 14:32:00,Recoger pedido,VAN-545,Entrega
+394,Este,2025-07-01 14:33:00,Confirmación,VAN-337,Recoger pedido
+395,Centro,2025-07-01 14:34:00,Confirmación,VAN-499,Recoger pedido
+396,Este,2025-07-01 14:35:00,Ruta principal,VAN-722,Confirmación
+397,Oeste,2025-07-01 14:36:00,Ruta principal,VAN-426,Cargar vehículo
+398,Oeste,2025-07-01 14:37:00,Ruta principal,VAN-750,Recoger pedido
+399,Norte,2025-07-01 14:38:00,Cargar vehículo,VAN-599,Entrega
+400,Oeste,2025-07-01 14:39:00,Entrega,VAN-394,Entrega
+401,Oeste,2025-07-01 14:40:00,Recoger pedido,VAN-757,Confirmación
+402,Oeste,2025-07-01 14:41:00,Ruta principal,VAN-724,Confirmación
+403,Centro,2025-07-01 14:42:00,Confirmación,VAN-517,Recoger pedido
+404,Sur,2025-07-01 14:43:00,Recoger pedido,VAN-409,Ruta principal
+405,Centro,2025-07-01 14:44:00,Entrega,VAN-747,Entrega
+406,Centro,2025-07-01 14:45:00,Entrega,VAN-448,Cargar vehículo
+407,Norte,2025-07-01 14:46:00,Cargar vehículo,VAN-319,Entrega
+408,Norte,2025-07-01 14:47:00,Recoger pedido,VAN-994,Entrega
+409,Oeste,2025-07-01 14:48:00,Cargar vehículo,VAN-251,Confirmación
+410,Oeste,2025-07-01 14:49:00,Entrega,VAN-796,Cargar vehículo
+411,Oeste,2025-07-01 14:50:00,Confirmación,VAN-833,Recoger pedido
+412,Sur,2025-07-01 14:51:00,Ruta principal,VAN-850,Cargar vehículo
+413,Norte,2025-07-01 14:52:00,Entrega,VAN-220,Cargar vehículo
+414,Norte,2025-07-01 14:53:00,Cargar vehículo,VAN-630,Confirmación
+415,Sur,2025-07-01 14:54:00,Ruta principal,VAN-111,Entrega
+416,Oeste,2025-07-01 14:55:00,Ruta principal,VAN-800,Confirmación
+417,Norte,2025-07-01 14:56:00,Confirmación,VAN-982,Entrega
+418,Sur,2025-07-01 14:57:00,Ruta principal,VAN-538,Cargar vehículo
+419,Centro,2025-07-01 14:58:00,Confirmación,VAN-224,Ruta principal
+420,Este,2025-07-01 14:59:00,Cargar vehículo,VAN-633,Ruta principal
+421,Sur,2025-07-01 15:00:00,Recoger pedido,VAN-310,Recoger pedido
+422,Este,2025-07-01 15:01:00,Ruta principal,VAN-985,Entrega
+423,Oeste,2025-07-01 15:02:00,Cargar vehículo,VAN-846,Confirmación
+424,Oeste,2025-07-01 15:03:00,Cargar vehículo,VAN-575,Cargar vehículo
+425,Oeste,2025-07-01 15:04:00,Recoger pedido,VAN-394,Ruta principal
+426,Este,2025-07-01 15:05:00,Recoger pedido,VAN-997,Recoger pedido
+427,Norte,2025-07-01 15:06:00,Entrega,VAN-928,Confirmación
+428,Norte,2025-07-01 15:07:00,Entrega,VAN-344,Ruta principal
+429,Norte,2025-07-01 15:08:00,Confirmación,VAN-910,Ruta principal
+430,Norte,2025-07-01 15:09:00,Cargar vehículo,VAN-670,Recoger pedido
+431,Oeste,2025-07-01 15:10:00,Confirmación,VAN-849,Entrega
+432,Centro,2025-07-01 15:11:00,Confirmación,VAN-174,Recoger pedido
+433,Este,2025-07-01 15:12:00,Cargar vehículo,VAN-712,Recoger pedido
+434,Norte,2025-07-01 15:13:00,Ruta principal,VAN-707,Confirmación
+435,Norte,2025-07-01 15:14:00,Ruta principal,VAN-412,Cargar vehículo
+436,Norte,2025-07-01 15:15:00,Recoger pedido,VAN-326,Ruta principal
+437,Oeste,2025-07-01 15:16:00,Confirmación,VAN-582,Confirmación
+438,Oeste,2025-07-01 15:17:00,Entrega,VAN-286,Cargar vehículo
+439,Oeste,2025-07-01 15:18:00,Ruta principal,VAN-840,Cargar vehículo
+440,Sur,2025-07-01 15:19:00,Confirmación,VAN-842,Ruta principal
+441,Este,2025-07-01 15:20:00,Ruta principal,VAN-842,Confirmación
+442,Oeste,2025-07-01 15:21:00,Cargar vehículo,VAN-463,Ruta principal
+443,Sur,2025-07-01 15:22:00,Cargar vehículo,VAN-858,Entrega
+444,Norte,2025-07-01 15:23:00,Recoger pedido,VAN-237,Recoger pedido
+445,Centro,2025-07-01 15:24:00,Entrega,VAN-981,Recoger pedido
+446,Oeste,2025-07-01 15:25:00,Confirmación,VAN-952,Cargar vehículo
+447,Este,2025-07-01 15:26:00,Ruta principal,VAN-257,Recoger pedido
+448,Este,2025-07-01 15:27:00,Confirmación,VAN-744,Confirmación
+449,Centro,2025-07-01 15:28:00,Entrega,VAN-781,Recoger pedido
+450,Sur,2025-07-01 15:29:00,Ruta principal,VAN-296,Confirmación
+451,Sur,2025-07-01 15:30:00,Entrega,VAN-653,Cargar vehículo
+452,Centro,2025-07-01 15:31:00,Cargar vehículo,VAN-529,Cargar vehículo
+453,Centro,2025-07-01 15:32:00,Confirmación,VAN-393,Ruta principal
+454,Oeste,2025-07-01 15:33:00,Confirmación,VAN-964,Cargar vehículo
+455,Oeste,2025-07-01 15:34:00,Entrega,VAN-551,Ruta principal
+456,Oeste,2025-07-01 15:35:00,Entrega,VAN-118,Entrega
+457,Sur,2025-07-01 15:36:00,Recoger pedido,VAN-548,Entrega
+458,Este,2025-07-01 15:37:00,Ruta principal,VAN-744,Ruta principal
+459,Este,2025-07-01 15:38:00,Cargar vehículo,VAN-431,Ruta principal
+460,Centro,2025-07-01 15:39:00,Recoger pedido,VAN-181,Ruta principal
+461,Sur,2025-07-01 15:40:00,Confirmación,VAN-945,Entrega
+462,Este,2025-07-01 15:41:00,Confirmación,VAN-172,Recoger pedido
+463,Norte,2025-07-01 15:42:00,Ruta principal,VAN-561,Confirmación
+464,Este,2025-07-01 15:43:00,Recoger pedido,VAN-592,Cargar vehículo
+465,Oeste,2025-07-01 15:44:00,Entrega,VAN-308,Recoger pedido
+466,Norte,2025-07-01 15:45:00,Cargar vehículo,VAN-187,Cargar vehículo
+467,Oeste,2025-07-01 15:46:00,Recoger pedido,VAN-748,Ruta principal
+468,Centro,2025-07-01 15:47:00,Ruta principal,VAN-359,Ruta principal
+469,Centro,2025-07-01 15:48:00,Confirmación,VAN-936,Recoger pedido
+470,Norte,2025-07-01 15:49:00,Recoger pedido,VAN-980,Cargar vehículo
+471,Norte,2025-07-01 15:50:00,Entrega,VAN-559,Ruta principal
+472,Centro,2025-07-01 15:51:00,Confirmación,VAN-451,Ruta principal
+473,Este,2025-07-01 15:52:00,Cargar vehículo,VAN-260,Cargar vehículo
+474,Oeste,2025-07-01 15:53:00,Entrega,VAN-302,Ruta principal
+475,Oeste,2025-07-01 15:54:00,Confirmación,VAN-178,Recoger pedido
+476,Norte,2025-07-01 15:55:00,Entrega,VAN-907,Recoger pedido
+477,Oeste,2025-07-01 15:56:00,Recoger pedido,VAN-965,Ruta principal
+478,Este,2025-07-01 15:57:00,Ruta principal,VAN-460,Confirmación
+479,Norte,2025-07-01 15:58:00,Cargar vehículo,VAN-117,Cargar vehículo
+480,Norte,2025-07-01 15:59:00,Recoger pedido,VAN-851,Cargar vehículo
+481,Oeste,2025-07-01 16:00:00,Entrega,VAN-786,Confirmación
+482,Oeste,2025-07-01 16:01:00,Entrega,VAN-136,Ruta principal
+483,Centro,2025-07-01 16:02:00,Confirmación,VAN-850,Ruta principal
+484,Norte,2025-07-01 16:03:00,Recoger pedido,VAN-497,Entrega
+485,Este,2025-07-01 16:04:00,Entrega,VAN-550,Recoger pedido
+486,Centro,2025-07-01 16:05:00,Cargar vehículo,VAN-362,Cargar vehículo
+487,Centro,2025-07-01 16:06:00,Ruta principal,VAN-636,Confirmación
+488,Norte,2025-07-01 16:07:00,Cargar vehículo,VAN-482,Ruta principal
+489,Centro,2025-07-01 16:08:00,Ruta principal,VAN-680,Entrega
+490,Oeste,2025-07-01 16:09:00,Cargar vehículo,VAN-223,Recoger pedido
+491,Oeste,2025-07-01 16:10:00,Ruta principal,VAN-689,Confirmación
+492,Oeste,2025-07-01 16:11:00,Recoger pedido,VAN-323,Confirmación
+493,Sur,2025-07-01 16:12:00,Ruta principal,VAN-108,Ruta principal
+494,Este,2025-07-01 16:13:00,Cargar vehículo,VAN-952,Confirmación
+495,Norte,2025-07-01 16:14:00,Recoger pedido,VAN-801,Entrega
+496,Norte,2025-07-01 16:15:00,Entrega,VAN-324,Confirmación
+497,Oeste,2025-07-01 16:16:00,Entrega,VAN-539,Confirmación
+498,Este,2025-07-01 16:17:00,Ruta principal,VAN-800,Entrega
+499,Oeste,2025-07-01 16:18:00,Ruta principal,VAN-590,Confirmación
+500,Sur,2025-07-01 16:19:00,Ruta principal,VAN-517,Cargar vehículo
+501,Norte,2025-07-01 16:20:00,Cargar vehículo,VAN-400,Ruta principal
+502,Sur,2025-07-01 16:21:00,Confirmación,VAN-667,Confirmación
+503,Sur,2025-07-01 16:22:00,Recoger pedido,VAN-223,Entrega
+504,Este,2025-07-01 16:23:00,Entrega,VAN-193,Entrega
+505,Centro,2025-07-01 16:24:00,Entrega,VAN-326,Recoger pedido
+506,Este,2025-07-01 16:25:00,Confirmación,VAN-167,Cargar vehículo
+507,Este,2025-07-01 16:26:00,Entrega,VAN-889,Cargar vehículo
+508,Sur,2025-07-01 16:27:00,Confirmación,VAN-496,Entrega
+509,Oeste,2025-07-01 16:28:00,Entrega,VAN-587,Confirmación
+510,Oeste,2025-07-01 16:29:00,Confirmación,VAN-599,Confirmación
+511,Oeste,2025-07-01 16:30:00,Recoger pedido,VAN-312,Recoger pedido
+512,Centro,2025-07-01 16:31:00,Entrega,VAN-735,Entrega
+513,Centro,2025-07-01 16:32:00,Recoger pedido,VAN-804,Entrega
+514,Centro,2025-07-01 16:33:00,Entrega,VAN-593,Ruta principal
+515,Sur,2025-07-01 16:34:00,Recoger pedido,VAN-582,Entrega
+516,Este,2025-07-01 16:35:00,Cargar vehículo,VAN-342,Confirmación
+517,Oeste,2025-07-01 16:36:00,Cargar vehículo,VAN-345,Ruta principal
+518,Este,2025-07-01 16:37:00,Cargar vehículo,VAN-404,Cargar vehículo
+519,Centro,2025-07-01 16:38:00,Ruta principal,VAN-991,Entrega
+520,Este,2025-07-01 16:39:00,Entrega,VAN-695,Confirmación
+521,Oeste,2025-07-01 16:40:00,Recoger pedido,VAN-539,Entrega
+522,Sur,2025-07-01 16:41:00,Ruta principal,VAN-869,Confirmación
+523,Oeste,2025-07-01 16:42:00,Confirmación,VAN-513,Confirmación
+524,Sur,2025-07-01 16:43:00,Entrega,VAN-763,Cargar vehículo
+525,Sur,2025-07-01 16:44:00,Cargar vehículo,VAN-859,Confirmación
+526,Norte,2025-07-01 16:45:00,Entrega,VAN-765,Confirmación
+527,Oeste,2025-07-01 16:46:00,Cargar vehículo,VAN-981,Entrega
+528,Centro,2025-07-01 16:47:00,Ruta principal,VAN-226,Entrega
+529,Norte,2025-07-01 16:48:00,Entrega,VAN-678,Confirmación
+530,Sur,2025-07-01 16:49:00,Confirmación,VAN-419,Confirmación
+531,Centro,2025-07-01 16:50:00,Confirmación,VAN-351,Entrega
+532,Oeste,2025-07-01 16:51:00,Confirmación,VAN-111,Confirmación
+533,Oeste,2025-07-01 16:52:00,Entrega,VAN-777,Recoger pedido
+534,Centro,2025-07-01 16:53:00,Ruta principal,VAN-831,Entrega
+535,Oeste,2025-07-01 16:54:00,Cargar vehículo,VAN-806,Ruta principal
+536,Sur,2025-07-01 16:55:00,Ruta principal,VAN-466,Confirmación
+537,Sur,2025-07-01 16:56:00,Recoger pedido,VAN-644,Cargar vehículo
+538,Norte,2025-07-01 16:57:00,Ruta principal,VAN-663,Cargar vehículo
+539,Norte,2025-07-01 16:58:00,Ruta principal,VAN-189,Ruta principal
+540,Norte,2025-07-01 16:59:00,Entrega,VAN-260,Recoger pedido
+541,Este,2025-07-01 17:00:00,Ruta principal,VAN-586,Cargar vehículo
+542,Norte,2025-07-01 17:01:00,Cargar vehículo,VAN-901,Ruta principal
+543,Oeste,2025-07-01 17:02:00,Confirmación,VAN-186,Recoger pedido
+544,Centro,2025-07-01 17:03:00,Confirmación,VAN-522,Ruta principal
+545,Oeste,2025-07-01 17:04:00,Confirmación,VAN-371,Ruta principal
+546,Este,2025-07-01 17:05:00,Confirmación,VAN-307,Entrega
+547,Centro,2025-07-01 17:06:00,Entrega,VAN-736,Confirmación
+548,Norte,2025-07-01 17:07:00,Cargar vehículo,VAN-442,Ruta principal
+549,Este,2025-07-01 17:08:00,Cargar vehículo,VAN-429,Cargar vehículo
+550,Este,2025-07-01 17:09:00,Recoger pedido,VAN-331,Recoger pedido
+551,Norte,2025-07-01 17:10:00,Cargar vehículo,VAN-401,Entrega
+552,Centro,2025-07-01 17:11:00,Recoger pedido,VAN-778,Ruta principal
+553,Sur,2025-07-01 17:12:00,Recoger pedido,VAN-898,Cargar vehículo
+554,Este,2025-07-01 17:13:00,Confirmación,VAN-594,Recoger pedido
+555,Norte,2025-07-01 17:14:00,Confirmación,VAN-869,Cargar vehículo
+556,Oeste,2025-07-01 17:15:00,Ruta principal,VAN-485,Ruta principal
+557,Centro,2025-07-01 17:16:00,Recoger pedido,VAN-419,Confirmación
+558,Norte,2025-07-01 17:17:00,Recoger pedido,VAN-860,Cargar vehículo
+559,Centro,2025-07-01 17:18:00,Confirmación,VAN-293,Cargar vehículo
+560,Centro,2025-07-01 17:19:00,Cargar vehículo,VAN-248,Cargar vehículo
+561,Oeste,2025-07-01 17:20:00,Ruta principal,VAN-212,Entrega
+562,Este,2025-07-01 17:21:00,Ruta principal,VAN-919,Cargar vehículo
+563,Este,2025-07-01 17:22:00,Ruta principal,VAN-377,Ruta principal
+564,Este,2025-07-01 17:23:00,Ruta principal,VAN-976,Cargar vehículo
+565,Oeste,2025-07-01 17:24:00,Cargar vehículo,VAN-511,Ruta principal
+566,Norte,2025-07-01 17:25:00,Entrega,VAN-133,Cargar vehículo
+567,Sur,2025-07-01 17:26:00,Recoger pedido,VAN-175,Recoger pedido
+568,Centro,2025-07-01 17:27:00,Recoger pedido,VAN-861,Cargar vehículo
+569,Oeste,2025-07-01 17:28:00,Recoger pedido,VAN-750,Entrega
+570,Norte,2025-07-01 17:29:00,Ruta principal,VAN-318,Ruta principal
+571,Norte,2025-07-01 17:30:00,Confirmación,VAN-320,Cargar vehículo
+572,Norte,2025-07-01 17:31:00,Recoger pedido,VAN-470,Entrega
+573,Sur,2025-07-01 17:32:00,Cargar vehículo,VAN-308,Cargar vehículo
+574,Centro,2025-07-01 17:33:00,Entrega,VAN-819,Entrega
+575,Norte,2025-07-01 17:34:00,Recoger pedido,VAN-129,Confirmación
+576,Centro,2025-07-01 17:35:00,Cargar vehículo,VAN-933,Entrega
+577,Centro,2025-07-01 17:36:00,Ruta principal,VAN-243,Recoger pedido
+578,Centro,2025-07-01 17:37:00,Entrega,VAN-189,Cargar vehículo
+579,Centro,2025-07-01 17:38:00,Ruta principal,VAN-859,Entrega
+580,Centro,2025-07-01 17:39:00,Recoger pedido,VAN-370,Confirmación
+581,Norte,2025-07-01 17:40:00,Confirmación,VAN-202,Entrega
+582,Centro,2025-07-01 17:41:00,Cargar vehículo,VAN-787,Confirmación
+583,Centro,2025-07-01 17:42:00,Cargar vehículo,VAN-445,Entrega
+584,Centro,2025-07-01 17:43:00,Confirmación,VAN-614,Confirmación
+585,Oeste,2025-07-01 17:44:00,Entrega,VAN-177,Ruta principal
+586,Oeste,2025-07-01 17:45:00,Confirmación,VAN-304,Ruta principal
+587,Sur,2025-07-01 17:46:00,Cargar vehículo,VAN-574,Ruta principal
+588,Centro,2025-07-01 17:47:00,Confirmación,VAN-937,Cargar vehículo
+589,Centro,2025-07-01 17:48:00,Ruta principal,VAN-173,Recoger pedido
+590,Norte,2025-07-01 17:49:00,Entrega,VAN-847,Entrega
+591,Este,2025-07-01 17:50:00,Confirmación,VAN-651,Recoger pedido
+592,Oeste,2025-07-01 17:51:00,Recoger pedido,VAN-794,Entrega
+593,Centro,2025-07-01 17:52:00,Recoger pedido,VAN-842,Ruta principal
+594,Centro,2025-07-01 17:53:00,Confirmación,VAN-874,Entrega
+595,Oeste,2025-07-01 17:54:00,Entrega,VAN-305,Ruta principal
+596,Norte,2025-07-01 17:55:00,Recoger pedido,VAN-197,Ruta principal
+597,Oeste,2025-07-01 17:56:00,Confirmación,VAN-905,Entrega
+598,Sur,2025-07-01 17:57:00,Recoger pedido,VAN-568,Cargar vehículo
+599,Centro,2025-07-01 17:58:00,Confirmación,VAN-588,Recoger pedido
+600,Centro,2025-07-01 17:59:00,Ruta principal,VAN-293,Ruta principal
+601,Este,2025-07-01 18:00:00,Entrega,VAN-120,Confirmación
+602,Oeste,2025-07-01 18:01:00,Cargar vehículo,VAN-487,Cargar vehículo
+603,Norte,2025-07-01 18:02:00,Ruta principal,VAN-936,Confirmación
+604,Sur,2025-07-01 18:03:00,Entrega,VAN-327,Recoger pedido
+605,Sur,2025-07-01 18:04:00,Cargar vehículo,VAN-396,Confirmación
+606,Oeste,2025-07-01 18:05:00,Ruta principal,VAN-336,Confirmación
+607,Centro,2025-07-01 18:06:00,Cargar vehículo,VAN-889,Entrega
+608,Sur,2025-07-01 18:07:00,Confirmación,VAN-883,Confirmación
+609,Oeste,2025-07-01 18:08:00,Confirmación,VAN-428,Entrega
+610,Norte,2025-07-01 18:09:00,Cargar vehículo,VAN-334,Cargar vehículo
+611,Este,2025-07-01 18:10:00,Cargar vehículo,VAN-411,Cargar vehículo
+612,Oeste,2025-07-01 18:11:00,Entrega,VAN-279,Cargar vehículo
+613,Norte,2025-07-01 18:12:00,Recoger pedido,VAN-486,Entrega
+614,Oeste,2025-07-01 18:13:00,Recoger pedido,VAN-901,Entrega
+615,Norte,2025-07-01 18:14:00,Ruta principal,VAN-986,Ruta principal
+616,Centro,2025-07-01 18:15:00,Recoger pedido,VAN-266,Entrega
+617,Sur,2025-07-01 18:16:00,Confirmación,VAN-114,Recoger pedido
+618,Norte,2025-07-01 18:17:00,Entrega,VAN-350,Recoger pedido
+619,Oeste,2025-07-01 18:18:00,Cargar vehículo,VAN-519,Confirmación
+620,Norte,2025-07-01 18:19:00,Confirmación,VAN-350,Confirmación
+621,Centro,2025-07-01 18:20:00,Entrega,VAN-358,Confirmación
+622,Sur,2025-07-01 18:21:00,Confirmación,VAN-476,Entrega
+623,Este,2025-07-01 18:22:00,Entrega,VAN-745,Ruta principal
+624,Sur,2025-07-01 18:23:00,Confirmación,VAN-642,Confirmación
+625,Centro,2025-07-01 18:24:00,Cargar vehículo,VAN-196,Ruta principal
+626,Sur,2025-07-01 18:25:00,Confirmación,VAN-806,Entrega
+627,Este,2025-07-01 18:26:00,Ruta principal,VAN-338,Recoger pedido
+628,Sur,2025-07-01 18:27:00,Ruta principal,VAN-554,Confirmación
+629,Este,2025-07-01 18:28:00,Entrega,VAN-497,Entrega
+630,Este,2025-07-01 18:29:00,Entrega,VAN-634,Confirmación
+631,Sur,2025-07-01 18:30:00,Ruta principal,VAN-299,Ruta principal
+632,Oeste,2025-07-01 18:31:00,Cargar vehículo,VAN-104,Cargar vehículo
+633,Norte,2025-07-01 18:32:00,Recoger pedido,VAN-861,Confirmación
+634,Centro,2025-07-01 18:33:00,Confirmación,VAN-380,Recoger pedido
+635,Este,2025-07-01 18:34:00,Confirmación,VAN-617,Ruta principal
+636,Centro,2025-07-01 18:35:00,Recoger pedido,VAN-651,Ruta principal
+637,Centro,2025-07-01 18:36:00,Confirmación,VAN-664,Ruta principal
+638,Norte,2025-07-01 18:37:00,Cargar vehículo,VAN-519,Ruta principal
+639,Norte,2025-07-01 18:38:00,Confirmación,VAN-183,Recoger pedido
+640,Norte,2025-07-01 18:39:00,Cargar vehículo,VAN-803,Cargar vehículo
+641,Sur,2025-07-01 18:40:00,Confirmación,VAN-495,Confirmación
+642,Sur,2025-07-01 18:41:00,Confirmación,VAN-113,Ruta principal
+643,Centro,2025-07-01 18:42:00,Recoger pedido,VAN-113,Entrega
+644,Oeste,2025-07-01 18:43:00,Ruta principal,VAN-114,Entrega
+645,Oeste,2025-07-01 18:44:00,Recoger pedido,VAN-791,Entrega
+646,Centro,2025-07-01 18:45:00,Ruta principal,VAN-268,Recoger pedido
+647,Oeste,2025-07-01 18:46:00,Entrega,VAN-207,Confirmación
+648,Este,2025-07-01 18:47:00,Entrega,VAN-932,Recoger pedido
+649,Centro,2025-07-01 18:48:00,Entrega,VAN-387,Recoger pedido
+650,Sur,2025-07-01 18:49:00,Entrega,VAN-347,Cargar vehículo
+651,Centro,2025-07-01 18:50:00,Cargar vehículo,VAN-181,Confirmación
+652,Sur,2025-07-01 18:51:00,Ruta principal,VAN-164,Ruta principal
+653,Este,2025-07-01 18:52:00,Ruta principal,VAN-270,Confirmación
+654,Este,2025-07-01 18:53:00,Confirmación,VAN-128,Entrega
+655,Norte,2025-07-01 18:54:00,Confirmación,VAN-859,Cargar vehículo
+656,Norte,2025-07-01 18:55:00,Confirmación,VAN-893,Entrega
+657,Sur,2025-07-01 18:56:00,Ruta principal,VAN-777,Entrega
+658,Este,2025-07-01 18:57:00,Ruta principal,VAN-536,Ruta principal
+659,Norte,2025-07-01 18:58:00,Ruta principal,VAN-488,Recoger pedido
+660,Oeste,2025-07-01 18:59:00,Cargar vehículo,VAN-484,Entrega
+661,Oeste,2025-07-01 19:00:00,Cargar vehículo,VAN-309,Ruta principal
+662,Oeste,2025-07-01 19:01:00,Confirmación,VAN-322,Ruta principal
+663,Centro,2025-07-01 19:02:00,Recoger pedido,VAN-546,Confirmación
+664,Centro,2025-07-01 19:03:00,Confirmación,VAN-289,Entrega
+665,Oeste,2025-07-01 19:04:00,Ruta principal,VAN-311,Ruta principal
+666,Sur,2025-07-01 19:05:00,Recoger pedido,VAN-742,Cargar vehículo
+667,Norte,2025-07-01 19:06:00,Cargar vehículo,VAN-751,Recoger pedido
+668,Oeste,2025-07-01 19:07:00,Ruta principal,VAN-705,Entrega
+669,Este,2025-07-01 19:08:00,Ruta principal,VAN-416,Cargar vehículo
+670,Oeste,2025-07-01 19:09:00,Entrega,VAN-578,Recoger pedido
+671,Este,2025-07-01 19:10:00,Ruta principal,VAN-304,Cargar vehículo
+672,Norte,2025-07-01 19:11:00,Cargar vehículo,VAN-869,Cargar vehículo
+673,Este,2025-07-01 19:12:00,Confirmación,VAN-669,Ruta principal
+674,Este,2025-07-01 19:13:00,Ruta principal,VAN-761,Recoger pedido
+675,Oeste,2025-07-01 19:14:00,Cargar vehículo,VAN-760,Entrega
+676,Sur,2025-07-01 19:15:00,Confirmación,VAN-855,Entrega
+677,Sur,2025-07-01 19:16:00,Ruta principal,VAN-337,Confirmación
+678,Este,2025-07-01 19:17:00,Ruta principal,VAN-282,Entrega
+679,Norte,2025-07-01 19:18:00,Entrega,VAN-308,Ruta principal
+680,Este,2025-07-01 19:19:00,Entrega,VAN-185,Ruta principal
+681,Este,2025-07-01 19:20:00,Recoger pedido,VAN-322,Confirmación
+682,Oeste,2025-07-01 19:21:00,Cargar vehículo,VAN-939,Ruta principal
+683,Norte,2025-07-01 19:22:00,Cargar vehículo,VAN-247,Recoger pedido
+684,Centro,2025-07-01 19:23:00,Confirmación,VAN-123,Cargar vehículo
+685,Este,2025-07-01 19:24:00,Ruta principal,VAN-591,Confirmación
+686,Este,2025-07-01 19:25:00,Confirmación,VAN-548,Ruta principal
+687,Centro,2025-07-01 19:26:00,Ruta principal,VAN-180,Cargar vehículo
+688,Centro,2025-07-01 19:27:00,Confirmación,VAN-328,Recoger pedido
+689,Sur,2025-07-01 19:28:00,Recoger pedido,VAN-786,Cargar vehículo
+690,Este,2025-07-01 19:29:00,Confirmación,VAN-961,Cargar vehículo
+691,Sur,2025-07-01 19:30:00,Confirmación,VAN-662,Entrega
+692,Norte,2025-07-01 19:31:00,Entrega,VAN-141,Entrega
+693,Oeste,2025-07-01 19:32:00,Cargar vehículo,VAN-121,Entrega
+694,Oeste,2025-07-01 19:33:00,Recoger pedido,VAN-883,Recoger pedido
+695,Norte,2025-07-01 19:34:00,Entrega,VAN-425,Ruta principal
+696,Oeste,2025-07-01 19:35:00,Recoger pedido,VAN-275,Entrega
+697,Sur,2025-07-01 19:36:00,Recoger pedido,VAN-974,Ruta principal
+698,Este,2025-07-01 19:37:00,Confirmación,VAN-594,Recoger pedido
+699,Este,2025-07-01 19:38:00,Entrega,VAN-989,Ruta principal
+700,Este,2025-07-01 19:39:00,Confirmación,VAN-831,Confirmación
+701,Sur,2025-07-01 19:40:00,Cargar vehículo,VAN-493,Cargar vehículo
+702,Oeste,2025-07-01 19:41:00,Cargar vehículo,VAN-485,Ruta principal
+703,Este,2025-07-01 19:42:00,Confirmación,VAN-826,Cargar vehículo
+704,Centro,2025-07-01 19:43:00,Confirmación,VAN-604,Confirmación
+705,Este,2025-07-01 19:44:00,Ruta principal,VAN-948,Confirmación
+706,Sur,2025-07-01 19:45:00,Cargar vehículo,VAN-723,Entrega
+707,Oeste,2025-07-01 19:46:00,Recoger pedido,VAN-954,Entrega
+708,Este,2025-07-01 19:47:00,Ruta principal,VAN-775,Ruta principal
+709,Norte,2025-07-01 19:48:00,Confirmación,VAN-124,Cargar vehículo
+710,Norte,2025-07-01 19:49:00,Confirmación,VAN-448,Confirmación
+711,Norte,2025-07-01 19:50:00,Ruta principal,VAN-679,Ruta principal
+712,Sur,2025-07-01 19:51:00,Recoger pedido,VAN-982,Confirmación
+713,Este,2025-07-01 19:52:00,Entrega,VAN-382,Entrega
+714,Oeste,2025-07-01 19:53:00,Cargar vehículo,VAN-755,Ruta principal
+715,Oeste,2025-07-01 19:54:00,Entrega,VAN-447,Confirmación
+716,Este,2025-07-01 19:55:00,Recoger pedido,VAN-812,Recoger pedido
+717,Oeste,2025-07-01 19:56:00,Entrega,VAN-860,Entrega
+718,Centro,2025-07-01 19:57:00,Ruta principal,VAN-476,Cargar vehículo
+719,Centro,2025-07-01 19:58:00,Confirmación,VAN-256,Recoger pedido
+720,Sur,2025-07-01 19:59:00,Confirmación,VAN-831,Recoger pedido
+721,Sur,2025-07-01 20:00:00,Recoger pedido,VAN-485,Recoger pedido
+722,Sur,2025-07-01 20:01:00,Ruta principal,VAN-801,Confirmación
+723,Norte,2025-07-01 20:02:00,Entrega,VAN-182,Cargar vehículo
+724,Centro,2025-07-01 20:03:00,Recoger pedido,VAN-444,Ruta principal
+725,Norte,2025-07-01 20:04:00,Cargar vehículo,VAN-751,Entrega
+726,Norte,2025-07-01 20:05:00,Confirmación,VAN-984,Cargar vehículo
+727,Oeste,2025-07-01 20:06:00,Confirmación,VAN-387,Confirmación
+728,Este,2025-07-01 20:07:00,Entrega,VAN-118,Ruta principal
+729,Sur,2025-07-01 20:08:00,Recoger pedido,VAN-282,Entrega
+730,Oeste,2025-07-01 20:09:00,Recoger pedido,VAN-880,Entrega
+731,Este,2025-07-01 20:10:00,Ruta principal,VAN-850,Confirmación
+732,Norte,2025-07-01 20:11:00,Confirmación,VAN-910,Confirmación
+733,Centro,2025-07-01 20:12:00,Cargar vehículo,VAN-381,Entrega
+734,Centro,2025-07-01 20:13:00,Cargar vehículo,VAN-197,Ruta principal
+735,Oeste,2025-07-01 20:14:00,Ruta principal,VAN-601,Confirmación
+736,Este,2025-07-01 20:15:00,Entrega,VAN-819,Recoger pedido
+737,Centro,2025-07-01 20:16:00,Recoger pedido,VAN-639,Entrega
+738,Norte,2025-07-01 20:17:00,Recoger pedido,VAN-952,Ruta principal
+739,Este,2025-07-01 20:18:00,Ruta principal,VAN-521,Cargar vehículo
+740,Sur,2025-07-01 20:19:00,Recoger pedido,VAN-879,Entrega
+741,Norte,2025-07-01 20:20:00,Confirmación,VAN-850,Confirmación
+742,Este,2025-07-01 20:21:00,Ruta principal,VAN-633,Cargar vehículo
+743,Este,2025-07-01 20:22:00,Entrega,VAN-834,Ruta principal
+744,Este,2025-07-01 20:23:00,Confirmación,VAN-696,Cargar vehículo
+745,Sur,2025-07-01 20:24:00,Recoger pedido,VAN-906,Entrega
+746,Norte,2025-07-01 20:25:00,Confirmación,VAN-865,Ruta principal
+747,Oeste,2025-07-01 20:26:00,Recoger pedido,VAN-779,Recoger pedido
+748,Este,2025-07-01 20:27:00,Confirmación,VAN-821,Entrega
+749,Este,2025-07-01 20:28:00,Entrega,VAN-538,Entrega
+750,Norte,2025-07-01 20:29:00,Cargar vehículo,VAN-783,Ruta principal
+751,Este,2025-07-01 20:30:00,Ruta principal,VAN-865,Entrega
+752,Norte,2025-07-01 20:31:00,Entrega,VAN-232,Entrega
+753,Oeste,2025-07-01 20:32:00,Ruta principal,VAN-826,Cargar vehículo
+754,Oeste,2025-07-01 20:33:00,Entrega,VAN-888,Entrega
+755,Centro,2025-07-01 20:34:00,Recoger pedido,VAN-768,Cargar vehículo
+756,Sur,2025-07-01 20:35:00,Ruta principal,VAN-261,Entrega
+757,Oeste,2025-07-01 20:36:00,Entrega,VAN-797,Entrega
+758,Norte,2025-07-01 20:37:00,Entrega,VAN-787,Cargar vehículo
+759,Oeste,2025-07-01 20:38:00,Cargar vehículo,VAN-386,Recoger pedido
+760,Sur,2025-07-01 20:39:00,Recoger pedido,VAN-810,Cargar vehículo
+761,Este,2025-07-01 20:40:00,Confirmación,VAN-303,Entrega
+762,Centro,2025-07-01 20:41:00,Cargar vehículo,VAN-153,Confirmación
+763,Norte,2025-07-01 20:42:00,Confirmación,VAN-879,Recoger pedido
+764,Sur,2025-07-01 20:43:00,Recoger pedido,VAN-562,Ruta principal
+765,Norte,2025-07-01 20:44:00,Confirmación,VAN-248,Ruta principal
+766,Centro,2025-07-01 20:45:00,Confirmación,VAN-254,Entrega
+767,Este,2025-07-01 20:46:00,Cargar vehículo,VAN-425,Ruta principal
+768,Oeste,2025-07-01 20:47:00,Ruta principal,VAN-315,Cargar vehículo
+769,Centro,2025-07-01 20:48:00,Cargar vehículo,VAN-274,Recoger pedido
+770,Este,2025-07-01 20:49:00,Confirmación,VAN-503,Confirmación
+771,Sur,2025-07-01 20:50:00,Confirmación,VAN-169,Entrega
+772,Centro,2025-07-01 20:51:00,Confirmación,VAN-378,Ruta principal
+773,Sur,2025-07-01 20:52:00,Cargar vehículo,VAN-652,Confirmación
+774,Oeste,2025-07-01 20:53:00,Ruta principal,VAN-415,Cargar vehículo
+775,Norte,2025-07-01 20:54:00,Confirmación,VAN-709,Confirmación
+776,Centro,2025-07-01 20:55:00,Cargar vehículo,VAN-355,Ruta principal
+777,Este,2025-07-01 20:56:00,Cargar vehículo,VAN-548,Ruta principal
+778,Norte,2025-07-01 20:57:00,Ruta principal,VAN-258,Recoger pedido
+779,Centro,2025-07-01 20:58:00,Entrega,VAN-676,Cargar vehículo
+780,Este,2025-07-01 20:59:00,Confirmación,VAN-937,Cargar vehículo
+781,Oeste,2025-07-01 21:00:00,Entrega,VAN-720,Confirmación
+782,Norte,2025-07-01 21:01:00,Ruta principal,VAN-105,Recoger pedido
+783,Este,2025-07-01 21:02:00,Cargar vehículo,VAN-338,Cargar vehículo
+784,Este,2025-07-01 21:03:00,Ruta principal,VAN-535,Ruta principal
+785,Norte,2025-07-01 21:04:00,Cargar vehículo,VAN-541,Entrega
+786,Este,2025-07-01 21:05:00,Ruta principal,VAN-738,Confirmación
+787,Norte,2025-07-01 21:06:00,Confirmación,VAN-876,Recoger pedido
+788,Sur,2025-07-01 21:07:00,Confirmación,VAN-439,Cargar vehículo
+789,Sur,2025-07-01 21:08:00,Recoger pedido,VAN-839,Cargar vehículo
+790,Centro,2025-07-01 21:09:00,Recoger pedido,VAN-930,Recoger pedido
+791,Oeste,2025-07-01 21:10:00,Confirmación,VAN-602,Confirmación
+792,Oeste,2025-07-01 21:11:00,Recoger pedido,VAN-633,Cargar vehículo
+793,Centro,2025-07-01 21:12:00,Cargar vehículo,VAN-718,Confirmación
+794,Este,2025-07-01 21:13:00,Recoger pedido,VAN-458,Entrega
+795,Centro,2025-07-01 21:14:00,Confirmación,VAN-516,Cargar vehículo
+796,Este,2025-07-01 21:15:00,Recoger pedido,VAN-328,Confirmación
+797,Centro,2025-07-01 21:16:00,Ruta principal,VAN-170,Confirmación
+798,Oeste,2025-07-01 21:17:00,Cargar vehículo,VAN-453,Confirmación
+799,Norte,2025-07-01 21:18:00,Ruta principal,VAN-879,Ruta principal
+800,Oeste,2025-07-01 21:19:00,Cargar vehículo,VAN-219,Recoger pedido
+801,Oeste,2025-07-01 21:20:00,Confirmación,VAN-423,Cargar vehículo
+802,Oeste,2025-07-01 21:21:00,Entrega,VAN-799,Entrega
+803,Este,2025-07-01 21:22:00,Ruta principal,VAN-400,Confirmación
+804,Oeste,2025-07-01 21:23:00,Confirmación,VAN-669,Recoger pedido
+805,Norte,2025-07-01 21:24:00,Confirmación,VAN-428,Cargar vehículo
+806,Sur,2025-07-01 21:25:00,Recoger pedido,VAN-228,Cargar vehículo
+807,Sur,2025-07-01 21:26:00,Confirmación,VAN-540,Confirmación
+808,Centro,2025-07-01 21:27:00,Cargar vehículo,VAN-928,Ruta principal
+809,Este,2025-07-01 21:28:00,Cargar vehículo,VAN-567,Entrega
+810,Centro,2025-07-01 21:29:00,Confirmación,VAN-980,Entrega
+811,Norte,2025-07-01 21:30:00,Cargar vehículo,VAN-517,Ruta principal
+812,Norte,2025-07-01 21:31:00,Confirmación,VAN-291,Entrega
+813,Sur,2025-07-01 21:32:00,Recoger pedido,VAN-444,Ruta principal
+814,Norte,2025-07-01 21:33:00,Ruta principal,VAN-110,Ruta principal
+815,Este,2025-07-01 21:34:00,Entrega,VAN-826,Ruta principal
+816,Oeste,2025-07-01 21:35:00,Recoger pedido,VAN-479,Recoger pedido
+817,Este,2025-07-01 21:36:00,Ruta principal,VAN-607,Entrega
+818,Centro,2025-07-01 21:37:00,Entrega,VAN-557,Recoger pedido
+819,Oeste,2025-07-01 21:38:00,Ruta principal,VAN-952,Cargar vehículo
+820,Oeste,2025-07-01 21:39:00,Entrega,VAN-777,Ruta principal
+821,Este,2025-07-01 21:40:00,Ruta principal,VAN-673,Recoger pedido
+822,Este,2025-07-01 21:41:00,Ruta principal,VAN-472,Entrega
+823,Este,2025-07-01 21:42:00,Confirmación,VAN-120,Ruta principal
+824,Este,2025-07-01 21:43:00,Ruta principal,VAN-271,Ruta principal
+825,Norte,2025-07-01 21:44:00,Cargar vehículo,VAN-468,Cargar vehículo
+826,Centro,2025-07-01 21:45:00,Recoger pedido,VAN-261,Confirmación
+827,Este,2025-07-01 21:46:00,Cargar vehículo,VAN-532,Ruta principal
+828,Norte,2025-07-01 21:47:00,Confirmación,VAN-483,Recoger pedido
+829,Sur,2025-07-01 21:48:00,Recoger pedido,VAN-997,Entrega
+830,Oeste,2025-07-01 21:49:00,Cargar vehículo,VAN-139,Cargar vehículo
+831,Este,2025-07-01 21:50:00,Recoger pedido,VAN-231,Confirmación
+832,Sur,2025-07-01 21:51:00,Confirmación,VAN-683,Ruta principal
+833,Norte,2025-07-01 21:52:00,Cargar vehículo,VAN-456,Cargar vehículo
+834,Sur,2025-07-01 21:53:00,Ruta principal,VAN-579,Entrega
+835,Centro,2025-07-01 21:54:00,Entrega,VAN-961,Cargar vehículo
+836,Oeste,2025-07-01 21:55:00,Cargar vehículo,VAN-914,Ruta principal
+837,Norte,2025-07-01 21:56:00,Recoger pedido,VAN-460,Recoger pedido
+838,Este,2025-07-01 21:57:00,Confirmación,VAN-728,Recoger pedido
+839,Centro,2025-07-01 21:58:00,Ruta principal,VAN-825,Recoger pedido
+840,Norte,2025-07-01 21:59:00,Cargar vehículo,VAN-440,Recoger pedido
+841,Este,2025-07-01 22:00:00,Confirmación,VAN-809,Ruta principal
+842,Norte,2025-07-01 22:01:00,Cargar vehículo,VAN-885,Recoger pedido
+843,Este,2025-07-01 22:02:00,Recoger pedido,VAN-106,Confirmación
+844,Oeste,2025-07-01 22:03:00,Confirmación,VAN-561,Recoger pedido
+845,Oeste,2025-07-01 22:04:00,Confirmación,VAN-375,Entrega
+846,Oeste,2025-07-01 22:05:00,Confirmación,VAN-564,Ruta principal
+847,Este,2025-07-01 22:06:00,Confirmación,VAN-542,Ruta principal
+848,Este,2025-07-01 22:07:00,Ruta principal,VAN-616,Cargar vehículo
+849,Este,2025-07-01 22:08:00,Confirmación,VAN-972,Confirmación
+850,Centro,2025-07-01 22:09:00,Confirmación,VAN-586,Entrega
+851,Oeste,2025-07-01 22:10:00,Ruta principal,VAN-908,Cargar vehículo
+852,Oeste,2025-07-01 22:11:00,Entrega,VAN-394,Cargar vehículo
+853,Centro,2025-07-01 22:12:00,Recoger pedido,VAN-485,Confirmación
+854,Centro,2025-07-01 22:13:00,Recoger pedido,VAN-729,Cargar vehículo
+855,Centro,2025-07-01 22:14:00,Ruta principal,VAN-667,Ruta principal
+856,Este,2025-07-01 22:15:00,Entrega,VAN-564,Recoger pedido
+857,Norte,2025-07-01 22:16:00,Cargar vehículo,VAN-253,Cargar vehículo
+858,Norte,2025-07-01 22:17:00,Confirmación,VAN-902,Recoger pedido
+859,Oeste,2025-07-01 22:18:00,Ruta principal,VAN-930,Entrega
+860,Centro,2025-07-01 22:19:00,Recoger pedido,VAN-749,Confirmación
+861,Oeste,2025-07-01 22:20:00,Cargar vehículo,VAN-728,Ruta principal
+862,Sur,2025-07-01 22:21:00,Cargar vehículo,VAN-281,Cargar vehículo
+863,Este,2025-07-01 22:22:00,Confirmación,VAN-349,Cargar vehículo
+864,Sur,2025-07-01 22:23:00,Confirmación,VAN-571,Entrega
+865,Norte,2025-07-01 22:24:00,Entrega,VAN-943,Ruta principal
+866,Centro,2025-07-01 22:25:00,Entrega,VAN-500,Recoger pedido
+867,Centro,2025-07-01 22:26:00,Ruta principal,VAN-155,Ruta principal
+868,Oeste,2025-07-01 22:27:00,Cargar vehículo,VAN-817,Recoger pedido
+869,Oeste,2025-07-01 22:28:00,Entrega,VAN-178,Cargar vehículo
+870,Oeste,2025-07-01 22:29:00,Confirmación,VAN-294,Ruta principal
+871,Oeste,2025-07-01 22:30:00,Entrega,VAN-856,Entrega
+872,Norte,2025-07-01 22:31:00,Confirmación,VAN-251,Confirmación
+873,Centro,2025-07-01 22:32:00,Entrega,VAN-222,Entrega
+874,Centro,2025-07-01 22:33:00,Confirmación,VAN-956,Confirmación
+875,Oeste,2025-07-01 22:34:00,Confirmación,VAN-190,Confirmación
+876,Este,2025-07-01 22:35:00,Confirmación,VAN-126,Ruta principal
+877,Centro,2025-07-01 22:36:00,Cargar vehículo,VAN-409,Recoger pedido
+878,Oeste,2025-07-01 22:37:00,Ruta principal,VAN-666,Entrega
+879,Norte,2025-07-01 22:38:00,Confirmación,VAN-340,Confirmación
+880,Sur,2025-07-01 22:39:00,Cargar vehículo,VAN-809,Entrega
+881,Centro,2025-07-01 22:40:00,Recoger pedido,VAN-328,Ruta principal
+882,Sur,2025-07-01 22:41:00,Entrega,VAN-948,Cargar vehículo
+883,Este,2025-07-01 22:42:00,Recoger pedido,VAN-661,Confirmación
+884,Oeste,2025-07-01 22:43:00,Ruta principal,VAN-941,Cargar vehículo
+885,Sur,2025-07-01 22:44:00,Recoger pedido,VAN-656,Ruta principal
+886,Sur,2025-07-01 22:45:00,Ruta principal,VAN-632,Cargar vehículo
+887,Este,2025-07-01 22:46:00,Cargar vehículo,VAN-362,Entrega
+888,Oeste,2025-07-01 22:47:00,Ruta principal,VAN-515,Confirmación
+889,Este,2025-07-01 22:48:00,Cargar vehículo,VAN-992,Ruta principal
+890,Oeste,2025-07-01 22:49:00,Confirmación,VAN-488,Ruta principal
+891,Oeste,2025-07-01 22:50:00,Cargar vehículo,VAN-188,Ruta principal
+892,Centro,2025-07-01 22:51:00,Ruta principal,VAN-157,Confirmación
+893,Norte,2025-07-01 22:52:00,Confirmación,VAN-739,Ruta principal
+894,Este,2025-07-01 22:53:00,Entrega,VAN-837,Confirmación
+895,Oeste,2025-07-01 22:54:00,Confirmación,VAN-173,Recoger pedido
+896,Este,2025-07-01 22:55:00,Cargar vehículo,VAN-273,Entrega
+897,Oeste,2025-07-01 22:56:00,Ruta principal,VAN-469,Ruta principal
+898,Sur,2025-07-01 22:57:00,Recoger pedido,VAN-130,Ruta principal
+899,Sur,2025-07-01 22:58:00,Recoger pedido,VAN-219,Entrega
+900,Centro,2025-07-01 22:59:00,Ruta principal,VAN-507,Recoger pedido
+901,Oeste,2025-07-01 23:00:00,Ruta principal,VAN-435,Recoger pedido
+902,Sur,2025-07-01 23:01:00,Recoger pedido,VAN-123,Confirmación
+903,Centro,2025-07-01 23:02:00,Entrega,VAN-119,Ruta principal
+904,Este,2025-07-01 23:03:00,Recoger pedido,VAN-656,Entrega
+905,Este,2025-07-01 23:04:00,Confirmación,VAN-278,Cargar vehículo
+906,Este,2025-07-01 23:05:00,Confirmación,VAN-458,Ruta principal
+907,Este,2025-07-01 23:06:00,Cargar vehículo,VAN-786,Recoger pedido
+908,Centro,2025-07-01 23:07:00,Cargar vehículo,VAN-554,Confirmación
+909,Sur,2025-07-01 23:08:00,Ruta principal,VAN-670,Confirmación
+910,Norte,2025-07-01 23:09:00,Cargar vehículo,VAN-627,Entrega
+911,Norte,2025-07-01 23:10:00,Cargar vehículo,VAN-915,Cargar vehículo
+912,Sur,2025-07-01 23:11:00,Confirmación,VAN-395,Cargar vehículo
+913,Oeste,2025-07-01 23:12:00,Recoger pedido,VAN-306,Ruta principal
+914,Norte,2025-07-01 23:13:00,Confirmación,VAN-151,Entrega
+915,Norte,2025-07-01 23:14:00,Recoger pedido,VAN-810,Ruta principal
+916,Centro,2025-07-01 23:15:00,Confirmación,VAN-736,Ruta principal
+917,Este,2025-07-01 23:16:00,Recoger pedido,VAN-637,Confirmación
+918,Oeste,2025-07-01 23:17:00,Entrega,VAN-732,Entrega
+919,Este,2025-07-01 23:18:00,Ruta principal,VAN-132,Entrega
+920,Norte,2025-07-01 23:19:00,Cargar vehículo,VAN-977,Recoger pedido
+921,Oeste,2025-07-01 23:20:00,Confirmación,VAN-599,Cargar vehículo
+922,Sur,2025-07-01 23:21:00,Confirmación,VAN-865,Cargar vehículo
+923,Sur,2025-07-01 23:22:00,Confirmación,VAN-304,Confirmación
+924,Norte,2025-07-01 23:23:00,Confirmación,VAN-404,Cargar vehículo
+925,Oeste,2025-07-01 23:24:00,Confirmación,VAN-465,Entrega
+926,Centro,2025-07-01 23:25:00,Ruta principal,VAN-770,Cargar vehículo
+927,Este,2025-07-01 23:26:00,Recoger pedido,VAN-938,Ruta principal
+928,Sur,2025-07-01 23:27:00,Cargar vehículo,VAN-862,Confirmación
+929,Norte,2025-07-01 23:28:00,Ruta principal,VAN-210,Entrega
+930,Oeste,2025-07-01 23:29:00,Ruta principal,VAN-332,Confirmación
+931,Sur,2025-07-01 23:30:00,Cargar vehículo,VAN-337,Recoger pedido
+932,Este,2025-07-01 23:31:00,Confirmación,VAN-497,Recoger pedido
+933,Oeste,2025-07-01 23:32:00,Entrega,VAN-943,Entrega
+934,Norte,2025-07-01 23:33:00,Ruta principal,VAN-182,Recoger pedido
+935,Este,2025-07-01 23:34:00,Cargar vehículo,VAN-224,Entrega
+936,Este,2025-07-01 23:35:00,Recoger pedido,VAN-609,Cargar vehículo
+937,Sur,2025-07-01 23:36:00,Entrega,VAN-871,Ruta principal
+938,Este,2025-07-01 23:37:00,Cargar vehículo,VAN-204,Confirmación
+939,Oeste,2025-07-01 23:38:00,Entrega,VAN-747,Entrega
+940,Oeste,2025-07-01 23:39:00,Cargar vehículo,VAN-896,Confirmación
+941,Sur,2025-07-01 23:40:00,Entrega,VAN-847,Recoger pedido
+942,Este,2025-07-01 23:41:00,Confirmación,VAN-278,Entrega
+943,Oeste,2025-07-01 23:42:00,Confirmación,VAN-778,Cargar vehículo
+944,Oeste,2025-07-01 23:43:00,Confirmación,VAN-298,Cargar vehículo
+945,Sur,2025-07-01 23:44:00,Entrega,VAN-735,Confirmación
+946,Norte,2025-07-01 23:45:00,Cargar vehículo,VAN-794,Cargar vehículo
+947,Este,2025-07-01 23:46:00,Entrega,VAN-263,Ruta principal
+948,Norte,2025-07-01 23:47:00,Recoger pedido,VAN-826,Recoger pedido
+949,Oeste,2025-07-01 23:48:00,Ruta principal,VAN-143,Entrega
+950,Oeste,2025-07-01 23:49:00,Ruta principal,VAN-803,Ruta principal
+951,Sur,2025-07-01 23:50:00,Entrega,VAN-915,Entrega
+952,Centro,2025-07-01 23:51:00,Recoger pedido,VAN-949,Entrega
+953,Norte,2025-07-01 23:52:00,Cargar vehículo,VAN-854,Ruta principal
+954,Este,2025-07-01 23:53:00,Entrega,VAN-261,Ruta principal
+955,Centro,2025-07-01 23:54:00,Entrega,VAN-538,Cargar vehículo
+956,Oeste,2025-07-01 23:55:00,Entrega,VAN-398,Cargar vehículo
+957,Oeste,2025-07-01 23:56:00,Cargar vehículo,VAN-902,Ruta principal
+958,Sur,2025-07-01 23:57:00,Cargar vehículo,VAN-881,Entrega
+959,Sur,2025-07-01 23:58:00,Entrega,VAN-475,Confirmación
+960,Este,2025-07-01 23:59:00,Entrega,VAN-866,Ruta principal
+961,Sur,2025-07-02 00:00:00,Confirmación,VAN-486,Ruta principal
+962,Norte,2025-07-02 00:01:00,Confirmación,VAN-814,Confirmación
+963,Centro,2025-07-02 00:02:00,Cargar vehículo,VAN-652,Cargar vehículo
+964,Oeste,2025-07-02 00:03:00,Entrega,VAN-306,Confirmación
+965,Oeste,2025-07-02 00:04:00,Recoger pedido,VAN-509,Confirmación
+966,Centro,2025-07-02 00:05:00,Ruta principal,VAN-802,Cargar vehículo
+967,Sur,2025-07-02 00:06:00,Cargar vehículo,VAN-277,Cargar vehículo
+968,Oeste,2025-07-02 00:07:00,Recoger pedido,VAN-751,Confirmación
+969,Sur,2025-07-02 00:08:00,Cargar vehículo,VAN-445,Cargar vehículo
+970,Sur,2025-07-02 00:09:00,Entrega,VAN-540,Recoger pedido
+971,Oeste,2025-07-02 00:10:00,Confirmación,VAN-720,Recoger pedido
+972,Centro,2025-07-02 00:11:00,Ruta principal,VAN-417,Entrega
+973,Centro,2025-07-02 00:12:00,Entrega,VAN-786,Confirmación
+974,Este,2025-07-02 00:13:00,Ruta principal,VAN-208,Confirmación
+975,Oeste,2025-07-02 00:14:00,Cargar vehículo,VAN-842,Recoger pedido
+976,Este,2025-07-02 00:15:00,Confirmación,VAN-446,Confirmación
+977,Este,2025-07-02 00:16:00,Ruta principal,VAN-811,Cargar vehículo
+978,Este,2025-07-02 00:17:00,Entrega,VAN-940,Confirmación
+979,Este,2025-07-02 00:18:00,Entrega,VAN-233,Confirmación
+980,Centro,2025-07-02 00:19:00,Recoger pedido,VAN-229,Recoger pedido
+981,Norte,2025-07-02 00:20:00,Ruta principal,VAN-134,Ruta principal
+982,Oeste,2025-07-02 00:21:00,Ruta principal,VAN-449,Ruta principal
+983,Norte,2025-07-02 00:22:00,Cargar vehículo,VAN-706,Entrega
+984,Norte,2025-07-02 00:23:00,Ruta principal,VAN-180,Entrega
+985,Oeste,2025-07-02 00:24:00,Recoger pedido,VAN-243,Ruta principal
+986,Oeste,2025-07-02 00:25:00,Recoger pedido,VAN-979,Ruta principal
+987,Norte,2025-07-02 00:26:00,Confirmación,VAN-170,Cargar vehículo
+988,Este,2025-07-02 00:27:00,Ruta principal,VAN-517,Entrega
+989,Este,2025-07-02 00:28:00,Cargar vehículo,VAN-719,Cargar vehículo
+990,Sur,2025-07-02 00:29:00,Cargar vehículo,VAN-480,Recoger pedido
+991,Centro,2025-07-02 00:30:00,Cargar vehículo,VAN-526,Recoger pedido
+992,Este,2025-07-02 00:31:00,Cargar vehículo,VAN-996,Cargar vehículo
+993,Este,2025-07-02 00:32:00,Recoger pedido,VAN-180,Confirmación
+994,Norte,2025-07-02 00:33:00,Recoger pedido,VAN-444,Ruta principal
+995,Centro,2025-07-02 00:34:00,Recoger pedido,VAN-290,Entrega
+996,Centro,2025-07-02 00:35:00,Recoger pedido,VAN-398,Recoger pedido
+997,Este,2025-07-02 00:36:00,Recoger pedido,VAN-997,Entrega
+998,Norte,2025-07-02 00:37:00,Recoger pedido,VAN-160,Recoger pedido
+999,Este,2025-07-02 00:38:00,Cargar vehículo,VAN-390,Confirmación
+1000,Sur,2025-07-02 00:39:00,Recoger pedido,VAN-954,Entrega
+1001,Este,2025-07-02 00:40:00,Recoger pedido,VAN-619,Recoger pedido
+1002,Centro,2025-07-02 00:41:00,Cargar vehículo,VAN-816,Ruta principal
+1003,Centro,2025-07-02 00:42:00,Recoger pedido,VAN-415,Ruta principal
+1004,Este,2025-07-02 00:43:00,Ruta principal,VAN-967,Entrega
+1005,Este,2025-07-02 00:44:00,Entrega,VAN-846,Confirmación
+1006,Norte,2025-07-02 00:45:00,Cargar vehículo,VAN-149,Ruta principal
+1007,Norte,2025-07-02 00:46:00,Ruta principal,VAN-152,Confirmación
+1008,Norte,2025-07-02 00:47:00,Confirmación,VAN-576,Confirmación
+1009,Oeste,2025-07-02 00:48:00,Entrega,VAN-827,Confirmación
+1010,Norte,2025-07-02 00:49:00,Entrega,VAN-211,Confirmación
+1011,Oeste,2025-07-02 00:50:00,Ruta principal,VAN-822,Recoger pedido
+1012,Sur,2025-07-02 00:51:00,Cargar vehículo,VAN-958,Confirmación
+1013,Oeste,2025-07-02 00:52:00,Recoger pedido,VAN-445,Cargar vehículo
+1014,Este,2025-07-02 00:53:00,Recoger pedido,VAN-268,Entrega
+1015,Centro,2025-07-02 00:54:00,Confirmación,VAN-531,Entrega
+1016,Norte,2025-07-02 00:55:00,Cargar vehículo,VAN-830,Recoger pedido
+1017,Sur,2025-07-02 00:56:00,Confirmación,VAN-354,Recoger pedido
+1018,Norte,2025-07-02 00:57:00,Recoger pedido,VAN-288,Entrega
+1019,Sur,2025-07-02 00:58:00,Recoger pedido,VAN-312,Ruta principal
+1020,Centro,2025-07-02 00:59:00,Cargar vehículo,VAN-110,Confirmación
+1021,Centro,2025-07-02 01:00:00,Entrega,VAN-133,Cargar vehículo
+1022,Norte,2025-07-02 01:01:00,Ruta principal,VAN-509,Confirmación
+1023,Oeste,2025-07-02 01:02:00,Entrega,VAN-331,Cargar vehículo
+1024,Sur,2025-07-02 01:03:00,Confirmación,VAN-749,Confirmación
+1025,Sur,2025-07-02 01:04:00,Confirmación,VAN-948,Cargar vehículo
+1026,Este,2025-07-02 01:05:00,Recoger pedido,VAN-886,Confirmación
+1027,Centro,2025-07-02 01:06:00,Recoger pedido,VAN-488,Ruta principal
+1028,Norte,2025-07-02 01:07:00,Recoger pedido,VAN-365,Cargar vehículo
+1029,Centro,2025-07-02 01:08:00,Confirmación,VAN-539,Confirmación
+1030,Oeste,2025-07-02 01:09:00,Cargar vehículo,VAN-740,Cargar vehículo
+1031,Sur,2025-07-02 01:10:00,Cargar vehículo,VAN-736,Entrega
+1032,Norte,2025-07-02 01:11:00,Cargar vehículo,VAN-137,Cargar vehículo
+1033,Sur,2025-07-02 01:12:00,Entrega,VAN-865,Confirmación
+1034,Norte,2025-07-02 01:13:00,Recoger pedido,VAN-633,Ruta principal
+1035,Oeste,2025-07-02 01:14:00,Cargar vehículo,VAN-587,Recoger pedido
+1036,Sur,2025-07-02 01:15:00,Confirmación,VAN-113,Entrega
+1037,Este,2025-07-02 01:16:00,Recoger pedido,VAN-174,Recoger pedido
+1038,Centro,2025-07-02 01:17:00,Recoger pedido,VAN-319,Confirmación
+1039,Sur,2025-07-02 01:18:00,Cargar vehículo,VAN-976,Entrega
+1040,Este,2025-07-02 01:19:00,Confirmación,VAN-625,Confirmación
+1041,Oeste,2025-07-02 01:20:00,Confirmación,VAN-688,Ruta principal
+1042,Oeste,2025-07-02 01:21:00,Entrega,VAN-223,Entrega
+1043,Sur,2025-07-02 01:22:00,Ruta principal,VAN-193,Recoger pedido
+1044,Norte,2025-07-02 01:23:00,Recoger pedido,VAN-557,Cargar vehículo
+1045,Este,2025-07-02 01:24:00,Ruta principal,VAN-211,Recoger pedido
+1046,Centro,2025-07-02 01:25:00,Cargar vehículo,VAN-191,Ruta principal
+1047,Este,2025-07-02 01:26:00,Confirmación,VAN-343,Recoger pedido
+1048,Oeste,2025-07-02 01:27:00,Confirmación,VAN-712,Cargar vehículo
+1049,Sur,2025-07-02 01:28:00,Recoger pedido,VAN-539,Cargar vehículo
+1050,Centro,2025-07-02 01:29:00,Cargar vehículo,VAN-212,Ruta principal
+1051,Norte,2025-07-02 01:30:00,Ruta principal,VAN-481,Recoger pedido
+1052,Oeste,2025-07-02 01:31:00,Entrega,VAN-483,Recoger pedido
+1053,Norte,2025-07-02 01:32:00,Recoger pedido,VAN-593,Entrega
+1054,Oeste,2025-07-02 01:33:00,Cargar vehículo,VAN-813,Entrega
+1055,Oeste,2025-07-02 01:34:00,Confirmación,VAN-770,Recoger pedido
+1056,Norte,2025-07-02 01:35:00,Recoger pedido,VAN-917,Entrega
+1057,Oeste,2025-07-02 01:36:00,Cargar vehículo,VAN-148,Recoger pedido
+1058,Sur,2025-07-02 01:37:00,Confirmación,VAN-226,Ruta principal
+1059,Norte,2025-07-02 01:38:00,Entrega,VAN-604,Recoger pedido
+1060,Sur,2025-07-02 01:39:00,Cargar vehículo,VAN-890,Recoger pedido
+1061,Centro,2025-07-02 01:40:00,Recoger pedido,VAN-212,Ruta principal
+1062,Centro,2025-07-02 01:41:00,Confirmación,VAN-692,Recoger pedido
+1063,Este,2025-07-02 01:42:00,Recoger pedido,VAN-498,Ruta principal
+1064,Oeste,2025-07-02 01:43:00,Entrega,VAN-518,Cargar vehículo
+1065,Este,2025-07-02 01:44:00,Confirmación,VAN-755,Confirmación
+1066,Norte,2025-07-02 01:45:00,Ruta principal,VAN-982,Entrega
+1067,Este,2025-07-02 01:46:00,Cargar vehículo,VAN-592,Recoger pedido
+1068,Sur,2025-07-02 01:47:00,Recoger pedido,VAN-773,Cargar vehículo
+1069,Sur,2025-07-02 01:48:00,Entrega,VAN-107,Ruta principal
+1070,Sur,2025-07-02 01:49:00,Cargar vehículo,VAN-596,Confirmación
+1071,Centro,2025-07-02 01:50:00,Entrega,VAN-686,Confirmación
+1072,Sur,2025-07-02 01:51:00,Recoger pedido,VAN-491,Cargar vehículo
+1073,Sur,2025-07-02 01:52:00,Confirmación,VAN-460,Entrega
+1074,Oeste,2025-07-02 01:53:00,Cargar vehículo,VAN-611,Confirmación
+1075,Oeste,2025-07-02 01:54:00,Ruta principal,VAN-636,Entrega
+1076,Norte,2025-07-02 01:55:00,Recoger pedido,VAN-876,Ruta principal
+1077,Norte,2025-07-02 01:56:00,Entrega,VAN-507,Recoger pedido
+1078,Norte,2025-07-02 01:57:00,Confirmación,VAN-469,Cargar vehículo
+1079,Sur,2025-07-02 01:58:00,Ruta principal,VAN-200,Recoger pedido
+1080,Sur,2025-07-02 01:59:00,Confirmación,VAN-876,Ruta principal
+1081,Sur,2025-07-02 02:00:00,Entrega,VAN-701,Ruta principal
+1082,Centro,2025-07-02 02:01:00,Ruta principal,VAN-832,Recoger pedido
+1083,Oeste,2025-07-02 02:02:00,Recoger pedido,VAN-277,Ruta principal
+1084,Centro,2025-07-02 02:03:00,Recoger pedido,VAN-862,Recoger pedido
+1085,Norte,2025-07-02 02:04:00,Recoger pedido,VAN-487,Confirmación
+1086,Oeste,2025-07-02 02:05:00,Entrega,VAN-140,Cargar vehículo
+1087,Norte,2025-07-02 02:06:00,Cargar vehículo,VAN-384,Entrega
+1088,Oeste,2025-07-02 02:07:00,Recoger pedido,VAN-661,Cargar vehículo
+1089,Norte,2025-07-02 02:08:00,Recoger pedido,VAN-322,Recoger pedido
+1090,Este,2025-07-02 02:09:00,Ruta principal,VAN-804,Entrega
+1091,Norte,2025-07-02 02:10:00,Ruta principal,VAN-838,Entrega
+1092,Oeste,2025-07-02 02:11:00,Ruta principal,VAN-355,Confirmación
+1093,Norte,2025-07-02 02:12:00,Confirmación,VAN-781,Confirmación
+1094,Este,2025-07-02 02:13:00,Entrega,VAN-774,Recoger pedido
+1095,Oeste,2025-07-02 02:14:00,Recoger pedido,VAN-296,Ruta principal
+1096,Norte,2025-07-02 02:15:00,Cargar vehículo,VAN-555,Confirmación
+1097,Este,2025-07-02 02:16:00,Recoger pedido,VAN-106,Entrega
+1098,Oeste,2025-07-02 02:17:00,Confirmación,VAN-162,Confirmación
+1099,Este,2025-07-02 02:18:00,Ruta principal,VAN-986,Confirmación
+1100,Centro,2025-07-02 02:19:00,Cargar vehículo,VAN-683,Confirmación
+1101,Sur,2025-07-02 02:20:00,Confirmación,VAN-199,Cargar vehículo
+1102,Sur,2025-07-02 02:21:00,Recoger pedido,VAN-317,Ruta principal
+1103,Este,2025-07-02 02:22:00,Entrega,VAN-581,Entrega
+1104,Sur,2025-07-02 02:23:00,Cargar vehículo,VAN-153,Ruta principal
+1105,Este,2025-07-02 02:24:00,Entrega,VAN-416,Cargar vehículo
+1106,Centro,2025-07-02 02:25:00,Confirmación,VAN-888,Cargar vehículo
+1107,Sur,2025-07-02 02:26:00,Cargar vehículo,VAN-461,Recoger pedido
+1108,Sur,2025-07-02 02:27:00,Confirmación,VAN-223,Confirmación
+1109,Este,2025-07-02 02:28:00,Ruta principal,VAN-509,Recoger pedido
+1110,Oeste,2025-07-02 02:29:00,Recoger pedido,VAN-566,Ruta principal
+1111,Oeste,2025-07-02 02:30:00,Confirmación,VAN-371,Confirmación
+1112,Este,2025-07-02 02:31:00,Entrega,VAN-184,Cargar vehículo
+1113,Este,2025-07-02 02:32:00,Confirmación,VAN-945,Confirmación
+1114,Este,2025-07-02 02:33:00,Recoger pedido,VAN-703,Ruta principal
+1115,Oeste,2025-07-02 02:34:00,Confirmación,VAN-196,Confirmación
+1116,Este,2025-07-02 02:35:00,Entrega,VAN-170,Cargar vehículo
+1117,Este,2025-07-02 02:36:00,Entrega,VAN-326,Confirmación
+1118,Centro,2025-07-02 02:37:00,Confirmación,VAN-248,Confirmación
+1119,Oeste,2025-07-02 02:38:00,Cargar vehículo,VAN-398,Recoger pedido
+1120,Norte,2025-07-02 02:39:00,Confirmación,VAN-767,Confirmación
+1121,Oeste,2025-07-02 02:40:00,Confirmación,VAN-291,Ruta principal
+1122,Centro,2025-07-02 02:41:00,Confirmación,VAN-459,Confirmación
+1123,Este,2025-07-02 02:42:00,Confirmación,VAN-366,Cargar vehículo
+1124,Oeste,2025-07-02 02:43:00,Confirmación,VAN-795,Entrega
+1125,Oeste,2025-07-02 02:44:00,Entrega,VAN-808,Entrega
+1126,Centro,2025-07-02 02:45:00,Confirmación,VAN-970,Recoger pedido
+1127,Este,2025-07-02 02:46:00,Ruta principal,VAN-790,Confirmación
+1128,Centro,2025-07-02 02:47:00,Recoger pedido,VAN-743,Ruta principal
+1129,Norte,2025-07-02 02:48:00,Recoger pedido,VAN-616,Recoger pedido
+1130,Oeste,2025-07-02 02:49:00,Recoger pedido,VAN-225,Cargar vehículo
+1131,Este,2025-07-02 02:50:00,Recoger pedido,VAN-631,Recoger pedido
+1132,Centro,2025-07-02 02:51:00,Cargar vehículo,VAN-140,Entrega
+1133,Norte,2025-07-02 02:52:00,Cargar vehículo,VAN-769,Ruta principal
+1134,Norte,2025-07-02 02:53:00,Confirmación,VAN-861,Entrega
+1135,Norte,2025-07-02 02:54:00,Cargar vehículo,VAN-424,Recoger pedido
+1136,Oeste,2025-07-02 02:55:00,Cargar vehículo,VAN-124,Ruta principal
+1137,Oeste,2025-07-02 02:56:00,Confirmación,VAN-558,Ruta principal
+1138,Norte,2025-07-02 02:57:00,Recoger pedido,VAN-990,Ruta principal
+1139,Este,2025-07-02 02:58:00,Ruta principal,VAN-158,Confirmación
+1140,Sur,2025-07-02 02:59:00,Cargar vehículo,VAN-220,Confirmación
+1141,Norte,2025-07-02 03:00:00,Ruta principal,VAN-287,Confirmación
+1142,Centro,2025-07-02 03:01:00,Recoger pedido,VAN-206,Confirmación
+1143,Centro,2025-07-02 03:02:00,Recoger pedido,VAN-942,Ruta principal
+1144,Norte,2025-07-02 03:03:00,Cargar vehículo,VAN-966,Entrega
+1145,Sur,2025-07-02 03:04:00,Ruta principal,VAN-774,Confirmación
+1146,Centro,2025-07-02 03:05:00,Entrega,VAN-879,Cargar vehículo
+1147,Oeste,2025-07-02 03:06:00,Recoger pedido,VAN-671,Recoger pedido
+1148,Sur,2025-07-02 03:07:00,Confirmación,VAN-776,Recoger pedido
+1149,Este,2025-07-02 03:08:00,Entrega,VAN-278,Confirmación
+1150,Este,2025-07-02 03:09:00,Recoger pedido,VAN-911,Confirmación
+1151,Oeste,2025-07-02 03:10:00,Recoger pedido,VAN-735,Ruta principal
+1152,Centro,2025-07-02 03:11:00,Recoger pedido,VAN-175,Cargar vehículo
+1153,Este,2025-07-02 03:12:00,Ruta principal,VAN-139,Recoger pedido
+1154,Norte,2025-07-02 03:13:00,Confirmación,VAN-682,Entrega
+1155,Oeste,2025-07-02 03:14:00,Cargar vehículo,VAN-506,Confirmación
+1156,Centro,2025-07-02 03:15:00,Entrega,VAN-919,Cargar vehículo
+1157,Este,2025-07-02 03:16:00,Recoger pedido,VAN-565,Confirmación
+1158,Sur,2025-07-02 03:17:00,Cargar vehículo,VAN-286,Confirmación
+1159,Oeste,2025-07-02 03:18:00,Ruta principal,VAN-984,Cargar vehículo
+1160,Norte,2025-07-02 03:19:00,Entrega,VAN-702,Cargar vehículo
+1161,Norte,2025-07-02 03:20:00,Recoger pedido,VAN-651,Recoger pedido
+1162,Norte,2025-07-02 03:21:00,Cargar vehículo,VAN-456,Confirmación
+1163,Centro,2025-07-02 03:22:00,Confirmación,VAN-366,Recoger pedido
+1164,Centro,2025-07-02 03:23:00,Confirmación,VAN-853,Confirmación
+1165,Oeste,2025-07-02 03:24:00,Recoger pedido,VAN-907,Entrega
+1166,Sur,2025-07-02 03:25:00,Confirmación,VAN-403,Cargar vehículo
+1167,Sur,2025-07-02 03:26:00,Ruta principal,VAN-691,Confirmación
+1168,Centro,2025-07-02 03:27:00,Cargar vehículo,VAN-395,Entrega
+1169,Norte,2025-07-02 03:28:00,Confirmación,VAN-909,Cargar vehículo
+1170,Oeste,2025-07-02 03:29:00,Recoger pedido,VAN-312,Recoger pedido
+1171,Oeste,2025-07-02 03:30:00,Confirmación,VAN-794,Entrega
+1172,Sur,2025-07-02 03:31:00,Recoger pedido,VAN-157,Cargar vehículo
+1173,Este,2025-07-02 03:32:00,Recoger pedido,VAN-557,Entrega
+1174,Norte,2025-07-02 03:33:00,Entrega,VAN-276,Ruta principal
+1175,Este,2025-07-02 03:34:00,Cargar vehículo,VAN-783,Entrega
+1176,Sur,2025-07-02 03:35:00,Entrega,VAN-601,Ruta principal
+1177,Centro,2025-07-02 03:36:00,Ruta principal,VAN-493,Ruta principal
+1178,Norte,2025-07-02 03:37:00,Entrega,VAN-986,Confirmación
+1179,Sur,2025-07-02 03:38:00,Ruta principal,VAN-426,Cargar vehículo
+1180,Este,2025-07-02 03:39:00,Cargar vehículo,VAN-321,Ruta principal
+1181,Sur,2025-07-02 03:40:00,Ruta principal,VAN-627,Ruta principal
+1182,Oeste,2025-07-02 03:41:00,Ruta principal,VAN-411,Recoger pedido
+1183,Oeste,2025-07-02 03:42:00,Recoger pedido,VAN-258,Confirmación
+1184,Oeste,2025-07-02 03:43:00,Cargar vehículo,VAN-349,Confirmación
+1185,Este,2025-07-02 03:44:00,Ruta principal,VAN-218,Recoger pedido
+1186,Sur,2025-07-02 03:45:00,Entrega,VAN-375,Ruta principal
+1187,Este,2025-07-02 03:46:00,Confirmación,VAN-510,Confirmación
+1188,Centro,2025-07-02 03:47:00,Entrega,VAN-284,Ruta principal
+1189,Este,2025-07-02 03:48:00,Recoger pedido,VAN-797,Recoger pedido
+1190,Este,2025-07-02 03:49:00,Entrega,VAN-900,Ruta principal
+1191,Norte,2025-07-02 03:50:00,Recoger pedido,VAN-591,Cargar vehículo
+1192,Norte,2025-07-02 03:51:00,Recoger pedido,VAN-900,Ruta principal
+1193,Norte,2025-07-02 03:52:00,Ruta principal,VAN-463,Recoger pedido
+1194,Centro,2025-07-02 03:53:00,Entrega,VAN-306,Entrega
+1195,Oeste,2025-07-02 03:54:00,Cargar vehículo,VAN-332,Recoger pedido
+1196,Oeste,2025-07-02 03:55:00,Recoger pedido,VAN-664,Confirmación
+1197,Este,2025-07-02 03:56:00,Confirmación,VAN-539,Entrega
+1198,Norte,2025-07-02 03:57:00,Confirmación,VAN-491,Confirmación
+1199,Este,2025-07-02 03:58:00,Confirmación,VAN-948,Confirmación
+1200,Centro,2025-07-02 03:59:00,Recoger pedido,VAN-146,Cargar vehículo
+1201,Centro,2025-07-02 04:00:00,Cargar vehículo,VAN-797,Recoger pedido
+1202,Norte,2025-07-02 04:01:00,Entrega,VAN-613,Recoger pedido
+1203,Centro,2025-07-02 04:02:00,Ruta principal,VAN-784,Entrega
+1204,Sur,2025-07-02 04:03:00,Recoger pedido,VAN-267,Entrega
+1205,Centro,2025-07-02 04:04:00,Confirmación,VAN-337,Cargar vehículo
+1206,Oeste,2025-07-02 04:05:00,Entrega,VAN-370,Ruta principal
+1207,Este,2025-07-02 04:06:00,Confirmación,VAN-658,Entrega
+1208,Norte,2025-07-02 04:07:00,Cargar vehículo,VAN-115,Entrega
+1209,Centro,2025-07-02 04:08:00,Ruta principal,VAN-956,Ruta principal
+1210,Este,2025-07-02 04:09:00,Recoger pedido,VAN-605,Recoger pedido
+1211,Sur,2025-07-02 04:10:00,Confirmación,VAN-714,Entrega
+1212,Oeste,2025-07-02 04:11:00,Confirmación,VAN-218,Confirmación
+1213,Centro,2025-07-02 04:12:00,Ruta principal,VAN-870,Entrega
+1214,Centro,2025-07-02 04:13:00,Confirmación,VAN-113,Entrega
+1215,Este,2025-07-02 04:14:00,Ruta principal,VAN-517,Ruta principal
+1216,Norte,2025-07-02 04:15:00,Ruta principal,VAN-314,Ruta principal
+1217,Centro,2025-07-02 04:16:00,Confirmación,VAN-541,Ruta principal
+1218,Oeste,2025-07-02 04:17:00,Entrega,VAN-591,Ruta principal
+1219,Este,2025-07-02 04:18:00,Ruta principal,VAN-951,Entrega
+1220,Norte,2025-07-02 04:19:00,Ruta principal,VAN-787,Cargar vehículo
+1221,Oeste,2025-07-02 04:20:00,Recoger pedido,VAN-182,Entrega
+1222,Oeste,2025-07-02 04:21:00,Confirmación,VAN-250,Ruta principal
+1223,Oeste,2025-07-02 04:22:00,Cargar vehículo,VAN-483,Ruta principal
+1224,Sur,2025-07-02 04:23:00,Recoger pedido,VAN-416,Confirmación
+1225,Sur,2025-07-02 04:24:00,Ruta principal,VAN-196,Cargar vehículo
+1226,Este,2025-07-02 04:25:00,Ruta principal,VAN-282,Ruta principal
+1227,Norte,2025-07-02 04:26:00,Ruta principal,VAN-353,Confirmación
+1228,Norte,2025-07-02 04:27:00,Recoger pedido,VAN-903,Entrega
+1229,Oeste,2025-07-02 04:28:00,Cargar vehículo,VAN-189,Entrega
+1230,Oeste,2025-07-02 04:29:00,Cargar vehículo,VAN-638,Cargar vehículo
+1231,Oeste,2025-07-02 04:30:00,Recoger pedido,VAN-731,Recoger pedido
+1232,Norte,2025-07-02 04:31:00,Recoger pedido,VAN-181,Cargar vehículo
+1233,Oeste,2025-07-02 04:32:00,Entrega,VAN-189,Cargar vehículo
+1234,Este,2025-07-02 04:33:00,Ruta principal,VAN-776,Recoger pedido
+1235,Centro,2025-07-02 04:34:00,Cargar vehículo,VAN-784,Cargar vehículo
+1236,Centro,2025-07-02 04:35:00,Recoger pedido,VAN-934,Confirmación
+1237,Norte,2025-07-02 04:36:00,Cargar vehículo,VAN-209,Confirmación
+1238,Centro,2025-07-02 04:37:00,Entrega,VAN-691,Ruta principal
+1239,Oeste,2025-07-02 04:38:00,Recoger pedido,VAN-797,Ruta principal
+1240,Norte,2025-07-02 04:39:00,Entrega,VAN-831,Ruta principal
+1241,Centro,2025-07-02 04:40:00,Cargar vehículo,VAN-742,Confirmación
+1242,Norte,2025-07-02 04:41:00,Confirmación,VAN-909,Confirmación
+1243,Este,2025-07-02 04:42:00,Confirmación,VAN-870,Cargar vehículo
+1244,Centro,2025-07-02 04:43:00,Recoger pedido,VAN-685,Confirmación
+1245,Sur,2025-07-02 04:44:00,Entrega,VAN-896,Ruta principal
+1246,Este,2025-07-02 04:45:00,Cargar vehículo,VAN-127,Ruta principal
+1247,Sur,2025-07-02 04:46:00,Ruta principal,VAN-631,Confirmación
+1248,Centro,2025-07-02 04:47:00,Confirmación,VAN-903,Recoger pedido
+1249,Este,2025-07-02 04:48:00,Confirmación,VAN-142,Recoger pedido
+1250,Centro,2025-07-02 04:49:00,Ruta principal,VAN-771,Entrega
+1251,Norte,2025-07-02 04:50:00,Confirmación,VAN-384,Confirmación
+1252,Este,2025-07-02 04:51:00,Confirmación,VAN-451,Recoger pedido
+1253,Oeste,2025-07-02 04:52:00,Cargar vehículo,VAN-145,Confirmación
+1254,Centro,2025-07-02 04:53:00,Entrega,VAN-861,Cargar vehículo
+1255,Norte,2025-07-02 04:54:00,Cargar vehículo,VAN-322,Confirmación
+1256,Centro,2025-07-02 04:55:00,Recoger pedido,VAN-899,Entrega
+1257,Sur,2025-07-02 04:56:00,Ruta principal,VAN-304,Entrega
+1258,Sur,2025-07-02 04:57:00,Ruta principal,VAN-403,Cargar vehículo
+1259,Este,2025-07-02 04:58:00,Ruta principal,VAN-275,Confirmación
+1260,Sur,2025-07-02 04:59:00,Recoger pedido,VAN-337,Entrega
+1261,Oeste,2025-07-02 05:00:00,Entrega,VAN-943,Entrega
+1262,Centro,2025-07-02 05:01:00,Recoger pedido,VAN-674,Ruta principal
+1263,Este,2025-07-02 05:02:00,Recoger pedido,VAN-707,Ruta principal
+1264,Oeste,2025-07-02 05:03:00,Cargar vehículo,VAN-163,Ruta principal
+1265,Norte,2025-07-02 05:04:00,Entrega,VAN-475,Recoger pedido
+1266,Centro,2025-07-02 05:05:00,Confirmación,VAN-978,Confirmación
+1267,Centro,2025-07-02 05:06:00,Entrega,VAN-163,Entrega
+1268,Centro,2025-07-02 05:07:00,Confirmación,VAN-444,Confirmación
+1269,Este,2025-07-02 05:08:00,Recoger pedido,VAN-639,Entrega
+1270,Centro,2025-07-02 05:09:00,Entrega,VAN-999,Ruta principal
+1271,Sur,2025-07-02 05:10:00,Ruta principal,VAN-824,Entrega
+1272,Oeste,2025-07-02 05:11:00,Confirmación,VAN-729,Recoger pedido
+1273,Centro,2025-07-02 05:12:00,Cargar vehículo,VAN-191,Confirmación
+1274,Este,2025-07-02 05:13:00,Confirmación,VAN-821,Ruta principal
+1275,Este,2025-07-02 05:14:00,Confirmación,VAN-784,Entrega
+1276,Oeste,2025-07-02 05:15:00,Entrega,VAN-663,Entrega
+1277,Este,2025-07-02 05:16:00,Cargar vehículo,VAN-400,Cargar vehículo
+1278,Oeste,2025-07-02 05:17:00,Cargar vehículo,VAN-490,Entrega
+1279,Norte,2025-07-02 05:18:00,Confirmación,VAN-379,Confirmación
+1280,Oeste,2025-07-02 05:19:00,Ruta principal,VAN-752,Ruta principal
+1281,Norte,2025-07-02 05:20:00,Cargar vehículo,VAN-829,Confirmación
+1282,Norte,2025-07-02 05:21:00,Confirmación,VAN-855,Cargar vehículo
+1283,Centro,2025-07-02 05:22:00,Entrega,VAN-671,Ruta principal
+1284,Centro,2025-07-02 05:23:00,Confirmación,VAN-422,Confirmación
+1285,Norte,2025-07-02 05:24:00,Entrega,VAN-864,Recoger pedido
+1286,Sur,2025-07-02 05:25:00,Confirmación,VAN-389,Cargar vehículo
+1287,Centro,2025-07-02 05:26:00,Confirmación,VAN-413,Cargar vehículo
+1288,Centro,2025-07-02 05:27:00,Ruta principal,VAN-327,Confirmación
+1289,Centro,2025-07-02 05:28:00,Cargar vehículo,VAN-917,Cargar vehículo
+1290,Norte,2025-07-02 05:29:00,Confirmación,VAN-170,Confirmación
+1291,Centro,2025-07-02 05:30:00,Recoger pedido,VAN-793,Confirmación
+1292,Sur,2025-07-02 05:31:00,Recoger pedido,VAN-211,Confirmación
+1293,Norte,2025-07-02 05:32:00,Entrega,VAN-497,Entrega
+1294,Norte,2025-07-02 05:33:00,Confirmación,VAN-174,Entrega
+1295,Este,2025-07-02 05:34:00,Cargar vehículo,VAN-883,Cargar vehículo
+1296,Oeste,2025-07-02 05:35:00,Entrega,VAN-331,Confirmación
+1297,Sur,2025-07-02 05:36:00,Cargar vehículo,VAN-429,Cargar vehículo
+1298,Oeste,2025-07-02 05:37:00,Entrega,VAN-152,Cargar vehículo
+1299,Este,2025-07-02 05:38:00,Ruta principal,VAN-859,Entrega
+1300,Este,2025-07-02 05:39:00,Cargar vehículo,VAN-618,Ruta principal
+1301,Centro,2025-07-02 05:40:00,Entrega,VAN-650,Entrega
+1302,Centro,2025-07-02 05:41:00,Cargar vehículo,VAN-221,Cargar vehículo
+1303,Centro,2025-07-02 05:42:00,Confirmación,VAN-329,Ruta principal
+1304,Norte,2025-07-02 05:43:00,Ruta principal,VAN-538,Confirmación
+1305,Este,2025-07-02 05:44:00,Recoger pedido,VAN-793,Recoger pedido
+1306,Norte,2025-07-02 05:45:00,Ruta principal,VAN-187,Recoger pedido
+1307,Centro,2025-07-02 05:46:00,Ruta principal,VAN-748,Entrega
+1308,Este,2025-07-02 05:47:00,Entrega,VAN-923,Ruta principal
+1309,Sur,2025-07-02 05:48:00,Cargar vehículo,VAN-759,Cargar vehículo
+1310,Centro,2025-07-02 05:49:00,Entrega,VAN-994,Recoger pedido
+1311,Oeste,2025-07-02 05:50:00,Recoger pedido,VAN-271,Confirmación
+1312,Este,2025-07-02 05:51:00,Confirmación,VAN-718,Cargar vehículo
+1313,Centro,2025-07-02 05:52:00,Recoger pedido,VAN-317,Cargar vehículo
+1314,Centro,2025-07-02 05:53:00,Confirmación,VAN-201,Entrega
+1315,Sur,2025-07-02 05:54:00,Ruta principal,VAN-338,Entrega
+1316,Este,2025-07-02 05:55:00,Recoger pedido,VAN-569,Entrega
+1317,Sur,2025-07-02 05:56:00,Recoger pedido,VAN-933,Entrega
+1318,Sur,2025-07-02 05:57:00,Confirmación,VAN-896,Confirmación
+1319,Centro,2025-07-02 05:58:00,Confirmación,VAN-830,Entrega
+1320,Oeste,2025-07-02 05:59:00,Recoger pedido,VAN-450,Cargar vehículo
+1321,Centro,2025-07-02 06:00:00,Ruta principal,VAN-770,Confirmación
+1322,Este,2025-07-02 06:01:00,Cargar vehículo,VAN-615,Recoger pedido
+1323,Oeste,2025-07-02 06:02:00,Recoger pedido,VAN-661,Entrega
+1324,Oeste,2025-07-02 06:03:00,Entrega,VAN-793,Recoger pedido
+1325,Centro,2025-07-02 06:04:00,Entrega,VAN-886,Ruta principal
+1326,Oeste,2025-07-02 06:05:00,Entrega,VAN-983,Cargar vehículo
+1327,Oeste,2025-07-02 06:06:00,Ruta principal,VAN-864,Ruta principal
+1328,Centro,2025-07-02 06:07:00,Entrega,VAN-707,Cargar vehículo
+1329,Oeste,2025-07-02 06:08:00,Entrega,VAN-945,Cargar vehículo
+1330,Norte,2025-07-02 06:09:00,Confirmación,VAN-831,Entrega
+1331,Centro,2025-07-02 06:10:00,Confirmación,VAN-313,Cargar vehículo
+1332,Centro,2025-07-02 06:11:00,Recoger pedido,VAN-152,Confirmación
+1333,Centro,2025-07-02 06:12:00,Recoger pedido,VAN-702,Confirmación
+1334,Centro,2025-07-02 06:13:00,Ruta principal,VAN-392,Recoger pedido
+1335,Sur,2025-07-02 06:14:00,Confirmación,VAN-698,Entrega
+1336,Norte,2025-07-02 06:15:00,Ruta principal,VAN-135,Confirmación
+1337,Centro,2025-07-02 06:16:00,Entrega,VAN-146,Ruta principal
+1338,Sur,2025-07-02 06:17:00,Entrega,VAN-956,Entrega
+1339,Norte,2025-07-02 06:18:00,Recoger pedido,VAN-476,Entrega
+1340,Sur,2025-07-02 06:19:00,Ruta principal,VAN-229,Recoger pedido
+1341,Oeste,2025-07-02 06:20:00,Confirmación,VAN-419,Recoger pedido
+1342,Centro,2025-07-02 06:21:00,Recoger pedido,VAN-389,Confirmación
+1343,Norte,2025-07-02 06:22:00,Entrega,VAN-791,Recoger pedido
+1344,Centro,2025-07-02 06:23:00,Confirmación,VAN-991,Recoger pedido
+1345,Sur,2025-07-02 06:24:00,Confirmación,VAN-657,Cargar vehículo
+1346,Norte,2025-07-02 06:25:00,Cargar vehículo,VAN-663,Cargar vehículo
+1347,Sur,2025-07-02 06:26:00,Confirmación,VAN-678,Confirmación
+1348,Norte,2025-07-02 06:27:00,Cargar vehículo,VAN-918,Entrega
+1349,Centro,2025-07-02 06:28:00,Ruta principal,VAN-560,Cargar vehículo
+1350,Este,2025-07-02 06:29:00,Recoger pedido,VAN-279,Entrega
+1351,Oeste,2025-07-02 06:30:00,Confirmación,VAN-415,Cargar vehículo
+1352,Sur,2025-07-02 06:31:00,Confirmación,VAN-430,Confirmación
+1353,Centro,2025-07-02 06:32:00,Cargar vehículo,VAN-471,Ruta principal
+1354,Este,2025-07-02 06:33:00,Entrega,VAN-839,Cargar vehículo
+1355,Centro,2025-07-02 06:34:00,Entrega,VAN-378,Cargar vehículo
+1356,Sur,2025-07-02 06:35:00,Ruta principal,VAN-718,Recoger pedido
+1357,Norte,2025-07-02 06:36:00,Entrega,VAN-235,Recoger pedido
+1358,Sur,2025-07-02 06:37:00,Cargar vehículo,VAN-582,Recoger pedido
+1359,Norte,2025-07-02 06:38:00,Ruta principal,VAN-489,Cargar vehículo
+1360,Oeste,2025-07-02 06:39:00,Cargar vehículo,VAN-776,Ruta principal
+1361,Sur,2025-07-02 06:40:00,Confirmación,VAN-457,Ruta principal
+1362,Norte,2025-07-02 06:41:00,Cargar vehículo,VAN-544,Cargar vehículo
+1363,Centro,2025-07-02 06:42:00,Recoger pedido,VAN-640,Confirmación
+1364,Oeste,2025-07-02 06:43:00,Cargar vehículo,VAN-680,Confirmación
+1365,Oeste,2025-07-02 06:44:00,Ruta principal,VAN-405,Ruta principal
+1366,Sur,2025-07-02 06:45:00,Cargar vehículo,VAN-634,Ruta principal
+1367,Oeste,2025-07-02 06:46:00,Entrega,VAN-611,Entrega
+1368,Sur,2025-07-02 06:47:00,Cargar vehículo,VAN-919,Ruta principal
+1369,Este,2025-07-02 06:48:00,Confirmación,VAN-245,Cargar vehículo
+1370,Este,2025-07-02 06:49:00,Cargar vehículo,VAN-754,Cargar vehículo
+1371,Oeste,2025-07-02 06:50:00,Confirmación,VAN-757,Confirmación
+1372,Norte,2025-07-02 06:51:00,Cargar vehículo,VAN-315,Confirmación
+1373,Oeste,2025-07-02 06:52:00,Recoger pedido,VAN-629,Entrega
+1374,Norte,2025-07-02 06:53:00,Entrega,VAN-176,Recoger pedido
+1375,Este,2025-07-02 06:54:00,Confirmación,VAN-713,Entrega
+1376,Este,2025-07-02 06:55:00,Confirmación,VAN-692,Ruta principal
+1377,Norte,2025-07-02 06:56:00,Cargar vehículo,VAN-540,Entrega
+1378,Sur,2025-07-02 06:57:00,Recoger pedido,VAN-242,Ruta principal
+1379,Norte,2025-07-02 06:58:00,Ruta principal,VAN-412,Ruta principal
+1380,Norte,2025-07-02 06:59:00,Cargar vehículo,VAN-275,Entrega
+1381,Este,2025-07-02 07:00:00,Cargar vehículo,VAN-370,Recoger pedido
+1382,Norte,2025-07-02 07:01:00,Cargar vehículo,VAN-197,Ruta principal
+1383,Norte,2025-07-02 07:02:00,Cargar vehículo,VAN-346,Ruta principal
+1384,Norte,2025-07-02 07:03:00,Cargar vehículo,VAN-620,Recoger pedido
+1385,Norte,2025-07-02 07:04:00,Confirmación,VAN-293,Ruta principal
+1386,Centro,2025-07-02 07:05:00,Entrega,VAN-764,Recoger pedido
+1387,Oeste,2025-07-02 07:06:00,Confirmación,VAN-175,Recoger pedido
+1388,Sur,2025-07-02 07:07:00,Ruta principal,VAN-482,Cargar vehículo
+1389,Este,2025-07-02 07:08:00,Cargar vehículo,VAN-221,Confirmación
+1390,Sur,2025-07-02 07:09:00,Confirmación,VAN-771,Entrega
+1391,Este,2025-07-02 07:10:00,Entrega,VAN-930,Ruta principal
+1392,Centro,2025-07-02 07:11:00,Ruta principal,VAN-329,Entrega
+1393,Este,2025-07-02 07:12:00,Ruta principal,VAN-888,Entrega
+1394,Este,2025-07-02 07:13:00,Cargar vehículo,VAN-997,Recoger pedido
+1395,Oeste,2025-07-02 07:14:00,Confirmación,VAN-120,Recoger pedido
+1396,Centro,2025-07-02 07:15:00,Entrega,VAN-792,Recoger pedido
+1397,Centro,2025-07-02 07:16:00,Confirmación,VAN-434,Entrega
+1398,Oeste,2025-07-02 07:17:00,Entrega,VAN-491,Recoger pedido
+1399,Este,2025-07-02 07:18:00,Confirmación,VAN-973,Entrega
+1400,Norte,2025-07-02 07:19:00,Ruta principal,VAN-943,Cargar vehículo
+1401,Norte,2025-07-02 07:20:00,Entrega,VAN-783,Ruta principal
+1402,Norte,2025-07-02 07:21:00,Confirmación,VAN-667,Recoger pedido
+1403,Sur,2025-07-02 07:22:00,Recoger pedido,VAN-965,Entrega
+1404,Sur,2025-07-02 07:23:00,Entrega,VAN-890,Cargar vehículo
+1405,Este,2025-07-02 07:24:00,Confirmación,VAN-628,Cargar vehículo
+1406,Oeste,2025-07-02 07:25:00,Recoger pedido,VAN-952,Recoger pedido
+1407,Centro,2025-07-02 07:26:00,Entrega,VAN-883,Entrega
+1408,Centro,2025-07-02 07:27:00,Ruta principal,VAN-472,Confirmación
+1409,Centro,2025-07-02 07:28:00,Entrega,VAN-717,Cargar vehículo
+1410,Este,2025-07-02 07:29:00,Confirmación,VAN-569,Cargar vehículo
+1411,Sur,2025-07-02 07:30:00,Entrega,VAN-803,Cargar vehículo
+1412,Este,2025-07-02 07:31:00,Recoger pedido,VAN-479,Entrega
+1413,Norte,2025-07-02 07:32:00,Confirmación,VAN-957,Recoger pedido
+1414,Oeste,2025-07-02 07:33:00,Confirmación,VAN-713,Entrega
+1415,Sur,2025-07-02 07:34:00,Confirmación,VAN-155,Confirmación
+1416,Sur,2025-07-02 07:35:00,Confirmación,VAN-118,Cargar vehículo
+1417,Norte,2025-07-02 07:36:00,Entrega,VAN-929,Cargar vehículo
+1418,Sur,2025-07-02 07:37:00,Cargar vehículo,VAN-700,Recoger pedido
+1419,Sur,2025-07-02 07:38:00,Confirmación,VAN-787,Confirmación
+1420,Centro,2025-07-02 07:39:00,Confirmación,VAN-991,Recoger pedido
+1421,Oeste,2025-07-02 07:40:00,Ruta principal,VAN-942,Confirmación
+1422,Sur,2025-07-02 07:41:00,Confirmación,VAN-808,Recoger pedido
+1423,Sur,2025-07-02 07:42:00,Cargar vehículo,VAN-751,Confirmación
+1424,Centro,2025-07-02 07:43:00,Entrega,VAN-916,Cargar vehículo
+1425,Este,2025-07-02 07:44:00,Confirmación,VAN-380,Confirmación
+1426,Norte,2025-07-02 07:45:00,Entrega,VAN-737,Cargar vehículo
+1427,Centro,2025-07-02 07:46:00,Ruta principal,VAN-308,Confirmación
+1428,Norte,2025-07-02 07:47:00,Ruta principal,VAN-267,Entrega
+1429,Centro,2025-07-02 07:48:00,Recoger pedido,VAN-873,Ruta principal
+1430,Centro,2025-07-02 07:49:00,Ruta principal,VAN-273,Recoger pedido
+1431,Centro,2025-07-02 07:50:00,Entrega,VAN-221,Ruta principal
+1432,Centro,2025-07-02 07:51:00,Cargar vehículo,VAN-673,Recoger pedido
+1433,Este,2025-07-02 07:52:00,Confirmación,VAN-798,Recoger pedido
+1434,Norte,2025-07-02 07:53:00,Recoger pedido,VAN-815,Ruta principal
+1435,Centro,2025-07-02 07:54:00,Confirmación,VAN-960,Entrega
+1436,Sur,2025-07-02 07:55:00,Confirmación,VAN-765,Ruta principal
+1437,Sur,2025-07-02 07:56:00,Cargar vehículo,VAN-638,Recoger pedido
+1438,Este,2025-07-02 07:57:00,Recoger pedido,VAN-931,Entrega
+1439,Centro,2025-07-02 07:58:00,Confirmación,VAN-430,Ruta principal
+1440,Norte,2025-07-02 07:59:00,Ruta principal,VAN-880,Recoger pedido
+1441,Este,2025-07-02 08:00:00,Recoger pedido,VAN-757,Recoger pedido
+1442,Sur,2025-07-02 08:01:00,Entrega,VAN-505,Recoger pedido
+1443,Oeste,2025-07-02 08:02:00,Confirmación,VAN-706,Confirmación
+1444,Este,2025-07-02 08:03:00,Confirmación,VAN-756,Entrega
+1445,Oeste,2025-07-02 08:04:00,Confirmación,VAN-645,Recoger pedido
+1446,Centro,2025-07-02 08:05:00,Confirmación,VAN-458,Confirmación
+1447,Sur,2025-07-02 08:06:00,Cargar vehículo,VAN-248,Cargar vehículo
+1448,Sur,2025-07-02 08:07:00,Entrega,VAN-999,Confirmación
+1449,Oeste,2025-07-02 08:08:00,Entrega,VAN-636,Confirmación
+1450,Centro,2025-07-02 08:09:00,Confirmación,VAN-978,Cargar vehículo
+1451,Norte,2025-07-02 08:10:00,Ruta principal,VAN-890,Confirmación
+1452,Centro,2025-07-02 08:11:00,Confirmación,VAN-132,Ruta principal
+1453,Centro,2025-07-02 08:12:00,Ruta principal,VAN-933,Recoger pedido
+1454,Este,2025-07-02 08:13:00,Ruta principal,VAN-956,Recoger pedido
+1455,Norte,2025-07-02 08:14:00,Cargar vehículo,VAN-172,Cargar vehículo
+1456,Norte,2025-07-02 08:15:00,Entrega,VAN-299,Confirmación
+1457,Norte,2025-07-02 08:16:00,Confirmación,VAN-450,Ruta principal
+1458,Oeste,2025-07-02 08:17:00,Entrega,VAN-766,Entrega
+1459,Sur,2025-07-02 08:18:00,Confirmación,VAN-870,Recoger pedido
+1460,Centro,2025-07-02 08:19:00,Cargar vehículo,VAN-952,Confirmación
+1461,Este,2025-07-02 08:20:00,Confirmación,VAN-511,Recoger pedido
+1462,Norte,2025-07-02 08:21:00,Entrega,VAN-594,Entrega
+1463,Norte,2025-07-02 08:22:00,Recoger pedido,VAN-706,Cargar vehículo
+1464,Sur,2025-07-02 08:23:00,Cargar vehículo,VAN-991,Cargar vehículo
+1465,Sur,2025-07-02 08:24:00,Cargar vehículo,VAN-538,Confirmación
+1466,Centro,2025-07-02 08:25:00,Confirmación,VAN-652,Ruta principal
+1467,Norte,2025-07-02 08:26:00,Confirmación,VAN-390,Ruta principal
+1468,Norte,2025-07-02 08:27:00,Recoger pedido,VAN-424,Recoger pedido
+1469,Centro,2025-07-02 08:28:00,Confirmación,VAN-332,Entrega
+1470,Oeste,2025-07-02 08:29:00,Confirmación,VAN-152,Entrega
+1471,Oeste,2025-07-02 08:30:00,Confirmación,VAN-148,Ruta principal
+1472,Este,2025-07-02 08:31:00,Cargar vehículo,VAN-205,Recoger pedido
+1473,Sur,2025-07-02 08:32:00,Entrega,VAN-551,Entrega
+1474,Norte,2025-07-02 08:33:00,Confirmación,VAN-476,Ruta principal
+1475,Centro,2025-07-02 08:34:00,Entrega,VAN-411,Cargar vehículo
+1476,Norte,2025-07-02 08:35:00,Recoger pedido,VAN-659,Entrega
+1477,Oeste,2025-07-02 08:36:00,Confirmación,VAN-482,Ruta principal
+1478,Centro,2025-07-02 08:37:00,Cargar vehículo,VAN-475,Cargar vehículo
+1479,Centro,2025-07-02 08:38:00,Entrega,VAN-135,Ruta principal
+1480,Sur,2025-07-02 08:39:00,Confirmación,VAN-157,Entrega
+1481,Sur,2025-07-02 08:40:00,Ruta principal,VAN-277,Confirmación
+1482,Oeste,2025-07-02 08:41:00,Cargar vehículo,VAN-888,Cargar vehículo
+1483,Centro,2025-07-02 08:42:00,Entrega,VAN-147,Ruta principal
+1484,Oeste,2025-07-02 08:43:00,Ruta principal,VAN-718,Entrega
+1485,Norte,2025-07-02 08:44:00,Entrega,VAN-628,Ruta principal
+1486,Norte,2025-07-02 08:45:00,Confirmación,VAN-178,Cargar vehículo
+1487,Oeste,2025-07-02 08:46:00,Recoger pedido,VAN-415,Confirmación
+1488,Este,2025-07-02 08:47:00,Cargar vehículo,VAN-714,Cargar vehículo
+1489,Este,2025-07-02 08:48:00,Confirmación,VAN-731,Entrega
+1490,Norte,2025-07-02 08:49:00,Entrega,VAN-285,Cargar vehículo
+1491,Centro,2025-07-02 08:50:00,Recoger pedido,VAN-990,Confirmación
+1492,Sur,2025-07-02 08:51:00,Entrega,VAN-336,Ruta principal
+1493,Sur,2025-07-02 08:52:00,Cargar vehículo,VAN-281,Entrega
+1494,Este,2025-07-02 08:53:00,Confirmación,VAN-673,Confirmación
+1495,Centro,2025-07-02 08:54:00,Ruta principal,VAN-164,Entrega
+1496,Norte,2025-07-02 08:55:00,Cargar vehículo,VAN-893,Ruta principal
+1497,Este,2025-07-02 08:56:00,Cargar vehículo,VAN-827,Entrega
+1498,Norte,2025-07-02 08:57:00,Confirmación,VAN-822,Entrega
+1499,Este,2025-07-02 08:58:00,Entrega,VAN-646,Confirmación
+1500,Norte,2025-07-02 08:59:00,Confirmación,VAN-347,Confirmación
+1501,Este,2025-07-02 09:00:00,Ruta principal,VAN-690,Confirmación
+1502,Centro,2025-07-02 09:01:00,Ruta principal,VAN-661,Recoger pedido
+1503,Norte,2025-07-02 09:02:00,Entrega,VAN-460,Recoger pedido
+1504,Centro,2025-07-02 09:03:00,Entrega,VAN-654,Recoger pedido
+1505,Oeste,2025-07-02 09:04:00,Recoger pedido,VAN-681,Confirmación
+1506,Este,2025-07-02 09:05:00,Recoger pedido,VAN-877,Entrega
+1507,Este,2025-07-02 09:06:00,Recoger pedido,VAN-717,Cargar vehículo
+1508,Este,2025-07-02 09:07:00,Cargar vehículo,VAN-821,Ruta principal
+1509,Norte,2025-07-02 09:08:00,Cargar vehículo,VAN-109,Cargar vehículo
+1510,Norte,2025-07-02 09:09:00,Cargar vehículo,VAN-393,Ruta principal
+1511,Norte,2025-07-02 09:10:00,Ruta principal,VAN-847,Recoger pedido
+1512,Oeste,2025-07-02 09:11:00,Cargar vehículo,VAN-609,Recoger pedido
+1513,Oeste,2025-07-02 09:12:00,Cargar vehículo,VAN-475,Entrega
+1514,Oeste,2025-07-02 09:13:00,Recoger pedido,VAN-841,Recoger pedido
+1515,Este,2025-07-02 09:14:00,Confirmación,VAN-734,Confirmación
+1516,Sur,2025-07-02 09:15:00,Entrega,VAN-584,Confirmación
+1517,Sur,2025-07-02 09:16:00,Confirmación,VAN-508,Cargar vehículo
+1518,Oeste,2025-07-02 09:17:00,Ruta principal,VAN-899,Recoger pedido
+1519,Oeste,2025-07-02 09:18:00,Confirmación,VAN-986,Entrega
+1520,Oeste,2025-07-02 09:19:00,Recoger pedido,VAN-553,Cargar vehículo
+1521,Norte,2025-07-02 09:20:00,Cargar vehículo,VAN-494,Confirmación
+1522,Este,2025-07-02 09:21:00,Recoger pedido,VAN-312,Entrega
+1523,Oeste,2025-07-02 09:22:00,Cargar vehículo,VAN-378,Confirmación
+1524,Oeste,2025-07-02 09:23:00,Entrega,VAN-682,Recoger pedido
+1525,Este,2025-07-02 09:24:00,Recoger pedido,VAN-959,Cargar vehículo
+1526,Este,2025-07-02 09:25:00,Entrega,VAN-212,Cargar vehículo
+1527,Centro,2025-07-02 09:26:00,Entrega,VAN-656,Ruta principal
+1528,Oeste,2025-07-02 09:27:00,Confirmación,VAN-425,Ruta principal
+1529,Este,2025-07-02 09:28:00,Ruta principal,VAN-767,Entrega
+1530,Este,2025-07-02 09:29:00,Cargar vehículo,VAN-855,Entrega
+1531,Centro,2025-07-02 09:30:00,Confirmación,VAN-858,Ruta principal
+1532,Este,2025-07-02 09:31:00,Confirmación,VAN-530,Entrega
+1533,Oeste,2025-07-02 09:32:00,Ruta principal,VAN-632,Entrega
+1534,Oeste,2025-07-02 09:33:00,Entrega,VAN-285,Ruta principal
+1535,Norte,2025-07-02 09:34:00,Ruta principal,VAN-604,Entrega
+1536,Sur,2025-07-02 09:35:00,Ruta principal,VAN-738,Recoger pedido
+1537,Norte,2025-07-02 09:36:00,Recoger pedido,VAN-932,Cargar vehículo
+1538,Norte,2025-07-02 09:37:00,Entrega,VAN-351,Cargar vehículo
+1539,Oeste,2025-07-02 09:38:00,Recoger pedido,VAN-243,Confirmación
+1540,Centro,2025-07-02 09:39:00,Confirmación,VAN-137,Confirmación
+1541,Este,2025-07-02 09:40:00,Entrega,VAN-206,Cargar vehículo
+1542,Sur,2025-07-02 09:41:00,Entrega,VAN-909,Ruta principal
+1543,Sur,2025-07-02 09:42:00,Confirmación,VAN-122,Entrega
+1544,Centro,2025-07-02 09:43:00,Entrega,VAN-803,Confirmación
+1545,Oeste,2025-07-02 09:44:00,Cargar vehículo,VAN-811,Entrega
+1546,Norte,2025-07-02 09:45:00,Entrega,VAN-389,Confirmación
+1547,Sur,2025-07-02 09:46:00,Ruta principal,VAN-244,Entrega
+1548,Sur,2025-07-02 09:47:00,Cargar vehículo,VAN-335,Recoger pedido
+1549,Este,2025-07-02 09:48:00,Ruta principal,VAN-836,Ruta principal
+1550,Oeste,2025-07-02 09:49:00,Recoger pedido,VAN-931,Confirmación
+1551,Oeste,2025-07-02 09:50:00,Cargar vehículo,VAN-734,Recoger pedido
+1552,Este,2025-07-02 09:51:00,Recoger pedido,VAN-753,Confirmación
+1553,Este,2025-07-02 09:52:00,Confirmación,VAN-999,Cargar vehículo
+1554,Norte,2025-07-02 09:53:00,Recoger pedido,VAN-720,Entrega
+1555,Este,2025-07-02 09:54:00,Recoger pedido,VAN-863,Confirmación
+1556,Este,2025-07-02 09:55:00,Recoger pedido,VAN-780,Recoger pedido
+1557,Centro,2025-07-02 09:56:00,Entrega,VAN-444,Cargar vehículo
+1558,Sur,2025-07-02 09:57:00,Recoger pedido,VAN-811,Cargar vehículo
+1559,Centro,2025-07-02 09:58:00,Cargar vehículo,VAN-497,Entrega
+1560,Oeste,2025-07-02 09:59:00,Ruta principal,VAN-716,Entrega
+1561,Este,2025-07-02 10:00:00,Ruta principal,VAN-910,Cargar vehículo
+1562,Norte,2025-07-02 10:01:00,Confirmación,VAN-623,Entrega
+1563,Oeste,2025-07-02 10:02:00,Confirmación,VAN-336,Entrega
+1564,Oeste,2025-07-02 10:03:00,Entrega,VAN-918,Recoger pedido
+1565,Centro,2025-07-02 10:04:00,Recoger pedido,VAN-342,Ruta principal
+1566,Este,2025-07-02 10:05:00,Ruta principal,VAN-952,Entrega
+1567,Este,2025-07-02 10:06:00,Confirmación,VAN-959,Recoger pedido
+1568,Oeste,2025-07-02 10:07:00,Entrega,VAN-267,Recoger pedido
+1569,Sur,2025-07-02 10:08:00,Ruta principal,VAN-524,Confirmación
+1570,Oeste,2025-07-02 10:09:00,Recoger pedido,VAN-506,Entrega
+1571,Norte,2025-07-02 10:10:00,Ruta principal,VAN-636,Cargar vehículo
+1572,Oeste,2025-07-02 10:11:00,Ruta principal,VAN-997,Cargar vehículo
+1573,Sur,2025-07-02 10:12:00,Recoger pedido,VAN-478,Entrega
+1574,Oeste,2025-07-02 10:13:00,Entrega,VAN-270,Ruta principal
+1575,Sur,2025-07-02 10:14:00,Ruta principal,VAN-437,Recoger pedido
+1576,Norte,2025-07-02 10:15:00,Cargar vehículo,VAN-881,Confirmación
+1577,Centro,2025-07-02 10:16:00,Recoger pedido,VAN-999,Entrega
+1578,Sur,2025-07-02 10:17:00,Confirmación,VAN-813,Entrega
+1579,Centro,2025-07-02 10:18:00,Ruta principal,VAN-419,Recoger pedido
+1580,Oeste,2025-07-02 10:19:00,Entrega,VAN-744,Confirmación
+1581,Norte,2025-07-02 10:20:00,Cargar vehículo,VAN-979,Entrega
+1582,Norte,2025-07-02 10:21:00,Ruta principal,VAN-377,Confirmación
+1583,Norte,2025-07-02 10:22:00,Entrega,VAN-558,Confirmación
+1584,Centro,2025-07-02 10:23:00,Recoger pedido,VAN-978,Recoger pedido
+1585,Este,2025-07-02 10:24:00,Confirmación,VAN-686,Ruta principal
+1586,Centro,2025-07-02 10:25:00,Ruta principal,VAN-958,Entrega
+1587,Este,2025-07-02 10:26:00,Cargar vehículo,VAN-891,Cargar vehículo
+1588,Centro,2025-07-02 10:27:00,Recoger pedido,VAN-240,Confirmación
+1589,Este,2025-07-02 10:28:00,Recoger pedido,VAN-901,Entrega
+1590,Centro,2025-07-02 10:29:00,Cargar vehículo,VAN-893,Ruta principal
+1591,Centro,2025-07-02 10:30:00,Confirmación,VAN-419,Ruta principal
+1592,Centro,2025-07-02 10:31:00,Entrega,VAN-478,Ruta principal
+1593,Norte,2025-07-02 10:32:00,Cargar vehículo,VAN-782,Recoger pedido
+1594,Norte,2025-07-02 10:33:00,Entrega,VAN-159,Entrega
+1595,Oeste,2025-07-02 10:34:00,Cargar vehículo,VAN-675,Ruta principal
+1596,Centro,2025-07-02 10:35:00,Cargar vehículo,VAN-181,Confirmación
+1597,Este,2025-07-02 10:36:00,Recoger pedido,VAN-481,Cargar vehículo
+1598,Centro,2025-07-02 10:37:00,Cargar vehículo,VAN-339,Confirmación
+1599,Centro,2025-07-02 10:38:00,Entrega,VAN-945,Recoger pedido
+1600,Oeste,2025-07-02 10:39:00,Recoger pedido,VAN-873,Ruta principal
+1601,Este,2025-07-02 10:40:00,Ruta principal,VAN-584,Cargar vehículo
+1602,Norte,2025-07-02 10:41:00,Recoger pedido,VAN-678,Entrega
+1603,Este,2025-07-02 10:42:00,Ruta principal,VAN-908,Ruta principal
+1604,Centro,2025-07-02 10:43:00,Confirmación,VAN-830,Entrega
+1605,Norte,2025-07-02 10:44:00,Cargar vehículo,VAN-401,Cargar vehículo
+1606,Norte,2025-07-02 10:45:00,Recoger pedido,VAN-546,Cargar vehículo
+1607,Este,2025-07-02 10:46:00,Entrega,VAN-360,Ruta principal
+1608,Oeste,2025-07-02 10:47:00,Ruta principal,VAN-675,Cargar vehículo
+1609,Norte,2025-07-02 10:48:00,Entrega,VAN-535,Recoger pedido
+1610,Centro,2025-07-02 10:49:00,Ruta principal,VAN-286,Ruta principal
+1611,Norte,2025-07-02 10:50:00,Confirmación,VAN-792,Ruta principal
+1612,Este,2025-07-02 10:51:00,Recoger pedido,VAN-987,Entrega
+1613,Oeste,2025-07-02 10:52:00,Confirmación,VAN-789,Ruta principal
+1614,Norte,2025-07-02 10:53:00,Cargar vehículo,VAN-944,Cargar vehículo
+1615,Sur,2025-07-02 10:54:00,Ruta principal,VAN-584,Entrega
+1616,Sur,2025-07-02 10:55:00,Confirmación,VAN-949,Ruta principal
+1617,Centro,2025-07-02 10:56:00,Confirmación,VAN-381,Cargar vehículo
+1618,Este,2025-07-02 10:57:00,Confirmación,VAN-570,Cargar vehículo
+1619,Sur,2025-07-02 10:58:00,Entrega,VAN-886,Ruta principal
+1620,Centro,2025-07-02 10:59:00,Cargar vehículo,VAN-805,Recoger pedido
+1621,Sur,2025-07-02 11:00:00,Ruta principal,VAN-200,Cargar vehículo
+1622,Centro,2025-07-02 11:01:00,Entrega,VAN-482,Recoger pedido
+1623,Centro,2025-07-02 11:02:00,Cargar vehículo,VAN-315,Entrega
+1624,Sur,2025-07-02 11:03:00,Ruta principal,VAN-891,Recoger pedido
+1625,Este,2025-07-02 11:04:00,Ruta principal,VAN-446,Confirmación
+1626,Este,2025-07-02 11:05:00,Cargar vehículo,VAN-615,Confirmación
+1627,Centro,2025-07-02 11:06:00,Recoger pedido,VAN-164,Recoger pedido
+1628,Norte,2025-07-02 11:07:00,Recoger pedido,VAN-171,Confirmación
+1629,Oeste,2025-07-02 11:08:00,Confirmación,VAN-203,Cargar vehículo
+1630,Sur,2025-07-02 11:09:00,Recoger pedido,VAN-541,Cargar vehículo
+1631,Este,2025-07-02 11:10:00,Confirmación,VAN-208,Confirmación
+1632,Centro,2025-07-02 11:11:00,Ruta principal,VAN-480,Ruta principal
+1633,Este,2025-07-02 11:12:00,Ruta principal,VAN-984,Recoger pedido
+1634,Norte,2025-07-02 11:13:00,Confirmación,VAN-123,Confirmación
+1635,Norte,2025-07-02 11:14:00,Entrega,VAN-583,Ruta principal
+1636,Norte,2025-07-02 11:15:00,Recoger pedido,VAN-249,Ruta principal
+1637,Oeste,2025-07-02 11:16:00,Recoger pedido,VAN-956,Cargar vehículo
+1638,Norte,2025-07-02 11:17:00,Entrega,VAN-138,Recoger pedido
+1639,Oeste,2025-07-02 11:18:00,Cargar vehículo,VAN-727,Confirmación
+1640,Oeste,2025-07-02 11:19:00,Entrega,VAN-946,Cargar vehículo
+1641,Oeste,2025-07-02 11:20:00,Ruta principal,VAN-526,Ruta principal
+1642,Oeste,2025-07-02 11:21:00,Confirmación,VAN-131,Entrega
+1643,Norte,2025-07-02 11:22:00,Confirmación,VAN-802,Confirmación
+1644,Este,2025-07-02 11:23:00,Ruta principal,VAN-596,Cargar vehículo
+1645,Sur,2025-07-02 11:24:00,Ruta principal,VAN-124,Recoger pedido
+1646,Norte,2025-07-02 11:25:00,Confirmación,VAN-782,Ruta principal
+1647,Sur,2025-07-02 11:26:00,Entrega,VAN-490,Cargar vehículo
+1648,Este,2025-07-02 11:27:00,Confirmación,VAN-539,Recoger pedido
+1649,Oeste,2025-07-02 11:28:00,Recoger pedido,VAN-729,Recoger pedido
+1650,Sur,2025-07-02 11:29:00,Ruta principal,VAN-319,Cargar vehículo
+1651,Oeste,2025-07-02 11:30:00,Cargar vehículo,VAN-292,Cargar vehículo
+1652,Norte,2025-07-02 11:31:00,Entrega,VAN-505,Cargar vehículo
+1653,Norte,2025-07-02 11:32:00,Ruta principal,VAN-798,Ruta principal
+1654,Norte,2025-07-02 11:33:00,Entrega,VAN-204,Confirmación
+1655,Oeste,2025-07-02 11:34:00,Entrega,VAN-211,Entrega
+1656,Centro,2025-07-02 11:35:00,Cargar vehículo,VAN-334,Confirmación
+1657,Oeste,2025-07-02 11:36:00,Entrega,VAN-993,Cargar vehículo
+1658,Oeste,2025-07-02 11:37:00,Recoger pedido,VAN-393,Recoger pedido
+1659,Este,2025-07-02 11:38:00,Entrega,VAN-860,Recoger pedido
+1660,Centro,2025-07-02 11:39:00,Ruta principal,VAN-109,Entrega
+1661,Centro,2025-07-02 11:40:00,Ruta principal,VAN-617,Cargar vehículo
+1662,Centro,2025-07-02 11:41:00,Cargar vehículo,VAN-525,Cargar vehículo
+1663,Oeste,2025-07-02 11:42:00,Confirmación,VAN-195,Cargar vehículo
+1664,Sur,2025-07-02 11:43:00,Ruta principal,VAN-109,Cargar vehículo
+1665,Centro,2025-07-02 11:44:00,Ruta principal,VAN-768,Confirmación
+1666,Este,2025-07-02 11:45:00,Confirmación,VAN-695,Entrega
+1667,Sur,2025-07-02 11:46:00,Confirmación,VAN-841,Cargar vehículo
+1668,Centro,2025-07-02 11:47:00,Recoger pedido,VAN-549,Ruta principal
+1669,Oeste,2025-07-02 11:48:00,Cargar vehículo,VAN-138,Confirmación
+1670,Oeste,2025-07-02 11:49:00,Confirmación,VAN-758,Ruta principal
+1671,Norte,2025-07-02 11:50:00,Cargar vehículo,VAN-228,Recoger pedido
+1672,Norte,2025-07-02 11:51:00,Recoger pedido,VAN-983,Confirmación
+1673,Norte,2025-07-02 11:52:00,Ruta principal,VAN-984,Entrega
+1674,Sur,2025-07-02 11:53:00,Recoger pedido,VAN-795,Cargar vehículo
+1675,Norte,2025-07-02 11:54:00,Confirmación,VAN-911,Recoger pedido
+1676,Este,2025-07-02 11:55:00,Cargar vehículo,VAN-326,Entrega
+1677,Norte,2025-07-02 11:56:00,Entrega,VAN-986,Confirmación
+1678,Oeste,2025-07-02 11:57:00,Ruta principal,VAN-851,Ruta principal
+1679,Norte,2025-07-02 11:58:00,Recoger pedido,VAN-869,Confirmación
+1680,Centro,2025-07-02 11:59:00,Confirmación,VAN-420,Entrega
+1681,Oeste,2025-07-02 12:00:00,Recoger pedido,VAN-478,Entrega
+1682,Este,2025-07-02 12:01:00,Ruta principal,VAN-346,Confirmación
+1683,Sur,2025-07-02 12:02:00,Recoger pedido,VAN-143,Cargar vehículo
+1684,Este,2025-07-02 12:03:00,Confirmación,VAN-392,Confirmación
+1685,Centro,2025-07-02 12:04:00,Recoger pedido,VAN-768,Confirmación
+1686,Este,2025-07-02 12:05:00,Recoger pedido,VAN-249,Entrega
+1687,Centro,2025-07-02 12:06:00,Entrega,VAN-941,Recoger pedido
+1688,Oeste,2025-07-02 12:07:00,Confirmación,VAN-192,Cargar vehículo
+1689,Oeste,2025-07-02 12:08:00,Ruta principal,VAN-100,Entrega
+1690,Oeste,2025-07-02 12:09:00,Cargar vehículo,VAN-744,Ruta principal
+1691,Oeste,2025-07-02 12:10:00,Recoger pedido,VAN-475,Recoger pedido
+1692,Sur,2025-07-02 12:11:00,Ruta principal,VAN-506,Entrega
+1693,Norte,2025-07-02 12:12:00,Recoger pedido,VAN-717,Cargar vehículo
+1694,Oeste,2025-07-02 12:13:00,Entrega,VAN-552,Entrega
+1695,Norte,2025-07-02 12:14:00,Cargar vehículo,VAN-914,Recoger pedido
+1696,Oeste,2025-07-02 12:15:00,Cargar vehículo,VAN-359,Cargar vehículo
+1697,Centro,2025-07-02 12:16:00,Recoger pedido,VAN-761,Recoger pedido
+1698,Este,2025-07-02 12:17:00,Ruta principal,VAN-331,Ruta principal
+1699,Sur,2025-07-02 12:18:00,Entrega,VAN-269,Entrega
+1700,Oeste,2025-07-02 12:19:00,Entrega,VAN-239,Confirmación
+1701,Sur,2025-07-02 12:20:00,Cargar vehículo,VAN-661,Cargar vehículo
+1702,Centro,2025-07-02 12:21:00,Ruta principal,VAN-379,Ruta principal
+1703,Oeste,2025-07-02 12:22:00,Confirmación,VAN-170,Cargar vehículo
+1704,Norte,2025-07-02 12:23:00,Recoger pedido,VAN-768,Entrega
+1705,Norte,2025-07-02 12:24:00,Recoger pedido,VAN-581,Entrega
+1706,Centro,2025-07-02 12:25:00,Ruta principal,VAN-943,Entrega
+1707,Norte,2025-07-02 12:26:00,Entrega,VAN-820,Confirmación
+1708,Oeste,2025-07-02 12:27:00,Entrega,VAN-134,Cargar vehículo
+1709,Centro,2025-07-02 12:28:00,Confirmación,VAN-425,Entrega
+1710,Norte,2025-07-02 12:29:00,Entrega,VAN-821,Confirmación
+1711,Norte,2025-07-02 12:30:00,Cargar vehículo,VAN-512,Cargar vehículo
+1712,Norte,2025-07-02 12:31:00,Confirmación,VAN-868,Recoger pedido
+1713,Centro,2025-07-02 12:32:00,Confirmación,VAN-217,Recoger pedido
+1714,Norte,2025-07-02 12:33:00,Cargar vehículo,VAN-466,Cargar vehículo
+1715,Este,2025-07-02 12:34:00,Recoger pedido,VAN-700,Confirmación
+1716,Norte,2025-07-02 12:35:00,Ruta principal,VAN-882,Recoger pedido
+1717,Centro,2025-07-02 12:36:00,Cargar vehículo,VAN-980,Cargar vehículo
+1718,Norte,2025-07-02 12:37:00,Confirmación,VAN-418,Ruta principal
+1719,Oeste,2025-07-02 12:38:00,Entrega,VAN-533,Confirmación
+1720,Este,2025-07-02 12:39:00,Ruta principal,VAN-435,Entrega
+1721,Oeste,2025-07-02 12:40:00,Recoger pedido,VAN-317,Confirmación
+1722,Este,2025-07-02 12:41:00,Ruta principal,VAN-434,Confirmación
+1723,Este,2025-07-02 12:42:00,Recoger pedido,VAN-757,Ruta principal
+1724,Norte,2025-07-02 12:43:00,Entrega,VAN-687,Entrega
+1725,Sur,2025-07-02 12:44:00,Cargar vehículo,VAN-331,Ruta principal
+1726,Sur,2025-07-02 12:45:00,Ruta principal,VAN-684,Ruta principal
+1727,Centro,2025-07-02 12:46:00,Confirmación,VAN-253,Confirmación
+1728,Oeste,2025-07-02 12:47:00,Cargar vehículo,VAN-389,Entrega
+1729,Oeste,2025-07-02 12:48:00,Confirmación,VAN-207,Entrega
+1730,Centro,2025-07-02 12:49:00,Ruta principal,VAN-359,Entrega
+1731,Centro,2025-07-02 12:50:00,Entrega,VAN-953,Ruta principal
+1732,Norte,2025-07-02 12:51:00,Entrega,VAN-411,Entrega
+1733,Centro,2025-07-02 12:52:00,Entrega,VAN-317,Ruta principal
+1734,Norte,2025-07-02 12:53:00,Entrega,VAN-273,Entrega
+1735,Oeste,2025-07-02 12:54:00,Ruta principal,VAN-549,Confirmación
+1736,Centro,2025-07-02 12:55:00,Ruta principal,VAN-642,Confirmación
+1737,Oeste,2025-07-02 12:56:00,Cargar vehículo,VAN-795,Entrega
+1738,Norte,2025-07-02 12:57:00,Ruta principal,VAN-123,Confirmación
+1739,Oeste,2025-07-02 12:58:00,Confirmación,VAN-358,Cargar vehículo
+1740,Este,2025-07-02 12:59:00,Confirmación,VAN-442,Recoger pedido
+1741,Este,2025-07-02 13:00:00,Ruta principal,VAN-366,Confirmación
+1742,Este,2025-07-02 13:01:00,Ruta principal,VAN-478,Cargar vehículo
+1743,Este,2025-07-02 13:02:00,Cargar vehículo,VAN-728,Recoger pedido
+1744,Norte,2025-07-02 13:03:00,Ruta principal,VAN-720,Entrega
+1745,Oeste,2025-07-02 13:04:00,Entrega,VAN-122,Ruta principal
+1746,Norte,2025-07-02 13:05:00,Entrega,VAN-889,Recoger pedido
+1747,Sur,2025-07-02 13:06:00,Confirmación,VAN-307,Entrega
+1748,Norte,2025-07-02 13:07:00,Entrega,VAN-336,Confirmación
+1749,Oeste,2025-07-02 13:08:00,Ruta principal,VAN-134,Ruta principal
+1750,Este,2025-07-02 13:09:00,Ruta principal,VAN-870,Recoger pedido
+1751,Este,2025-07-02 13:10:00,Cargar vehículo,VAN-685,Confirmación
+1752,Norte,2025-07-02 13:11:00,Confirmación,VAN-591,Recoger pedido
+1753,Centro,2025-07-02 13:12:00,Ruta principal,VAN-747,Confirmación
+1754,Oeste,2025-07-02 13:13:00,Cargar vehículo,VAN-342,Confirmación
+1755,Este,2025-07-02 13:14:00,Recoger pedido,VAN-887,Recoger pedido
+1756,Este,2025-07-02 13:15:00,Confirmación,VAN-132,Entrega
+1757,Este,2025-07-02 13:16:00,Confirmación,VAN-481,Ruta principal
+1758,Sur,2025-07-02 13:17:00,Entrega,VAN-788,Ruta principal
+1759,Este,2025-07-02 13:18:00,Recoger pedido,VAN-499,Cargar vehículo
+1760,Centro,2025-07-02 13:19:00,Entrega,VAN-712,Confirmación
+1761,Oeste,2025-07-02 13:20:00,Recoger pedido,VAN-792,Confirmación
+1762,Este,2025-07-02 13:21:00,Ruta principal,VAN-255,Confirmación
+1763,Centro,2025-07-02 13:22:00,Ruta principal,VAN-231,Cargar vehículo
+1764,Centro,2025-07-02 13:23:00,Recoger pedido,VAN-607,Recoger pedido
+1765,Centro,2025-07-02 13:24:00,Recoger pedido,VAN-765,Cargar vehículo
+1766,Norte,2025-07-02 13:25:00,Cargar vehículo,VAN-527,Entrega
+1767,Norte,2025-07-02 13:26:00,Ruta principal,VAN-362,Entrega
+1768,Centro,2025-07-02 13:27:00,Ruta principal,VAN-555,Confirmación
+1769,Este,2025-07-02 13:28:00,Ruta principal,VAN-802,Cargar vehículo
+1770,Centro,2025-07-02 13:29:00,Ruta principal,VAN-637,Recoger pedido
+1771,Este,2025-07-02 13:30:00,Cargar vehículo,VAN-492,Entrega
+1772,Oeste,2025-07-02 13:31:00,Ruta principal,VAN-953,Recoger pedido
+1773,Este,2025-07-02 13:32:00,Recoger pedido,VAN-730,Cargar vehículo
+1774,Sur,2025-07-02 13:33:00,Confirmación,VAN-435,Cargar vehículo
+1775,Centro,2025-07-02 13:34:00,Ruta principal,VAN-476,Confirmación
+1776,Norte,2025-07-02 13:35:00,Entrega,VAN-520,Recoger pedido
+1777,Este,2025-07-02 13:36:00,Entrega,VAN-996,Confirmación
+1778,Sur,2025-07-02 13:37:00,Cargar vehículo,VAN-948,Cargar vehículo
+1779,Norte,2025-07-02 13:38:00,Confirmación,VAN-595,Cargar vehículo
+1780,Oeste,2025-07-02 13:39:00,Recoger pedido,VAN-253,Cargar vehículo
+1781,Norte,2025-07-02 13:40:00,Confirmación,VAN-396,Entrega
+1782,Norte,2025-07-02 13:41:00,Cargar vehículo,VAN-649,Confirmación
+1783,Oeste,2025-07-02 13:42:00,Cargar vehículo,VAN-646,Ruta principal
+1784,Norte,2025-07-02 13:43:00,Cargar vehículo,VAN-163,Recoger pedido
+1785,Sur,2025-07-02 13:44:00,Cargar vehículo,VAN-767,Entrega
+1786,Sur,2025-07-02 13:45:00,Ruta principal,VAN-561,Entrega
+1787,Este,2025-07-02 13:46:00,Recoger pedido,VAN-772,Ruta principal
+1788,Norte,2025-07-02 13:47:00,Cargar vehículo,VAN-350,Entrega
+1789,Sur,2025-07-02 13:48:00,Confirmación,VAN-683,Recoger pedido
+1790,Este,2025-07-02 13:49:00,Recoger pedido,VAN-639,Confirmación
+1791,Este,2025-07-02 13:50:00,Ruta principal,VAN-210,Confirmación
+1792,Norte,2025-07-02 13:51:00,Confirmación,VAN-360,Entrega
+1793,Centro,2025-07-02 13:52:00,Cargar vehículo,VAN-586,Entrega
+1794,Centro,2025-07-02 13:53:00,Cargar vehículo,VAN-232,Cargar vehículo
+1795,Norte,2025-07-02 13:54:00,Recoger pedido,VAN-133,Entrega
+1796,Oeste,2025-07-02 13:55:00,Cargar vehículo,VAN-782,Recoger pedido
+1797,Norte,2025-07-02 13:56:00,Confirmación,VAN-680,Entrega
+1798,Este,2025-07-02 13:57:00,Cargar vehículo,VAN-151,Cargar vehículo
+1799,Norte,2025-07-02 13:58:00,Entrega,VAN-964,Confirmación
+1800,Norte,2025-07-02 13:59:00,Confirmación,VAN-551,Entrega
+1801,Norte,2025-07-02 14:00:00,Confirmación,VAN-852,Confirmación
+1802,Oeste,2025-07-02 14:01:00,Entrega,VAN-288,Cargar vehículo
+1803,Sur,2025-07-02 14:02:00,Cargar vehículo,VAN-990,Cargar vehículo
+1804,Sur,2025-07-02 14:03:00,Ruta principal,VAN-553,Recoger pedido
+1805,Centro,2025-07-02 14:04:00,Cargar vehículo,VAN-304,Ruta principal
+1806,Norte,2025-07-02 14:05:00,Ruta principal,VAN-426,Confirmación
+1807,Oeste,2025-07-02 14:06:00,Cargar vehículo,VAN-307,Entrega
+1808,Norte,2025-07-02 14:07:00,Cargar vehículo,VAN-836,Recoger pedido
+1809,Oeste,2025-07-02 14:08:00,Ruta principal,VAN-849,Recoger pedido
+1810,Norte,2025-07-02 14:09:00,Confirmación,VAN-228,Recoger pedido
+1811,Oeste,2025-07-02 14:10:00,Recoger pedido,VAN-391,Recoger pedido
+1812,Sur,2025-07-02 14:11:00,Cargar vehículo,VAN-144,Confirmación
+1813,Norte,2025-07-02 14:12:00,Recoger pedido,VAN-186,Entrega
+1814,Norte,2025-07-02 14:13:00,Recoger pedido,VAN-255,Recoger pedido
+1815,Este,2025-07-02 14:14:00,Confirmación,VAN-568,Entrega
+1816,Norte,2025-07-02 14:15:00,Recoger pedido,VAN-787,Entrega
+1817,Este,2025-07-02 14:16:00,Entrega,VAN-937,Recoger pedido
+1818,Norte,2025-07-02 14:17:00,Entrega,VAN-109,Recoger pedido
+1819,Sur,2025-07-02 14:18:00,Confirmación,VAN-656,Ruta principal
+1820,Centro,2025-07-02 14:19:00,Entrega,VAN-946,Entrega
+1821,Sur,2025-07-02 14:20:00,Ruta principal,VAN-859,Cargar vehículo
+1822,Centro,2025-07-02 14:21:00,Ruta principal,VAN-435,Cargar vehículo
+1823,Este,2025-07-02 14:22:00,Entrega,VAN-218,Confirmación
+1824,Norte,2025-07-02 14:23:00,Recoger pedido,VAN-633,Cargar vehículo
+1825,Oeste,2025-07-02 14:24:00,Cargar vehículo,VAN-943,Recoger pedido
+1826,Norte,2025-07-02 14:25:00,Entrega,VAN-103,Recoger pedido
+1827,Centro,2025-07-02 14:26:00,Confirmación,VAN-332,Confirmación
+1828,Sur,2025-07-02 14:27:00,Confirmación,VAN-541,Ruta principal
+1829,Oeste,2025-07-02 14:28:00,Confirmación,VAN-695,Ruta principal
+1830,Norte,2025-07-02 14:29:00,Ruta principal,VAN-348,Recoger pedido
+1831,Este,2025-07-02 14:30:00,Cargar vehículo,VAN-640,Confirmación
+1832,Oeste,2025-07-02 14:31:00,Confirmación,VAN-786,Cargar vehículo
+1833,Oeste,2025-07-02 14:32:00,Ruta principal,VAN-680,Cargar vehículo
+1834,Este,2025-07-02 14:33:00,Entrega,VAN-397,Ruta principal
+1835,Norte,2025-07-02 14:34:00,Confirmación,VAN-236,Confirmación
+1836,Centro,2025-07-02 14:35:00,Ruta principal,VAN-978,Ruta principal
+1837,Centro,2025-07-02 14:36:00,Recoger pedido,VAN-287,Recoger pedido
+1838,Este,2025-07-02 14:37:00,Confirmación,VAN-192,Ruta principal
+1839,Centro,2025-07-02 14:38:00,Confirmación,VAN-863,Cargar vehículo
+1840,Centro,2025-07-02 14:39:00,Entrega,VAN-623,Cargar vehículo
+1841,Este,2025-07-02 14:40:00,Recoger pedido,VAN-992,Ruta principal
+1842,Sur,2025-07-02 14:41:00,Cargar vehículo,VAN-391,Entrega
+1843,Centro,2025-07-02 14:42:00,Ruta principal,VAN-543,Entrega
+1844,Este,2025-07-02 14:43:00,Confirmación,VAN-486,Ruta principal
+1845,Sur,2025-07-02 14:44:00,Ruta principal,VAN-129,Cargar vehículo
+1846,Norte,2025-07-02 14:45:00,Entrega,VAN-614,Cargar vehículo
+1847,Norte,2025-07-02 14:46:00,Confirmación,VAN-485,Cargar vehículo
+1848,Oeste,2025-07-02 14:47:00,Cargar vehículo,VAN-446,Entrega
+1849,Oeste,2025-07-02 14:48:00,Cargar vehículo,VAN-596,Ruta principal
+1850,Sur,2025-07-02 14:49:00,Recoger pedido,VAN-665,Entrega
+1851,Centro,2025-07-02 14:50:00,Cargar vehículo,VAN-378,Recoger pedido
+1852,Norte,2025-07-02 14:51:00,Ruta principal,VAN-430,Cargar vehículo
+1853,Oeste,2025-07-02 14:52:00,Confirmación,VAN-813,Ruta principal
+1854,Norte,2025-07-02 14:53:00,Entrega,VAN-613,Cargar vehículo
+1855,Centro,2025-07-02 14:54:00,Recoger pedido,VAN-925,Recoger pedido
+1856,Oeste,2025-07-02 14:55:00,Cargar vehículo,VAN-476,Confirmación
+1857,Este,2025-07-02 14:56:00,Entrega,VAN-955,Entrega
+1858,Este,2025-07-02 14:57:00,Confirmación,VAN-782,Entrega
+1859,Norte,2025-07-02 14:58:00,Confirmación,VAN-848,Cargar vehículo
+1860,Norte,2025-07-02 14:59:00,Entrega,VAN-825,Ruta principal
+1861,Centro,2025-07-02 15:00:00,Confirmación,VAN-114,Cargar vehículo
+1862,Norte,2025-07-02 15:01:00,Cargar vehículo,VAN-266,Cargar vehículo
+1863,Oeste,2025-07-02 15:02:00,Ruta principal,VAN-951,Ruta principal
+1864,Este,2025-07-02 15:03:00,Cargar vehículo,VAN-634,Entrega
+1865,Oeste,2025-07-02 15:04:00,Entrega,VAN-903,Confirmación
+1866,Centro,2025-07-02 15:05:00,Entrega,VAN-403,Cargar vehículo
+1867,Centro,2025-07-02 15:06:00,Confirmación,VAN-290,Cargar vehículo
+1868,Sur,2025-07-02 15:07:00,Ruta principal,VAN-209,Recoger pedido
+1869,Oeste,2025-07-02 15:08:00,Recoger pedido,VAN-627,Ruta principal
+1870,Centro,2025-07-02 15:09:00,Entrega,VAN-872,Entrega
+1871,Norte,2025-07-02 15:10:00,Entrega,VAN-746,Entrega
+1872,Oeste,2025-07-02 15:11:00,Cargar vehículo,VAN-224,Recoger pedido
+1873,Oeste,2025-07-02 15:12:00,Ruta principal,VAN-833,Confirmación
+1874,Este,2025-07-02 15:13:00,Confirmación,VAN-475,Entrega
+1875,Centro,2025-07-02 15:14:00,Cargar vehículo,VAN-764,Entrega
+1876,Centro,2025-07-02 15:15:00,Cargar vehículo,VAN-375,Entrega
+1877,Norte,2025-07-02 15:16:00,Recoger pedido,VAN-926,Recoger pedido
+1878,Este,2025-07-02 15:17:00,Entrega,VAN-629,Recoger pedido
+1879,Oeste,2025-07-02 15:18:00,Cargar vehículo,VAN-321,Recoger pedido
+1880,Sur,2025-07-02 15:19:00,Recoger pedido,VAN-563,Recoger pedido
+1881,Centro,2025-07-02 15:20:00,Entrega,VAN-130,Ruta principal
+1882,Sur,2025-07-02 15:21:00,Entrega,VAN-168,Confirmación
+1883,Este,2025-07-02 15:22:00,Confirmación,VAN-614,Recoger pedido
+1884,Este,2025-07-02 15:23:00,Entrega,VAN-803,Ruta principal
+1885,Norte,2025-07-02 15:24:00,Entrega,VAN-209,Recoger pedido
+1886,Norte,2025-07-02 15:25:00,Ruta principal,VAN-228,Ruta principal
+1887,Sur,2025-07-02 15:26:00,Confirmación,VAN-379,Recoger pedido
+1888,Sur,2025-07-02 15:27:00,Recoger pedido,VAN-580,Entrega
+1889,Norte,2025-07-02 15:28:00,Recoger pedido,VAN-798,Recoger pedido
+1890,Sur,2025-07-02 15:29:00,Recoger pedido,VAN-978,Ruta principal
+1891,Centro,2025-07-02 15:30:00,Ruta principal,VAN-431,Ruta principal
+1892,Norte,2025-07-02 15:31:00,Entrega,VAN-724,Confirmación
+1893,Sur,2025-07-02 15:32:00,Recoger pedido,VAN-770,Entrega
+1894,Sur,2025-07-02 15:33:00,Ruta principal,VAN-424,Ruta principal
+1895,Oeste,2025-07-02 15:34:00,Entrega,VAN-203,Ruta principal
+1896,Norte,2025-07-02 15:35:00,Confirmación,VAN-248,Confirmación
+1897,Norte,2025-07-02 15:36:00,Cargar vehículo,VAN-350,Entrega
+1898,Este,2025-07-02 15:37:00,Confirmación,VAN-504,Ruta principal
+1899,Oeste,2025-07-02 15:38:00,Recoger pedido,VAN-350,Recoger pedido
+1900,Este,2025-07-02 15:39:00,Recoger pedido,VAN-255,Ruta principal
+1901,Norte,2025-07-02 15:40:00,Recoger pedido,VAN-507,Recoger pedido
+1902,Norte,2025-07-02 15:41:00,Ruta principal,VAN-907,Ruta principal
+1903,Este,2025-07-02 15:42:00,Confirmación,VAN-945,Ruta principal
+1904,Sur,2025-07-02 15:43:00,Confirmación,VAN-314,Confirmación
+1905,Oeste,2025-07-02 15:44:00,Cargar vehículo,VAN-430,Ruta principal
+1906,Este,2025-07-02 15:45:00,Ruta principal,VAN-389,Entrega
+1907,Norte,2025-07-02 15:46:00,Recoger pedido,VAN-603,Ruta principal
+1908,Norte,2025-07-02 15:47:00,Entrega,VAN-881,Confirmación
+1909,Oeste,2025-07-02 15:48:00,Entrega,VAN-578,Confirmación
+1910,Sur,2025-07-02 15:49:00,Entrega,VAN-496,Ruta principal
+1911,Este,2025-07-02 15:50:00,Cargar vehículo,VAN-135,Ruta principal
+1912,Sur,2025-07-02 15:51:00,Cargar vehículo,VAN-867,Confirmación
+1913,Este,2025-07-02 15:52:00,Confirmación,VAN-934,Cargar vehículo
+1914,Norte,2025-07-02 15:53:00,Cargar vehículo,VAN-646,Cargar vehículo
+1915,Oeste,2025-07-02 15:54:00,Confirmación,VAN-276,Cargar vehículo
+1916,Sur,2025-07-02 15:55:00,Confirmación,VAN-557,Entrega
+1917,Norte,2025-07-02 15:56:00,Recoger pedido,VAN-175,Ruta principal
+1918,Sur,2025-07-02 15:57:00,Confirmación,VAN-683,Ruta principal
+1919,Este,2025-07-02 15:58:00,Confirmación,VAN-499,Recoger pedido
+1920,Norte,2025-07-02 15:59:00,Confirmación,VAN-720,Confirmación
+1921,Oeste,2025-07-02 16:00:00,Entrega,VAN-543,Entrega
+1922,Norte,2025-07-02 16:01:00,Confirmación,VAN-348,Cargar vehículo
+1923,Sur,2025-07-02 16:02:00,Entrega,VAN-755,Entrega
+1924,Oeste,2025-07-02 16:03:00,Cargar vehículo,VAN-461,Cargar vehículo
+1925,Oeste,2025-07-02 16:04:00,Recoger pedido,VAN-214,Entrega
+1926,Oeste,2025-07-02 16:05:00,Ruta principal,VAN-935,Cargar vehículo
+1927,Sur,2025-07-02 16:06:00,Recoger pedido,VAN-643,Entrega
+1928,Centro,2025-07-02 16:07:00,Ruta principal,VAN-629,Recoger pedido
+1929,Norte,2025-07-02 16:08:00,Confirmación,VAN-169,Cargar vehículo
+1930,Centro,2025-07-02 16:09:00,Confirmación,VAN-723,Cargar vehículo
+1931,Centro,2025-07-02 16:10:00,Recoger pedido,VAN-208,Confirmación
+1932,Sur,2025-07-02 16:11:00,Recoger pedido,VAN-777,Confirmación
+1933,Oeste,2025-07-02 16:12:00,Recoger pedido,VAN-548,Entrega
+1934,Norte,2025-07-02 16:13:00,Entrega,VAN-807,Confirmación
+1935,Sur,2025-07-02 16:14:00,Cargar vehículo,VAN-324,Recoger pedido
+1936,Este,2025-07-02 16:15:00,Confirmación,VAN-221,Entrega
+1937,Oeste,2025-07-02 16:16:00,Recoger pedido,VAN-889,Ruta principal
+1938,Este,2025-07-02 16:17:00,Entrega,VAN-953,Ruta principal
+1939,Sur,2025-07-02 16:18:00,Recoger pedido,VAN-172,Ruta principal
+1940,Centro,2025-07-02 16:19:00,Ruta principal,VAN-116,Cargar vehículo
+1941,Norte,2025-07-02 16:20:00,Confirmación,VAN-218,Recoger pedido
+1942,Oeste,2025-07-02 16:21:00,Confirmación,VAN-746,Recoger pedido
+1943,Este,2025-07-02 16:22:00,Ruta principal,VAN-370,Ruta principal
+1944,Sur,2025-07-02 16:23:00,Recoger pedido,VAN-783,Entrega
+1945,Oeste,2025-07-02 16:24:00,Ruta principal,VAN-936,Confirmación
+1946,Sur,2025-07-02 16:25:00,Ruta principal,VAN-497,Ruta principal
+1947,Centro,2025-07-02 16:26:00,Recoger pedido,VAN-108,Recoger pedido
+1948,Norte,2025-07-02 16:27:00,Recoger pedido,VAN-466,Ruta principal
+1949,Oeste,2025-07-02 16:28:00,Confirmación,VAN-987,Cargar vehículo
+1950,Norte,2025-07-02 16:29:00,Ruta principal,VAN-353,Confirmación
+1951,Sur,2025-07-02 16:30:00,Cargar vehículo,VAN-618,Ruta principal
+1952,Este,2025-07-02 16:31:00,Entrega,VAN-818,Cargar vehículo
+1953,Este,2025-07-02 16:32:00,Recoger pedido,VAN-721,Ruta principal
+1954,Oeste,2025-07-02 16:33:00,Ruta principal,VAN-359,Ruta principal
+1955,Centro,2025-07-02 16:34:00,Confirmación,VAN-772,Ruta principal
+1956,Oeste,2025-07-02 16:35:00,Cargar vehículo,VAN-915,Entrega
+1957,Norte,2025-07-02 16:36:00,Recoger pedido,VAN-301,Cargar vehículo
+1958,Centro,2025-07-02 16:37:00,Ruta principal,VAN-876,Ruta principal
+1959,Oeste,2025-07-02 16:38:00,Ruta principal,VAN-827,Confirmación
+1960,Norte,2025-07-02 16:39:00,Cargar vehículo,VAN-346,Confirmación
+1961,Oeste,2025-07-02 16:40:00,Recoger pedido,VAN-723,Cargar vehículo
+1962,Este,2025-07-02 16:41:00,Entrega,VAN-674,Confirmación
+1963,Centro,2025-07-02 16:42:00,Entrega,VAN-451,Cargar vehículo
+1964,Este,2025-07-02 16:43:00,Entrega,VAN-477,Entrega
+1965,Sur,2025-07-02 16:44:00,Cargar vehículo,VAN-976,Entrega
+1966,Este,2025-07-02 16:45:00,Confirmación,VAN-314,Confirmación
+1967,Este,2025-07-02 16:46:00,Cargar vehículo,VAN-337,Recoger pedido
+1968,Sur,2025-07-02 16:47:00,Confirmación,VAN-832,Entrega
+1969,Oeste,2025-07-02 16:48:00,Ruta principal,VAN-551,Confirmación
+1970,Este,2025-07-02 16:49:00,Recoger pedido,VAN-789,Entrega
+1971,Este,2025-07-02 16:50:00,Ruta principal,VAN-506,Ruta principal
+1972,Sur,2025-07-02 16:51:00,Confirmación,VAN-890,Confirmación
+1973,Norte,2025-07-02 16:52:00,Recoger pedido,VAN-279,Cargar vehículo
+1974,Este,2025-07-02 16:53:00,Confirmación,VAN-809,Recoger pedido
+1975,Sur,2025-07-02 16:54:00,Ruta principal,VAN-807,Entrega
+1976,Centro,2025-07-02 16:55:00,Entrega,VAN-620,Confirmación
+1977,Centro,2025-07-02 16:56:00,Confirmación,VAN-464,Confirmación
+1978,Norte,2025-07-02 16:57:00,Cargar vehículo,VAN-656,Entrega
+1979,Norte,2025-07-02 16:58:00,Confirmación,VAN-234,Entrega
+1980,Norte,2025-07-02 16:59:00,Confirmación,VAN-591,Cargar vehículo
+1981,Este,2025-07-02 17:00:00,Cargar vehículo,VAN-398,Cargar vehículo
+1982,Centro,2025-07-02 17:01:00,Cargar vehículo,VAN-906,Recoger pedido
+1983,Sur,2025-07-02 17:02:00,Entrega,VAN-613,Ruta principal
+1984,Oeste,2025-07-02 17:03:00,Ruta principal,VAN-999,Cargar vehículo
+1985,Centro,2025-07-02 17:04:00,Confirmación,VAN-487,Entrega
+1986,Centro,2025-07-02 17:05:00,Confirmación,VAN-548,Entrega
+1987,Oeste,2025-07-02 17:06:00,Cargar vehículo,VAN-632,Cargar vehículo
+1988,Sur,2025-07-02 17:07:00,Recoger pedido,VAN-120,Recoger pedido
+1989,Sur,2025-07-02 17:08:00,Confirmación,VAN-245,Entrega
+1990,Centro,2025-07-02 17:09:00,Recoger pedido,VAN-760,Ruta principal
+1991,Sur,2025-07-02 17:10:00,Confirmación,VAN-103,Recoger pedido
+1992,Este,2025-07-02 17:11:00,Confirmación,VAN-546,Ruta principal
+1993,Centro,2025-07-02 17:12:00,Recoger pedido,VAN-205,Confirmación
+1994,Sur,2025-07-02 17:13:00,Recoger pedido,VAN-140,Cargar vehículo
+1995,Sur,2025-07-02 17:14:00,Cargar vehículo,VAN-394,Entrega
+1996,Este,2025-07-02 17:15:00,Entrega,VAN-709,Cargar vehículo
+1997,Norte,2025-07-02 17:16:00,Confirmación,VAN-226,Confirmación
+1998,Este,2025-07-02 17:17:00,Ruta principal,VAN-785,Entrega
+1999,Norte,2025-07-02 17:18:00,Cargar vehículo,VAN-411,Ruta principal
+2000,Este,2025-07-02 17:19:00,Cargar vehículo,VAN-990,Confirmación
+2001,Este,2025-07-02 17:20:00,Cargar vehículo,VAN-728,Recoger pedido
+2002,Centro,2025-07-02 17:21:00,Ruta principal,VAN-902,Recoger pedido
+2003,Oeste,2025-07-02 17:22:00,Ruta principal,VAN-607,Entrega
+2004,Sur,2025-07-02 17:23:00,Confirmación,VAN-936,Confirmación
+2005,Este,2025-07-02 17:24:00,Recoger pedido,VAN-862,Cargar vehículo
+2006,Norte,2025-07-02 17:25:00,Entrega,VAN-201,Entrega
+2007,Sur,2025-07-02 17:26:00,Cargar vehículo,VAN-107,Cargar vehículo
+2008,Norte,2025-07-02 17:27:00,Entrega,VAN-572,Entrega
+2009,Oeste,2025-07-02 17:28:00,Recoger pedido,VAN-533,Ruta principal
+2010,Norte,2025-07-02 17:29:00,Recoger pedido,VAN-851,Confirmación
+2011,Norte,2025-07-02 17:30:00,Confirmación,VAN-866,Recoger pedido
+2012,Oeste,2025-07-02 17:31:00,Cargar vehículo,VAN-347,Cargar vehículo
+2013,Sur,2025-07-02 17:32:00,Recoger pedido,VAN-464,Confirmación
+2014,Sur,2025-07-02 17:33:00,Cargar vehículo,VAN-963,Entrega
+2015,Oeste,2025-07-02 17:34:00,Ruta principal,VAN-174,Entrega
+2016,Oeste,2025-07-02 17:35:00,Recoger pedido,VAN-207,Cargar vehículo
+2017,Centro,2025-07-02 17:36:00,Confirmación,VAN-701,Entrega
+2018,Este,2025-07-02 17:37:00,Recoger pedido,VAN-245,Confirmación
+2019,Sur,2025-07-02 17:38:00,Cargar vehículo,VAN-158,Entrega
+2020,Este,2025-07-02 17:39:00,Confirmación,VAN-181,Cargar vehículo
+2021,Oeste,2025-07-02 17:40:00,Recoger pedido,VAN-289,Cargar vehículo
+2022,Norte,2025-07-02 17:41:00,Ruta principal,VAN-407,Confirmación
+2023,Centro,2025-07-02 17:42:00,Cargar vehículo,VAN-821,Confirmación
+2024,Oeste,2025-07-02 17:43:00,Cargar vehículo,VAN-991,Ruta principal
+2025,Norte,2025-07-02 17:44:00,Ruta principal,VAN-105,Ruta principal
+2026,Oeste,2025-07-02 17:45:00,Ruta principal,VAN-396,Confirmación
+2027,Centro,2025-07-02 17:46:00,Ruta principal,VAN-705,Entrega
+2028,Oeste,2025-07-02 17:47:00,Ruta principal,VAN-256,Cargar vehículo
+2029,Oeste,2025-07-02 17:48:00,Recoger pedido,VAN-449,Ruta principal
+2030,Norte,2025-07-02 17:49:00,Confirmación,VAN-474,Ruta principal
+2031,Oeste,2025-07-02 17:50:00,Entrega,VAN-841,Cargar vehículo
+2032,Este,2025-07-02 17:51:00,Confirmación,VAN-439,Cargar vehículo
+2033,Norte,2025-07-02 17:52:00,Entrega,VAN-638,Cargar vehículo
+2034,Este,2025-07-02 17:53:00,Cargar vehículo,VAN-260,Entrega
+2035,Norte,2025-07-02 17:54:00,Entrega,VAN-338,Confirmación
+2036,Oeste,2025-07-02 17:55:00,Ruta principal,VAN-101,Confirmación
+2037,Centro,2025-07-02 17:56:00,Cargar vehículo,VAN-983,Entrega
+2038,Centro,2025-07-02 17:57:00,Entrega,VAN-975,Confirmación
+2039,Oeste,2025-07-02 17:58:00,Confirmación,VAN-100,Recoger pedido
+2040,Centro,2025-07-02 17:59:00,Cargar vehículo,VAN-245,Confirmación
+2041,Este,2025-07-02 18:00:00,Confirmación,VAN-480,Confirmación
+2042,Este,2025-07-02 18:01:00,Ruta principal,VAN-424,Entrega
+2043,Centro,2025-07-02 18:02:00,Cargar vehículo,VAN-384,Entrega
+2044,Centro,2025-07-02 18:03:00,Entrega,VAN-501,Cargar vehículo
+2045,Sur,2025-07-02 18:04:00,Recoger pedido,VAN-321,Entrega
+2046,Oeste,2025-07-02 18:05:00,Confirmación,VAN-640,Recoger pedido
+2047,Norte,2025-07-02 18:06:00,Recoger pedido,VAN-745,Cargar vehículo
+2048,Centro,2025-07-02 18:07:00,Recoger pedido,VAN-854,Cargar vehículo
+2049,Sur,2025-07-02 18:08:00,Cargar vehículo,VAN-344,Entrega
+2050,Centro,2025-07-02 18:09:00,Ruta principal,VAN-834,Confirmación
+2051,Norte,2025-07-02 18:10:00,Confirmación,VAN-817,Entrega
+2052,Norte,2025-07-02 18:11:00,Cargar vehículo,VAN-134,Confirmación
+2053,Sur,2025-07-02 18:12:00,Entrega,VAN-611,Confirmación
+2054,Sur,2025-07-02 18:13:00,Ruta principal,VAN-303,Confirmación
+2055,Norte,2025-07-02 18:14:00,Cargar vehículo,VAN-914,Recoger pedido
+2056,Norte,2025-07-02 18:15:00,Recoger pedido,VAN-499,Recoger pedido
+2057,Oeste,2025-07-02 18:16:00,Recoger pedido,VAN-273,Entrega
+2058,Sur,2025-07-02 18:17:00,Recoger pedido,VAN-733,Cargar vehículo
+2059,Este,2025-07-02 18:18:00,Ruta principal,VAN-732,Recoger pedido
+2060,Centro,2025-07-02 18:19:00,Ruta principal,VAN-290,Recoger pedido
+2061,Norte,2025-07-02 18:20:00,Confirmación,VAN-831,Confirmación
+2062,Sur,2025-07-02 18:21:00,Confirmación,VAN-449,Ruta principal
+2063,Norte,2025-07-02 18:22:00,Entrega,VAN-920,Cargar vehículo
+2064,Norte,2025-07-02 18:23:00,Recoger pedido,VAN-174,Confirmación
+2065,Oeste,2025-07-02 18:24:00,Cargar vehículo,VAN-236,Recoger pedido
+2066,Sur,2025-07-02 18:25:00,Entrega,VAN-780,Entrega
+2067,Norte,2025-07-02 18:26:00,Ruta principal,VAN-550,Entrega
+2068,Oeste,2025-07-02 18:27:00,Confirmación,VAN-800,Recoger pedido
+2069,Oeste,2025-07-02 18:28:00,Ruta principal,VAN-584,Confirmación
+2070,Este,2025-07-02 18:29:00,Cargar vehículo,VAN-503,Entrega
+2071,Norte,2025-07-02 18:30:00,Entrega,VAN-651,Confirmación
+2072,Oeste,2025-07-02 18:31:00,Ruta principal,VAN-761,Recoger pedido
+2073,Sur,2025-07-02 18:32:00,Entrega,VAN-295,Recoger pedido
+2074,Norte,2025-07-02 18:33:00,Cargar vehículo,VAN-378,Cargar vehículo
+2075,Norte,2025-07-02 18:34:00,Confirmación,VAN-452,Ruta principal
+2076,Este,2025-07-02 18:35:00,Confirmación,VAN-772,Recoger pedido
+2077,Norte,2025-07-02 18:36:00,Entrega,VAN-226,Ruta principal
+2078,Sur,2025-07-02 18:37:00,Confirmación,VAN-388,Entrega
+2079,Centro,2025-07-02 18:38:00,Cargar vehículo,VAN-390,Confirmación
+2080,Centro,2025-07-02 18:39:00,Entrega,VAN-201,Ruta principal
+2081,Este,2025-07-02 18:40:00,Cargar vehículo,VAN-779,Cargar vehículo
+2082,Sur,2025-07-02 18:41:00,Recoger pedido,VAN-704,Recoger pedido
+2083,Sur,2025-07-02 18:42:00,Recoger pedido,VAN-654,Entrega
+2084,Oeste,2025-07-02 18:43:00,Ruta principal,VAN-783,Entrega
+2085,Sur,2025-07-02 18:44:00,Entrega,VAN-681,Confirmación
+2086,Este,2025-07-02 18:45:00,Cargar vehículo,VAN-206,Confirmación
+2087,Oeste,2025-07-02 18:46:00,Recoger pedido,VAN-489,Confirmación
+2088,Oeste,2025-07-02 18:47:00,Cargar vehículo,VAN-872,Entrega
+2089,Sur,2025-07-02 18:48:00,Ruta principal,VAN-403,Cargar vehículo
+2090,Oeste,2025-07-02 18:49:00,Entrega,VAN-568,Confirmación
+2091,Norte,2025-07-02 18:50:00,Entrega,VAN-774,Recoger pedido
+2092,Centro,2025-07-02 18:51:00,Confirmación,VAN-624,Entrega
+2093,Oeste,2025-07-02 18:52:00,Ruta principal,VAN-689,Confirmación
+2094,Norte,2025-07-02 18:53:00,Cargar vehículo,VAN-503,Entrega
+2095,Sur,2025-07-02 18:54:00,Entrega,VAN-852,Cargar vehículo
+2096,Oeste,2025-07-02 18:55:00,Cargar vehículo,VAN-569,Cargar vehículo
+2097,Oeste,2025-07-02 18:56:00,Ruta principal,VAN-727,Cargar vehículo
+2098,Este,2025-07-02 18:57:00,Entrega,VAN-532,Recoger pedido
+2099,Centro,2025-07-02 18:58:00,Confirmación,VAN-388,Cargar vehículo
+2100,Este,2025-07-02 18:59:00,Entrega,VAN-664,Cargar vehículo
+2101,Sur,2025-07-02 19:00:00,Ruta principal,VAN-271,Ruta principal
+2102,Este,2025-07-02 19:01:00,Recoger pedido,VAN-307,Recoger pedido
+2103,Norte,2025-07-02 19:02:00,Recoger pedido,VAN-661,Ruta principal
+2104,Centro,2025-07-02 19:03:00,Cargar vehículo,VAN-977,Confirmación
+2105,Sur,2025-07-02 19:04:00,Confirmación,VAN-413,Confirmación
+2106,Oeste,2025-07-02 19:05:00,Entrega,VAN-374,Entrega
+2107,Este,2025-07-02 19:06:00,Ruta principal,VAN-848,Confirmación
+2108,Sur,2025-07-02 19:07:00,Recoger pedido,VAN-872,Recoger pedido
+2109,Sur,2025-07-02 19:08:00,Cargar vehículo,VAN-512,Entrega
+2110,Centro,2025-07-02 19:09:00,Ruta principal,VAN-175,Ruta principal
+2111,Este,2025-07-02 19:10:00,Confirmación,VAN-785,Entrega
+2112,Norte,2025-07-02 19:11:00,Recoger pedido,VAN-758,Entrega
+2113,Oeste,2025-07-02 19:12:00,Confirmación,VAN-906,Recoger pedido
+2114,Sur,2025-07-02 19:13:00,Confirmación,VAN-515,Ruta principal
+2115,Centro,2025-07-02 19:14:00,Confirmación,VAN-388,Confirmación
+2116,Centro,2025-07-02 19:15:00,Cargar vehículo,VAN-965,Recoger pedido
+2117,Centro,2025-07-02 19:16:00,Cargar vehículo,VAN-314,Recoger pedido
+2118,Oeste,2025-07-02 19:17:00,Confirmación,VAN-985,Ruta principal
+2119,Norte,2025-07-02 19:18:00,Recoger pedido,VAN-266,Cargar vehículo
+2120,Centro,2025-07-02 19:19:00,Confirmación,VAN-636,Entrega
+2121,Centro,2025-07-02 19:20:00,Confirmación,VAN-995,Recoger pedido
+2122,Sur,2025-07-02 19:21:00,Ruta principal,VAN-906,Ruta principal
+2123,Norte,2025-07-02 19:22:00,Confirmación,VAN-932,Entrega
+2124,Oeste,2025-07-02 19:23:00,Entrega,VAN-422,Entrega
+2125,Este,2025-07-02 19:24:00,Cargar vehículo,VAN-425,Ruta principal
+2126,Norte,2025-07-02 19:25:00,Cargar vehículo,VAN-573,Cargar vehículo
+2127,Sur,2025-07-02 19:26:00,Cargar vehículo,VAN-109,Recoger pedido
+2128,Este,2025-07-02 19:27:00,Cargar vehículo,VAN-934,Entrega
+2129,Norte,2025-07-02 19:28:00,Recoger pedido,VAN-404,Confirmación
+2130,Sur,2025-07-02 19:29:00,Confirmación,VAN-987,Cargar vehículo
+2131,Sur,2025-07-02 19:30:00,Recoger pedido,VAN-944,Cargar vehículo
+2132,Este,2025-07-02 19:31:00,Confirmación,VAN-988,Ruta principal
+2133,Oeste,2025-07-02 19:32:00,Cargar vehículo,VAN-674,Entrega
+2134,Este,2025-07-02 19:33:00,Ruta principal,VAN-721,Cargar vehículo
+2135,Centro,2025-07-02 19:34:00,Confirmación,VAN-664,Cargar vehículo
+2136,Este,2025-07-02 19:35:00,Entrega,VAN-891,Entrega
+2137,Norte,2025-07-02 19:36:00,Cargar vehículo,VAN-377,Recoger pedido
+2138,Oeste,2025-07-02 19:37:00,Confirmación,VAN-484,Recoger pedido
+2139,Oeste,2025-07-02 19:38:00,Recoger pedido,VAN-992,Confirmación
+2140,Norte,2025-07-02 19:39:00,Cargar vehículo,VAN-788,Cargar vehículo
+2141,Este,2025-07-02 19:40:00,Entrega,VAN-890,Entrega
+2142,Norte,2025-07-02 19:41:00,Recoger pedido,VAN-119,Ruta principal
+2143,Este,2025-07-02 19:42:00,Confirmación,VAN-357,Cargar vehículo
+2144,Sur,2025-07-02 19:43:00,Cargar vehículo,VAN-294,Entrega
+2145,Este,2025-07-02 19:44:00,Recoger pedido,VAN-609,Ruta principal
+2146,Norte,2025-07-02 19:45:00,Confirmación,VAN-411,Ruta principal
+2147,Norte,2025-07-02 19:46:00,Confirmación,VAN-629,Recoger pedido
+2148,Oeste,2025-07-02 19:47:00,Confirmación,VAN-515,Recoger pedido
+2149,Este,2025-07-02 19:48:00,Confirmación,VAN-822,Recoger pedido
+2150,Centro,2025-07-02 19:49:00,Confirmación,VAN-365,Confirmación
+2151,Este,2025-07-02 19:50:00,Ruta principal,VAN-309,Cargar vehículo
+2152,Oeste,2025-07-02 19:51:00,Entrega,VAN-988,Recoger pedido
+2153,Sur,2025-07-02 19:52:00,Cargar vehículo,VAN-354,Cargar vehículo
+2154,Oeste,2025-07-02 19:53:00,Cargar vehículo,VAN-459,Cargar vehículo
+2155,Centro,2025-07-02 19:54:00,Entrega,VAN-392,Recoger pedido
+2156,Sur,2025-07-02 19:55:00,Entrega,VAN-946,Ruta principal
+2157,Norte,2025-07-02 19:56:00,Recoger pedido,VAN-946,Confirmación
+2158,Centro,2025-07-02 19:57:00,Recoger pedido,VAN-423,Cargar vehículo
+2159,Sur,2025-07-02 19:58:00,Confirmación,VAN-808,Recoger pedido
+2160,Centro,2025-07-02 19:59:00,Cargar vehículo,VAN-468,Entrega
+2161,Centro,2025-07-02 20:00:00,Ruta principal,VAN-258,Entrega
+2162,Norte,2025-07-02 20:01:00,Entrega,VAN-917,Confirmación
+2163,Este,2025-07-02 20:02:00,Recoger pedido,VAN-834,Entrega
+2164,Oeste,2025-07-02 20:03:00,Cargar vehículo,VAN-138,Confirmación
+2165,Este,2025-07-02 20:04:00,Ruta principal,VAN-107,Ruta principal
+2166,Sur,2025-07-02 20:05:00,Confirmación,VAN-362,Recoger pedido
+2167,Norte,2025-07-02 20:06:00,Cargar vehículo,VAN-795,Ruta principal
+2168,Centro,2025-07-02 20:07:00,Confirmación,VAN-400,Cargar vehículo
+2169,Norte,2025-07-02 20:08:00,Recoger pedido,VAN-166,Entrega
+2170,Centro,2025-07-02 20:09:00,Cargar vehículo,VAN-943,Cargar vehículo
+2171,Oeste,2025-07-02 20:10:00,Entrega,VAN-237,Cargar vehículo
+2172,Sur,2025-07-02 20:11:00,Confirmación,VAN-794,Ruta principal
+2173,Oeste,2025-07-02 20:12:00,Cargar vehículo,VAN-978,Ruta principal
+2174,Sur,2025-07-02 20:13:00,Cargar vehículo,VAN-966,Confirmación
+2175,Centro,2025-07-02 20:14:00,Ruta principal,VAN-867,Ruta principal
+2176,Este,2025-07-02 20:15:00,Cargar vehículo,VAN-905,Recoger pedido
+2177,Oeste,2025-07-02 20:16:00,Entrega,VAN-317,Cargar vehículo
+2178,Centro,2025-07-02 20:17:00,Confirmación,VAN-916,Recoger pedido
+2179,Centro,2025-07-02 20:18:00,Cargar vehículo,VAN-820,Confirmación
+2180,Centro,2025-07-02 20:19:00,Entrega,VAN-878,Cargar vehículo
+2181,Oeste,2025-07-02 20:20:00,Entrega,VAN-266,Cargar vehículo
+2182,Centro,2025-07-02 20:21:00,Ruta principal,VAN-464,Confirmación
+2183,Este,2025-07-02 20:22:00,Cargar vehículo,VAN-816,Entrega
+2184,Este,2025-07-02 20:23:00,Recoger pedido,VAN-918,Cargar vehículo
+2185,Sur,2025-07-02 20:24:00,Entrega,VAN-787,Ruta principal
+2186,Sur,2025-07-02 20:25:00,Confirmación,VAN-577,Confirmación
+2187,Centro,2025-07-02 20:26:00,Confirmación,VAN-849,Ruta principal
+2188,Centro,2025-07-02 20:27:00,Recoger pedido,VAN-784,Recoger pedido
+2189,Norte,2025-07-02 20:28:00,Confirmación,VAN-953,Entrega
+2190,Norte,2025-07-02 20:29:00,Ruta principal,VAN-547,Confirmación
+2191,Centro,2025-07-02 20:30:00,Entrega,VAN-964,Ruta principal
+2192,Centro,2025-07-02 20:31:00,Cargar vehículo,VAN-558,Cargar vehículo
+2193,Este,2025-07-02 20:32:00,Confirmación,VAN-868,Cargar vehículo
+2194,Oeste,2025-07-02 20:33:00,Confirmación,VAN-496,Cargar vehículo
+2195,Este,2025-07-02 20:34:00,Cargar vehículo,VAN-479,Confirmación
+2196,Centro,2025-07-02 20:35:00,Cargar vehículo,VAN-147,Recoger pedido
+2197,Centro,2025-07-02 20:36:00,Confirmación,VAN-809,Recoger pedido
+2198,Centro,2025-07-02 20:37:00,Confirmación,VAN-612,Recoger pedido
+2199,Oeste,2025-07-02 20:38:00,Entrega,VAN-738,Ruta principal
+2200,Sur,2025-07-02 20:39:00,Cargar vehículo,VAN-435,Cargar vehículo
+2201,Este,2025-07-02 20:40:00,Confirmación,VAN-112,Confirmación
+2202,Sur,2025-07-02 20:41:00,Confirmación,VAN-938,Confirmación
+2203,Sur,2025-07-02 20:42:00,Cargar vehículo,VAN-497,Recoger pedido
+2204,Sur,2025-07-02 20:43:00,Confirmación,VAN-969,Ruta principal
+2205,Norte,2025-07-02 20:44:00,Confirmación,VAN-961,Confirmación
+2206,Norte,2025-07-02 20:45:00,Ruta principal,VAN-518,Cargar vehículo
+2207,Centro,2025-07-02 20:46:00,Entrega,VAN-696,Recoger pedido
+2208,Norte,2025-07-02 20:47:00,Recoger pedido,VAN-102,Ruta principal
+2209,Este,2025-07-02 20:48:00,Confirmación,VAN-574,Entrega
+2210,Este,2025-07-02 20:49:00,Ruta principal,VAN-147,Entrega
+2211,Oeste,2025-07-02 20:50:00,Ruta principal,VAN-161,Recoger pedido
+2212,Norte,2025-07-02 20:51:00,Cargar vehículo,VAN-949,Ruta principal
+2213,Oeste,2025-07-02 20:52:00,Recoger pedido,VAN-919,Recoger pedido
+2214,Sur,2025-07-02 20:53:00,Confirmación,VAN-397,Ruta principal
+2215,Este,2025-07-02 20:54:00,Ruta principal,VAN-485,Ruta principal
+2216,Norte,2025-07-02 20:55:00,Entrega,VAN-951,Cargar vehículo
+2217,Norte,2025-07-02 20:56:00,Recoger pedido,VAN-505,Entrega
+2218,Este,2025-07-02 20:57:00,Recoger pedido,VAN-592,Recoger pedido
+2219,Norte,2025-07-02 20:58:00,Confirmación,VAN-642,Entrega
+2220,Sur,2025-07-02 20:59:00,Cargar vehículo,VAN-406,Cargar vehículo
+2221,Este,2025-07-02 21:00:00,Cargar vehículo,VAN-209,Recoger pedido
+2222,Sur,2025-07-02 21:01:00,Entrega,VAN-324,Entrega
+2223,Oeste,2025-07-02 21:02:00,Cargar vehículo,VAN-461,Confirmación
+2224,Oeste,2025-07-02 21:03:00,Confirmación,VAN-600,Ruta principal
+2225,Centro,2025-07-02 21:04:00,Confirmación,VAN-375,Cargar vehículo
+2226,Centro,2025-07-02 21:05:00,Entrega,VAN-615,Confirmación
+2227,Centro,2025-07-02 21:06:00,Recoger pedido,VAN-522,Entrega
+2228,Este,2025-07-02 21:07:00,Entrega,VAN-991,Ruta principal
+2229,Sur,2025-07-02 21:08:00,Ruta principal,VAN-168,Recoger pedido
+2230,Norte,2025-07-02 21:09:00,Ruta principal,VAN-768,Cargar vehículo
+2231,Sur,2025-07-02 21:10:00,Recoger pedido,VAN-486,Confirmación
+2232,Norte,2025-07-02 21:11:00,Cargar vehículo,VAN-404,Recoger pedido
+2233,Sur,2025-07-02 21:12:00,Confirmación,VAN-534,Ruta principal
+2234,Norte,2025-07-02 21:13:00,Recoger pedido,VAN-602,Confirmación
+2235,Sur,2025-07-02 21:14:00,Cargar vehículo,VAN-491,Cargar vehículo
+2236,Norte,2025-07-02 21:15:00,Entrega,VAN-774,Cargar vehículo
+2237,Norte,2025-07-02 21:16:00,Confirmación,VAN-761,Entrega
+2238,Norte,2025-07-02 21:17:00,Ruta principal,VAN-779,Confirmación
+2239,Centro,2025-07-02 21:18:00,Cargar vehículo,VAN-274,Confirmación
+2240,Centro,2025-07-02 21:19:00,Recoger pedido,VAN-307,Confirmación
+2241,Sur,2025-07-02 21:20:00,Recoger pedido,VAN-154,Recoger pedido
+2242,Este,2025-07-02 21:21:00,Ruta principal,VAN-556,Entrega
+2243,Centro,2025-07-02 21:22:00,Ruta principal,VAN-946,Confirmación
+2244,Este,2025-07-02 21:23:00,Ruta principal,VAN-852,Confirmación
+2245,Este,2025-07-02 21:24:00,Entrega,VAN-724,Confirmación
+2246,Oeste,2025-07-02 21:25:00,Confirmación,VAN-467,Entrega
+2247,Centro,2025-07-02 21:26:00,Confirmación,VAN-728,Ruta principal
+2248,Oeste,2025-07-02 21:27:00,Ruta principal,VAN-262,Cargar vehículo
+2249,Centro,2025-07-02 21:28:00,Cargar vehículo,VAN-508,Recoger pedido
+2250,Oeste,2025-07-02 21:29:00,Cargar vehículo,VAN-409,Entrega
+2251,Oeste,2025-07-02 21:30:00,Entrega,VAN-119,Confirmación
+2252,Norte,2025-07-02 21:31:00,Cargar vehículo,VAN-356,Recoger pedido
+2253,Norte,2025-07-02 21:32:00,Cargar vehículo,VAN-789,Confirmación
+2254,Sur,2025-07-02 21:33:00,Recoger pedido,VAN-270,Cargar vehículo
+2255,Norte,2025-07-02 21:34:00,Cargar vehículo,VAN-445,Cargar vehículo
+2256,Este,2025-07-02 21:35:00,Ruta principal,VAN-423,Confirmación
+2257,Centro,2025-07-02 21:36:00,Confirmación,VAN-565,Recoger pedido
+2258,Centro,2025-07-02 21:37:00,Entrega,VAN-335,Recoger pedido
+2259,Centro,2025-07-02 21:38:00,Entrega,VAN-998,Entrega
+2260,Sur,2025-07-02 21:39:00,Recoger pedido,VAN-177,Ruta principal
+2261,Centro,2025-07-02 21:40:00,Recoger pedido,VAN-559,Ruta principal
+2262,Centro,2025-07-02 21:41:00,Entrega,VAN-346,Ruta principal
+2263,Sur,2025-07-02 21:42:00,Confirmación,VAN-258,Ruta principal
+2264,Sur,2025-07-02 21:43:00,Ruta principal,VAN-171,Ruta principal
+2265,Sur,2025-07-02 21:44:00,Recoger pedido,VAN-825,Cargar vehículo
+2266,Oeste,2025-07-02 21:45:00,Recoger pedido,VAN-759,Cargar vehículo
+2267,Centro,2025-07-02 21:46:00,Cargar vehículo,VAN-349,Cargar vehículo
+2268,Oeste,2025-07-02 21:47:00,Ruta principal,VAN-354,Entrega
+2269,Norte,2025-07-02 21:48:00,Ruta principal,VAN-186,Cargar vehículo
+2270,Centro,2025-07-02 21:49:00,Ruta principal,VAN-928,Ruta principal
+2271,Norte,2025-07-02 21:50:00,Confirmación,VAN-657,Ruta principal
+2272,Este,2025-07-02 21:51:00,Recoger pedido,VAN-269,Cargar vehículo
+2273,Oeste,2025-07-02 21:52:00,Confirmación,VAN-504,Confirmación
+2274,Centro,2025-07-02 21:53:00,Cargar vehículo,VAN-881,Confirmación
+2275,Centro,2025-07-02 21:54:00,Recoger pedido,VAN-463,Cargar vehículo
+2276,Centro,2025-07-02 21:55:00,Recoger pedido,VAN-620,Recoger pedido
+2277,Este,2025-07-02 21:56:00,Entrega,VAN-492,Recoger pedido
+2278,Sur,2025-07-02 21:57:00,Cargar vehículo,VAN-201,Ruta principal
+2279,Este,2025-07-02 21:58:00,Entrega,VAN-836,Entrega
+2280,Norte,2025-07-02 21:59:00,Recoger pedido,VAN-340,Ruta principal
+2281,Oeste,2025-07-02 22:00:00,Recoger pedido,VAN-962,Cargar vehículo
+2282,Centro,2025-07-02 22:01:00,Confirmación,VAN-656,Entrega
+2283,Norte,2025-07-02 22:02:00,Entrega,VAN-554,Confirmación
+2284,Oeste,2025-07-02 22:03:00,Confirmación,VAN-126,Entrega
+2285,Norte,2025-07-02 22:04:00,Confirmación,VAN-399,Ruta principal
+2286,Norte,2025-07-02 22:05:00,Cargar vehículo,VAN-909,Entrega
+2287,Oeste,2025-07-02 22:06:00,Recoger pedido,VAN-660,Ruta principal
+2288,Norte,2025-07-02 22:07:00,Ruta principal,VAN-889,Recoger pedido
+2289,Sur,2025-07-02 22:08:00,Recoger pedido,VAN-787,Entrega
+2290,Norte,2025-07-02 22:09:00,Cargar vehículo,VAN-376,Entrega
+2291,Este,2025-07-02 22:10:00,Ruta principal,VAN-254,Entrega
+2292,Sur,2025-07-02 22:11:00,Confirmación,VAN-808,Entrega
+2293,Norte,2025-07-02 22:12:00,Recoger pedido,VAN-692,Cargar vehículo
+2294,Norte,2025-07-02 22:13:00,Entrega,VAN-573,Recoger pedido
+2295,Norte,2025-07-02 22:14:00,Cargar vehículo,VAN-433,Entrega
+2296,Centro,2025-07-02 22:15:00,Ruta principal,VAN-896,Ruta principal
+2297,Este,2025-07-02 22:16:00,Confirmación,VAN-378,Entrega
+2298,Este,2025-07-02 22:17:00,Cargar vehículo,VAN-772,Cargar vehículo
+2299,Sur,2025-07-02 22:18:00,Cargar vehículo,VAN-515,Entrega
+2300,Oeste,2025-07-02 22:19:00,Confirmación,VAN-603,Cargar vehículo
+2301,Norte,2025-07-02 22:20:00,Recoger pedido,VAN-745,Entrega
+2302,Centro,2025-07-02 22:21:00,Entrega,VAN-391,Recoger pedido
+2303,Centro,2025-07-02 22:22:00,Recoger pedido,VAN-448,Confirmación
+2304,Oeste,2025-07-02 22:23:00,Confirmación,VAN-966,Ruta principal
+2305,Oeste,2025-07-02 22:24:00,Confirmación,VAN-858,Recoger pedido
+2306,Sur,2025-07-02 22:25:00,Entrega,VAN-817,Entrega
+2307,Norte,2025-07-02 22:26:00,Entrega,VAN-839,Ruta principal
+2308,Norte,2025-07-02 22:27:00,Recoger pedido,VAN-719,Recoger pedido
+2309,Centro,2025-07-02 22:28:00,Confirmación,VAN-684,Ruta principal
+2310,Norte,2025-07-02 22:29:00,Recoger pedido,VAN-603,Entrega
+2311,Oeste,2025-07-02 22:30:00,Ruta principal,VAN-204,Entrega
+2312,Oeste,2025-07-02 22:31:00,Confirmación,VAN-481,Cargar vehículo
+2313,Norte,2025-07-02 22:32:00,Confirmación,VAN-354,Confirmación
+2314,Oeste,2025-07-02 22:33:00,Recoger pedido,VAN-311,Ruta principal
+2315,Centro,2025-07-02 22:34:00,Entrega,VAN-990,Cargar vehículo
+2316,Oeste,2025-07-02 22:35:00,Confirmación,VAN-776,Recoger pedido
+2317,Oeste,2025-07-02 22:36:00,Confirmación,VAN-780,Confirmación
+2318,Norte,2025-07-02 22:37:00,Confirmación,VAN-154,Confirmación
+2319,Norte,2025-07-02 22:38:00,Recoger pedido,VAN-910,Cargar vehículo
+2320,Oeste,2025-07-02 22:39:00,Entrega,VAN-382,Ruta principal
+2321,Sur,2025-07-02 22:40:00,Cargar vehículo,VAN-721,Ruta principal
+2322,Este,2025-07-02 22:41:00,Ruta principal,VAN-530,Entrega
+2323,Sur,2025-07-02 22:42:00,Cargar vehículo,VAN-887,Ruta principal
+2324,Centro,2025-07-02 22:43:00,Ruta principal,VAN-318,Cargar vehículo
+2325,Norte,2025-07-02 22:44:00,Ruta principal,VAN-792,Entrega
+2326,Sur,2025-07-02 22:45:00,Recoger pedido,VAN-870,Cargar vehículo
+2327,Este,2025-07-02 22:46:00,Ruta principal,VAN-947,Ruta principal
+2328,Norte,2025-07-02 22:47:00,Ruta principal,VAN-106,Confirmación
+2329,Oeste,2025-07-02 22:48:00,Entrega,VAN-293,Confirmación
+2330,Este,2025-07-02 22:49:00,Recoger pedido,VAN-280,Entrega
+2331,Norte,2025-07-02 22:50:00,Recoger pedido,VAN-158,Ruta principal
+2332,Este,2025-07-02 22:51:00,Cargar vehículo,VAN-582,Confirmación
+2333,Este,2025-07-02 22:52:00,Ruta principal,VAN-638,Ruta principal
+2334,Oeste,2025-07-02 22:53:00,Recoger pedido,VAN-278,Entrega
+2335,Norte,2025-07-02 22:54:00,Recoger pedido,VAN-811,Ruta principal
+2336,Sur,2025-07-02 22:55:00,Recoger pedido,VAN-994,Entrega
+2337,Sur,2025-07-02 22:56:00,Confirmación,VAN-718,Entrega
+2338,Este,2025-07-02 22:57:00,Recoger pedido,VAN-742,Entrega
+2339,Sur,2025-07-02 22:58:00,Entrega,VAN-664,Recoger pedido
+2340,Sur,2025-07-02 22:59:00,Confirmación,VAN-926,Entrega
+2341,Norte,2025-07-02 23:00:00,Ruta principal,VAN-339,Cargar vehículo
+2342,Centro,2025-07-02 23:01:00,Recoger pedido,VAN-995,Recoger pedido
+2343,Sur,2025-07-02 23:02:00,Ruta principal,VAN-258,Cargar vehículo
+2344,Oeste,2025-07-02 23:03:00,Recoger pedido,VAN-847,Ruta principal
+2345,Norte,2025-07-02 23:04:00,Cargar vehículo,VAN-245,Recoger pedido
+2346,Oeste,2025-07-02 23:05:00,Confirmación,VAN-685,Entrega
+2347,Centro,2025-07-02 23:06:00,Entrega,VAN-178,Ruta principal
+2348,Sur,2025-07-02 23:07:00,Cargar vehículo,VAN-586,Confirmación
+2349,Este,2025-07-02 23:08:00,Entrega,VAN-452,Ruta principal
+2350,Oeste,2025-07-02 23:09:00,Confirmación,VAN-503,Ruta principal
+2351,Oeste,2025-07-02 23:10:00,Recoger pedido,VAN-823,Ruta principal
+2352,Centro,2025-07-02 23:11:00,Cargar vehículo,VAN-631,Recoger pedido
+2353,Este,2025-07-02 23:12:00,Ruta principal,VAN-655,Recoger pedido
+2354,Sur,2025-07-02 23:13:00,Confirmación,VAN-146,Confirmación
+2355,Oeste,2025-07-02 23:14:00,Cargar vehículo,VAN-935,Entrega
+2356,Este,2025-07-02 23:15:00,Cargar vehículo,VAN-409,Cargar vehículo
+2357,Norte,2025-07-02 23:16:00,Recoger pedido,VAN-390,Confirmación
+2358,Centro,2025-07-02 23:17:00,Recoger pedido,VAN-163,Cargar vehículo
+2359,Norte,2025-07-02 23:18:00,Cargar vehículo,VAN-860,Confirmación
+2360,Sur,2025-07-02 23:19:00,Cargar vehículo,VAN-148,Ruta principal
+2361,Centro,2025-07-02 23:20:00,Confirmación,VAN-665,Cargar vehículo
+2362,Centro,2025-07-02 23:21:00,Cargar vehículo,VAN-643,Entrega
+2363,Centro,2025-07-02 23:22:00,Entrega,VAN-429,Entrega
+2364,Sur,2025-07-02 23:23:00,Recoger pedido,VAN-197,Entrega
+2365,Centro,2025-07-02 23:24:00,Confirmación,VAN-164,Confirmación
+2366,Sur,2025-07-02 23:25:00,Confirmación,VAN-597,Cargar vehículo
+2367,Norte,2025-07-02 23:26:00,Confirmación,VAN-499,Recoger pedido
+2368,Oeste,2025-07-02 23:27:00,Entrega,VAN-335,Confirmación
+2369,Oeste,2025-07-02 23:28:00,Ruta principal,VAN-659,Recoger pedido
+2370,Este,2025-07-02 23:29:00,Recoger pedido,VAN-855,Confirmación
+2371,Norte,2025-07-02 23:30:00,Entrega,VAN-108,Ruta principal
+2372,Oeste,2025-07-02 23:31:00,Cargar vehículo,VAN-742,Entrega
+2373,Norte,2025-07-02 23:32:00,Confirmación,VAN-162,Ruta principal
+2374,Norte,2025-07-02 23:33:00,Recoger pedido,VAN-587,Recoger pedido
+2375,Centro,2025-07-02 23:34:00,Cargar vehículo,VAN-412,Confirmación
+2376,Sur,2025-07-02 23:35:00,Entrega,VAN-359,Confirmación
+2377,Centro,2025-07-02 23:36:00,Cargar vehículo,VAN-403,Cargar vehículo
+2378,Centro,2025-07-02 23:37:00,Ruta principal,VAN-687,Recoger pedido
+2379,Oeste,2025-07-02 23:38:00,Cargar vehículo,VAN-560,Cargar vehículo
+2380,Sur,2025-07-02 23:39:00,Entrega,VAN-866,Cargar vehículo
+2381,Centro,2025-07-02 23:40:00,Entrega,VAN-977,Cargar vehículo
+2382,Centro,2025-07-02 23:41:00,Entrega,VAN-429,Cargar vehículo
+2383,Centro,2025-07-02 23:42:00,Entrega,VAN-190,Recoger pedido
+2384,Centro,2025-07-02 23:43:00,Recoger pedido,VAN-475,Confirmación
+2385,Centro,2025-07-02 23:44:00,Recoger pedido,VAN-251,Confirmación
+2386,Norte,2025-07-02 23:45:00,Confirmación,VAN-423,Cargar vehículo
+2387,Este,2025-07-02 23:46:00,Entrega,VAN-731,Entrega
+2388,Oeste,2025-07-02 23:47:00,Ruta principal,VAN-564,Entrega
+2389,Sur,2025-07-02 23:48:00,Recoger pedido,VAN-436,Recoger pedido
+2390,Centro,2025-07-02 23:49:00,Entrega,VAN-722,Confirmación
+2391,Sur,2025-07-02 23:50:00,Entrega,VAN-392,Cargar vehículo
+2392,Este,2025-07-02 23:51:00,Confirmación,VAN-988,Entrega
+2393,Oeste,2025-07-02 23:52:00,Cargar vehículo,VAN-722,Recoger pedido
+2394,Oeste,2025-07-02 23:53:00,Entrega,VAN-884,Confirmación
+2395,Este,2025-07-02 23:54:00,Confirmación,VAN-533,Recoger pedido
+2396,Centro,2025-07-02 23:55:00,Cargar vehículo,VAN-719,Recoger pedido
+2397,Sur,2025-07-02 23:56:00,Entrega,VAN-227,Confirmación
+2398,Oeste,2025-07-02 23:57:00,Cargar vehículo,VAN-509,Recoger pedido
+2399,Oeste,2025-07-02 23:58:00,Cargar vehículo,VAN-600,Entrega
+2400,Sur,2025-07-02 23:59:00,Confirmación,VAN-779,Recoger pedido
+2401,Norte,2025-07-03 00:00:00,Entrega,VAN-247,Confirmación
+2402,Centro,2025-07-03 00:01:00,Ruta principal,VAN-474,Recoger pedido
+2403,Centro,2025-07-03 00:02:00,Cargar vehículo,VAN-471,Cargar vehículo
+2404,Este,2025-07-03 00:03:00,Recoger pedido,VAN-804,Ruta principal
+2405,Norte,2025-07-03 00:04:00,Confirmación,VAN-920,Cargar vehículo
+2406,Oeste,2025-07-03 00:05:00,Ruta principal,VAN-342,Entrega
+2407,Sur,2025-07-03 00:06:00,Cargar vehículo,VAN-595,Entrega
+2408,Norte,2025-07-03 00:07:00,Recoger pedido,VAN-259,Confirmación
+2409,Centro,2025-07-03 00:08:00,Confirmación,VAN-448,Entrega
+2410,Sur,2025-07-03 00:09:00,Entrega,VAN-244,Confirmación
+2411,Oeste,2025-07-03 00:10:00,Confirmación,VAN-918,Entrega
+2412,Oeste,2025-07-03 00:11:00,Cargar vehículo,VAN-584,Entrega
+2413,Centro,2025-07-03 00:12:00,Cargar vehículo,VAN-797,Entrega
+2414,Centro,2025-07-03 00:13:00,Entrega,VAN-557,Recoger pedido
+2415,Sur,2025-07-03 00:14:00,Cargar vehículo,VAN-768,Ruta principal
+2416,Norte,2025-07-03 00:15:00,Recoger pedido,VAN-995,Entrega
+2417,Oeste,2025-07-03 00:16:00,Ruta principal,VAN-991,Entrega
+2418,Oeste,2025-07-03 00:17:00,Cargar vehículo,VAN-794,Entrega
+2419,Sur,2025-07-03 00:18:00,Ruta principal,VAN-728,Entrega
+2420,Centro,2025-07-03 00:19:00,Cargar vehículo,VAN-826,Recoger pedido
+2421,Este,2025-07-03 00:20:00,Entrega,VAN-911,Recoger pedido
+2422,Centro,2025-07-03 00:21:00,Ruta principal,VAN-503,Ruta principal
+2423,Norte,2025-07-03 00:22:00,Confirmación,VAN-672,Entrega
+2424,Oeste,2025-07-03 00:23:00,Entrega,VAN-941,Entrega
+2425,Sur,2025-07-03 00:24:00,Cargar vehículo,VAN-577,Cargar vehículo
+2426,Este,2025-07-03 00:25:00,Cargar vehículo,VAN-590,Confirmación
+2427,Centro,2025-07-03 00:26:00,Confirmación,VAN-732,Confirmación
+2428,Sur,2025-07-03 00:27:00,Recoger pedido,VAN-292,Entrega
+2429,Este,2025-07-03 00:28:00,Ruta principal,VAN-741,Confirmación
+2430,Centro,2025-07-03 00:29:00,Cargar vehículo,VAN-957,Entrega
+2431,Oeste,2025-07-03 00:30:00,Confirmación,VAN-726,Confirmación
+2432,Este,2025-07-03 00:31:00,Recoger pedido,VAN-993,Entrega
+2433,Centro,2025-07-03 00:32:00,Cargar vehículo,VAN-435,Ruta principal
+2434,Sur,2025-07-03 00:33:00,Confirmación,VAN-525,Recoger pedido
+2435,Este,2025-07-03 00:34:00,Cargar vehículo,VAN-265,Cargar vehículo
+2436,Centro,2025-07-03 00:35:00,Cargar vehículo,VAN-893,Recoger pedido
+2437,Este,2025-07-03 00:36:00,Recoger pedido,VAN-826,Confirmación
+2438,Este,2025-07-03 00:37:00,Entrega,VAN-225,Recoger pedido
+2439,Sur,2025-07-03 00:38:00,Recoger pedido,VAN-161,Confirmación
+2440,Centro,2025-07-03 00:39:00,Entrega,VAN-216,Recoger pedido
+2441,Este,2025-07-03 00:40:00,Ruta principal,VAN-766,Cargar vehículo
+2442,Sur,2025-07-03 00:41:00,Confirmación,VAN-793,Ruta principal
+2443,Sur,2025-07-03 00:42:00,Cargar vehículo,VAN-820,Entrega
+2444,Oeste,2025-07-03 00:43:00,Recoger pedido,VAN-986,Recoger pedido
+2445,Centro,2025-07-03 00:44:00,Cargar vehículo,VAN-728,Confirmación
+2446,Este,2025-07-03 00:45:00,Confirmación,VAN-148,Cargar vehículo
+2447,Este,2025-07-03 00:46:00,Cargar vehículo,VAN-397,Recoger pedido
+2448,Oeste,2025-07-03 00:47:00,Ruta principal,VAN-231,Confirmación
+2449,Norte,2025-07-03 00:48:00,Confirmación,VAN-651,Confirmación
+2450,Centro,2025-07-03 00:49:00,Cargar vehículo,VAN-207,Entrega
+2451,Centro,2025-07-03 00:50:00,Ruta principal,VAN-151,Ruta principal
+2452,Sur,2025-07-03 00:51:00,Ruta principal,VAN-448,Cargar vehículo
+2453,Oeste,2025-07-03 00:52:00,Entrega,VAN-885,Recoger pedido
+2454,Norte,2025-07-03 00:53:00,Recoger pedido,VAN-928,Recoger pedido
+2455,Norte,2025-07-03 00:54:00,Ruta principal,VAN-516,Cargar vehículo
+2456,Centro,2025-07-03 00:55:00,Confirmación,VAN-415,Confirmación
+2457,Norte,2025-07-03 00:56:00,Confirmación,VAN-252,Recoger pedido
+2458,Norte,2025-07-03 00:57:00,Confirmación,VAN-653,Ruta principal
+2459,Norte,2025-07-03 00:58:00,Entrega,VAN-318,Cargar vehículo
+2460,Este,2025-07-03 00:59:00,Cargar vehículo,VAN-218,Recoger pedido
+2461,Oeste,2025-07-03 01:00:00,Ruta principal,VAN-441,Ruta principal
+2462,Sur,2025-07-03 01:01:00,Confirmación,VAN-868,Entrega
+2463,Este,2025-07-03 01:02:00,Confirmación,VAN-317,Cargar vehículo
+2464,Este,2025-07-03 01:03:00,Entrega,VAN-885,Recoger pedido
+2465,Centro,2025-07-03 01:04:00,Recoger pedido,VAN-563,Recoger pedido
+2466,Sur,2025-07-03 01:05:00,Cargar vehículo,VAN-433,Confirmación
+2467,Centro,2025-07-03 01:06:00,Ruta principal,VAN-881,Recoger pedido
+2468,Centro,2025-07-03 01:07:00,Cargar vehículo,VAN-969,Entrega
+2469,Centro,2025-07-03 01:08:00,Entrega,VAN-392,Entrega
+2470,Sur,2025-07-03 01:09:00,Entrega,VAN-485,Cargar vehículo
+2471,Oeste,2025-07-03 01:10:00,Cargar vehículo,VAN-125,Recoger pedido
+2472,Oeste,2025-07-03 01:11:00,Entrega,VAN-585,Ruta principal
+2473,Norte,2025-07-03 01:12:00,Ruta principal,VAN-127,Ruta principal
+2474,Este,2025-07-03 01:13:00,Ruta principal,VAN-221,Confirmación
+2475,Oeste,2025-07-03 01:14:00,Cargar vehículo,VAN-415,Cargar vehículo
+2476,Este,2025-07-03 01:15:00,Ruta principal,VAN-489,Entrega
+2477,Oeste,2025-07-03 01:16:00,Ruta principal,VAN-394,Cargar vehículo
+2478,Norte,2025-07-03 01:17:00,Cargar vehículo,VAN-190,Cargar vehículo
+2479,Norte,2025-07-03 01:18:00,Cargar vehículo,VAN-553,Recoger pedido
+2480,Sur,2025-07-03 01:19:00,Confirmación,VAN-441,Cargar vehículo
+2481,Norte,2025-07-03 01:20:00,Entrega,VAN-396,Recoger pedido
+2482,Oeste,2025-07-03 01:21:00,Entrega,VAN-515,Cargar vehículo
+2483,Este,2025-07-03 01:22:00,Cargar vehículo,VAN-588,Entrega
+2484,Centro,2025-07-03 01:23:00,Ruta principal,VAN-128,Entrega
+2485,Este,2025-07-03 01:24:00,Confirmación,VAN-229,Recoger pedido
+2486,Oeste,2025-07-03 01:25:00,Entrega,VAN-149,Ruta principal
+2487,Este,2025-07-03 01:26:00,Ruta principal,VAN-848,Ruta principal
+2488,Oeste,2025-07-03 01:27:00,Ruta principal,VAN-100,Ruta principal
+2489,Oeste,2025-07-03 01:28:00,Confirmación,VAN-620,Confirmación
+2490,Sur,2025-07-03 01:29:00,Entrega,VAN-691,Recoger pedido
+2491,Oeste,2025-07-03 01:30:00,Cargar vehículo,VAN-952,Confirmación
+2492,Oeste,2025-07-03 01:31:00,Confirmación,VAN-862,Confirmación
+2493,Centro,2025-07-03 01:32:00,Entrega,VAN-967,Entrega
+2494,Sur,2025-07-03 01:33:00,Ruta principal,VAN-787,Confirmación
+2495,Este,2025-07-03 01:34:00,Ruta principal,VAN-453,Ruta principal
+2496,Oeste,2025-07-03 01:35:00,Recoger pedido,VAN-381,Cargar vehículo
+2497,Sur,2025-07-03 01:36:00,Ruta principal,VAN-185,Confirmación
+2498,Este,2025-07-03 01:37:00,Recoger pedido,VAN-444,Entrega
+2499,Sur,2025-07-03 01:38:00,Recoger pedido,VAN-963,Entrega
+2500,Oeste,2025-07-03 01:39:00,Entrega,VAN-572,Cargar vehículo
+2501,Este,2025-07-03 01:40:00,Ruta principal,VAN-353,Ruta principal
+2502,Sur,2025-07-03 01:41:00,Entrega,VAN-361,Entrega
+2503,Centro,2025-07-03 01:42:00,Cargar vehículo,VAN-627,Cargar vehículo
+2504,Sur,2025-07-03 01:43:00,Recoger pedido,VAN-505,Ruta principal
+2505,Este,2025-07-03 01:44:00,Recoger pedido,VAN-206,Ruta principal
+2506,Norte,2025-07-03 01:45:00,Confirmación,VAN-154,Entrega
+2507,Este,2025-07-03 01:46:00,Ruta principal,VAN-197,Cargar vehículo
+2508,Centro,2025-07-03 01:47:00,Cargar vehículo,VAN-415,Confirmación
+2509,Oeste,2025-07-03 01:48:00,Cargar vehículo,VAN-648,Ruta principal
+2510,Sur,2025-07-03 01:49:00,Entrega,VAN-761,Ruta principal
+2511,Sur,2025-07-03 01:50:00,Confirmación,VAN-666,Ruta principal
+2512,Norte,2025-07-03 01:51:00,Cargar vehículo,VAN-942,Recoger pedido
+2513,Este,2025-07-03 01:52:00,Cargar vehículo,VAN-105,Ruta principal
+2514,Norte,2025-07-03 01:53:00,Cargar vehículo,VAN-218,Confirmación
+2515,Centro,2025-07-03 01:54:00,Cargar vehículo,VAN-173,Cargar vehículo
+2516,Este,2025-07-03 01:55:00,Cargar vehículo,VAN-143,Cargar vehículo
+2517,Centro,2025-07-03 01:56:00,Entrega,VAN-121,Entrega
+2518,Oeste,2025-07-03 01:57:00,Confirmación,VAN-951,Entrega
+2519,Norte,2025-07-03 01:58:00,Entrega,VAN-910,Cargar vehículo
+2520,Centro,2025-07-03 01:59:00,Entrega,VAN-886,Recoger pedido
+2521,Oeste,2025-07-03 02:00:00,Recoger pedido,VAN-350,Entrega
+2522,Este,2025-07-03 02:01:00,Recoger pedido,VAN-427,Ruta principal
+2523,Oeste,2025-07-03 02:02:00,Recoger pedido,VAN-235,Cargar vehículo
+2524,Sur,2025-07-03 02:03:00,Entrega,VAN-225,Ruta principal
+2525,Este,2025-07-03 02:04:00,Entrega,VAN-966,Confirmación
+2526,Norte,2025-07-03 02:05:00,Cargar vehículo,VAN-958,Ruta principal
+2527,Norte,2025-07-03 02:06:00,Recoger pedido,VAN-284,Cargar vehículo
+2528,Oeste,2025-07-03 02:07:00,Recoger pedido,VAN-605,Cargar vehículo
+2529,Este,2025-07-03 02:08:00,Recoger pedido,VAN-422,Confirmación
+2530,Sur,2025-07-03 02:09:00,Confirmación,VAN-318,Ruta principal
+2531,Oeste,2025-07-03 02:10:00,Recoger pedido,VAN-395,Confirmación
+2532,Sur,2025-07-03 02:11:00,Recoger pedido,VAN-857,Cargar vehículo
+2533,Norte,2025-07-03 02:12:00,Cargar vehículo,VAN-391,Ruta principal
+2534,Este,2025-07-03 02:13:00,Ruta principal,VAN-296,Entrega
+2535,Sur,2025-07-03 02:14:00,Entrega,VAN-866,Confirmación
+2536,Norte,2025-07-03 02:15:00,Recoger pedido,VAN-529,Ruta principal
+2537,Este,2025-07-03 02:16:00,Recoger pedido,VAN-338,Entrega
+2538,Oeste,2025-07-03 02:17:00,Cargar vehículo,VAN-544,Recoger pedido
+2539,Sur,2025-07-03 02:18:00,Recoger pedido,VAN-379,Confirmación
+2540,Este,2025-07-03 02:19:00,Entrega,VAN-960,Entrega
+2541,Oeste,2025-07-03 02:20:00,Recoger pedido,VAN-945,Entrega
+2542,Este,2025-07-03 02:21:00,Entrega,VAN-969,Cargar vehículo
+2543,Norte,2025-07-03 02:22:00,Ruta principal,VAN-884,Recoger pedido
+2544,Oeste,2025-07-03 02:23:00,Confirmación,VAN-498,Recoger pedido
+2545,Este,2025-07-03 02:24:00,Ruta principal,VAN-789,Entrega
+2546,Norte,2025-07-03 02:25:00,Ruta principal,VAN-642,Recoger pedido
+2547,Sur,2025-07-03 02:26:00,Recoger pedido,VAN-535,Confirmación
+2548,Norte,2025-07-03 02:27:00,Cargar vehículo,VAN-636,Entrega
+2549,Norte,2025-07-03 02:28:00,Ruta principal,VAN-907,Ruta principal
+2550,Este,2025-07-03 02:29:00,Confirmación,VAN-695,Cargar vehículo
+2551,Norte,2025-07-03 02:30:00,Cargar vehículo,VAN-344,Confirmación
+2552,Centro,2025-07-03 02:31:00,Cargar vehículo,VAN-119,Recoger pedido
+2553,Este,2025-07-03 02:32:00,Ruta principal,VAN-844,Entrega
+2554,Oeste,2025-07-03 02:33:00,Entrega,VAN-117,Ruta principal
+2555,Oeste,2025-07-03 02:34:00,Entrega,VAN-422,Cargar vehículo
+2556,Norte,2025-07-03 02:35:00,Cargar vehículo,VAN-716,Ruta principal
+2557,Sur,2025-07-03 02:36:00,Cargar vehículo,VAN-226,Ruta principal
+2558,Sur,2025-07-03 02:37:00,Cargar vehículo,VAN-287,Cargar vehículo
+2559,Oeste,2025-07-03 02:38:00,Recoger pedido,VAN-681,Confirmación
+2560,Oeste,2025-07-03 02:39:00,Ruta principal,VAN-781,Confirmación
+2561,Sur,2025-07-03 02:40:00,Ruta principal,VAN-325,Confirmación
+2562,Centro,2025-07-03 02:41:00,Entrega,VAN-363,Recoger pedido
+2563,Oeste,2025-07-03 02:42:00,Confirmación,VAN-613,Entrega
+2564,Oeste,2025-07-03 02:43:00,Ruta principal,VAN-794,Cargar vehículo
+2565,Oeste,2025-07-03 02:44:00,Cargar vehículo,VAN-893,Ruta principal
+2566,Centro,2025-07-03 02:45:00,Ruta principal,VAN-582,Confirmación
+2567,Sur,2025-07-03 02:46:00,Ruta principal,VAN-505,Recoger pedido
+2568,Este,2025-07-03 02:47:00,Entrega,VAN-927,Recoger pedido
+2569,Norte,2025-07-03 02:48:00,Confirmación,VAN-446,Ruta principal
+2570,Centro,2025-07-03 02:49:00,Recoger pedido,VAN-632,Confirmación
+2571,Oeste,2025-07-03 02:50:00,Recoger pedido,VAN-574,Entrega
+2572,Norte,2025-07-03 02:51:00,Confirmación,VAN-120,Cargar vehículo
+2573,Este,2025-07-03 02:52:00,Cargar vehículo,VAN-185,Ruta principal
+2574,Centro,2025-07-03 02:53:00,Cargar vehículo,VAN-520,Entrega
+2575,Este,2025-07-03 02:54:00,Confirmación,VAN-817,Ruta principal
+2576,Este,2025-07-03 02:55:00,Ruta principal,VAN-501,Ruta principal
+2577,Centro,2025-07-03 02:56:00,Ruta principal,VAN-883,Recoger pedido
+2578,Sur,2025-07-03 02:57:00,Ruta principal,VAN-699,Ruta principal
+2579,Norte,2025-07-03 02:58:00,Entrega,VAN-260,Cargar vehículo
+2580,Oeste,2025-07-03 02:59:00,Entrega,VAN-570,Cargar vehículo
+2581,Norte,2025-07-03 03:00:00,Confirmación,VAN-882,Entrega
+2582,Norte,2025-07-03 03:01:00,Cargar vehículo,VAN-948,Cargar vehículo
+2583,Oeste,2025-07-03 03:02:00,Confirmación,VAN-481,Recoger pedido
+2584,Este,2025-07-03 03:03:00,Cargar vehículo,VAN-463,Confirmación
+2585,Oeste,2025-07-03 03:04:00,Ruta principal,VAN-916,Ruta principal
+2586,Oeste,2025-07-03 03:05:00,Recoger pedido,VAN-635,Ruta principal
+2587,Norte,2025-07-03 03:06:00,Confirmación,VAN-439,Recoger pedido
+2588,Sur,2025-07-03 03:07:00,Cargar vehículo,VAN-169,Recoger pedido
+2589,Sur,2025-07-03 03:08:00,Entrega,VAN-990,Ruta principal
+2590,Oeste,2025-07-03 03:09:00,Ruta principal,VAN-609,Entrega
+2591,Este,2025-07-03 03:10:00,Recoger pedido,VAN-533,Cargar vehículo
+2592,Sur,2025-07-03 03:11:00,Recoger pedido,VAN-537,Recoger pedido
+2593,Este,2025-07-03 03:12:00,Entrega,VAN-263,Recoger pedido
+2594,Sur,2025-07-03 03:13:00,Confirmación,VAN-502,Recoger pedido
+2595,Sur,2025-07-03 03:14:00,Ruta principal,VAN-991,Entrega
+2596,Este,2025-07-03 03:15:00,Ruta principal,VAN-314,Recoger pedido
+2597,Oeste,2025-07-03 03:16:00,Recoger pedido,VAN-280,Ruta principal
+2598,Centro,2025-07-03 03:17:00,Entrega,VAN-994,Entrega
+2599,Este,2025-07-03 03:18:00,Confirmación,VAN-588,Recoger pedido
+2600,Este,2025-07-03 03:19:00,Ruta principal,VAN-580,Confirmación
+2601,Oeste,2025-07-03 03:20:00,Cargar vehículo,VAN-732,Recoger pedido
+2602,Centro,2025-07-03 03:21:00,Recoger pedido,VAN-895,Cargar vehículo
+2603,Centro,2025-07-03 03:22:00,Cargar vehículo,VAN-340,Cargar vehículo
+2604,Oeste,2025-07-03 03:23:00,Entrega,VAN-317,Confirmación
+2605,Norte,2025-07-03 03:24:00,Cargar vehículo,VAN-251,Recoger pedido
+2606,Norte,2025-07-03 03:25:00,Cargar vehículo,VAN-326,Confirmación
+2607,Sur,2025-07-03 03:26:00,Entrega,VAN-424,Cargar vehículo
+2608,Este,2025-07-03 03:27:00,Entrega,VAN-439,Cargar vehículo
+2609,Norte,2025-07-03 03:28:00,Cargar vehículo,VAN-542,Cargar vehículo
+2610,Norte,2025-07-03 03:29:00,Ruta principal,VAN-328,Ruta principal
+2611,Sur,2025-07-03 03:30:00,Confirmación,VAN-897,Cargar vehículo
+2612,Sur,2025-07-03 03:31:00,Ruta principal,VAN-780,Cargar vehículo
+2613,Este,2025-07-03 03:32:00,Entrega,VAN-206,Ruta principal
+2614,Oeste,2025-07-03 03:33:00,Ruta principal,VAN-472,Ruta principal
+2615,Oeste,2025-07-03 03:34:00,Cargar vehículo,VAN-987,Confirmación
+2616,Centro,2025-07-03 03:35:00,Cargar vehículo,VAN-855,Recoger pedido
+2617,Este,2025-07-03 03:36:00,Ruta principal,VAN-441,Recoger pedido
+2618,Este,2025-07-03 03:37:00,Entrega,VAN-308,Recoger pedido
+2619,Sur,2025-07-03 03:38:00,Entrega,VAN-277,Confirmación
+2620,Este,2025-07-03 03:39:00,Entrega,VAN-893,Ruta principal
+2621,Este,2025-07-03 03:40:00,Ruta principal,VAN-414,Entrega
+2622,Este,2025-07-03 03:41:00,Cargar vehículo,VAN-771,Cargar vehículo
+2623,Este,2025-07-03 03:42:00,Cargar vehículo,VAN-275,Cargar vehículo
+2624,Oeste,2025-07-03 03:43:00,Confirmación,VAN-528,Confirmación
+2625,Oeste,2025-07-03 03:44:00,Ruta principal,VAN-161,Entrega
+2626,Este,2025-07-03 03:45:00,Entrega,VAN-351,Cargar vehículo
+2627,Sur,2025-07-03 03:46:00,Recoger pedido,VAN-981,Confirmación
+2628,Este,2025-07-03 03:47:00,Cargar vehículo,VAN-798,Entrega
+2629,Centro,2025-07-03 03:48:00,Recoger pedido,VAN-196,Entrega
+2630,Centro,2025-07-03 03:49:00,Ruta principal,VAN-576,Confirmación
+2631,Oeste,2025-07-03 03:50:00,Ruta principal,VAN-976,Confirmación
+2632,Centro,2025-07-03 03:51:00,Entrega,VAN-259,Recoger pedido
+2633,Centro,2025-07-03 03:52:00,Recoger pedido,VAN-963,Cargar vehículo
+2634,Norte,2025-07-03 03:53:00,Entrega,VAN-259,Entrega
+2635,Norte,2025-07-03 03:54:00,Cargar vehículo,VAN-689,Entrega
+2636,Oeste,2025-07-03 03:55:00,Cargar vehículo,VAN-714,Recoger pedido
+2637,Centro,2025-07-03 03:56:00,Ruta principal,VAN-277,Confirmación
+2638,Este,2025-07-03 03:57:00,Ruta principal,VAN-812,Recoger pedido
+2639,Centro,2025-07-03 03:58:00,Confirmación,VAN-446,Recoger pedido
+2640,Norte,2025-07-03 03:59:00,Entrega,VAN-400,Ruta principal
+2641,Sur,2025-07-03 04:00:00,Recoger pedido,VAN-411,Entrega
+2642,Centro,2025-07-03 04:01:00,Cargar vehículo,VAN-807,Recoger pedido
+2643,Oeste,2025-07-03 04:02:00,Entrega,VAN-332,Confirmación
+2644,Sur,2025-07-03 04:03:00,Recoger pedido,VAN-246,Entrega
+2645,Oeste,2025-07-03 04:04:00,Entrega,VAN-858,Recoger pedido
+2646,Sur,2025-07-03 04:05:00,Recoger pedido,VAN-517,Cargar vehículo
+2647,Oeste,2025-07-03 04:06:00,Ruta principal,VAN-185,Cargar vehículo
+2648,Sur,2025-07-03 04:07:00,Entrega,VAN-820,Ruta principal
+2649,Este,2025-07-03 04:08:00,Ruta principal,VAN-855,Ruta principal
+2650,Este,2025-07-03 04:09:00,Cargar vehículo,VAN-606,Confirmación
+2651,Este,2025-07-03 04:10:00,Confirmación,VAN-733,Cargar vehículo
+2652,Sur,2025-07-03 04:11:00,Ruta principal,VAN-843,Ruta principal
+2653,Sur,2025-07-03 04:12:00,Confirmación,VAN-642,Recoger pedido
+2654,Centro,2025-07-03 04:13:00,Confirmación,VAN-242,Ruta principal
+2655,Centro,2025-07-03 04:14:00,Ruta principal,VAN-383,Confirmación
+2656,Oeste,2025-07-03 04:15:00,Entrega,VAN-600,Ruta principal
+2657,Oeste,2025-07-03 04:16:00,Recoger pedido,VAN-769,Confirmación
+2658,Norte,2025-07-03 04:17:00,Cargar vehículo,VAN-126,Confirmación
+2659,Sur,2025-07-03 04:18:00,Entrega,VAN-354,Cargar vehículo
+2660,Este,2025-07-03 04:19:00,Entrega,VAN-211,Ruta principal
+2661,Norte,2025-07-03 04:20:00,Confirmación,VAN-911,Recoger pedido
+2662,Este,2025-07-03 04:21:00,Ruta principal,VAN-514,Recoger pedido
+2663,Sur,2025-07-03 04:22:00,Entrega,VAN-679,Ruta principal
+2664,Centro,2025-07-03 04:23:00,Ruta principal,VAN-558,Confirmación
+2665,Centro,2025-07-03 04:24:00,Entrega,VAN-206,Cargar vehículo
+2666,Centro,2025-07-03 04:25:00,Confirmación,VAN-690,Entrega
+2667,Norte,2025-07-03 04:26:00,Confirmación,VAN-490,Recoger pedido
+2668,Sur,2025-07-03 04:27:00,Confirmación,VAN-367,Ruta principal
+2669,Oeste,2025-07-03 04:28:00,Recoger pedido,VAN-214,Entrega
+2670,Oeste,2025-07-03 04:29:00,Recoger pedido,VAN-816,Entrega
+2671,Sur,2025-07-03 04:30:00,Recoger pedido,VAN-981,Cargar vehículo
+2672,Centro,2025-07-03 04:31:00,Recoger pedido,VAN-172,Cargar vehículo
+2673,Oeste,2025-07-03 04:32:00,Entrega,VAN-189,Entrega
+2674,Norte,2025-07-03 04:33:00,Cargar vehículo,VAN-594,Recoger pedido
+2675,Sur,2025-07-03 04:34:00,Entrega,VAN-618,Confirmación
+2676,Oeste,2025-07-03 04:35:00,Recoger pedido,VAN-816,Recoger pedido
+2677,Oeste,2025-07-03 04:36:00,Entrega,VAN-860,Recoger pedido
+2678,Norte,2025-07-03 04:37:00,Entrega,VAN-521,Ruta principal
+2679,Oeste,2025-07-03 04:38:00,Ruta principal,VAN-379,Recoger pedido
+2680,Sur,2025-07-03 04:39:00,Recoger pedido,VAN-157,Recoger pedido
+2681,Centro,2025-07-03 04:40:00,Ruta principal,VAN-667,Confirmación
+2682,Oeste,2025-07-03 04:41:00,Recoger pedido,VAN-684,Cargar vehículo
+2683,Centro,2025-07-03 04:42:00,Entrega,VAN-782,Entrega
+2684,Centro,2025-07-03 04:43:00,Confirmación,VAN-760,Recoger pedido
+2685,Centro,2025-07-03 04:44:00,Ruta principal,VAN-677,Confirmación
+2686,Norte,2025-07-03 04:45:00,Ruta principal,VAN-787,Entrega
+2687,Sur,2025-07-03 04:46:00,Recoger pedido,VAN-141,Recoger pedido
+2688,Norte,2025-07-03 04:47:00,Cargar vehículo,VAN-705,Ruta principal
+2689,Sur,2025-07-03 04:48:00,Entrega,VAN-832,Confirmación
+2690,Este,2025-07-03 04:49:00,Cargar vehículo,VAN-885,Recoger pedido
+2691,Oeste,2025-07-03 04:50:00,Recoger pedido,VAN-438,Ruta principal
+2692,Este,2025-07-03 04:51:00,Confirmación,VAN-642,Ruta principal
+2693,Este,2025-07-03 04:52:00,Ruta principal,VAN-411,Cargar vehículo
+2694,Este,2025-07-03 04:53:00,Ruta principal,VAN-385,Confirmación
+2695,Sur,2025-07-03 04:54:00,Ruta principal,VAN-706,Entrega
+2696,Centro,2025-07-03 04:55:00,Confirmación,VAN-391,Cargar vehículo
+2697,Centro,2025-07-03 04:56:00,Cargar vehículo,VAN-214,Entrega
+2698,Este,2025-07-03 04:57:00,Confirmación,VAN-447,Cargar vehículo
+2699,Oeste,2025-07-03 04:58:00,Entrega,VAN-529,Entrega
+2700,Sur,2025-07-03 04:59:00,Entrega,VAN-154,Recoger pedido
+2701,Centro,2025-07-03 05:00:00,Ruta principal,VAN-498,Entrega
+2702,Centro,2025-07-03 05:01:00,Cargar vehículo,VAN-681,Ruta principal
+2703,Sur,2025-07-03 05:02:00,Ruta principal,VAN-843,Entrega
+2704,Centro,2025-07-03 05:03:00,Entrega,VAN-313,Cargar vehículo
+2705,Oeste,2025-07-03 05:04:00,Entrega,VAN-520,Entrega
+2706,Centro,2025-07-03 05:05:00,Ruta principal,VAN-987,Cargar vehículo
+2707,Sur,2025-07-03 05:06:00,Cargar vehículo,VAN-204,Recoger pedido
+2708,Centro,2025-07-03 05:07:00,Entrega,VAN-920,Ruta principal
+2709,Oeste,2025-07-03 05:08:00,Cargar vehículo,VAN-146,Recoger pedido
+2710,Sur,2025-07-03 05:09:00,Confirmación,VAN-196,Recoger pedido
+2711,Sur,2025-07-03 05:10:00,Recoger pedido,VAN-170,Cargar vehículo
+2712,Sur,2025-07-03 05:11:00,Cargar vehículo,VAN-398,Entrega
+2713,Sur,2025-07-03 05:12:00,Cargar vehículo,VAN-295,Recoger pedido
+2714,Oeste,2025-07-03 05:13:00,Recoger pedido,VAN-979,Ruta principal
+2715,Norte,2025-07-03 05:14:00,Recoger pedido,VAN-812,Confirmación
+2716,Norte,2025-07-03 05:15:00,Entrega,VAN-314,Cargar vehículo
+2717,Norte,2025-07-03 05:16:00,Entrega,VAN-489,Ruta principal
+2718,Oeste,2025-07-03 05:17:00,Recoger pedido,VAN-889,Recoger pedido
+2719,Sur,2025-07-03 05:18:00,Entrega,VAN-406,Entrega
+2720,Sur,2025-07-03 05:19:00,Ruta principal,VAN-802,Entrega
+2721,Este,2025-07-03 05:20:00,Entrega,VAN-882,Entrega
+2722,Sur,2025-07-03 05:21:00,Cargar vehículo,VAN-259,Entrega
+2723,Centro,2025-07-03 05:22:00,Ruta principal,VAN-479,Ruta principal
+2724,Centro,2025-07-03 05:23:00,Cargar vehículo,VAN-475,Entrega
+2725,Este,2025-07-03 05:24:00,Cargar vehículo,VAN-997,Ruta principal
+2726,Sur,2025-07-03 05:25:00,Recoger pedido,VAN-454,Entrega
+2727,Norte,2025-07-03 05:26:00,Recoger pedido,VAN-509,Entrega
+2728,Sur,2025-07-03 05:27:00,Recoger pedido,VAN-955,Cargar vehículo
+2729,Sur,2025-07-03 05:28:00,Recoger pedido,VAN-447,Cargar vehículo
+2730,Sur,2025-07-03 05:29:00,Recoger pedido,VAN-157,Entrega
+2731,Este,2025-07-03 05:30:00,Entrega,VAN-480,Recoger pedido
+2732,Oeste,2025-07-03 05:31:00,Entrega,VAN-222,Confirmación
+2733,Este,2025-07-03 05:32:00,Ruta principal,VAN-459,Cargar vehículo
+2734,Centro,2025-07-03 05:33:00,Cargar vehículo,VAN-885,Entrega
+2735,Norte,2025-07-03 05:34:00,Recoger pedido,VAN-982,Cargar vehículo
+2736,Este,2025-07-03 05:35:00,Ruta principal,VAN-724,Recoger pedido
+2737,Oeste,2025-07-03 05:36:00,Ruta principal,VAN-498,Entrega
+2738,Este,2025-07-03 05:37:00,Recoger pedido,VAN-619,Cargar vehículo
+2739,Este,2025-07-03 05:38:00,Recoger pedido,VAN-549,Ruta principal
+2740,Este,2025-07-03 05:39:00,Recoger pedido,VAN-454,Cargar vehículo
+2741,Centro,2025-07-03 05:40:00,Cargar vehículo,VAN-772,Recoger pedido
+2742,Sur,2025-07-03 05:41:00,Recoger pedido,VAN-839,Recoger pedido
+2743,Este,2025-07-03 05:42:00,Recoger pedido,VAN-403,Cargar vehículo
+2744,Este,2025-07-03 05:43:00,Confirmación,VAN-584,Ruta principal
+2745,Sur,2025-07-03 05:44:00,Ruta principal,VAN-181,Cargar vehículo
+2746,Oeste,2025-07-03 05:45:00,Confirmación,VAN-596,Cargar vehículo
+2747,Norte,2025-07-03 05:46:00,Cargar vehículo,VAN-440,Ruta principal
+2748,Centro,2025-07-03 05:47:00,Entrega,VAN-194,Cargar vehículo
+2749,Este,2025-07-03 05:48:00,Ruta principal,VAN-216,Confirmación
+2750,Este,2025-07-03 05:49:00,Ruta principal,VAN-569,Recoger pedido
+2751,Centro,2025-07-03 05:50:00,Entrega,VAN-192,Entrega
+2752,Oeste,2025-07-03 05:51:00,Entrega,VAN-698,Cargar vehículo
+2753,Centro,2025-07-03 05:52:00,Confirmación,VAN-669,Cargar vehículo
+2754,Este,2025-07-03 05:53:00,Entrega,VAN-635,Entrega
+2755,Este,2025-07-03 05:54:00,Cargar vehículo,VAN-636,Recoger pedido
+2756,Centro,2025-07-03 05:55:00,Cargar vehículo,VAN-519,Confirmación
+2757,Oeste,2025-07-03 05:56:00,Recoger pedido,VAN-268,Confirmación
+2758,Sur,2025-07-03 05:57:00,Cargar vehículo,VAN-646,Recoger pedido
+2759,Norte,2025-07-03 05:58:00,Entrega,VAN-123,Ruta principal
+2760,Sur,2025-07-03 05:59:00,Recoger pedido,VAN-190,Recoger pedido
+2761,Centro,2025-07-03 06:00:00,Entrega,VAN-931,Entrega
+2762,Norte,2025-07-03 06:01:00,Confirmación,VAN-658,Recoger pedido
+2763,Norte,2025-07-03 06:02:00,Entrega,VAN-209,Cargar vehículo
+2764,Norte,2025-07-03 06:03:00,Entrega,VAN-264,Confirmación
+2765,Oeste,2025-07-03 06:04:00,Cargar vehículo,VAN-996,Recoger pedido
+2766,Centro,2025-07-03 06:05:00,Recoger pedido,VAN-296,Cargar vehículo
+2767,Norte,2025-07-03 06:06:00,Cargar vehículo,VAN-522,Confirmación
+2768,Este,2025-07-03 06:07:00,Recoger pedido,VAN-193,Recoger pedido
+2769,Oeste,2025-07-03 06:08:00,Recoger pedido,VAN-377,Recoger pedido
+2770,Centro,2025-07-03 06:09:00,Ruta principal,VAN-475,Recoger pedido
+2771,Norte,2025-07-03 06:10:00,Confirmación,VAN-541,Confirmación
+2772,Centro,2025-07-03 06:11:00,Cargar vehículo,VAN-680,Confirmación
+2773,Centro,2025-07-03 06:12:00,Cargar vehículo,VAN-823,Cargar vehículo
+2774,Norte,2025-07-03 06:13:00,Confirmación,VAN-510,Ruta principal
+2775,Sur,2025-07-03 06:14:00,Entrega,VAN-678,Recoger pedido
+2776,Este,2025-07-03 06:15:00,Entrega,VAN-927,Confirmación
+2777,Oeste,2025-07-03 06:16:00,Entrega,VAN-402,Ruta principal
+2778,Oeste,2025-07-03 06:17:00,Ruta principal,VAN-949,Cargar vehículo
+2779,Sur,2025-07-03 06:18:00,Confirmación,VAN-893,Entrega
+2780,Norte,2025-07-03 06:19:00,Cargar vehículo,VAN-630,Cargar vehículo
+2781,Centro,2025-07-03 06:20:00,Cargar vehículo,VAN-272,Recoger pedido
+2782,Este,2025-07-03 06:21:00,Entrega,VAN-705,Confirmación
+2783,Sur,2025-07-03 06:22:00,Confirmación,VAN-813,Ruta principal
+2784,Norte,2025-07-03 06:23:00,Confirmación,VAN-248,Cargar vehículo
+2785,Este,2025-07-03 06:24:00,Cargar vehículo,VAN-554,Ruta principal
+2786,Sur,2025-07-03 06:25:00,Entrega,VAN-584,Ruta principal
+2787,Sur,2025-07-03 06:26:00,Entrega,VAN-692,Cargar vehículo
+2788,Norte,2025-07-03 06:27:00,Entrega,VAN-834,Confirmación
+2789,Sur,2025-07-03 06:28:00,Confirmación,VAN-519,Cargar vehículo
+2790,Norte,2025-07-03 06:29:00,Recoger pedido,VAN-340,Entrega
+2791,Norte,2025-07-03 06:30:00,Recoger pedido,VAN-546,Cargar vehículo
+2792,Sur,2025-07-03 06:31:00,Ruta principal,VAN-848,Entrega
+2793,Oeste,2025-07-03 06:32:00,Entrega,VAN-188,Cargar vehículo
+2794,Oeste,2025-07-03 06:33:00,Confirmación,VAN-720,Ruta principal
+2795,Centro,2025-07-03 06:34:00,Entrega,VAN-986,Ruta principal
+2796,Sur,2025-07-03 06:35:00,Confirmación,VAN-512,Entrega
+2797,Norte,2025-07-03 06:36:00,Cargar vehículo,VAN-637,Ruta principal
+2798,Norte,2025-07-03 06:37:00,Confirmación,VAN-895,Cargar vehículo
+2799,Este,2025-07-03 06:38:00,Entrega,VAN-764,Confirmación
+2800,Norte,2025-07-03 06:39:00,Entrega,VAN-226,Entrega
+2801,Sur,2025-07-03 06:40:00,Ruta principal,VAN-668,Cargar vehículo
+2802,Centro,2025-07-03 06:41:00,Recoger pedido,VAN-862,Entrega
+2803,Centro,2025-07-03 06:42:00,Recoger pedido,VAN-573,Cargar vehículo
+2804,Norte,2025-07-03 06:43:00,Confirmación,VAN-593,Confirmación
+2805,Este,2025-07-03 06:44:00,Recoger pedido,VAN-638,Confirmación
+2806,Oeste,2025-07-03 06:45:00,Entrega,VAN-179,Entrega
+2807,Norte,2025-07-03 06:46:00,Cargar vehículo,VAN-411,Entrega
+2808,Oeste,2025-07-03 06:47:00,Cargar vehículo,VAN-723,Confirmación
+2809,Norte,2025-07-03 06:48:00,Confirmación,VAN-469,Ruta principal
+2810,Sur,2025-07-03 06:49:00,Entrega,VAN-149,Ruta principal
+2811,Norte,2025-07-03 06:50:00,Confirmación,VAN-453,Confirmación
+2812,Norte,2025-07-03 06:51:00,Recoger pedido,VAN-389,Confirmación
+2813,Norte,2025-07-03 06:52:00,Cargar vehículo,VAN-842,Ruta principal
+2814,Oeste,2025-07-03 06:53:00,Confirmación,VAN-969,Cargar vehículo
+2815,Este,2025-07-03 06:54:00,Ruta principal,VAN-713,Recoger pedido
+2816,Oeste,2025-07-03 06:55:00,Cargar vehículo,VAN-304,Confirmación
+2817,Sur,2025-07-03 06:56:00,Recoger pedido,VAN-936,Confirmación
+2818,Sur,2025-07-03 06:57:00,Recoger pedido,VAN-627,Recoger pedido
+2819,Sur,2025-07-03 06:58:00,Confirmación,VAN-244,Confirmación
+2820,Sur,2025-07-03 06:59:00,Confirmación,VAN-391,Entrega
+2821,Sur,2025-07-03 07:00:00,Entrega,VAN-191,Entrega
+2822,Oeste,2025-07-03 07:01:00,Ruta principal,VAN-768,Recoger pedido
+2823,Este,2025-07-03 07:02:00,Confirmación,VAN-215,Recoger pedido
+2824,Centro,2025-07-03 07:03:00,Recoger pedido,VAN-615,Ruta principal
+2825,Norte,2025-07-03 07:04:00,Confirmación,VAN-330,Recoger pedido
+2826,Norte,2025-07-03 07:05:00,Confirmación,VAN-657,Entrega
+2827,Sur,2025-07-03 07:06:00,Confirmación,VAN-736,Cargar vehículo
+2828,Este,2025-07-03 07:07:00,Entrega,VAN-605,Entrega
+2829,Norte,2025-07-03 07:08:00,Recoger pedido,VAN-288,Recoger pedido
+2830,Oeste,2025-07-03 07:09:00,Cargar vehículo,VAN-991,Entrega
+2831,Oeste,2025-07-03 07:10:00,Ruta principal,VAN-695,Confirmación
+2832,Sur,2025-07-03 07:11:00,Confirmación,VAN-301,Ruta principal
+2833,Norte,2025-07-03 07:12:00,Recoger pedido,VAN-404,Recoger pedido
+2834,Este,2025-07-03 07:13:00,Entrega,VAN-923,Confirmación
+2835,Sur,2025-07-03 07:14:00,Ruta principal,VAN-406,Confirmación
+2836,Centro,2025-07-03 07:15:00,Cargar vehículo,VAN-298,Entrega
+2837,Centro,2025-07-03 07:16:00,Confirmación,VAN-559,Entrega
+2838,Sur,2025-07-03 07:17:00,Ruta principal,VAN-740,Confirmación
+2839,Este,2025-07-03 07:18:00,Ruta principal,VAN-191,Cargar vehículo
+2840,Sur,2025-07-03 07:19:00,Entrega,VAN-330,Entrega
+2841,Centro,2025-07-03 07:20:00,Recoger pedido,VAN-731,Entrega
+2842,Centro,2025-07-03 07:21:00,Recoger pedido,VAN-119,Confirmación
+2843,Oeste,2025-07-03 07:22:00,Entrega,VAN-625,Recoger pedido
+2844,Centro,2025-07-03 07:23:00,Recoger pedido,VAN-165,Ruta principal
+2845,Norte,2025-07-03 07:24:00,Ruta principal,VAN-849,Cargar vehículo
+2846,Centro,2025-07-03 07:25:00,Ruta principal,VAN-594,Cargar vehículo
+2847,Centro,2025-07-03 07:26:00,Confirmación,VAN-954,Recoger pedido
+2848,Este,2025-07-03 07:27:00,Confirmación,VAN-292,Recoger pedido
+2849,Centro,2025-07-03 07:28:00,Ruta principal,VAN-981,Ruta principal
+2850,Oeste,2025-07-03 07:29:00,Ruta principal,VAN-324,Recoger pedido
+2851,Este,2025-07-03 07:30:00,Ruta principal,VAN-356,Ruta principal
+2852,Centro,2025-07-03 07:31:00,Confirmación,VAN-791,Cargar vehículo
+2853,Este,2025-07-03 07:32:00,Cargar vehículo,VAN-418,Confirmación
+2854,Norte,2025-07-03 07:33:00,Entrega,VAN-289,Recoger pedido
+2855,Norte,2025-07-03 07:34:00,Entrega,VAN-159,Recoger pedido
+2856,Este,2025-07-03 07:35:00,Recoger pedido,VAN-168,Cargar vehículo
+2857,Oeste,2025-07-03 07:36:00,Entrega,VAN-712,Recoger pedido
+2858,Oeste,2025-07-03 07:37:00,Cargar vehículo,VAN-729,Ruta principal
+2859,Norte,2025-07-03 07:38:00,Cargar vehículo,VAN-147,Ruta principal
+2860,Sur,2025-07-03 07:39:00,Entrega,VAN-775,Ruta principal
+2861,Sur,2025-07-03 07:40:00,Recoger pedido,VAN-915,Entrega
+2862,Oeste,2025-07-03 07:41:00,Entrega,VAN-954,Recoger pedido
+2863,Este,2025-07-03 07:42:00,Recoger pedido,VAN-657,Ruta principal
+2864,Norte,2025-07-03 07:43:00,Ruta principal,VAN-638,Cargar vehículo
+2865,Sur,2025-07-03 07:44:00,Entrega,VAN-664,Recoger pedido
+2866,Norte,2025-07-03 07:45:00,Ruta principal,VAN-361,Ruta principal
+2867,Oeste,2025-07-03 07:46:00,Entrega,VAN-816,Recoger pedido
+2868,Sur,2025-07-03 07:47:00,Cargar vehículo,VAN-415,Recoger pedido
+2869,Norte,2025-07-03 07:48:00,Recoger pedido,VAN-817,Recoger pedido
+2870,Sur,2025-07-03 07:49:00,Entrega,VAN-391,Confirmación
+2871,Norte,2025-07-03 07:50:00,Ruta principal,VAN-220,Cargar vehículo
+2872,Centro,2025-07-03 07:51:00,Confirmación,VAN-673,Cargar vehículo
+2873,Oeste,2025-07-03 07:52:00,Entrega,VAN-668,Cargar vehículo
+2874,Norte,2025-07-03 07:53:00,Confirmación,VAN-696,Entrega
+2875,Este,2025-07-03 07:54:00,Confirmación,VAN-801,Recoger pedido
+2876,Centro,2025-07-03 07:55:00,Entrega,VAN-544,Ruta principal
+2877,Norte,2025-07-03 07:56:00,Entrega,VAN-325,Recoger pedido
+2878,Centro,2025-07-03 07:57:00,Confirmación,VAN-242,Entrega
+2879,Este,2025-07-03 07:58:00,Entrega,VAN-913,Cargar vehículo
+2880,Sur,2025-07-03 07:59:00,Confirmación,VAN-290,Confirmación
+2881,Este,2025-07-03 08:00:00,Confirmación,VAN-851,Entrega
+2882,Sur,2025-07-03 08:01:00,Cargar vehículo,VAN-437,Ruta principal
+2883,Centro,2025-07-03 08:02:00,Recoger pedido,VAN-861,Entrega
+2884,Norte,2025-07-03 08:03:00,Entrega,VAN-457,Entrega
+2885,Norte,2025-07-03 08:04:00,Confirmación,VAN-774,Recoger pedido
+2886,Centro,2025-07-03 08:05:00,Ruta principal,VAN-616,Confirmación
+2887,Sur,2025-07-03 08:06:00,Recoger pedido,VAN-436,Entrega
+2888,Sur,2025-07-03 08:07:00,Ruta principal,VAN-679,Recoger pedido
+2889,Norte,2025-07-03 08:08:00,Cargar vehículo,VAN-687,Confirmación
+2890,Centro,2025-07-03 08:09:00,Confirmación,VAN-962,Entrega
+2891,Norte,2025-07-03 08:10:00,Recoger pedido,VAN-979,Ruta principal
+2892,Oeste,2025-07-03 08:11:00,Confirmación,VAN-712,Recoger pedido
+2893,Centro,2025-07-03 08:12:00,Recoger pedido,VAN-719,Recoger pedido
+2894,Centro,2025-07-03 08:13:00,Entrega,VAN-793,Recoger pedido
+2895,Centro,2025-07-03 08:14:00,Confirmación,VAN-360,Confirmación
+2896,Norte,2025-07-03 08:15:00,Entrega,VAN-586,Ruta principal
+2897,Oeste,2025-07-03 08:16:00,Cargar vehículo,VAN-347,Ruta principal
+2898,Oeste,2025-07-03 08:17:00,Confirmación,VAN-624,Ruta principal
+2899,Este,2025-07-03 08:18:00,Recoger pedido,VAN-156,Cargar vehículo
+2900,Centro,2025-07-03 08:19:00,Entrega,VAN-353,Recoger pedido
+2901,Este,2025-07-03 08:20:00,Recoger pedido,VAN-655,Entrega
+2902,Norte,2025-07-03 08:21:00,Ruta principal,VAN-200,Ruta principal
+2903,Norte,2025-07-03 08:22:00,Recoger pedido,VAN-924,Ruta principal
+2904,Sur,2025-07-03 08:23:00,Ruta principal,VAN-768,Entrega
+2905,Este,2025-07-03 08:24:00,Recoger pedido,VAN-944,Ruta principal
+2906,Norte,2025-07-03 08:25:00,Ruta principal,VAN-384,Recoger pedido
+2907,Oeste,2025-07-03 08:26:00,Confirmación,VAN-441,Entrega
+2908,Oeste,2025-07-03 08:27:00,Cargar vehículo,VAN-471,Cargar vehículo
+2909,Norte,2025-07-03 08:28:00,Ruta principal,VAN-306,Ruta principal
+2910,Norte,2025-07-03 08:29:00,Confirmación,VAN-786,Entrega
+2911,Oeste,2025-07-03 08:30:00,Ruta principal,VAN-870,Entrega
+2912,Sur,2025-07-03 08:31:00,Cargar vehículo,VAN-371,Recoger pedido
+2913,Centro,2025-07-03 08:32:00,Confirmación,VAN-332,Cargar vehículo
+2914,Centro,2025-07-03 08:33:00,Ruta principal,VAN-174,Ruta principal
+2915,Oeste,2025-07-03 08:34:00,Cargar vehículo,VAN-144,Entrega
+2916,Norte,2025-07-03 08:35:00,Cargar vehículo,VAN-710,Entrega
+2917,Este,2025-07-03 08:36:00,Cargar vehículo,VAN-699,Ruta principal
+2918,Oeste,2025-07-03 08:37:00,Entrega,VAN-934,Ruta principal
+2919,Norte,2025-07-03 08:38:00,Ruta principal,VAN-758,Recoger pedido
+2920,Sur,2025-07-03 08:39:00,Confirmación,VAN-253,Confirmación
+2921,Este,2025-07-03 08:40:00,Recoger pedido,VAN-842,Confirmación
+2922,Centro,2025-07-03 08:41:00,Entrega,VAN-104,Confirmación
+2923,Norte,2025-07-03 08:42:00,Recoger pedido,VAN-377,Entrega
+2924,Oeste,2025-07-03 08:43:00,Confirmación,VAN-218,Recoger pedido
+2925,Sur,2025-07-03 08:44:00,Entrega,VAN-308,Ruta principal
+2926,Sur,2025-07-03 08:45:00,Confirmación,VAN-994,Recoger pedido
+2927,Este,2025-07-03 08:46:00,Recoger pedido,VAN-711,Ruta principal
+2928,Este,2025-07-03 08:47:00,Confirmación,VAN-441,Ruta principal
+2929,Norte,2025-07-03 08:48:00,Entrega,VAN-236,Entrega
+2930,Oeste,2025-07-03 08:49:00,Confirmación,VAN-119,Recoger pedido
+2931,Sur,2025-07-03 08:50:00,Entrega,VAN-560,Entrega
+2932,Centro,2025-07-03 08:51:00,Entrega,VAN-307,Cargar vehículo
+2933,Sur,2025-07-03 08:52:00,Confirmación,VAN-446,Ruta principal
+2934,Oeste,2025-07-03 08:53:00,Confirmación,VAN-371,Cargar vehículo
+2935,Norte,2025-07-03 08:54:00,Entrega,VAN-634,Cargar vehículo
+2936,Centro,2025-07-03 08:55:00,Cargar vehículo,VAN-114,Cargar vehículo
+2937,Centro,2025-07-03 08:56:00,Recoger pedido,VAN-226,Confirmación
+2938,Oeste,2025-07-03 08:57:00,Ruta principal,VAN-206,Recoger pedido
+2939,Sur,2025-07-03 08:58:00,Cargar vehículo,VAN-717,Ruta principal
+2940,Sur,2025-07-03 08:59:00,Confirmación,VAN-286,Recoger pedido
+2941,Sur,2025-07-03 09:00:00,Entrega,VAN-774,Recoger pedido
+2942,Sur,2025-07-03 09:01:00,Entrega,VAN-879,Cargar vehículo
+2943,Norte,2025-07-03 09:02:00,Cargar vehículo,VAN-585,Confirmación
+2944,Centro,2025-07-03 09:03:00,Recoger pedido,VAN-969,Recoger pedido
+2945,Norte,2025-07-03 09:04:00,Entrega,VAN-665,Confirmación
+2946,Oeste,2025-07-03 09:05:00,Recoger pedido,VAN-752,Cargar vehículo
+2947,Centro,2025-07-03 09:06:00,Ruta principal,VAN-717,Ruta principal
+2948,Oeste,2025-07-03 09:07:00,Ruta principal,VAN-982,Entrega
+2949,Este,2025-07-03 09:08:00,Ruta principal,VAN-953,Entrega
+2950,Sur,2025-07-03 09:09:00,Ruta principal,VAN-807,Ruta principal
+2951,Oeste,2025-07-03 09:10:00,Confirmación,VAN-680,Cargar vehículo
+2952,Este,2025-07-03 09:11:00,Recoger pedido,VAN-627,Entrega
+2953,Sur,2025-07-03 09:12:00,Cargar vehículo,VAN-652,Confirmación
+2954,Sur,2025-07-03 09:13:00,Recoger pedido,VAN-655,Confirmación
+2955,Oeste,2025-07-03 09:14:00,Recoger pedido,VAN-446,Recoger pedido
+2956,Norte,2025-07-03 09:15:00,Ruta principal,VAN-903,Entrega
+2957,Centro,2025-07-03 09:16:00,Recoger pedido,VAN-594,Entrega
+2958,Centro,2025-07-03 09:17:00,Entrega,VAN-990,Cargar vehículo
+2959,Este,2025-07-03 09:18:00,Confirmación,VAN-597,Cargar vehículo
+2960,Oeste,2025-07-03 09:19:00,Cargar vehículo,VAN-743,Cargar vehículo
+2961,Sur,2025-07-03 09:20:00,Ruta principal,VAN-906,Cargar vehículo
+2962,Sur,2025-07-03 09:21:00,Recoger pedido,VAN-141,Ruta principal
+2963,Este,2025-07-03 09:22:00,Cargar vehículo,VAN-581,Recoger pedido
+2964,Sur,2025-07-03 09:23:00,Entrega,VAN-534,Ruta principal
+2965,Este,2025-07-03 09:24:00,Confirmación,VAN-362,Ruta principal
+2966,Sur,2025-07-03 09:25:00,Ruta principal,VAN-857,Recoger pedido
+2967,Norte,2025-07-03 09:26:00,Confirmación,VAN-941,Cargar vehículo
+2968,Norte,2025-07-03 09:27:00,Entrega,VAN-413,Entrega
+2969,Este,2025-07-03 09:28:00,Confirmación,VAN-935,Recoger pedido
+2970,Este,2025-07-03 09:29:00,Confirmación,VAN-659,Ruta principal
+2971,Este,2025-07-03 09:30:00,Entrega,VAN-566,Ruta principal
+2972,Norte,2025-07-03 09:31:00,Ruta principal,VAN-154,Cargar vehículo
+2973,Este,2025-07-03 09:32:00,Entrega,VAN-424,Ruta principal
+2974,Sur,2025-07-03 09:33:00,Recoger pedido,VAN-576,Recoger pedido
+2975,Este,2025-07-03 09:34:00,Confirmación,VAN-846,Cargar vehículo
+2976,Norte,2025-07-03 09:35:00,Ruta principal,VAN-315,Entrega
+2977,Oeste,2025-07-03 09:36:00,Entrega,VAN-691,Cargar vehículo
+2978,Centro,2025-07-03 09:37:00,Entrega,VAN-976,Confirmación
+2979,Oeste,2025-07-03 09:38:00,Recoger pedido,VAN-952,Cargar vehículo
+2980,Norte,2025-07-03 09:39:00,Recoger pedido,VAN-762,Recoger pedido
+2981,Oeste,2025-07-03 09:40:00,Ruta principal,VAN-116,Recoger pedido
+2982,Norte,2025-07-03 09:41:00,Ruta principal,VAN-117,Entrega
+2983,Sur,2025-07-03 09:42:00,Entrega,VAN-544,Confirmación
+2984,Este,2025-07-03 09:43:00,Ruta principal,VAN-832,Confirmación
+2985,Este,2025-07-03 09:44:00,Recoger pedido,VAN-466,Cargar vehículo
+2986,Este,2025-07-03 09:45:00,Recoger pedido,VAN-779,Recoger pedido
+2987,Norte,2025-07-03 09:46:00,Ruta principal,VAN-621,Confirmación
+2988,Oeste,2025-07-03 09:47:00,Entrega,VAN-631,Confirmación
+2989,Centro,2025-07-03 09:48:00,Ruta principal,VAN-247,Confirmación
+2990,Centro,2025-07-03 09:49:00,Entrega,VAN-703,Recoger pedido
+2991,Oeste,2025-07-03 09:50:00,Confirmación,VAN-406,Cargar vehículo
+2992,Sur,2025-07-03 09:51:00,Recoger pedido,VAN-121,Entrega
+2993,Norte,2025-07-03 09:52:00,Cargar vehículo,VAN-765,Entrega
+2994,Sur,2025-07-03 09:53:00,Recoger pedido,VAN-523,Ruta principal
+2995,Este,2025-07-03 09:54:00,Recoger pedido,VAN-190,Cargar vehículo
+2996,Centro,2025-07-03 09:55:00,Entrega,VAN-743,Cargar vehículo
+2997,Sur,2025-07-03 09:56:00,Ruta principal,VAN-911,Ruta principal
+2998,Oeste,2025-07-03 09:57:00,Confirmación,VAN-211,Confirmación
+2999,Centro,2025-07-03 09:58:00,Ruta principal,VAN-404,Entrega
+3000,Centro,2025-07-03 09:59:00,Entrega,VAN-745,Entrega

@@ -1,0 +1,3001 @@
+ID,Acción,Tiempo_estimado_min,Requiere_insumo,Prioridad,Acción_previa
+1,Instalar ruedas,45,No,Baja,Pintar
+2,Control de calidad,37,No,Alta,Pintar
+3,Instalar ruedas,36,No,Baja,Ajuste frenos
+4,Pintar,22,Sí,Alta,Ensamblar marco
+5,Control de calidad,21,Sí,Media,Pintar
+6,Control de calidad,18,No,Baja,Pintar
+7,Pintar,17,No,Baja,Control de calidad
+8,Pintar,16,Sí,Baja,Ensamblar marco
+9,Pintar,29,No,Baja,Ensamblar marco
+10,Pintar,12,No,Alta,Ajuste frenos
+11,Pintar,35,Sí,Media,Ajuste frenos
+12,Instalar ruedas,58,No,Baja,Ensamblar marco
+13,Instalar ruedas,44,Sí,Media,Instalar ruedas
+14,Ajuste frenos,11,Sí,Alta,Instalar ruedas
+15,Ajuste frenos,50,Sí,Baja,Ajuste frenos
+16,Pintar,35,No,Baja,Control de calidad
+17,Pintar,20,No,Alta,Control de calidad
+18,Control de calidad,38,No,Alta,Instalar ruedas
+19,Ensamblar marco,41,Sí,Alta,Ajuste frenos
+20,Pintar,53,No,Alta,Control de calidad
+21,Pintar,36,No,Baja,Control de calidad
+22,Pintar,38,Sí,Alta,Pintar
+23,Control de calidad,43,No,Alta,Pintar
+24,Pintar,32,Sí,Alta,Pintar
+25,Ensamblar marco,59,No,Media,Ensamblar marco
+26,Ensamblar marco,24,No,Media,Pintar
+27,Ensamblar marco,19,Sí,Media,Ensamblar marco
+28,Ajuste frenos,16,No,Baja,Instalar ruedas
+29,Ajuste frenos,56,Sí,Alta,Pintar
+30,Instalar ruedas,13,No,Baja,Pintar
+31,Instalar ruedas,33,No,Media,Ensamblar marco
+32,Ensamblar marco,55,No,Media,Pintar
+33,Control de calidad,57,No,Media,Instalar ruedas
+34,Ensamblar marco,24,No,Media,Control de calidad
+35,Ajuste frenos,28,No,Baja,Ensamblar marco
+36,Ajuste frenos,26,Sí,Media,Ensamblar marco
+37,Instalar ruedas,44,Sí,Media,Instalar ruedas
+38,Control de calidad,20,No,Media,Ajuste frenos
+39,Instalar ruedas,42,Sí,Baja,Control de calidad
+40,Instalar ruedas,30,Sí,Baja,Pintar
+41,Instalar ruedas,26,No,Baja,Ensamblar marco
+42,Ensamblar marco,32,Sí,Baja,Ensamblar marco
+43,Pintar,39,Sí,Alta,Instalar ruedas
+44,Ajuste frenos,47,No,Baja,Pintar
+45,Ajuste frenos,18,Sí,Alta,Ensamblar marco
+46,Control de calidad,17,Sí,Alta,Instalar ruedas
+47,Control de calidad,52,No,Alta,Ensamblar marco
+48,Pintar,34,Sí,Media,Pintar
+49,Ajuste frenos,46,Sí,Media,Control de calidad
+50,Ajuste frenos,55,Sí,Baja,Pintar
+51,Control de calidad,30,Sí,Alta,Ensamblar marco
+52,Pintar,54,Sí,Baja,Ensamblar marco
+53,Instalar ruedas,19,Sí,Alta,Instalar ruedas
+54,Pintar,18,No,Alta,Instalar ruedas
+55,Control de calidad,50,No,Alta,Ensamblar marco
+56,Ajuste frenos,57,Sí,Alta,Ajuste frenos
+57,Ensamblar marco,26,No,Alta,Control de calidad
+58,Ajuste frenos,44,No,Alta,Ensamblar marco
+59,Control de calidad,41,No,Baja,Ajuste frenos
+60,Ensamblar marco,20,No,Baja,Ajuste frenos
+61,Control de calidad,17,Sí,Alta,Ajuste frenos
+62,Pintar,26,Sí,Media,Control de calidad
+63,Control de calidad,10,No,Baja,Ensamblar marco
+64,Ajuste frenos,11,No,Media,Ajuste frenos
+65,Instalar ruedas,13,No,Alta,Ensamblar marco
+66,Ajuste frenos,30,No,Alta,Ensamblar marco
+67,Control de calidad,37,Sí,Media,Pintar
+68,Ensamblar marco,46,Sí,Alta,Ajuste frenos
+69,Pintar,43,Sí,Baja,Ensamblar marco
+70,Instalar ruedas,23,Sí,Baja,Control de calidad
+71,Control de calidad,13,No,Alta,Ensamblar marco
+72,Ajuste frenos,45,Sí,Media,Ajuste frenos
+73,Instalar ruedas,42,No,Alta,Instalar ruedas
+74,Ensamblar marco,55,No,Media,Control de calidad
+75,Pintar,12,Sí,Media,Instalar ruedas
+76,Instalar ruedas,51,No,Media,Ensamblar marco
+77,Ajuste frenos,39,No,Alta,Instalar ruedas
+78,Control de calidad,57,Sí,Baja,Pintar
+79,Ensamblar marco,45,Sí,Media,Ajuste frenos
+80,Ensamblar marco,18,No,Baja,Ajuste frenos
+81,Pintar,45,Sí,Alta,Ensamblar marco
+82,Ensamblar marco,20,Sí,Media,Pintar
+83,Ajuste frenos,54,No,Baja,Instalar ruedas
+84,Instalar ruedas,26,Sí,Baja,Ajuste frenos
+85,Instalar ruedas,17,Sí,Baja,Ensamblar marco
+86,Instalar ruedas,18,Sí,Alta,Ensamblar marco
+87,Pintar,16,Sí,Baja,Ajuste frenos
+88,Instalar ruedas,26,Sí,Alta,Instalar ruedas
+89,Control de calidad,22,Sí,Media,Ajuste frenos
+90,Ajuste frenos,38,No,Baja,Pintar
+91,Ajuste frenos,47,No,Alta,Ensamblar marco
+92,Ajuste frenos,21,No,Baja,Ajuste frenos
+93,Instalar ruedas,51,Sí,Media,Ensamblar marco
+94,Control de calidad,36,Sí,Media,Pintar
+95,Ensamblar marco,28,Sí,Alta,Control de calidad
+96,Instalar ruedas,38,No,Baja,Ajuste frenos
+97,Instalar ruedas,36,Sí,Alta,Pintar
+98,Ajuste frenos,55,Sí,Media,Control de calidad
+99,Ensamblar marco,16,Sí,Baja,Control de calidad
+100,Pintar,53,No,Baja,Instalar ruedas
+101,Pintar,28,Sí,Alta,Ensamblar marco
+102,Ensamblar marco,18,Sí,Alta,Instalar ruedas
+103,Pintar,41,Sí,Alta,Instalar ruedas
+104,Instalar ruedas,40,Sí,Media,Ajuste frenos
+105,Ajuste frenos,43,Sí,Media,Ensamblar marco
+106,Control de calidad,29,Sí,Media,Pintar
+107,Ensamblar marco,33,No,Alta,Ajuste frenos
+108,Control de calidad,22,Sí,Baja,Pintar
+109,Ensamblar marco,47,Sí,Media,Ajuste frenos
+110,Control de calidad,26,Sí,Alta,Instalar ruedas
+111,Ajuste frenos,11,Sí,Alta,Control de calidad
+112,Control de calidad,59,Sí,Baja,Ensamblar marco
+113,Control de calidad,51,No,Baja,Pintar
+114,Pintar,54,No,Media,Instalar ruedas
+115,Pintar,20,No,Baja,Instalar ruedas
+116,Ensamblar marco,46,Sí,Media,Pintar
+117,Instalar ruedas,29,No,Media,Ajuste frenos
+118,Ajuste frenos,42,No,Media,Control de calidad
+119,Instalar ruedas,44,Sí,Media,Ensamblar marco
+120,Ensamblar marco,59,Sí,Alta,Pintar
+121,Ensamblar marco,46,Sí,Baja,Ensamblar marco
+122,Control de calidad,36,No,Alta,Instalar ruedas
+123,Ajuste frenos,59,Sí,Baja,Pintar
+124,Instalar ruedas,24,Sí,Media,Control de calidad
+125,Ajuste frenos,23,No,Alta,Ajuste frenos
+126,Ajuste frenos,23,Sí,Alta,Ensamblar marco
+127,Instalar ruedas,38,Sí,Media,Pintar
+128,Pintar,53,No,Alta,Ensamblar marco
+129,Instalar ruedas,51,Sí,Alta,Ensamblar marco
+130,Ensamblar marco,53,No,Media,Control de calidad
+131,Instalar ruedas,55,Sí,Media,Ensamblar marco
+132,Ajuste frenos,28,Sí,Alta,Pintar
+133,Ensamblar marco,14,No,Baja,Ensamblar marco
+134,Ensamblar marco,10,No,Baja,Pintar
+135,Control de calidad,58,No,Baja,Ajuste frenos
+136,Control de calidad,23,Sí,Media,Ensamblar marco
+137,Ajuste frenos,56,Sí,Baja,Pintar
+138,Control de calidad,51,No,Baja,Ajuste frenos
+139,Control de calidad,34,No,Baja,Instalar ruedas
+140,Ensamblar marco,18,Sí,Alta,Control de calidad
+141,Instalar ruedas,47,No,Alta,Control de calidad
+142,Instalar ruedas,51,No,Baja,Instalar ruedas
+143,Instalar ruedas,32,Sí,Baja,Pintar
+144,Control de calidad,24,No,Alta,Instalar ruedas
+145,Instalar ruedas,54,No,Media,Control de calidad
+146,Ensamblar marco,53,Sí,Baja,Instalar ruedas
+147,Pintar,35,No,Media,Pintar
+148,Ensamblar marco,45,No,Media,Ajuste frenos
+149,Pintar,30,No,Alta,Control de calidad
+150,Ensamblar marco,42,Sí,Alta,Control de calidad
+151,Pintar,15,Sí,Alta,Ensamblar marco
+152,Control de calidad,44,No,Alta,Control de calidad
+153,Ensamblar marco,20,Sí,Media,Ensamblar marco
+154,Ajuste frenos,29,No,Media,Instalar ruedas
+155,Ensamblar marco,40,Sí,Media,Pintar
+156,Instalar ruedas,13,Sí,Alta,Pintar
+157,Ensamblar marco,16,Sí,Media,Ajuste frenos
+158,Control de calidad,20,No,Media,Instalar ruedas
+159,Ensamblar marco,43,No,Baja,Ajuste frenos
+160,Pintar,58,Sí,Baja,Control de calidad
+161,Control de calidad,53,Sí,Baja,Ajuste frenos
+162,Control de calidad,42,Sí,Alta,Control de calidad
+163,Ajuste frenos,31,Sí,Alta,Ensamblar marco
+164,Control de calidad,24,Sí,Alta,Pintar
+165,Instalar ruedas,51,No,Media,Ensamblar marco
+166,Pintar,31,No,Baja,Instalar ruedas
+167,Ensamblar marco,56,Sí,Media,Instalar ruedas
+168,Ajuste frenos,16,Sí,Baja,Control de calidad
+169,Instalar ruedas,30,Sí,Alta,Ajuste frenos
+170,Ajuste frenos,14,Sí,Alta,Ajuste frenos
+171,Ensamblar marco,10,Sí,Media,Instalar ruedas
+172,Instalar ruedas,57,Sí,Alta,Pintar
+173,Control de calidad,35,No,Baja,Ensamblar marco
+174,Instalar ruedas,22,No,Media,Pintar
+175,Instalar ruedas,47,Sí,Media,Ensamblar marco
+176,Ensamblar marco,38,Sí,Media,Control de calidad
+177,Pintar,18,No,Media,Control de calidad
+178,Pintar,59,No,Baja,Ajuste frenos
+179,Control de calidad,35,Sí,Alta,Control de calidad
+180,Pintar,18,Sí,Alta,Pintar
+181,Ensamblar marco,58,Sí,Baja,Ensamblar marco
+182,Pintar,48,No,Alta,Instalar ruedas
+183,Instalar ruedas,57,Sí,Media,Ajuste frenos
+184,Ajuste frenos,13,No,Media,Control de calidad
+185,Instalar ruedas,34,No,Baja,Pintar
+186,Control de calidad,10,No,Media,Pintar
+187,Ensamblar marco,25,No,Media,Ajuste frenos
+188,Instalar ruedas,55,Sí,Baja,Pintar
+189,Pintar,51,Sí,Alta,Pintar
+190,Control de calidad,49,No,Media,Control de calidad
+191,Control de calidad,41,No,Baja,Ajuste frenos
+192,Instalar ruedas,46,No,Media,Ajuste frenos
+193,Instalar ruedas,31,Sí,Baja,Pintar
+194,Instalar ruedas,38,Sí,Baja,Ensamblar marco
+195,Ensamblar marco,40,No,Baja,Instalar ruedas
+196,Instalar ruedas,59,No,Media,Ajuste frenos
+197,Instalar ruedas,14,No,Media,Pintar
+198,Ajuste frenos,38,No,Media,Ensamblar marco
+199,Ajuste frenos,14,No,Media,Instalar ruedas
+200,Control de calidad,36,Sí,Media,Ajuste frenos
+201,Ajuste frenos,53,Sí,Baja,Pintar
+202,Control de calidad,12,Sí,Media,Instalar ruedas
+203,Control de calidad,41,Sí,Media,Pintar
+204,Instalar ruedas,24,Sí,Media,Instalar ruedas
+205,Instalar ruedas,50,No,Baja,Pintar
+206,Ajuste frenos,37,Sí,Media,Instalar ruedas
+207,Instalar ruedas,10,Sí,Alta,Instalar ruedas
+208,Instalar ruedas,40,Sí,Alta,Ajuste frenos
+209,Ensamblar marco,31,Sí,Baja,Ajuste frenos
+210,Ensamblar marco,35,Sí,Alta,Ajuste frenos
+211,Instalar ruedas,56,Sí,Media,Instalar ruedas
+212,Pintar,57,No,Alta,Instalar ruedas
+213,Pintar,52,Sí,Media,Pintar
+214,Control de calidad,58,Sí,Media,Instalar ruedas
+215,Ensamblar marco,39,No,Media,Ensamblar marco
+216,Control de calidad,51,Sí,Baja,Ajuste frenos
+217,Ensamblar marco,44,Sí,Baja,Pintar
+218,Ensamblar marco,34,Sí,Baja,Ajuste frenos
+219,Ensamblar marco,13,Sí,Baja,Control de calidad
+220,Control de calidad,48,Sí,Alta,Control de calidad
+221,Ensamblar marco,18,Sí,Media,Instalar ruedas
+222,Control de calidad,49,No,Alta,Instalar ruedas
+223,Ajuste frenos,52,Sí,Baja,Ensamblar marco
+224,Ensamblar marco,29,Sí,Media,Pintar
+225,Control de calidad,43,Sí,Baja,Instalar ruedas
+226,Ajuste frenos,16,No,Alta,Pintar
+227,Control de calidad,40,No,Media,Ajuste frenos
+228,Instalar ruedas,41,Sí,Baja,Pintar
+229,Ajuste frenos,32,No,Media,Control de calidad
+230,Ajuste frenos,58,No,Alta,Control de calidad
+231,Control de calidad,18,No,Baja,Control de calidad
+232,Instalar ruedas,36,No,Alta,Ensamblar marco
+233,Ajuste frenos,35,Sí,Media,Control de calidad
+234,Ensamblar marco,18,Sí,Media,Pintar
+235,Ensamblar marco,55,No,Alta,Ajuste frenos
+236,Ajuste frenos,59,No,Alta,Pintar
+237,Ajuste frenos,25,Sí,Baja,Instalar ruedas
+238,Ajuste frenos,30,No,Alta,Ensamblar marco
+239,Pintar,50,Sí,Alta,Ensamblar marco
+240,Ensamblar marco,32,No,Baja,Pintar
+241,Ajuste frenos,39,No,Baja,Control de calidad
+242,Control de calidad,23,No,Alta,Pintar
+243,Control de calidad,16,Sí,Alta,Pintar
+244,Control de calidad,44,No,Alta,Instalar ruedas
+245,Instalar ruedas,59,No,Baja,Ensamblar marco
+246,Ensamblar marco,11,No,Baja,Control de calidad
+247,Pintar,24,Sí,Media,Control de calidad
+248,Ensamblar marco,12,Sí,Media,Ajuste frenos
+249,Control de calidad,20,Sí,Baja,Instalar ruedas
+250,Pintar,31,No,Media,Pintar
+251,Control de calidad,51,No,Media,Pintar
+252,Instalar ruedas,37,No,Media,Instalar ruedas
+253,Pintar,42,No,Alta,Control de calidad
+254,Pintar,55,No,Baja,Control de calidad
+255,Ajuste frenos,11,Sí,Media,Pintar
+256,Ajuste frenos,23,No,Media,Pintar
+257,Instalar ruedas,18,Sí,Media,Ensamblar marco
+258,Pintar,41,Sí,Alta,Ensamblar marco
+259,Instalar ruedas,50,Sí,Media,Control de calidad
+260,Control de calidad,31,Sí,Media,Pintar
+261,Pintar,52,No,Alta,Pintar
+262,Pintar,28,No,Alta,Control de calidad
+263,Ajuste frenos,58,Sí,Media,Instalar ruedas
+264,Control de calidad,20,Sí,Baja,Instalar ruedas
+265,Instalar ruedas,19,No,Baja,Pintar
+266,Ajuste frenos,25,Sí,Baja,Instalar ruedas
+267,Control de calidad,58,No,Media,Instalar ruedas
+268,Control de calidad,57,No,Baja,Instalar ruedas
+269,Instalar ruedas,36,No,Media,Instalar ruedas
+270,Ensamblar marco,40,No,Media,Instalar ruedas
+271,Ajuste frenos,22,No,Baja,Control de calidad
+272,Ajuste frenos,39,Sí,Media,Ensamblar marco
+273,Instalar ruedas,38,No,Media,Control de calidad
+274,Instalar ruedas,47,Sí,Media,Ensamblar marco
+275,Ensamblar marco,40,No,Baja,Ajuste frenos
+276,Pintar,54,Sí,Baja,Pintar
+277,Ajuste frenos,31,No,Baja,Ensamblar marco
+278,Control de calidad,22,No,Baja,Pintar
+279,Pintar,21,Sí,Alta,Instalar ruedas
+280,Ajuste frenos,58,Sí,Alta,Instalar ruedas
+281,Control de calidad,47,No,Baja,Ajuste frenos
+282,Instalar ruedas,25,Sí,Baja,Ajuste frenos
+283,Ensamblar marco,33,Sí,Media,Ajuste frenos
+284,Ensamblar marco,20,Sí,Alta,Control de calidad
+285,Instalar ruedas,24,Sí,Baja,Pintar
+286,Instalar ruedas,39,Sí,Alta,Ensamblar marco
+287,Pintar,11,Sí,Media,Instalar ruedas
+288,Instalar ruedas,26,No,Baja,Ensamblar marco
+289,Instalar ruedas,36,Sí,Baja,Instalar ruedas
+290,Instalar ruedas,46,Sí,Media,Control de calidad
+291,Pintar,58,Sí,Baja,Ensamblar marco
+292,Instalar ruedas,53,No,Media,Instalar ruedas
+293,Pintar,18,Sí,Media,Ajuste frenos
+294,Instalar ruedas,17,No,Media,Instalar ruedas
+295,Ensamblar marco,19,No,Media,Ensamblar marco
+296,Ensamblar marco,56,Sí,Alta,Ensamblar marco
+297,Instalar ruedas,58,Sí,Baja,Control de calidad
+298,Instalar ruedas,18,No,Media,Ensamblar marco
+299,Pintar,23,Sí,Alta,Ajuste frenos
+300,Pintar,36,Sí,Media,Instalar ruedas
+301,Pintar,38,No,Media,Instalar ruedas
+302,Ajuste frenos,25,Sí,Media,Ensamblar marco
+303,Ajuste frenos,35,Sí,Media,Ajuste frenos
+304,Pintar,17,Sí,Media,Pintar
+305,Ensamblar marco,45,Sí,Media,Pintar
+306,Control de calidad,53,No,Baja,Control de calidad
+307,Instalar ruedas,55,No,Media,Control de calidad
+308,Instalar ruedas,44,Sí,Media,Control de calidad
+309,Control de calidad,56,Sí,Baja,Instalar ruedas
+310,Instalar ruedas,21,No,Baja,Instalar ruedas
+311,Control de calidad,51,Sí,Alta,Control de calidad
+312,Instalar ruedas,24,No,Alta,Pintar
+313,Control de calidad,36,Sí,Media,Ensamblar marco
+314,Pintar,12,Sí,Alta,Control de calidad
+315,Pintar,28,Sí,Alta,Control de calidad
+316,Control de calidad,50,No,Baja,Control de calidad
+317,Ajuste frenos,17,Sí,Media,Control de calidad
+318,Pintar,42,Sí,Alta,Pintar
+319,Control de calidad,25,No,Alta,Ensamblar marco
+320,Ensamblar marco,47,Sí,Alta,Instalar ruedas
+321,Ajuste frenos,26,No,Baja,Instalar ruedas
+322,Control de calidad,10,No,Media,Control de calidad
+323,Ensamblar marco,17,Sí,Media,Instalar ruedas
+324,Pintar,14,No,Alta,Ensamblar marco
+325,Pintar,52,Sí,Media,Ensamblar marco
+326,Instalar ruedas,26,No,Media,Instalar ruedas
+327,Pintar,51,Sí,Alta,Ajuste frenos
+328,Ensamblar marco,24,Sí,Baja,Control de calidad
+329,Instalar ruedas,35,Sí,Baja,Ensamblar marco
+330,Instalar ruedas,57,Sí,Media,Pintar
+331,Control de calidad,51,Sí,Baja,Control de calidad
+332,Ajuste frenos,25,Sí,Baja,Control de calidad
+333,Pintar,30,Sí,Alta,Ensamblar marco
+334,Instalar ruedas,19,Sí,Baja,Pintar
+335,Ajuste frenos,49,Sí,Baja,Ensamblar marco
+336,Control de calidad,59,Sí,Media,Instalar ruedas
+337,Instalar ruedas,41,No,Baja,Ajuste frenos
+338,Control de calidad,41,No,Alta,Control de calidad
+339,Control de calidad,41,No,Media,Instalar ruedas
+340,Instalar ruedas,42,No,Alta,Pintar
+341,Control de calidad,26,No,Alta,Instalar ruedas
+342,Ajuste frenos,23,Sí,Alta,Instalar ruedas
+343,Control de calidad,10,Sí,Baja,Ajuste frenos
+344,Pintar,13,No,Media,Control de calidad
+345,Pintar,42,Sí,Alta,Ensamblar marco
+346,Control de calidad,43,No,Alta,Ajuste frenos
+347,Control de calidad,13,No,Media,Pintar
+348,Ensamblar marco,35,Sí,Alta,Pintar
+349,Instalar ruedas,11,Sí,Alta,Pintar
+350,Ajuste frenos,30,No,Alta,Pintar
+351,Pintar,50,Sí,Media,Control de calidad
+352,Instalar ruedas,26,No,Alta,Pintar
+353,Ensamblar marco,37,No,Media,Ensamblar marco
+354,Pintar,56,No,Baja,Pintar
+355,Control de calidad,48,No,Baja,Control de calidad
+356,Ensamblar marco,12,No,Media,Ajuste frenos
+357,Ensamblar marco,27,No,Baja,Pintar
+358,Pintar,10,No,Media,Ajuste frenos
+359,Ensamblar marco,23,No,Alta,Ajuste frenos
+360,Control de calidad,24,Sí,Alta,Control de calidad
+361,Ensamblar marco,31,Sí,Alta,Control de calidad
+362,Pintar,56,No,Media,Control de calidad
+363,Ensamblar marco,52,Sí,Alta,Ensamblar marco
+364,Ajuste frenos,28,No,Baja,Control de calidad
+365,Instalar ruedas,13,No,Media,Control de calidad
+366,Instalar ruedas,40,Sí,Alta,Instalar ruedas
+367,Ajuste frenos,31,No,Baja,Instalar ruedas
+368,Pintar,39,No,Media,Ensamblar marco
+369,Instalar ruedas,47,Sí,Baja,Pintar
+370,Control de calidad,23,No,Alta,Instalar ruedas
+371,Control de calidad,45,No,Baja,Pintar
+372,Control de calidad,53,Sí,Alta,Pintar
+373,Ensamblar marco,56,Sí,Alta,Instalar ruedas
+374,Ensamblar marco,50,No,Baja,Ajuste frenos
+375,Pintar,20,No,Media,Ajuste frenos
+376,Control de calidad,11,No,Baja,Pintar
+377,Instalar ruedas,15,Sí,Alta,Control de calidad
+378,Instalar ruedas,57,No,Alta,Ensamblar marco
+379,Pintar,10,No,Alta,Instalar ruedas
+380,Ajuste frenos,36,No,Baja,Instalar ruedas
+381,Instalar ruedas,48,No,Baja,Control de calidad
+382,Ajuste frenos,39,Sí,Baja,Ajuste frenos
+383,Pintar,13,Sí,Alta,Instalar ruedas
+384,Pintar,48,Sí,Baja,Ajuste frenos
+385,Ensamblar marco,36,Sí,Baja,Ensamblar marco
+386,Ajuste frenos,47,No,Media,Ajuste frenos
+387,Instalar ruedas,10,No,Media,Pintar
+388,Instalar ruedas,32,No,Alta,Pintar
+389,Ajuste frenos,18,Sí,Alta,Pintar
+390,Ensamblar marco,27,No,Baja,Pintar
+391,Ajuste frenos,42,No,Media,Ensamblar marco
+392,Pintar,25,Sí,Baja,Control de calidad
+393,Control de calidad,36,Sí,Baja,Ajuste frenos
+394,Pintar,38,Sí,Alta,Ajuste frenos
+395,Instalar ruedas,36,Sí,Alta,Instalar ruedas
+396,Instalar ruedas,33,Sí,Media,Control de calidad
+397,Ajuste frenos,16,No,Media,Pintar
+398,Pintar,29,No,Baja,Control de calidad
+399,Instalar ruedas,40,Sí,Baja,Ensamblar marco
+400,Pintar,27,Sí,Alta,Ajuste frenos
+401,Ensamblar marco,20,Sí,Alta,Ensamblar marco
+402,Instalar ruedas,27,Sí,Alta,Ajuste frenos
+403,Ensamblar marco,44,Sí,Media,Ajuste frenos
+404,Pintar,56,Sí,Media,Pintar
+405,Pintar,42,Sí,Baja,Instalar ruedas
+406,Control de calidad,34,Sí,Media,Ensamblar marco
+407,Ensamblar marco,33,No,Alta,Control de calidad
+408,Ajuste frenos,32,No,Alta,Ensamblar marco
+409,Pintar,20,Sí,Alta,Pintar
+410,Control de calidad,14,No,Alta,Ajuste frenos
+411,Control de calidad,17,No,Media,Ensamblar marco
+412,Control de calidad,13,Sí,Alta,Ajuste frenos
+413,Ajuste frenos,25,Sí,Media,Ensamblar marco
+414,Ajuste frenos,33,No,Baja,Ajuste frenos
+415,Control de calidad,23,Sí,Media,Control de calidad
+416,Control de calidad,46,No,Media,Pintar
+417,Ajuste frenos,52,Sí,Media,Instalar ruedas
+418,Instalar ruedas,37,No,Media,Ensamblar marco
+419,Control de calidad,17,No,Alta,Instalar ruedas
+420,Ajuste frenos,13,Sí,Media,Instalar ruedas
+421,Ajuste frenos,21,Sí,Alta,Control de calidad
+422,Ajuste frenos,14,No,Alta,Ensamblar marco
+423,Pintar,44,No,Media,Ajuste frenos
+424,Instalar ruedas,37,No,Baja,Control de calidad
+425,Control de calidad,22,No,Alta,Control de calidad
+426,Control de calidad,49,No,Media,Pintar
+427,Ensamblar marco,15,No,Alta,Pintar
+428,Ajuste frenos,37,No,Alta,Ajuste frenos
+429,Ajuste frenos,19,Sí,Alta,Ensamblar marco
+430,Pintar,21,Sí,Alta,Instalar ruedas
+431,Ajuste frenos,11,No,Media,Ensamblar marco
+432,Control de calidad,59,No,Media,Ajuste frenos
+433,Control de calidad,55,No,Baja,Pintar
+434,Control de calidad,29,Sí,Media,Ensamblar marco
+435,Instalar ruedas,15,Sí,Alta,Ensamblar marco
+436,Ensamblar marco,19,No,Media,Control de calidad
+437,Pintar,58,No,Media,Instalar ruedas
+438,Ensamblar marco,18,No,Media,Control de calidad
+439,Control de calidad,14,No,Media,Pintar
+440,Ensamblar marco,45,Sí,Baja,Pintar
+441,Ensamblar marco,15,Sí,Alta,Ajuste frenos
+442,Instalar ruedas,41,Sí,Media,Ensamblar marco
+443,Instalar ruedas,42,No,Media,Ensamblar marco
+444,Pintar,58,No,Baja,Pintar
+445,Pintar,10,Sí,Media,Ajuste frenos
+446,Pintar,56,Sí,Media,Pintar
+447,Ensamblar marco,54,No,Baja,Ajuste frenos
+448,Ajuste frenos,54,No,Alta,Control de calidad
+449,Pintar,27,Sí,Baja,Pintar
+450,Control de calidad,26,Sí,Baja,Pintar
+451,Instalar ruedas,37,Sí,Media,Control de calidad
+452,Pintar,59,Sí,Baja,Ajuste frenos
+453,Pintar,47,No,Media,Pintar
+454,Control de calidad,55,Sí,Alta,Instalar ruedas
+455,Instalar ruedas,26,No,Alta,Control de calidad
+456,Ensamblar marco,15,No,Alta,Pintar
+457,Pintar,34,Sí,Alta,Instalar ruedas
+458,Pintar,30,No,Baja,Pintar
+459,Control de calidad,41,Sí,Alta,Instalar ruedas
+460,Ajuste frenos,36,No,Media,Ajuste frenos
+461,Control de calidad,16,Sí,Baja,Ensamblar marco
+462,Instalar ruedas,24,No,Baja,Ajuste frenos
+463,Ensamblar marco,52,Sí,Alta,Ajuste frenos
+464,Instalar ruedas,24,Sí,Alta,Instalar ruedas
+465,Ensamblar marco,33,Sí,Media,Ajuste frenos
+466,Pintar,14,Sí,Media,Instalar ruedas
+467,Instalar ruedas,53,Sí,Media,Ajuste frenos
+468,Ajuste frenos,22,No,Media,Instalar ruedas
+469,Ensamblar marco,59,Sí,Baja,Ensamblar marco
+470,Ensamblar marco,10,Sí,Alta,Ensamblar marco
+471,Pintar,36,Sí,Media,Instalar ruedas
+472,Control de calidad,55,Sí,Alta,Instalar ruedas
+473,Ajuste frenos,32,Sí,Media,Ensamblar marco
+474,Ajuste frenos,21,Sí,Media,Instalar ruedas
+475,Control de calidad,39,No,Baja,Control de calidad
+476,Instalar ruedas,38,Sí,Alta,Control de calidad
+477,Instalar ruedas,19,Sí,Media,Ensamblar marco
+478,Ajuste frenos,43,Sí,Alta,Ajuste frenos
+479,Ensamblar marco,24,No,Alta,Pintar
+480,Control de calidad,23,Sí,Alta,Control de calidad
+481,Pintar,33,No,Alta,Instalar ruedas
+482,Pintar,50,Sí,Media,Ensamblar marco
+483,Ensamblar marco,34,No,Media,Ajuste frenos
+484,Ensamblar marco,55,No,Alta,Ensamblar marco
+485,Control de calidad,12,No,Alta,Ajuste frenos
+486,Pintar,11,No,Alta,Control de calidad
+487,Instalar ruedas,31,Sí,Alta,Pintar
+488,Instalar ruedas,15,No,Media,Ensamblar marco
+489,Instalar ruedas,34,Sí,Alta,Pintar
+490,Ensamblar marco,20,No,Alta,Instalar ruedas
+491,Control de calidad,46,Sí,Alta,Pintar
+492,Instalar ruedas,42,Sí,Baja,Instalar ruedas
+493,Instalar ruedas,32,Sí,Media,Ajuste frenos
+494,Ajuste frenos,25,Sí,Baja,Ensamblar marco
+495,Control de calidad,36,Sí,Alta,Ajuste frenos
+496,Control de calidad,16,Sí,Media,Ensamblar marco
+497,Ajuste frenos,17,No,Media,Ensamblar marco
+498,Pintar,29,No,Baja,Instalar ruedas
+499,Pintar,52,Sí,Alta,Pintar
+500,Pintar,15,No,Media,Ajuste frenos
+501,Ajuste frenos,33,Sí,Baja,Pintar
+502,Pintar,27,Sí,Alta,Control de calidad
+503,Pintar,28,Sí,Baja,Ajuste frenos
+504,Ajuste frenos,38,No,Alta,Pintar
+505,Ajuste frenos,29,No,Media,Ensamblar marco
+506,Pintar,19,No,Media,Ajuste frenos
+507,Control de calidad,44,Sí,Baja,Control de calidad
+508,Control de calidad,44,Sí,Baja,Instalar ruedas
+509,Instalar ruedas,46,Sí,Alta,Pintar
+510,Instalar ruedas,16,No,Media,Ajuste frenos
+511,Pintar,38,No,Baja,Control de calidad
+512,Control de calidad,45,No,Media,Control de calidad
+513,Control de calidad,14,No,Media,Ajuste frenos
+514,Control de calidad,40,No,Baja,Pintar
+515,Instalar ruedas,20,No,Media,Control de calidad
+516,Instalar ruedas,43,Sí,Alta,Ajuste frenos
+517,Control de calidad,49,No,Baja,Pintar
+518,Ajuste frenos,20,Sí,Baja,Pintar
+519,Ensamblar marco,28,Sí,Alta,Control de calidad
+520,Ajuste frenos,28,No,Baja,Ajuste frenos
+521,Pintar,22,No,Alta,Instalar ruedas
+522,Ajuste frenos,13,No,Alta,Instalar ruedas
+523,Instalar ruedas,17,Sí,Alta,Control de calidad
+524,Pintar,52,Sí,Baja,Ensamblar marco
+525,Pintar,23,Sí,Baja,Ajuste frenos
+526,Control de calidad,22,No,Alta,Ajuste frenos
+527,Ensamblar marco,21,No,Alta,Instalar ruedas
+528,Pintar,34,Sí,Media,Ensamblar marco
+529,Ajuste frenos,53,No,Alta,Instalar ruedas
+530,Control de calidad,20,Sí,Alta,Ensamblar marco
+531,Pintar,33,No,Media,Ensamblar marco
+532,Ensamblar marco,38,Sí,Media,Control de calidad
+533,Instalar ruedas,29,No,Media,Control de calidad
+534,Pintar,38,Sí,Media,Control de calidad
+535,Ensamblar marco,29,No,Media,Ensamblar marco
+536,Ensamblar marco,33,Sí,Alta,Ensamblar marco
+537,Pintar,59,Sí,Alta,Ajuste frenos
+538,Ajuste frenos,26,No,Media,Instalar ruedas
+539,Control de calidad,42,Sí,Alta,Instalar ruedas
+540,Ajuste frenos,44,No,Baja,Pintar
+541,Instalar ruedas,38,Sí,Alta,Ensamblar marco
+542,Ajuste frenos,10,No,Baja,Instalar ruedas
+543,Ajuste frenos,23,Sí,Baja,Pintar
+544,Ajuste frenos,25,Sí,Alta,Control de calidad
+545,Pintar,10,No,Media,Control de calidad
+546,Pintar,59,Sí,Media,Ajuste frenos
+547,Instalar ruedas,46,Sí,Baja,Ajuste frenos
+548,Ensamblar marco,33,Sí,Alta,Ensamblar marco
+549,Instalar ruedas,17,No,Alta,Instalar ruedas
+550,Pintar,30,Sí,Baja,Control de calidad
+551,Instalar ruedas,22,Sí,Baja,Control de calidad
+552,Instalar ruedas,45,Sí,Baja,Ajuste frenos
+553,Ajuste frenos,41,Sí,Media,Control de calidad
+554,Instalar ruedas,55,Sí,Baja,Control de calidad
+555,Control de calidad,12,Sí,Alta,Instalar ruedas
+556,Instalar ruedas,30,Sí,Media,Ensamblar marco
+557,Pintar,16,No,Alta,Ensamblar marco
+558,Control de calidad,36,Sí,Alta,Ensamblar marco
+559,Ensamblar marco,49,No,Alta,Pintar
+560,Instalar ruedas,52,No,Media,Pintar
+561,Ajuste frenos,12,No,Media,Control de calidad
+562,Ajuste frenos,15,No,Baja,Instalar ruedas
+563,Instalar ruedas,19,No,Alta,Ajuste frenos
+564,Ensamblar marco,50,Sí,Alta,Pintar
+565,Ajuste frenos,55,Sí,Baja,Pintar
+566,Ensamblar marco,54,No,Baja,Control de calidad
+567,Ensamblar marco,22,Sí,Alta,Instalar ruedas
+568,Ajuste frenos,45,No,Media,Ensamblar marco
+569,Pintar,50,Sí,Media,Ensamblar marco
+570,Instalar ruedas,36,Sí,Alta,Instalar ruedas
+571,Ajuste frenos,59,No,Baja,Ajuste frenos
+572,Control de calidad,44,Sí,Media,Ensamblar marco
+573,Control de calidad,57,Sí,Baja,Control de calidad
+574,Pintar,12,No,Baja,Ajuste frenos
+575,Control de calidad,47,Sí,Media,Instalar ruedas
+576,Pintar,41,Sí,Media,Ajuste frenos
+577,Instalar ruedas,11,No,Alta,Control de calidad
+578,Ensamblar marco,59,No,Media,Ajuste frenos
+579,Control de calidad,35,Sí,Baja,Control de calidad
+580,Ajuste frenos,54,No,Baja,Ajuste frenos
+581,Control de calidad,56,No,Media,Control de calidad
+582,Control de calidad,55,Sí,Media,Pintar
+583,Pintar,13,Sí,Media,Ajuste frenos
+584,Ajuste frenos,27,No,Baja,Ensamblar marco
+585,Pintar,41,No,Media,Instalar ruedas
+586,Ajuste frenos,46,No,Media,Control de calidad
+587,Ensamblar marco,52,Sí,Alta,Pintar
+588,Ensamblar marco,23,Sí,Alta,Ajuste frenos
+589,Ensamblar marco,51,No,Alta,Ajuste frenos
+590,Control de calidad,48,No,Alta,Control de calidad
+591,Ensamblar marco,28,Sí,Media,Instalar ruedas
+592,Pintar,12,Sí,Alta,Pintar
+593,Pintar,20,Sí,Media,Instalar ruedas
+594,Control de calidad,45,No,Media,Instalar ruedas
+595,Instalar ruedas,16,Sí,Alta,Pintar
+596,Pintar,44,Sí,Baja,Instalar ruedas
+597,Pintar,23,Sí,Baja,Control de calidad
+598,Pintar,20,No,Media,Control de calidad
+599,Control de calidad,55,No,Baja,Instalar ruedas
+600,Instalar ruedas,10,Sí,Media,Ensamblar marco
+601,Instalar ruedas,43,No,Baja,Ajuste frenos
+602,Ajuste frenos,47,No,Media,Ajuste frenos
+603,Pintar,35,No,Media,Instalar ruedas
+604,Ensamblar marco,55,Sí,Alta,Instalar ruedas
+605,Instalar ruedas,38,No,Baja,Control de calidad
+606,Ensamblar marco,31,Sí,Alta,Ensamblar marco
+607,Ajuste frenos,56,No,Alta,Control de calidad
+608,Control de calidad,21,No,Baja,Ajuste frenos
+609,Ensamblar marco,41,Sí,Alta,Ajuste frenos
+610,Pintar,46,Sí,Alta,Ajuste frenos
+611,Pintar,44,No,Alta,Ajuste frenos
+612,Ajuste frenos,56,No,Baja,Control de calidad
+613,Pintar,48,Sí,Media,Control de calidad
+614,Ajuste frenos,13,Sí,Alta,Ajuste frenos
+615,Instalar ruedas,33,Sí,Alta,Pintar
+616,Control de calidad,17,Sí,Alta,Instalar ruedas
+617,Ensamblar marco,47,No,Alta,Ajuste frenos
+618,Instalar ruedas,54,No,Alta,Pintar
+619,Pintar,48,Sí,Baja,Instalar ruedas
+620,Pintar,48,No,Media,Ajuste frenos
+621,Ensamblar marco,29,Sí,Media,Instalar ruedas
+622,Instalar ruedas,58,No,Media,Control de calidad
+623,Ensamblar marco,52,No,Baja,Control de calidad
+624,Instalar ruedas,21,Sí,Baja,Instalar ruedas
+625,Ajuste frenos,28,No,Baja,Instalar ruedas
+626,Control de calidad,59,No,Media,Ensamblar marco
+627,Ajuste frenos,49,Sí,Media,Pintar
+628,Ajuste frenos,34,No,Media,Instalar ruedas
+629,Ensamblar marco,32,Sí,Alta,Pintar
+630,Pintar,44,No,Media,Pintar
+631,Pintar,58,No,Alta,Ensamblar marco
+632,Control de calidad,39,No,Baja,Ensamblar marco
+633,Pintar,22,No,Media,Control de calidad
+634,Ajuste frenos,45,Sí,Alta,Ensamblar marco
+635,Control de calidad,11,No,Baja,Ajuste frenos
+636,Control de calidad,49,Sí,Alta,Instalar ruedas
+637,Control de calidad,57,Sí,Baja,Ajuste frenos
+638,Ensamblar marco,36,Sí,Alta,Ensamblar marco
+639,Ajuste frenos,27,No,Baja,Instalar ruedas
+640,Instalar ruedas,46,No,Baja,Ensamblar marco
+641,Instalar ruedas,11,No,Alta,Ensamblar marco
+642,Control de calidad,20,No,Baja,Ensamblar marco
+643,Instalar ruedas,37,Sí,Alta,Instalar ruedas
+644,Control de calidad,27,No,Media,Control de calidad
+645,Control de calidad,24,Sí,Alta,Ajuste frenos
+646,Instalar ruedas,58,Sí,Media,Ajuste frenos
+647,Control de calidad,50,Sí,Media,Instalar ruedas
+648,Instalar ruedas,50,Sí,Media,Ajuste frenos
+649,Pintar,57,No,Baja,Ensamblar marco
+650,Ensamblar marco,40,No,Media,Ensamblar marco
+651,Ensamblar marco,12,No,Media,Instalar ruedas
+652,Ensamblar marco,34,No,Alta,Instalar ruedas
+653,Control de calidad,45,Sí,Media,Ajuste frenos
+654,Pintar,34,Sí,Alta,Pintar
+655,Ajuste frenos,51,Sí,Baja,Ensamblar marco
+656,Ensamblar marco,14,Sí,Baja,Pintar
+657,Ensamblar marco,26,No,Media,Ensamblar marco
+658,Pintar,43,Sí,Alta,Instalar ruedas
+659,Instalar ruedas,26,No,Baja,Ensamblar marco
+660,Ensamblar marco,24,No,Media,Ajuste frenos
+661,Pintar,48,Sí,Media,Ensamblar marco
+662,Ajuste frenos,38,Sí,Media,Ensamblar marco
+663,Ajuste frenos,32,No,Media,Ensamblar marco
+664,Ajuste frenos,24,No,Alta,Instalar ruedas
+665,Pintar,53,Sí,Alta,Ajuste frenos
+666,Pintar,18,Sí,Baja,Ensamblar marco
+667,Instalar ruedas,40,Sí,Baja,Control de calidad
+668,Pintar,18,Sí,Baja,Instalar ruedas
+669,Ensamblar marco,20,Sí,Alta,Pintar
+670,Instalar ruedas,47,No,Baja,Ajuste frenos
+671,Pintar,40,Sí,Baja,Instalar ruedas
+672,Control de calidad,22,No,Alta,Ajuste frenos
+673,Pintar,32,Sí,Alta,Control de calidad
+674,Control de calidad,46,Sí,Alta,Ensamblar marco
+675,Ajuste frenos,40,Sí,Baja,Pintar
+676,Control de calidad,11,No,Baja,Ajuste frenos
+677,Instalar ruedas,31,No,Alta,Pintar
+678,Ensamblar marco,57,Sí,Baja,Ensamblar marco
+679,Ajuste frenos,58,Sí,Baja,Ensamblar marco
+680,Control de calidad,20,No,Media,Control de calidad
+681,Ensamblar marco,55,Sí,Alta,Control de calidad
+682,Control de calidad,20,No,Baja,Control de calidad
+683,Pintar,30,Sí,Alta,Ensamblar marco
+684,Instalar ruedas,42,Sí,Baja,Control de calidad
+685,Instalar ruedas,27,Sí,Alta,Ajuste frenos
+686,Control de calidad,18,No,Baja,Ajuste frenos
+687,Ensamblar marco,56,Sí,Alta,Control de calidad
+688,Instalar ruedas,43,Sí,Alta,Pintar
+689,Instalar ruedas,33,No,Media,Control de calidad
+690,Control de calidad,52,No,Alta,Control de calidad
+691,Instalar ruedas,53,Sí,Baja,Instalar ruedas
+692,Control de calidad,51,No,Media,Pintar
+693,Pintar,43,No,Baja,Ensamblar marco
+694,Control de calidad,56,No,Media,Pintar
+695,Ajuste frenos,25,No,Alta,Control de calidad
+696,Ajuste frenos,19,No,Alta,Pintar
+697,Control de calidad,23,Sí,Alta,Control de calidad
+698,Instalar ruedas,37,Sí,Alta,Control de calidad
+699,Ajuste frenos,24,Sí,Media,Ajuste frenos
+700,Ajuste frenos,30,Sí,Media,Ajuste frenos
+701,Ajuste frenos,42,No,Media,Ensamblar marco
+702,Instalar ruedas,51,Sí,Media,Control de calidad
+703,Control de calidad,34,No,Media,Pintar
+704,Ensamblar marco,17,No,Alta,Control de calidad
+705,Ensamblar marco,44,No,Alta,Instalar ruedas
+706,Instalar ruedas,16,No,Media,Instalar ruedas
+707,Control de calidad,19,Sí,Media,Pintar
+708,Control de calidad,55,Sí,Baja,Ensamblar marco
+709,Control de calidad,36,Sí,Baja,Ajuste frenos
+710,Pintar,10,No,Alta,Control de calidad
+711,Control de calidad,22,Sí,Media,Ajuste frenos
+712,Ajuste frenos,59,Sí,Baja,Ensamblar marco
+713,Control de calidad,46,No,Alta,Instalar ruedas
+714,Instalar ruedas,35,Sí,Alta,Pintar
+715,Pintar,24,Sí,Baja,Ajuste frenos
+716,Instalar ruedas,38,Sí,Alta,Ensamblar marco
+717,Ajuste frenos,40,Sí,Baja,Ensamblar marco
+718,Control de calidad,36,Sí,Baja,Ajuste frenos
+719,Pintar,24,No,Media,Instalar ruedas
+720,Ensamblar marco,11,Sí,Alta,Ajuste frenos
+721,Pintar,52,No,Baja,Pintar
+722,Control de calidad,39,Sí,Baja,Control de calidad
+723,Instalar ruedas,42,No,Baja,Ensamblar marco
+724,Control de calidad,11,No,Baja,Pintar
+725,Control de calidad,36,Sí,Alta,Ajuste frenos
+726,Ajuste frenos,44,No,Baja,Control de calidad
+727,Control de calidad,59,Sí,Baja,Instalar ruedas
+728,Pintar,50,No,Baja,Ajuste frenos
+729,Pintar,35,Sí,Alta,Instalar ruedas
+730,Ajuste frenos,28,Sí,Baja,Pintar
+731,Instalar ruedas,25,Sí,Baja,Ajuste frenos
+732,Ensamblar marco,46,No,Media,Control de calidad
+733,Pintar,51,Sí,Alta,Ensamblar marco
+734,Instalar ruedas,26,Sí,Baja,Ajuste frenos
+735,Ajuste frenos,58,No,Media,Instalar ruedas
+736,Ajuste frenos,45,No,Alta,Pintar
+737,Control de calidad,24,Sí,Baja,Control de calidad
+738,Instalar ruedas,44,No,Media,Ajuste frenos
+739,Pintar,22,No,Media,Ensamblar marco
+740,Ensamblar marco,13,Sí,Media,Ajuste frenos
+741,Control de calidad,25,Sí,Alta,Control de calidad
+742,Ajuste frenos,16,No,Baja,Ajuste frenos
+743,Instalar ruedas,13,No,Media,Ensamblar marco
+744,Ajuste frenos,12,Sí,Media,Ajuste frenos
+745,Ajuste frenos,32,No,Alta,Ajuste frenos
+746,Ensamblar marco,42,No,Media,Ensamblar marco
+747,Instalar ruedas,27,No,Alta,Ajuste frenos
+748,Instalar ruedas,10,Sí,Media,Ajuste frenos
+749,Pintar,50,Sí,Alta,Ensamblar marco
+750,Pintar,15,Sí,Alta,Pintar
+751,Ajuste frenos,24,No,Baja,Ajuste frenos
+752,Ensamblar marco,11,Sí,Baja,Ajuste frenos
+753,Ensamblar marco,52,Sí,Media,Ensamblar marco
+754,Control de calidad,56,No,Baja,Instalar ruedas
+755,Ajuste frenos,58,Sí,Alta,Pintar
+756,Ensamblar marco,25,No,Alta,Control de calidad
+757,Pintar,17,Sí,Media,Ensamblar marco
+758,Control de calidad,44,Sí,Media,Control de calidad
+759,Ensamblar marco,18,No,Baja,Instalar ruedas
+760,Ensamblar marco,29,Sí,Baja,Instalar ruedas
+761,Pintar,36,Sí,Baja,Pintar
+762,Pintar,41,Sí,Baja,Ensamblar marco
+763,Instalar ruedas,44,Sí,Baja,Ajuste frenos
+764,Instalar ruedas,44,No,Media,Ajuste frenos
+765,Instalar ruedas,19,No,Baja,Control de calidad
+766,Control de calidad,58,No,Baja,Ajuste frenos
+767,Ajuste frenos,51,No,Media,Instalar ruedas
+768,Control de calidad,59,No,Alta,Control de calidad
+769,Ensamblar marco,55,Sí,Baja,Ajuste frenos
+770,Control de calidad,10,No,Alta,Ajuste frenos
+771,Control de calidad,50,No,Media,Instalar ruedas
+772,Control de calidad,16,Sí,Alta,Pintar
+773,Control de calidad,55,Sí,Media,Control de calidad
+774,Instalar ruedas,58,No,Baja,Instalar ruedas
+775,Instalar ruedas,26,No,Baja,Ensamblar marco
+776,Ensamblar marco,13,Sí,Media,Ajuste frenos
+777,Instalar ruedas,20,Sí,Media,Ensamblar marco
+778,Pintar,11,Sí,Alta,Ensamblar marco
+779,Control de calidad,53,Sí,Alta,Ajuste frenos
+780,Ensamblar marco,18,No,Baja,Pintar
+781,Instalar ruedas,18,No,Media,Control de calidad
+782,Instalar ruedas,24,No,Media,Control de calidad
+783,Control de calidad,56,Sí,Media,Control de calidad
+784,Control de calidad,22,No,Media,Pintar
+785,Instalar ruedas,20,Sí,Media,Control de calidad
+786,Ensamblar marco,11,Sí,Alta,Ajuste frenos
+787,Ajuste frenos,41,Sí,Alta,Instalar ruedas
+788,Ajuste frenos,50,No,Alta,Control de calidad
+789,Control de calidad,41,Sí,Alta,Ajuste frenos
+790,Control de calidad,11,No,Alta,Ajuste frenos
+791,Pintar,11,No,Baja,Instalar ruedas
+792,Ensamblar marco,38,No,Baja,Instalar ruedas
+793,Ajuste frenos,16,No,Alta,Pintar
+794,Pintar,49,No,Media,Instalar ruedas
+795,Pintar,23,Sí,Alta,Instalar ruedas
+796,Instalar ruedas,59,No,Media,Ensamblar marco
+797,Control de calidad,59,No,Baja,Ensamblar marco
+798,Ajuste frenos,15,No,Media,Pintar
+799,Control de calidad,18,No,Media,Control de calidad
+800,Control de calidad,32,No,Alta,Ajuste frenos
+801,Pintar,34,No,Alta,Instalar ruedas
+802,Ensamblar marco,55,Sí,Media,Pintar
+803,Control de calidad,41,No,Baja,Pintar
+804,Control de calidad,40,Sí,Media,Pintar
+805,Control de calidad,34,Sí,Alta,Pintar
+806,Instalar ruedas,54,Sí,Baja,Instalar ruedas
+807,Instalar ruedas,53,Sí,Media,Instalar ruedas
+808,Pintar,25,Sí,Media,Pintar
+809,Instalar ruedas,43,No,Baja,Ensamblar marco
+810,Ensamblar marco,37,No,Alta,Ajuste frenos
+811,Instalar ruedas,39,Sí,Baja,Instalar ruedas
+812,Ajuste frenos,46,No,Media,Ajuste frenos
+813,Pintar,38,Sí,Alta,Control de calidad
+814,Pintar,26,No,Media,Ensamblar marco
+815,Pintar,34,Sí,Alta,Ajuste frenos
+816,Ensamblar marco,21,Sí,Alta,Pintar
+817,Control de calidad,23,Sí,Media,Ensamblar marco
+818,Instalar ruedas,49,No,Media,Ensamblar marco
+819,Ajuste frenos,58,No,Alta,Pintar
+820,Ensamblar marco,23,Sí,Media,Ajuste frenos
+821,Ajuste frenos,25,No,Baja,Instalar ruedas
+822,Ensamblar marco,14,No,Media,Pintar
+823,Control de calidad,42,Sí,Media,Ensamblar marco
+824,Pintar,22,Sí,Media,Ensamblar marco
+825,Pintar,35,Sí,Baja,Ensamblar marco
+826,Ensamblar marco,47,Sí,Media,Instalar ruedas
+827,Instalar ruedas,28,No,Alta,Instalar ruedas
+828,Pintar,29,No,Media,Pintar
+829,Control de calidad,53,No,Media,Ajuste frenos
+830,Ensamblar marco,18,Sí,Alta,Ajuste frenos
+831,Control de calidad,58,No,Media,Pintar
+832,Control de calidad,27,No,Baja,Instalar ruedas
+833,Pintar,38,No,Media,Control de calidad
+834,Control de calidad,58,Sí,Media,Ajuste frenos
+835,Ensamblar marco,41,No,Baja,Instalar ruedas
+836,Control de calidad,15,No,Alta,Ensamblar marco
+837,Ajuste frenos,59,No,Alta,Control de calidad
+838,Pintar,58,No,Media,Ensamblar marco
+839,Pintar,23,Sí,Baja,Instalar ruedas
+840,Ensamblar marco,32,No,Media,Ensamblar marco
+841,Instalar ruedas,52,Sí,Media,Instalar ruedas
+842,Ensamblar marco,51,Sí,Media,Ajuste frenos
+843,Ensamblar marco,55,No,Alta,Ensamblar marco
+844,Control de calidad,24,No,Media,Pintar
+845,Instalar ruedas,45,Sí,Media,Pintar
+846,Control de calidad,49,Sí,Media,Instalar ruedas
+847,Pintar,57,Sí,Media,Ensamblar marco
+848,Pintar,31,Sí,Alta,Ajuste frenos
+849,Ajuste frenos,39,Sí,Baja,Ensamblar marco
+850,Control de calidad,51,No,Baja,Ensamblar marco
+851,Ajuste frenos,25,No,Alta,Instalar ruedas
+852,Ajuste frenos,59,Sí,Media,Control de calidad
+853,Control de calidad,49,No,Alta,Ajuste frenos
+854,Ensamblar marco,46,Sí,Media,Pintar
+855,Ensamblar marco,38,No,Baja,Ensamblar marco
+856,Ensamblar marco,27,No,Media,Pintar
+857,Ensamblar marco,41,No,Alta,Pintar
+858,Control de calidad,56,No,Media,Control de calidad
+859,Instalar ruedas,29,No,Baja,Pintar
+860,Ajuste frenos,54,No,Alta,Pintar
+861,Pintar,15,No,Alta,Control de calidad
+862,Pintar,52,No,Alta,Pintar
+863,Pintar,51,Sí,Baja,Control de calidad
+864,Ensamblar marco,56,Sí,Media,Control de calidad
+865,Control de calidad,29,No,Media,Pintar
+866,Control de calidad,36,Sí,Alta,Pintar
+867,Ajuste frenos,41,No,Alta,Instalar ruedas
+868,Control de calidad,17,No,Baja,Control de calidad
+869,Control de calidad,24,No,Alta,Control de calidad
+870,Control de calidad,42,No,Alta,Control de calidad
+871,Ensamblar marco,40,No,Baja,Control de calidad
+872,Control de calidad,45,Sí,Baja,Pintar
+873,Pintar,17,Sí,Alta,Instalar ruedas
+874,Ajuste frenos,44,Sí,Media,Ajuste frenos
+875,Instalar ruedas,57,No,Alta,Control de calidad
+876,Ensamblar marco,36,Sí,Media,Ajuste frenos
+877,Control de calidad,17,Sí,Baja,Ajuste frenos
+878,Ensamblar marco,31,Sí,Media,Instalar ruedas
+879,Ajuste frenos,12,Sí,Media,Ajuste frenos
+880,Ajuste frenos,59,No,Alta,Control de calidad
+881,Ajuste frenos,27,No,Media,Control de calidad
+882,Pintar,59,Sí,Media,Ajuste frenos
+883,Control de calidad,54,No,Baja,Instalar ruedas
+884,Ensamblar marco,31,Sí,Baja,Instalar ruedas
+885,Instalar ruedas,37,Sí,Alta,Instalar ruedas
+886,Control de calidad,32,Sí,Alta,Ajuste frenos
+887,Instalar ruedas,32,No,Baja,Ajuste frenos
+888,Ensamblar marco,18,No,Media,Pintar
+889,Ajuste frenos,37,Sí,Media,Pintar
+890,Instalar ruedas,58,Sí,Alta,Ensamblar marco
+891,Pintar,33,Sí,Media,Ajuste frenos
+892,Ensamblar marco,25,Sí,Alta,Ensamblar marco
+893,Ensamblar marco,10,Sí,Baja,Pintar
+894,Ensamblar marco,10,Sí,Alta,Ajuste frenos
+895,Control de calidad,14,No,Alta,Ensamblar marco
+896,Ensamblar marco,50,No,Alta,Instalar ruedas
+897,Instalar ruedas,49,No,Baja,Ensamblar marco
+898,Control de calidad,10,No,Media,Instalar ruedas
+899,Control de calidad,42,No,Media,Ajuste frenos
+900,Ensamblar marco,54,No,Baja,Ensamblar marco
+901,Instalar ruedas,59,No,Alta,Control de calidad
+902,Pintar,34,Sí,Alta,Ajuste frenos
+903,Ensamblar marco,33,Sí,Media,Pintar
+904,Ajuste frenos,17,No,Alta,Pintar
+905,Ajuste frenos,47,No,Media,Ensamblar marco
+906,Ensamblar marco,24,Sí,Alta,Ensamblar marco
+907,Ajuste frenos,14,Sí,Media,Control de calidad
+908,Ensamblar marco,34,Sí,Baja,Instalar ruedas
+909,Pintar,36,No,Media,Ajuste frenos
+910,Ajuste frenos,54,Sí,Baja,Control de calidad
+911,Pintar,13,Sí,Alta,Control de calidad
+912,Instalar ruedas,12,Sí,Baja,Control de calidad
+913,Instalar ruedas,45,Sí,Alta,Ajuste frenos
+914,Pintar,21,No,Alta,Ajuste frenos
+915,Ensamblar marco,12,Sí,Alta,Ajuste frenos
+916,Instalar ruedas,35,Sí,Media,Pintar
+917,Control de calidad,20,No,Baja,Ajuste frenos
+918,Instalar ruedas,27,No,Alta,Ensamblar marco
+919,Ajuste frenos,58,Sí,Media,Pintar
+920,Ensamblar marco,16,Sí,Alta,Ajuste frenos
+921,Ajuste frenos,11,No,Media,Instalar ruedas
+922,Control de calidad,28,No,Baja,Pintar
+923,Ensamblar marco,59,Sí,Baja,Ensamblar marco
+924,Ajuste frenos,48,No,Alta,Control de calidad
+925,Control de calidad,11,No,Media,Ajuste frenos
+926,Control de calidad,54,No,Alta,Ensamblar marco
+927,Ensamblar marco,46,No,Baja,Instalar ruedas
+928,Instalar ruedas,21,Sí,Baja,Pintar
+929,Ensamblar marco,30,Sí,Media,Control de calidad
+930,Instalar ruedas,17,Sí,Baja,Ajuste frenos
+931,Control de calidad,30,No,Baja,Ajuste frenos
+932,Instalar ruedas,52,Sí,Alta,Ajuste frenos
+933,Pintar,58,Sí,Alta,Ajuste frenos
+934,Pintar,23,Sí,Baja,Pintar
+935,Ajuste frenos,47,Sí,Alta,Ajuste frenos
+936,Control de calidad,36,Sí,Alta,Instalar ruedas
+937,Instalar ruedas,36,No,Media,Ensamblar marco
+938,Ajuste frenos,21,No,Alta,Ensamblar marco
+939,Ensamblar marco,53,No,Alta,Ajuste frenos
+940,Control de calidad,36,No,Baja,Pintar
+941,Pintar,11,Sí,Baja,Ensamblar marco
+942,Ajuste frenos,25,No,Media,Ajuste frenos
+943,Pintar,41,No,Baja,Ajuste frenos
+944,Instalar ruedas,32,No,Alta,Control de calidad
+945,Pintar,23,No,Baja,Control de calidad
+946,Ensamblar marco,55,No,Baja,Ajuste frenos
+947,Ajuste frenos,41,Sí,Media,Pintar
+948,Ensamblar marco,35,No,Alta,Ensamblar marco
+949,Ajuste frenos,40,Sí,Baja,Ajuste frenos
+950,Instalar ruedas,50,No,Baja,Instalar ruedas
+951,Ensamblar marco,39,Sí,Baja,Control de calidad
+952,Control de calidad,59,No,Alta,Ajuste frenos
+953,Control de calidad,41,No,Alta,Instalar ruedas
+954,Control de calidad,40,No,Baja,Control de calidad
+955,Pintar,22,Sí,Alta,Pintar
+956,Pintar,50,Sí,Alta,Instalar ruedas
+957,Instalar ruedas,21,Sí,Media,Instalar ruedas
+958,Ajuste frenos,59,Sí,Baja,Control de calidad
+959,Ajuste frenos,33,No,Alta,Instalar ruedas
+960,Ensamblar marco,15,Sí,Baja,Instalar ruedas
+961,Ajuste frenos,33,No,Alta,Ajuste frenos
+962,Control de calidad,38,No,Baja,Ajuste frenos
+963,Instalar ruedas,29,No,Alta,Control de calidad
+964,Pintar,11,No,Baja,Instalar ruedas
+965,Instalar ruedas,39,Sí,Alta,Instalar ruedas
+966,Pintar,17,No,Baja,Pintar
+967,Control de calidad,10,Sí,Baja,Instalar ruedas
+968,Control de calidad,50,No,Alta,Ensamblar marco
+969,Control de calidad,31,Sí,Media,Pintar
+970,Control de calidad,21,No,Baja,Pintar
+971,Ensamblar marco,34,No,Baja,Ajuste frenos
+972,Pintar,24,No,Media,Control de calidad
+973,Control de calidad,56,No,Media,Control de calidad
+974,Instalar ruedas,12,Sí,Baja,Control de calidad
+975,Instalar ruedas,48,Sí,Alta,Ensamblar marco
+976,Control de calidad,17,No,Baja,Pintar
+977,Ajuste frenos,10,Sí,Alta,Ensamblar marco
+978,Instalar ruedas,55,No,Media,Control de calidad
+979,Ajuste frenos,16,Sí,Baja,Ensamblar marco
+980,Control de calidad,46,No,Media,Pintar
+981,Pintar,42,No,Baja,Ajuste frenos
+982,Instalar ruedas,16,Sí,Media,Instalar ruedas
+983,Pintar,13,Sí,Baja,Control de calidad
+984,Control de calidad,36,No,Baja,Control de calidad
+985,Ajuste frenos,17,Sí,Media,Instalar ruedas
+986,Instalar ruedas,50,Sí,Alta,Instalar ruedas
+987,Control de calidad,26,Sí,Baja,Ensamblar marco
+988,Instalar ruedas,48,Sí,Alta,Pintar
+989,Ajuste frenos,23,No,Media,Ajuste frenos
+990,Instalar ruedas,32,No,Alta,Control de calidad
+991,Pintar,59,No,Baja,Instalar ruedas
+992,Control de calidad,34,Sí,Baja,Pintar
+993,Control de calidad,41,Sí,Alta,Control de calidad
+994,Pintar,21,Sí,Media,Instalar ruedas
+995,Instalar ruedas,32,No,Alta,Instalar ruedas
+996,Ensamblar marco,26,Sí,Alta,Ajuste frenos
+997,Pintar,48,Sí,Media,Ensamblar marco
+998,Pintar,13,No,Alta,Pintar
+999,Ajuste frenos,36,Sí,Baja,Ensamblar marco
+1000,Control de calidad,36,Sí,Media,Ensamblar marco
+1001,Control de calidad,31,No,Media,Ensamblar marco
+1002,Instalar ruedas,28,Sí,Baja,Pintar
+1003,Ensamblar marco,36,Sí,Media,Pintar
+1004,Ajuste frenos,46,Sí,Alta,Pintar
+1005,Instalar ruedas,10,No,Baja,Pintar
+1006,Ajuste frenos,20,No,Baja,Ajuste frenos
+1007,Ensamblar marco,23,Sí,Media,Ensamblar marco
+1008,Ensamblar marco,30,Sí,Alta,Instalar ruedas
+1009,Pintar,31,Sí,Baja,Pintar
+1010,Control de calidad,13,No,Media,Control de calidad
+1011,Ensamblar marco,56,No,Alta,Pintar
+1012,Ajuste frenos,32,No,Baja,Pintar
+1013,Instalar ruedas,33,No,Alta,Pintar
+1014,Ajuste frenos,31,Sí,Media,Ajuste frenos
+1015,Ensamblar marco,18,Sí,Alta,Control de calidad
+1016,Control de calidad,57,Sí,Media,Ensamblar marco
+1017,Ensamblar marco,12,Sí,Media,Control de calidad
+1018,Instalar ruedas,34,No,Baja,Control de calidad
+1019,Control de calidad,49,No,Baja,Control de calidad
+1020,Instalar ruedas,57,No,Baja,Ensamblar marco
+1021,Pintar,14,No,Baja,Ensamblar marco
+1022,Ensamblar marco,56,No,Baja,Ajuste frenos
+1023,Control de calidad,22,Sí,Baja,Ajuste frenos
+1024,Ensamblar marco,58,Sí,Alta,Control de calidad
+1025,Control de calidad,23,Sí,Baja,Instalar ruedas
+1026,Ensamblar marco,50,Sí,Baja,Instalar ruedas
+1027,Instalar ruedas,52,Sí,Media,Pintar
+1028,Instalar ruedas,45,Sí,Alta,Control de calidad
+1029,Pintar,51,Sí,Alta,Ajuste frenos
+1030,Pintar,14,Sí,Media,Control de calidad
+1031,Ensamblar marco,27,Sí,Baja,Instalar ruedas
+1032,Ensamblar marco,13,Sí,Alta,Ensamblar marco
+1033,Ajuste frenos,34,No,Alta,Ajuste frenos
+1034,Ensamblar marco,29,Sí,Media,Control de calidad
+1035,Control de calidad,26,No,Baja,Pintar
+1036,Control de calidad,20,No,Baja,Instalar ruedas
+1037,Pintar,52,No,Media,Ensamblar marco
+1038,Pintar,47,Sí,Baja,Ensamblar marco
+1039,Ajuste frenos,57,No,Media,Ajuste frenos
+1040,Ajuste frenos,30,Sí,Baja,Control de calidad
+1041,Control de calidad,16,Sí,Media,Ajuste frenos
+1042,Ajuste frenos,44,No,Baja,Instalar ruedas
+1043,Pintar,55,No,Media,Control de calidad
+1044,Control de calidad,26,Sí,Media,Pintar
+1045,Control de calidad,29,No,Baja,Ajuste frenos
+1046,Control de calidad,51,Sí,Baja,Pintar
+1047,Control de calidad,11,Sí,Baja,Pintar
+1048,Ensamblar marco,57,No,Alta,Instalar ruedas
+1049,Pintar,38,No,Alta,Instalar ruedas
+1050,Instalar ruedas,47,No,Baja,Instalar ruedas
+1051,Control de calidad,20,Sí,Alta,Control de calidad
+1052,Ensamblar marco,11,No,Baja,Ajuste frenos
+1053,Ensamblar marco,46,No,Media,Control de calidad
+1054,Instalar ruedas,15,Sí,Media,Pintar
+1055,Ajuste frenos,28,No,Baja,Instalar ruedas
+1056,Ensamblar marco,41,No,Media,Pintar
+1057,Pintar,28,No,Alta,Ajuste frenos
+1058,Ensamblar marco,57,No,Baja,Instalar ruedas
+1059,Ajuste frenos,12,Sí,Baja,Ensamblar marco
+1060,Control de calidad,26,No,Alta,Ensamblar marco
+1061,Ensamblar marco,53,No,Alta,Instalar ruedas
+1062,Ajuste frenos,24,No,Media,Ajuste frenos
+1063,Control de calidad,57,Sí,Alta,Ensamblar marco
+1064,Ajuste frenos,39,Sí,Alta,Instalar ruedas
+1065,Control de calidad,30,No,Media,Instalar ruedas
+1066,Ajuste frenos,37,Sí,Alta,Pintar
+1067,Ajuste frenos,19,No,Alta,Ajuste frenos
+1068,Ajuste frenos,38,No,Baja,Ajuste frenos
+1069,Ajuste frenos,56,No,Media,Ajuste frenos
+1070,Ajuste frenos,24,No,Baja,Ajuste frenos
+1071,Instalar ruedas,59,No,Baja,Ajuste frenos
+1072,Ajuste frenos,20,No,Baja,Instalar ruedas
+1073,Ensamblar marco,20,Sí,Media,Control de calidad
+1074,Ajuste frenos,56,No,Baja,Ajuste frenos
+1075,Ajuste frenos,45,Sí,Baja,Control de calidad
+1076,Ajuste frenos,46,Sí,Alta,Ajuste frenos
+1077,Instalar ruedas,41,No,Alta,Instalar ruedas
+1078,Control de calidad,54,No,Baja,Ensamblar marco
+1079,Pintar,21,Sí,Media,Control de calidad
+1080,Control de calidad,15,Sí,Alta,Instalar ruedas
+1081,Instalar ruedas,16,Sí,Alta,Instalar ruedas
+1082,Ensamblar marco,51,No,Media,Pintar
+1083,Pintar,46,No,Media,Control de calidad
+1084,Ensamblar marco,34,Sí,Media,Pintar
+1085,Pintar,12,No,Baja,Pintar
+1086,Ajuste frenos,39,No,Media,Control de calidad
+1087,Pintar,45,No,Baja,Control de calidad
+1088,Instalar ruedas,10,No,Media,Control de calidad
+1089,Pintar,10,No,Baja,Ajuste frenos
+1090,Instalar ruedas,58,Sí,Media,Control de calidad
+1091,Instalar ruedas,17,Sí,Baja,Pintar
+1092,Pintar,32,Sí,Baja,Ensamblar marco
+1093,Pintar,38,Sí,Alta,Ajuste frenos
+1094,Pintar,26,Sí,Alta,Instalar ruedas
+1095,Instalar ruedas,37,Sí,Baja,Instalar ruedas
+1096,Pintar,27,Sí,Alta,Control de calidad
+1097,Pintar,24,No,Media,Control de calidad
+1098,Ensamblar marco,12,Sí,Baja,Pintar
+1099,Pintar,13,Sí,Baja,Ajuste frenos
+1100,Pintar,48,No,Alta,Pintar
+1101,Pintar,12,No,Alta,Instalar ruedas
+1102,Pintar,56,No,Baja,Ensamblar marco
+1103,Instalar ruedas,44,No,Media,Pintar
+1104,Instalar ruedas,33,Sí,Media,Pintar
+1105,Control de calidad,26,No,Media,Ajuste frenos
+1106,Ensamblar marco,57,No,Media,Ajuste frenos
+1107,Instalar ruedas,18,No,Baja,Ensamblar marco
+1108,Ensamblar marco,16,Sí,Baja,Pintar
+1109,Instalar ruedas,36,Sí,Baja,Control de calidad
+1110,Instalar ruedas,29,No,Alta,Ajuste frenos
+1111,Instalar ruedas,10,Sí,Media,Control de calidad
+1112,Ajuste frenos,57,Sí,Alta,Ajuste frenos
+1113,Ajuste frenos,51,Sí,Media,Instalar ruedas
+1114,Ajuste frenos,41,Sí,Baja,Instalar ruedas
+1115,Ajuste frenos,51,No,Media,Pintar
+1116,Instalar ruedas,15,No,Media,Ajuste frenos
+1117,Instalar ruedas,36,No,Alta,Instalar ruedas
+1118,Pintar,59,Sí,Baja,Ensamblar marco
+1119,Control de calidad,42,No,Baja,Ensamblar marco
+1120,Control de calidad,14,Sí,Media,Pintar
+1121,Instalar ruedas,27,No,Alta,Control de calidad
+1122,Control de calidad,13,Sí,Alta,Ajuste frenos
+1123,Instalar ruedas,51,No,Alta,Pintar
+1124,Pintar,43,Sí,Media,Instalar ruedas
+1125,Control de calidad,27,Sí,Baja,Pintar
+1126,Instalar ruedas,14,No,Baja,Pintar
+1127,Control de calidad,36,Sí,Media,Ajuste frenos
+1128,Instalar ruedas,55,No,Baja,Pintar
+1129,Ensamblar marco,48,No,Media,Instalar ruedas
+1130,Ajuste frenos,22,Sí,Media,Control de calidad
+1131,Ensamblar marco,29,Sí,Alta,Control de calidad
+1132,Control de calidad,37,Sí,Baja,Instalar ruedas
+1133,Ajuste frenos,44,Sí,Media,Control de calidad
+1134,Ensamblar marco,14,Sí,Alta,Instalar ruedas
+1135,Pintar,20,Sí,Baja,Control de calidad
+1136,Ajuste frenos,12,Sí,Media,Ensamblar marco
+1137,Pintar,57,No,Media,Ajuste frenos
+1138,Control de calidad,46,No,Baja,Control de calidad
+1139,Ensamblar marco,10,Sí,Alta,Ensamblar marco
+1140,Instalar ruedas,48,Sí,Media,Instalar ruedas
+1141,Ajuste frenos,32,No,Baja,Ajuste frenos
+1142,Ensamblar marco,33,Sí,Baja,Ensamblar marco
+1143,Ensamblar marco,30,Sí,Baja,Ensamblar marco
+1144,Control de calidad,14,No,Alta,Ajuste frenos
+1145,Control de calidad,47,No,Alta,Ajuste frenos
+1146,Control de calidad,20,No,Baja,Ajuste frenos
+1147,Instalar ruedas,23,No,Baja,Ensamblar marco
+1148,Pintar,32,No,Baja,Instalar ruedas
+1149,Ajuste frenos,40,No,Baja,Pintar
+1150,Instalar ruedas,16,Sí,Alta,Ensamblar marco
+1151,Control de calidad,49,Sí,Media,Pintar
+1152,Pintar,46,Sí,Media,Ensamblar marco
+1153,Instalar ruedas,15,No,Baja,Pintar
+1154,Ensamblar marco,37,No,Media,Pintar
+1155,Ensamblar marco,12,Sí,Baja,Ajuste frenos
+1156,Pintar,56,No,Baja,Ensamblar marco
+1157,Pintar,23,Sí,Media,Instalar ruedas
+1158,Instalar ruedas,26,No,Baja,Ensamblar marco
+1159,Control de calidad,29,No,Baja,Instalar ruedas
+1160,Ajuste frenos,54,No,Alta,Control de calidad
+1161,Ensamblar marco,51,No,Baja,Pintar
+1162,Ensamblar marco,17,Sí,Alta,Ensamblar marco
+1163,Pintar,17,No,Alta,Pintar
+1164,Instalar ruedas,55,No,Media,Ensamblar marco
+1165,Control de calidad,25,Sí,Baja,Control de calidad
+1166,Ajuste frenos,10,Sí,Media,Ensamblar marco
+1167,Control de calidad,42,No,Alta,Pintar
+1168,Pintar,42,No,Baja,Ajuste frenos
+1169,Pintar,30,Sí,Media,Ajuste frenos
+1170,Instalar ruedas,49,Sí,Alta,Control de calidad
+1171,Control de calidad,32,No,Alta,Instalar ruedas
+1172,Instalar ruedas,49,Sí,Media,Ajuste frenos
+1173,Ensamblar marco,27,No,Media,Pintar
+1174,Instalar ruedas,38,No,Baja,Instalar ruedas
+1175,Ensamblar marco,22,Sí,Media,Ajuste frenos
+1176,Ajuste frenos,33,Sí,Alta,Control de calidad
+1177,Control de calidad,25,Sí,Alta,Ensamblar marco
+1178,Control de calidad,54,Sí,Media,Ensamblar marco
+1179,Pintar,12,No,Baja,Ensamblar marco
+1180,Pintar,32,No,Alta,Instalar ruedas
+1181,Instalar ruedas,24,Sí,Baja,Instalar ruedas
+1182,Control de calidad,20,Sí,Alta,Instalar ruedas
+1183,Control de calidad,51,Sí,Baja,Pintar
+1184,Instalar ruedas,40,No,Baja,Pintar
+1185,Ensamblar marco,37,Sí,Alta,Ajuste frenos
+1186,Instalar ruedas,17,Sí,Media,Instalar ruedas
+1187,Instalar ruedas,47,No,Media,Instalar ruedas
+1188,Ensamblar marco,40,Sí,Alta,Ensamblar marco
+1189,Ajuste frenos,14,No,Alta,Ajuste frenos
+1190,Pintar,44,No,Media,Ajuste frenos
+1191,Pintar,49,No,Alta,Control de calidad
+1192,Pintar,50,Sí,Baja,Instalar ruedas
+1193,Instalar ruedas,37,No,Baja,Pintar
+1194,Control de calidad,34,No,Media,Instalar ruedas
+1195,Ajuste frenos,30,Sí,Media,Ajuste frenos
+1196,Ajuste frenos,24,Sí,Media,Ensamblar marco
+1197,Control de calidad,36,Sí,Baja,Ensamblar marco
+1198,Ajuste frenos,27,No,Baja,Pintar
+1199,Pintar,22,Sí,Media,Ajuste frenos
+1200,Instalar ruedas,54,Sí,Alta,Instalar ruedas
+1201,Control de calidad,29,No,Media,Control de calidad
+1202,Control de calidad,41,No,Alta,Instalar ruedas
+1203,Ensamblar marco,10,Sí,Media,Ajuste frenos
+1204,Ensamblar marco,25,No,Alta,Control de calidad
+1205,Control de calidad,38,Sí,Baja,Instalar ruedas
+1206,Instalar ruedas,35,Sí,Media,Ajuste frenos
+1207,Control de calidad,47,No,Alta,Control de calidad
+1208,Ajuste frenos,17,No,Alta,Ajuste frenos
+1209,Instalar ruedas,28,Sí,Media,Instalar ruedas
+1210,Ajuste frenos,31,Sí,Baja,Pintar
+1211,Instalar ruedas,23,No,Media,Pintar
+1212,Ensamblar marco,26,No,Media,Ajuste frenos
+1213,Ensamblar marco,58,No,Alta,Control de calidad
+1214,Ajuste frenos,35,Sí,Media,Control de calidad
+1215,Instalar ruedas,14,Sí,Baja,Pintar
+1216,Pintar,55,Sí,Baja,Ajuste frenos
+1217,Ensamblar marco,52,No,Alta,Ensamblar marco
+1218,Instalar ruedas,21,Sí,Media,Control de calidad
+1219,Pintar,22,No,Alta,Control de calidad
+1220,Control de calidad,49,No,Baja,Pintar
+1221,Ajuste frenos,11,Sí,Media,Instalar ruedas
+1222,Ensamblar marco,33,Sí,Media,Ensamblar marco
+1223,Control de calidad,34,Sí,Media,Control de calidad
+1224,Ajuste frenos,51,No,Alta,Ajuste frenos
+1225,Instalar ruedas,34,No,Media,Ajuste frenos
+1226,Pintar,34,Sí,Alta,Ajuste frenos
+1227,Control de calidad,10,Sí,Alta,Control de calidad
+1228,Ensamblar marco,24,Sí,Alta,Pintar
+1229,Ajuste frenos,46,Sí,Alta,Instalar ruedas
+1230,Ensamblar marco,38,No,Baja,Pintar
+1231,Ajuste frenos,30,Sí,Baja,Instalar ruedas
+1232,Ajuste frenos,41,No,Alta,Ensamblar marco
+1233,Ensamblar marco,51,Sí,Media,Ajuste frenos
+1234,Instalar ruedas,30,No,Media,Control de calidad
+1235,Control de calidad,14,No,Media,Instalar ruedas
+1236,Ajuste frenos,50,Sí,Alta,Instalar ruedas
+1237,Ajuste frenos,44,No,Media,Control de calidad
+1238,Control de calidad,41,No,Alta,Ensamblar marco
+1239,Ajuste frenos,40,No,Alta,Ajuste frenos
+1240,Control de calidad,41,Sí,Baja,Control de calidad
+1241,Control de calidad,21,Sí,Media,Ensamblar marco
+1242,Instalar ruedas,38,Sí,Media,Control de calidad
+1243,Ensamblar marco,41,No,Media,Pintar
+1244,Pintar,46,No,Media,Instalar ruedas
+1245,Pintar,22,No,Media,Control de calidad
+1246,Ajuste frenos,43,No,Alta,Control de calidad
+1247,Ensamblar marco,52,Sí,Alta,Ajuste frenos
+1248,Ajuste frenos,13,No,Media,Instalar ruedas
+1249,Ensamblar marco,16,Sí,Media,Control de calidad
+1250,Ensamblar marco,22,No,Alta,Pintar
+1251,Ensamblar marco,53,Sí,Alta,Control de calidad
+1252,Control de calidad,49,No,Alta,Pintar
+1253,Instalar ruedas,10,Sí,Baja,Ajuste frenos
+1254,Ajuste frenos,13,No,Baja,Control de calidad
+1255,Instalar ruedas,20,Sí,Alta,Ajuste frenos
+1256,Ensamblar marco,52,Sí,Alta,Instalar ruedas
+1257,Control de calidad,33,Sí,Baja,Pintar
+1258,Control de calidad,26,No,Media,Pintar
+1259,Pintar,48,Sí,Baja,Ajuste frenos
+1260,Instalar ruedas,10,No,Baja,Ensamblar marco
+1261,Control de calidad,24,No,Media,Ajuste frenos
+1262,Instalar ruedas,41,No,Alta,Ensamblar marco
+1263,Ensamblar marco,57,Sí,Alta,Instalar ruedas
+1264,Pintar,40,No,Media,Ajuste frenos
+1265,Pintar,26,Sí,Media,Control de calidad
+1266,Ensamblar marco,14,No,Alta,Ajuste frenos
+1267,Instalar ruedas,29,Sí,Baja,Ajuste frenos
+1268,Ajuste frenos,52,No,Baja,Control de calidad
+1269,Instalar ruedas,13,Sí,Alta,Ensamblar marco
+1270,Ensamblar marco,53,Sí,Baja,Instalar ruedas
+1271,Pintar,43,No,Baja,Pintar
+1272,Ensamblar marco,30,Sí,Media,Control de calidad
+1273,Instalar ruedas,21,No,Media,Instalar ruedas
+1274,Ensamblar marco,25,Sí,Baja,Ajuste frenos
+1275,Ajuste frenos,18,No,Alta,Control de calidad
+1276,Ajuste frenos,14,No,Media,Ensamblar marco
+1277,Control de calidad,10,No,Baja,Ajuste frenos
+1278,Pintar,27,Sí,Media,Control de calidad
+1279,Control de calidad,31,No,Media,Instalar ruedas
+1280,Control de calidad,58,Sí,Alta,Ajuste frenos
+1281,Ajuste frenos,29,No,Media,Ajuste frenos
+1282,Pintar,28,Sí,Media,Control de calidad
+1283,Ensamblar marco,53,No,Alta,Control de calidad
+1284,Ajuste frenos,24,No,Media,Pintar
+1285,Instalar ruedas,43,No,Media,Instalar ruedas
+1286,Control de calidad,39,Sí,Alta,Ensamblar marco
+1287,Ensamblar marco,22,No,Alta,Instalar ruedas
+1288,Ajuste frenos,47,No,Alta,Control de calidad
+1289,Control de calidad,59,Sí,Media,Control de calidad
+1290,Ajuste frenos,10,No,Baja,Ensamblar marco
+1291,Pintar,32,No,Media,Pintar
+1292,Ensamblar marco,52,Sí,Media,Ajuste frenos
+1293,Ajuste frenos,27,Sí,Alta,Pintar
+1294,Instalar ruedas,47,Sí,Alta,Control de calidad
+1295,Ajuste frenos,11,No,Alta,Instalar ruedas
+1296,Ensamblar marco,38,No,Media,Ensamblar marco
+1297,Instalar ruedas,15,No,Baja,Instalar ruedas
+1298,Control de calidad,59,Sí,Alta,Instalar ruedas
+1299,Ensamblar marco,39,No,Media,Ensamblar marco
+1300,Pintar,25,Sí,Alta,Control de calidad
+1301,Ensamblar marco,42,No,Media,Control de calidad
+1302,Ajuste frenos,35,Sí,Media,Control de calidad
+1303,Ajuste frenos,33,Sí,Media,Instalar ruedas
+1304,Ajuste frenos,26,No,Media,Instalar ruedas
+1305,Ajuste frenos,27,Sí,Alta,Instalar ruedas
+1306,Ensamblar marco,48,Sí,Alta,Instalar ruedas
+1307,Pintar,20,Sí,Baja,Control de calidad
+1308,Pintar,14,No,Alta,Instalar ruedas
+1309,Ajuste frenos,43,No,Alta,Instalar ruedas
+1310,Ensamblar marco,50,Sí,Baja,Pintar
+1311,Control de calidad,31,Sí,Media,Control de calidad
+1312,Instalar ruedas,18,No,Baja,Control de calidad
+1313,Ajuste frenos,31,No,Baja,Control de calidad
+1314,Ensamblar marco,39,No,Alta,Instalar ruedas
+1315,Pintar,28,No,Baja,Control de calidad
+1316,Ensamblar marco,44,Sí,Alta,Pintar
+1317,Control de calidad,46,Sí,Baja,Ensamblar marco
+1318,Ensamblar marco,17,No,Alta,Ensamblar marco
+1319,Ajuste frenos,51,Sí,Media,Pintar
+1320,Instalar ruedas,25,Sí,Alta,Ensamblar marco
+1321,Control de calidad,29,No,Media,Ajuste frenos
+1322,Ajuste frenos,58,No,Baja,Ajuste frenos
+1323,Pintar,40,No,Media,Ajuste frenos
+1324,Ajuste frenos,13,Sí,Media,Instalar ruedas
+1325,Instalar ruedas,31,Sí,Alta,Ajuste frenos
+1326,Pintar,18,No,Baja,Control de calidad
+1327,Pintar,58,No,Media,Ensamblar marco
+1328,Pintar,29,No,Alta,Ensamblar marco
+1329,Ajuste frenos,54,No,Baja,Control de calidad
+1330,Ensamblar marco,23,Sí,Baja,Pintar
+1331,Ajuste frenos,55,Sí,Baja,Ensamblar marco
+1332,Pintar,58,No,Media,Control de calidad
+1333,Instalar ruedas,45,Sí,Alta,Control de calidad
+1334,Control de calidad,23,No,Baja,Pintar
+1335,Instalar ruedas,50,No,Alta,Pintar
+1336,Ajuste frenos,13,No,Media,Control de calidad
+1337,Ensamblar marco,29,No,Baja,Ensamblar marco
+1338,Instalar ruedas,52,No,Media,Ensamblar marco
+1339,Control de calidad,33,No,Baja,Pintar
+1340,Pintar,39,No,Baja,Pintar
+1341,Ajuste frenos,20,Sí,Media,Control de calidad
+1342,Pintar,54,Sí,Alta,Pintar
+1343,Control de calidad,17,No,Baja,Instalar ruedas
+1344,Ensamblar marco,23,No,Media,Ensamblar marco
+1345,Pintar,43,No,Baja,Pintar
+1346,Pintar,43,No,Baja,Instalar ruedas
+1347,Ensamblar marco,41,Sí,Media,Ajuste frenos
+1348,Control de calidad,39,No,Alta,Ensamblar marco
+1349,Ensamblar marco,29,No,Alta,Ensamblar marco
+1350,Control de calidad,53,No,Baja,Pintar
+1351,Pintar,24,No,Alta,Ensamblar marco
+1352,Ensamblar marco,12,No,Alta,Ensamblar marco
+1353,Ajuste frenos,57,No,Alta,Ensamblar marco
+1354,Instalar ruedas,19,Sí,Media,Control de calidad
+1355,Ensamblar marco,47,No,Alta,Ajuste frenos
+1356,Instalar ruedas,58,Sí,Alta,Control de calidad
+1357,Ensamblar marco,45,No,Media,Control de calidad
+1358,Ajuste frenos,11,Sí,Media,Control de calidad
+1359,Pintar,48,Sí,Alta,Control de calidad
+1360,Ajuste frenos,19,No,Alta,Instalar ruedas
+1361,Instalar ruedas,22,Sí,Alta,Control de calidad
+1362,Ensamblar marco,26,No,Alta,Control de calidad
+1363,Control de calidad,27,Sí,Alta,Control de calidad
+1364,Ajuste frenos,18,No,Media,Instalar ruedas
+1365,Ensamblar marco,47,Sí,Baja,Ensamblar marco
+1366,Control de calidad,40,Sí,Media,Control de calidad
+1367,Instalar ruedas,52,No,Alta,Instalar ruedas
+1368,Ensamblar marco,59,No,Baja,Ajuste frenos
+1369,Pintar,53,Sí,Media,Control de calidad
+1370,Pintar,30,Sí,Media,Instalar ruedas
+1371,Pintar,48,Sí,Media,Pintar
+1372,Control de calidad,45,Sí,Alta,Pintar
+1373,Instalar ruedas,10,Sí,Baja,Ensamblar marco
+1374,Instalar ruedas,33,Sí,Alta,Ajuste frenos
+1375,Ensamblar marco,18,No,Alta,Instalar ruedas
+1376,Pintar,53,No,Baja,Ajuste frenos
+1377,Control de calidad,57,Sí,Alta,Instalar ruedas
+1378,Ajuste frenos,40,Sí,Media,Pintar
+1379,Control de calidad,37,Sí,Media,Control de calidad
+1380,Ajuste frenos,28,Sí,Media,Control de calidad
+1381,Ensamblar marco,11,Sí,Baja,Ensamblar marco
+1382,Ajuste frenos,30,Sí,Media,Pintar
+1383,Pintar,44,No,Alta,Ajuste frenos
+1384,Ensamblar marco,43,Sí,Baja,Ensamblar marco
+1385,Ajuste frenos,50,No,Alta,Ajuste frenos
+1386,Pintar,25,No,Media,Instalar ruedas
+1387,Ajuste frenos,37,Sí,Media,Ensamblar marco
+1388,Ensamblar marco,11,Sí,Baja,Pintar
+1389,Instalar ruedas,47,Sí,Media,Pintar
+1390,Control de calidad,11,Sí,Media,Control de calidad
+1391,Instalar ruedas,30,No,Baja,Control de calidad
+1392,Pintar,39,Sí,Alta,Pintar
+1393,Ajuste frenos,34,No,Alta,Control de calidad
+1394,Ajuste frenos,37,No,Baja,Instalar ruedas
+1395,Instalar ruedas,28,Sí,Baja,Control de calidad
+1396,Control de calidad,32,Sí,Baja,Instalar ruedas
+1397,Instalar ruedas,20,No,Alta,Pintar
+1398,Pintar,33,No,Alta,Pintar
+1399,Ajuste frenos,18,No,Baja,Ensamblar marco
+1400,Ensamblar marco,10,No,Media,Instalar ruedas
+1401,Ajuste frenos,29,No,Alta,Ensamblar marco
+1402,Ensamblar marco,35,Sí,Alta,Ensamblar marco
+1403,Ajuste frenos,56,No,Baja,Ajuste frenos
+1404,Control de calidad,27,Sí,Alta,Pintar
+1405,Control de calidad,49,Sí,Baja,Pintar
+1406,Ensamblar marco,18,No,Media,Ajuste frenos
+1407,Ensamblar marco,50,Sí,Alta,Instalar ruedas
+1408,Ajuste frenos,42,Sí,Alta,Control de calidad
+1409,Control de calidad,20,Sí,Media,Pintar
+1410,Pintar,29,No,Baja,Ajuste frenos
+1411,Ensamblar marco,57,No,Baja,Pintar
+1412,Ajuste frenos,52,No,Alta,Control de calidad
+1413,Ajuste frenos,27,No,Baja,Ajuste frenos
+1414,Control de calidad,36,No,Media,Ensamblar marco
+1415,Ensamblar marco,26,No,Baja,Ajuste frenos
+1416,Pintar,56,No,Media,Ajuste frenos
+1417,Instalar ruedas,36,Sí,Alta,Ensamblar marco
+1418,Pintar,40,Sí,Alta,Ajuste frenos
+1419,Control de calidad,36,No,Media,Ajuste frenos
+1420,Control de calidad,27,Sí,Alta,Control de calidad
+1421,Instalar ruedas,24,Sí,Media,Instalar ruedas
+1422,Ensamblar marco,39,No,Baja,Ajuste frenos
+1423,Ajuste frenos,47,No,Baja,Ensamblar marco
+1424,Pintar,15,No,Alta,Control de calidad
+1425,Ensamblar marco,33,Sí,Media,Ajuste frenos
+1426,Control de calidad,31,No,Media,Control de calidad
+1427,Ensamblar marco,53,Sí,Alta,Ajuste frenos
+1428,Ensamblar marco,33,Sí,Alta,Ajuste frenos
+1429,Control de calidad,14,Sí,Alta,Ajuste frenos
+1430,Ensamblar marco,59,Sí,Media,Ensamblar marco
+1431,Pintar,42,Sí,Baja,Control de calidad
+1432,Instalar ruedas,16,No,Media,Pintar
+1433,Pintar,45,No,Baja,Ajuste frenos
+1434,Pintar,58,Sí,Alta,Ajuste frenos
+1435,Pintar,14,No,Media,Pintar
+1436,Pintar,12,No,Alta,Control de calidad
+1437,Instalar ruedas,38,No,Alta,Pintar
+1438,Pintar,13,Sí,Alta,Ensamblar marco
+1439,Control de calidad,35,Sí,Media,Ajuste frenos
+1440,Ajuste frenos,12,Sí,Alta,Instalar ruedas
+1441,Pintar,42,No,Media,Ensamblar marco
+1442,Instalar ruedas,12,Sí,Media,Instalar ruedas
+1443,Pintar,34,No,Media,Ajuste frenos
+1444,Ajuste frenos,21,No,Alta,Control de calidad
+1445,Ensamblar marco,33,No,Alta,Ajuste frenos
+1446,Instalar ruedas,34,No,Baja,Instalar ruedas
+1447,Instalar ruedas,43,Sí,Media,Pintar
+1448,Pintar,44,No,Media,Ajuste frenos
+1449,Ajuste frenos,14,No,Alta,Ajuste frenos
+1450,Instalar ruedas,50,No,Media,Ensamblar marco
+1451,Pintar,25,No,Baja,Instalar ruedas
+1452,Instalar ruedas,22,Sí,Alta,Ajuste frenos
+1453,Instalar ruedas,28,Sí,Alta,Ajuste frenos
+1454,Ajuste frenos,21,No,Baja,Instalar ruedas
+1455,Control de calidad,58,Sí,Media,Ajuste frenos
+1456,Ajuste frenos,51,Sí,Alta,Ensamblar marco
+1457,Pintar,17,No,Alta,Pintar
+1458,Control de calidad,53,No,Baja,Instalar ruedas
+1459,Ajuste frenos,49,Sí,Alta,Control de calidad
+1460,Instalar ruedas,43,Sí,Alta,Instalar ruedas
+1461,Pintar,14,Sí,Baja,Instalar ruedas
+1462,Ajuste frenos,42,No,Baja,Ensamblar marco
+1463,Instalar ruedas,55,Sí,Alta,Ensamblar marco
+1464,Pintar,40,Sí,Alta,Ensamblar marco
+1465,Instalar ruedas,21,No,Baja,Pintar
+1466,Instalar ruedas,46,Sí,Media,Instalar ruedas
+1467,Ajuste frenos,52,No,Media,Instalar ruedas
+1468,Ensamblar marco,18,No,Baja,Control de calidad
+1469,Ensamblar marco,19,Sí,Baja,Control de calidad
+1470,Pintar,11,No,Baja,Instalar ruedas
+1471,Ensamblar marco,35,Sí,Alta,Control de calidad
+1472,Ajuste frenos,27,No,Alta,Pintar
+1473,Control de calidad,26,No,Baja,Ensamblar marco
+1474,Ajuste frenos,27,No,Alta,Instalar ruedas
+1475,Ajuste frenos,27,No,Baja,Ensamblar marco
+1476,Ajuste frenos,35,No,Alta,Pintar
+1477,Control de calidad,39,Sí,Baja,Ajuste frenos
+1478,Ajuste frenos,35,No,Media,Instalar ruedas
+1479,Instalar ruedas,35,No,Media,Ajuste frenos
+1480,Ajuste frenos,15,No,Alta,Instalar ruedas
+1481,Pintar,59,Sí,Baja,Pintar
+1482,Instalar ruedas,18,No,Baja,Ensamblar marco
+1483,Pintar,41,No,Media,Ensamblar marco
+1484,Instalar ruedas,21,Sí,Media,Instalar ruedas
+1485,Ensamblar marco,39,No,Media,Ensamblar marco
+1486,Ensamblar marco,44,Sí,Baja,Pintar
+1487,Ajuste frenos,56,Sí,Alta,Pintar
+1488,Pintar,22,No,Alta,Ajuste frenos
+1489,Control de calidad,22,Sí,Baja,Instalar ruedas
+1490,Pintar,56,Sí,Media,Ensamblar marco
+1491,Ensamblar marco,30,No,Media,Ajuste frenos
+1492,Ensamblar marco,32,Sí,Media,Ensamblar marco
+1493,Ensamblar marco,18,No,Media,Pintar
+1494,Pintar,50,Sí,Baja,Control de calidad
+1495,Control de calidad,11,Sí,Alta,Instalar ruedas
+1496,Control de calidad,27,No,Media,Instalar ruedas
+1497,Ajuste frenos,58,Sí,Baja,Ensamblar marco
+1498,Ajuste frenos,28,No,Baja,Ensamblar marco
+1499,Instalar ruedas,20,No,Alta,Control de calidad
+1500,Control de calidad,51,No,Baja,Ensamblar marco
+1501,Instalar ruedas,21,Sí,Alta,Instalar ruedas
+1502,Pintar,29,Sí,Media,Pintar
+1503,Ajuste frenos,59,Sí,Media,Control de calidad
+1504,Ensamblar marco,47,Sí,Media,Ajuste frenos
+1505,Pintar,47,Sí,Media,Instalar ruedas
+1506,Ensamblar marco,43,No,Baja,Ajuste frenos
+1507,Ajuste frenos,12,No,Baja,Ajuste frenos
+1508,Control de calidad,11,Sí,Alta,Ensamblar marco
+1509,Instalar ruedas,19,Sí,Baja,Instalar ruedas
+1510,Instalar ruedas,59,Sí,Baja,Pintar
+1511,Pintar,10,Sí,Baja,Control de calidad
+1512,Ensamblar marco,34,Sí,Alta,Instalar ruedas
+1513,Ensamblar marco,18,No,Alta,Instalar ruedas
+1514,Control de calidad,17,Sí,Baja,Instalar ruedas
+1515,Ajuste frenos,11,No,Alta,Ensamblar marco
+1516,Control de calidad,47,Sí,Media,Control de calidad
+1517,Ajuste frenos,46,Sí,Baja,Ensamblar marco
+1518,Instalar ruedas,34,No,Baja,Ajuste frenos
+1519,Ensamblar marco,59,No,Baja,Ajuste frenos
+1520,Control de calidad,37,Sí,Baja,Control de calidad
+1521,Ensamblar marco,12,No,Baja,Ajuste frenos
+1522,Pintar,36,Sí,Media,Instalar ruedas
+1523,Ensamblar marco,56,No,Media,Control de calidad
+1524,Ajuste frenos,36,Sí,Baja,Ajuste frenos
+1525,Pintar,32,Sí,Media,Instalar ruedas
+1526,Instalar ruedas,44,No,Alta,Pintar
+1527,Ajuste frenos,37,Sí,Media,Ensamblar marco
+1528,Control de calidad,30,Sí,Alta,Control de calidad
+1529,Pintar,17,No,Baja,Instalar ruedas
+1530,Control de calidad,40,No,Alta,Ensamblar marco
+1531,Ajuste frenos,16,No,Media,Ajuste frenos
+1532,Ensamblar marco,16,Sí,Baja,Pintar
+1533,Ajuste frenos,39,No,Alta,Ensamblar marco
+1534,Pintar,59,Sí,Media,Instalar ruedas
+1535,Instalar ruedas,24,No,Alta,Ajuste frenos
+1536,Control de calidad,32,No,Media,Instalar ruedas
+1537,Control de calidad,23,No,Alta,Control de calidad
+1538,Instalar ruedas,27,Sí,Baja,Ajuste frenos
+1539,Ensamblar marco,58,No,Alta,Ensamblar marco
+1540,Control de calidad,50,No,Media,Pintar
+1541,Ajuste frenos,40,No,Alta,Instalar ruedas
+1542,Ajuste frenos,26,No,Baja,Ajuste frenos
+1543,Control de calidad,52,No,Alta,Ajuste frenos
+1544,Pintar,53,No,Alta,Ensamblar marco
+1545,Control de calidad,33,Sí,Media,Control de calidad
+1546,Instalar ruedas,30,No,Baja,Ajuste frenos
+1547,Control de calidad,35,Sí,Alta,Ajuste frenos
+1548,Pintar,31,No,Baja,Pintar
+1549,Ajuste frenos,10,Sí,Baja,Pintar
+1550,Pintar,12,Sí,Media,Control de calidad
+1551,Ajuste frenos,55,No,Media,Ajuste frenos
+1552,Ensamblar marco,12,No,Media,Control de calidad
+1553,Pintar,32,Sí,Media,Control de calidad
+1554,Ajuste frenos,26,No,Baja,Instalar ruedas
+1555,Instalar ruedas,17,Sí,Alta,Instalar ruedas
+1556,Ensamblar marco,14,No,Media,Control de calidad
+1557,Control de calidad,59,Sí,Alta,Ajuste frenos
+1558,Ajuste frenos,43,No,Media,Control de calidad
+1559,Instalar ruedas,16,Sí,Media,Control de calidad
+1560,Instalar ruedas,46,Sí,Baja,Ajuste frenos
+1561,Instalar ruedas,24,Sí,Alta,Control de calidad
+1562,Ajuste frenos,59,No,Baja,Pintar
+1563,Pintar,16,Sí,Baja,Ensamblar marco
+1564,Instalar ruedas,25,No,Baja,Instalar ruedas
+1565,Control de calidad,33,Sí,Alta,Instalar ruedas
+1566,Control de calidad,17,Sí,Media,Ensamblar marco
+1567,Ajuste frenos,24,No,Alta,Control de calidad
+1568,Pintar,19,Sí,Media,Pintar
+1569,Ensamblar marco,46,Sí,Media,Control de calidad
+1570,Pintar,30,No,Baja,Ensamblar marco
+1571,Ajuste frenos,45,No,Baja,Ajuste frenos
+1572,Ajuste frenos,38,Sí,Baja,Control de calidad
+1573,Ensamblar marco,20,Sí,Alta,Ensamblar marco
+1574,Control de calidad,51,No,Media,Pintar
+1575,Ajuste frenos,48,Sí,Alta,Ensamblar marco
+1576,Control de calidad,23,Sí,Baja,Instalar ruedas
+1577,Ajuste frenos,54,No,Baja,Ajuste frenos
+1578,Ensamblar marco,51,No,Baja,Ajuste frenos
+1579,Control de calidad,27,No,Baja,Pintar
+1580,Instalar ruedas,51,No,Alta,Control de calidad
+1581,Ajuste frenos,58,Sí,Baja,Pintar
+1582,Ensamblar marco,42,No,Media,Ajuste frenos
+1583,Ensamblar marco,32,Sí,Baja,Instalar ruedas
+1584,Ajuste frenos,23,Sí,Media,Ajuste frenos
+1585,Ajuste frenos,52,Sí,Media,Instalar ruedas
+1586,Control de calidad,48,Sí,Alta,Ajuste frenos
+1587,Instalar ruedas,30,No,Media,Ajuste frenos
+1588,Control de calidad,31,Sí,Alta,Pintar
+1589,Control de calidad,51,No,Baja,Instalar ruedas
+1590,Ensamblar marco,19,No,Baja,Ajuste frenos
+1591,Ensamblar marco,45,No,Baja,Pintar
+1592,Instalar ruedas,20,No,Media,Pintar
+1593,Control de calidad,50,Sí,Alta,Control de calidad
+1594,Ajuste frenos,36,Sí,Baja,Ajuste frenos
+1595,Control de calidad,34,No,Baja,Ensamblar marco
+1596,Instalar ruedas,52,No,Baja,Instalar ruedas
+1597,Instalar ruedas,28,No,Baja,Control de calidad
+1598,Control de calidad,15,Sí,Baja,Pintar
+1599,Control de calidad,53,Sí,Baja,Pintar
+1600,Ensamblar marco,28,Sí,Media,Ajuste frenos
+1601,Ensamblar marco,55,No,Media,Control de calidad
+1602,Pintar,34,No,Alta,Ajuste frenos
+1603,Control de calidad,55,Sí,Alta,Control de calidad
+1604,Pintar,28,No,Baja,Instalar ruedas
+1605,Control de calidad,57,Sí,Alta,Control de calidad
+1606,Ensamblar marco,35,Sí,Baja,Instalar ruedas
+1607,Ensamblar marco,51,Sí,Media,Ensamblar marco
+1608,Control de calidad,30,No,Alta,Pintar
+1609,Ajuste frenos,17,No,Baja,Control de calidad
+1610,Ajuste frenos,20,No,Media,Ajuste frenos
+1611,Ajuste frenos,43,No,Alta,Ensamblar marco
+1612,Ensamblar marco,53,No,Media,Instalar ruedas
+1613,Pintar,34,Sí,Alta,Pintar
+1614,Control de calidad,26,No,Media,Instalar ruedas
+1615,Control de calidad,27,Sí,Media,Instalar ruedas
+1616,Control de calidad,42,Sí,Baja,Ensamblar marco
+1617,Control de calidad,23,No,Baja,Instalar ruedas
+1618,Ensamblar marco,57,Sí,Alta,Ajuste frenos
+1619,Control de calidad,39,No,Alta,Ajuste frenos
+1620,Control de calidad,33,No,Media,Ensamblar marco
+1621,Ensamblar marco,29,Sí,Alta,Ensamblar marco
+1622,Ensamblar marco,49,Sí,Alta,Instalar ruedas
+1623,Instalar ruedas,47,No,Media,Instalar ruedas
+1624,Ajuste frenos,43,Sí,Baja,Ensamblar marco
+1625,Ensamblar marco,28,No,Alta,Ajuste frenos
+1626,Control de calidad,11,No,Alta,Ajuste frenos
+1627,Control de calidad,36,No,Media,Ajuste frenos
+1628,Ajuste frenos,31,No,Baja,Instalar ruedas
+1629,Instalar ruedas,41,No,Alta,Ajuste frenos
+1630,Instalar ruedas,34,Sí,Alta,Ajuste frenos
+1631,Instalar ruedas,28,No,Baja,Ajuste frenos
+1632,Instalar ruedas,37,Sí,Alta,Instalar ruedas
+1633,Ajuste frenos,51,No,Alta,Control de calidad
+1634,Ajuste frenos,59,Sí,Alta,Instalar ruedas
+1635,Instalar ruedas,25,No,Alta,Ensamblar marco
+1636,Ensamblar marco,42,No,Alta,Control de calidad
+1637,Ajuste frenos,40,No,Media,Pintar
+1638,Control de calidad,20,Sí,Alta,Ajuste frenos
+1639,Ajuste frenos,28,No,Baja,Ensamblar marco
+1640,Control de calidad,46,No,Alta,Ajuste frenos
+1641,Instalar ruedas,31,Sí,Baja,Instalar ruedas
+1642,Pintar,40,No,Media,Instalar ruedas
+1643,Instalar ruedas,55,No,Alta,Pintar
+1644,Instalar ruedas,38,No,Alta,Control de calidad
+1645,Control de calidad,14,Sí,Alta,Pintar
+1646,Ensamblar marco,27,Sí,Alta,Instalar ruedas
+1647,Ajuste frenos,51,Sí,Media,Pintar
+1648,Pintar,31,No,Baja,Pintar
+1649,Pintar,21,No,Alta,Ajuste frenos
+1650,Instalar ruedas,13,No,Alta,Pintar
+1651,Pintar,32,Sí,Media,Control de calidad
+1652,Ensamblar marco,51,Sí,Media,Ajuste frenos
+1653,Control de calidad,18,No,Baja,Ensamblar marco
+1654,Pintar,51,Sí,Baja,Ajuste frenos
+1655,Ajuste frenos,32,No,Alta,Instalar ruedas
+1656,Ajuste frenos,59,No,Baja,Instalar ruedas
+1657,Pintar,31,No,Media,Pintar
+1658,Pintar,17,Sí,Media,Ensamblar marco
+1659,Pintar,22,Sí,Alta,Instalar ruedas
+1660,Instalar ruedas,40,No,Media,Pintar
+1661,Ensamblar marco,17,No,Alta,Pintar
+1662,Instalar ruedas,26,Sí,Baja,Instalar ruedas
+1663,Instalar ruedas,50,Sí,Baja,Pintar
+1664,Ensamblar marco,42,Sí,Baja,Pintar
+1665,Pintar,23,Sí,Media,Ajuste frenos
+1666,Ajuste frenos,28,No,Baja,Ensamblar marco
+1667,Control de calidad,49,Sí,Media,Instalar ruedas
+1668,Pintar,44,No,Alta,Instalar ruedas
+1669,Instalar ruedas,43,Sí,Media,Ajuste frenos
+1670,Instalar ruedas,37,No,Alta,Instalar ruedas
+1671,Instalar ruedas,47,No,Alta,Ensamblar marco
+1672,Instalar ruedas,20,No,Alta,Ensamblar marco
+1673,Instalar ruedas,44,No,Baja,Control de calidad
+1674,Ensamblar marco,58,Sí,Baja,Control de calidad
+1675,Control de calidad,26,No,Alta,Ensamblar marco
+1676,Control de calidad,53,Sí,Baja,Control de calidad
+1677,Ajuste frenos,39,No,Media,Control de calidad
+1678,Control de calidad,35,No,Alta,Control de calidad
+1679,Ajuste frenos,17,Sí,Baja,Control de calidad
+1680,Instalar ruedas,47,Sí,Alta,Instalar ruedas
+1681,Pintar,57,No,Alta,Control de calidad
+1682,Ensamblar marco,34,Sí,Media,Pintar
+1683,Ensamblar marco,42,No,Baja,Ajuste frenos
+1684,Control de calidad,49,Sí,Alta,Instalar ruedas
+1685,Ajuste frenos,37,No,Baja,Control de calidad
+1686,Control de calidad,55,Sí,Media,Ajuste frenos
+1687,Instalar ruedas,25,No,Media,Ensamblar marco
+1688,Ajuste frenos,19,Sí,Alta,Ensamblar marco
+1689,Ajuste frenos,37,Sí,Alta,Pintar
+1690,Ensamblar marco,22,Sí,Media,Ensamblar marco
+1691,Control de calidad,19,No,Media,Ensamblar marco
+1692,Ajuste frenos,32,No,Baja,Pintar
+1693,Ajuste frenos,41,Sí,Alta,Control de calidad
+1694,Ajuste frenos,51,No,Alta,Control de calidad
+1695,Pintar,55,Sí,Media,Pintar
+1696,Instalar ruedas,49,No,Baja,Ensamblar marco
+1697,Ajuste frenos,50,No,Baja,Ajuste frenos
+1698,Control de calidad,23,Sí,Baja,Ajuste frenos
+1699,Ensamblar marco,31,No,Alta,Control de calidad
+1700,Control de calidad,48,Sí,Alta,Ajuste frenos
+1701,Ensamblar marco,24,No,Media,Pintar
+1702,Pintar,43,Sí,Baja,Ajuste frenos
+1703,Ensamblar marco,55,No,Alta,Control de calidad
+1704,Ajuste frenos,16,Sí,Media,Ensamblar marco
+1705,Control de calidad,43,Sí,Alta,Ajuste frenos
+1706,Control de calidad,44,Sí,Media,Ajuste frenos
+1707,Pintar,52,No,Baja,Ajuste frenos
+1708,Pintar,41,Sí,Baja,Pintar
+1709,Ajuste frenos,25,No,Baja,Pintar
+1710,Ajuste frenos,40,No,Baja,Ajuste frenos
+1711,Ensamblar marco,20,Sí,Baja,Ensamblar marco
+1712,Control de calidad,54,No,Media,Ensamblar marco
+1713,Ajuste frenos,56,Sí,Media,Control de calidad
+1714,Ensamblar marco,36,No,Media,Ajuste frenos
+1715,Ensamblar marco,17,No,Baja,Pintar
+1716,Instalar ruedas,12,Sí,Alta,Ensamblar marco
+1717,Ensamblar marco,33,Sí,Media,Ajuste frenos
+1718,Instalar ruedas,55,No,Alta,Ajuste frenos
+1719,Pintar,46,Sí,Media,Instalar ruedas
+1720,Pintar,37,Sí,Alta,Ajuste frenos
+1721,Control de calidad,35,Sí,Alta,Control de calidad
+1722,Instalar ruedas,46,Sí,Baja,Pintar
+1723,Ensamblar marco,49,No,Baja,Pintar
+1724,Instalar ruedas,43,Sí,Media,Ajuste frenos
+1725,Pintar,11,Sí,Alta,Ensamblar marco
+1726,Pintar,11,Sí,Baja,Ajuste frenos
+1727,Ensamblar marco,21,Sí,Media,Pintar
+1728,Control de calidad,53,Sí,Baja,Pintar
+1729,Ensamblar marco,54,Sí,Baja,Control de calidad
+1730,Instalar ruedas,16,No,Baja,Ajuste frenos
+1731,Instalar ruedas,43,Sí,Baja,Ensamblar marco
+1732,Ajuste frenos,56,No,Media,Instalar ruedas
+1733,Instalar ruedas,24,No,Media,Instalar ruedas
+1734,Instalar ruedas,23,No,Alta,Control de calidad
+1735,Ensamblar marco,20,Sí,Alta,Control de calidad
+1736,Ajuste frenos,44,No,Alta,Control de calidad
+1737,Ajuste frenos,55,No,Media,Instalar ruedas
+1738,Control de calidad,54,No,Media,Pintar
+1739,Ajuste frenos,59,No,Media,Control de calidad
+1740,Ajuste frenos,38,No,Alta,Ensamblar marco
+1741,Ensamblar marco,27,Sí,Media,Ajuste frenos
+1742,Instalar ruedas,58,Sí,Alta,Ajuste frenos
+1743,Pintar,43,Sí,Baja,Instalar ruedas
+1744,Ajuste frenos,43,Sí,Alta,Ensamblar marco
+1745,Control de calidad,51,Sí,Media,Instalar ruedas
+1746,Instalar ruedas,46,No,Baja,Instalar ruedas
+1747,Instalar ruedas,11,Sí,Baja,Control de calidad
+1748,Instalar ruedas,58,Sí,Baja,Ajuste frenos
+1749,Control de calidad,22,Sí,Baja,Instalar ruedas
+1750,Instalar ruedas,22,Sí,Alta,Instalar ruedas
+1751,Control de calidad,34,Sí,Alta,Instalar ruedas
+1752,Ensamblar marco,59,Sí,Media,Instalar ruedas
+1753,Instalar ruedas,23,Sí,Alta,Ensamblar marco
+1754,Control de calidad,21,Sí,Media,Control de calidad
+1755,Control de calidad,22,No,Media,Pintar
+1756,Instalar ruedas,35,Sí,Alta,Ensamblar marco
+1757,Control de calidad,18,No,Media,Instalar ruedas
+1758,Control de calidad,51,Sí,Alta,Pintar
+1759,Pintar,44,Sí,Media,Instalar ruedas
+1760,Pintar,17,No,Alta,Ajuste frenos
+1761,Ensamblar marco,22,No,Alta,Ensamblar marco
+1762,Control de calidad,56,No,Alta,Pintar
+1763,Instalar ruedas,50,Sí,Alta,Pintar
+1764,Control de calidad,20,No,Baja,Ajuste frenos
+1765,Pintar,15,No,Media,Ensamblar marco
+1766,Control de calidad,11,Sí,Alta,Pintar
+1767,Ajuste frenos,57,Sí,Media,Control de calidad
+1768,Ensamblar marco,50,No,Media,Ensamblar marco
+1769,Control de calidad,30,Sí,Media,Ajuste frenos
+1770,Control de calidad,14,No,Media,Ajuste frenos
+1771,Pintar,31,No,Media,Ajuste frenos
+1772,Ajuste frenos,41,Sí,Baja,Ajuste frenos
+1773,Instalar ruedas,28,Sí,Alta,Ajuste frenos
+1774,Ensamblar marco,24,No,Alta,Instalar ruedas
+1775,Ensamblar marco,48,Sí,Baja,Ajuste frenos
+1776,Ajuste frenos,22,No,Alta,Pintar
+1777,Pintar,14,No,Media,Control de calidad
+1778,Ensamblar marco,43,Sí,Baja,Control de calidad
+1779,Ajuste frenos,19,Sí,Baja,Pintar
+1780,Pintar,53,No,Alta,Control de calidad
+1781,Instalar ruedas,28,No,Baja,Ajuste frenos
+1782,Ajuste frenos,50,No,Media,Control de calidad
+1783,Instalar ruedas,56,No,Baja,Ajuste frenos
+1784,Pintar,12,Sí,Alta,Control de calidad
+1785,Ensamblar marco,17,No,Media,Ajuste frenos
+1786,Ajuste frenos,15,Sí,Media,Ajuste frenos
+1787,Ajuste frenos,21,No,Baja,Control de calidad
+1788,Control de calidad,45,Sí,Baja,Instalar ruedas
+1789,Ajuste frenos,44,Sí,Baja,Ensamblar marco
+1790,Ensamblar marco,20,No,Media,Ensamblar marco
+1791,Pintar,39,Sí,Alta,Pintar
+1792,Ajuste frenos,10,No,Baja,Instalar ruedas
+1793,Ensamblar marco,30,No,Media,Pintar
+1794,Instalar ruedas,44,Sí,Alta,Ajuste frenos
+1795,Pintar,56,No,Alta,Control de calidad
+1796,Pintar,48,No,Media,Instalar ruedas
+1797,Ajuste frenos,23,Sí,Media,Ensamblar marco
+1798,Ensamblar marco,38,No,Alta,Ajuste frenos
+1799,Pintar,43,No,Baja,Instalar ruedas
+1800,Instalar ruedas,11,Sí,Media,Ajuste frenos
+1801,Pintar,39,Sí,Media,Pintar
+1802,Control de calidad,40,No,Baja,Instalar ruedas
+1803,Ajuste frenos,37,Sí,Alta,Ensamblar marco
+1804,Pintar,31,No,Media,Instalar ruedas
+1805,Instalar ruedas,28,Sí,Media,Ajuste frenos
+1806,Pintar,35,No,Alta,Pintar
+1807,Ensamblar marco,54,Sí,Baja,Pintar
+1808,Instalar ruedas,22,No,Baja,Ensamblar marco
+1809,Control de calidad,25,No,Baja,Pintar
+1810,Control de calidad,44,No,Media,Ensamblar marco
+1811,Ensamblar marco,20,No,Media,Ensamblar marco
+1812,Instalar ruedas,17,Sí,Media,Control de calidad
+1813,Ensamblar marco,19,Sí,Baja,Pintar
+1814,Pintar,26,Sí,Alta,Instalar ruedas
+1815,Ajuste frenos,43,Sí,Baja,Pintar
+1816,Ensamblar marco,33,No,Alta,Ajuste frenos
+1817,Instalar ruedas,45,No,Baja,Control de calidad
+1818,Instalar ruedas,23,No,Baja,Pintar
+1819,Instalar ruedas,53,Sí,Baja,Instalar ruedas
+1820,Pintar,38,No,Media,Control de calidad
+1821,Ensamblar marco,17,No,Media,Instalar ruedas
+1822,Pintar,27,Sí,Media,Instalar ruedas
+1823,Ensamblar marco,34,Sí,Baja,Pintar
+1824,Pintar,31,No,Alta,Pintar
+1825,Instalar ruedas,33,Sí,Media,Ensamblar marco
+1826,Ensamblar marco,30,No,Media,Control de calidad
+1827,Pintar,38,Sí,Media,Pintar
+1828,Instalar ruedas,23,No,Media,Instalar ruedas
+1829,Control de calidad,37,No,Baja,Pintar
+1830,Instalar ruedas,20,No,Baja,Ajuste frenos
+1831,Ensamblar marco,50,Sí,Media,Control de calidad
+1832,Pintar,41,Sí,Media,Ensamblar marco
+1833,Pintar,55,Sí,Alta,Ensamblar marco
+1834,Control de calidad,41,Sí,Alta,Ensamblar marco
+1835,Control de calidad,50,No,Baja,Instalar ruedas
+1836,Ajuste frenos,10,Sí,Baja,Pintar
+1837,Control de calidad,52,No,Alta,Control de calidad
+1838,Instalar ruedas,36,No,Media,Instalar ruedas
+1839,Pintar,58,No,Media,Instalar ruedas
+1840,Ensamblar marco,11,Sí,Baja,Control de calidad
+1841,Ensamblar marco,18,Sí,Baja,Control de calidad
+1842,Pintar,17,Sí,Alta,Pintar
+1843,Pintar,22,Sí,Media,Ensamblar marco
+1844,Control de calidad,58,Sí,Alta,Pintar
+1845,Ajuste frenos,51,No,Alta,Pintar
+1846,Pintar,14,Sí,Media,Pintar
+1847,Pintar,14,No,Baja,Ajuste frenos
+1848,Ajuste frenos,14,Sí,Baja,Ensamblar marco
+1849,Pintar,39,No,Baja,Instalar ruedas
+1850,Control de calidad,37,No,Baja,Control de calidad
+1851,Pintar,35,No,Baja,Ajuste frenos
+1852,Pintar,58,No,Media,Ajuste frenos
+1853,Control de calidad,42,No,Alta,Control de calidad
+1854,Ajuste frenos,39,Sí,Alta,Instalar ruedas
+1855,Ensamblar marco,43,No,Media,Control de calidad
+1856,Ajuste frenos,57,No,Baja,Pintar
+1857,Instalar ruedas,38,Sí,Alta,Instalar ruedas
+1858,Instalar ruedas,37,No,Alta,Ajuste frenos
+1859,Instalar ruedas,10,No,Media,Ajuste frenos
+1860,Control de calidad,21,No,Baja,Ensamblar marco
+1861,Control de calidad,39,Sí,Alta,Ajuste frenos
+1862,Control de calidad,49,Sí,Alta,Ensamblar marco
+1863,Instalar ruedas,12,No,Baja,Ensamblar marco
+1864,Ensamblar marco,34,Sí,Baja,Ensamblar marco
+1865,Instalar ruedas,46,Sí,Baja,Ensamblar marco
+1866,Ajuste frenos,20,No,Media,Ajuste frenos
+1867,Ensamblar marco,32,No,Baja,Control de calidad
+1868,Control de calidad,49,No,Baja,Ajuste frenos
+1869,Control de calidad,36,No,Alta,Instalar ruedas
+1870,Ensamblar marco,13,No,Baja,Instalar ruedas
+1871,Pintar,53,Sí,Baja,Control de calidad
+1872,Pintar,24,No,Baja,Instalar ruedas
+1873,Instalar ruedas,25,No,Media,Control de calidad
+1874,Instalar ruedas,30,Sí,Baja,Ensamblar marco
+1875,Pintar,48,No,Media,Pintar
+1876,Ensamblar marco,46,No,Alta,Ensamblar marco
+1877,Pintar,21,No,Media,Control de calidad
+1878,Instalar ruedas,56,No,Baja,Pintar
+1879,Ajuste frenos,32,No,Baja,Ensamblar marco
+1880,Ensamblar marco,12,Sí,Alta,Pintar
+1881,Control de calidad,32,No,Baja,Ensamblar marco
+1882,Control de calidad,35,No,Media,Pintar
+1883,Instalar ruedas,30,Sí,Media,Instalar ruedas
+1884,Ensamblar marco,52,No,Alta,Instalar ruedas
+1885,Ensamblar marco,36,No,Alta,Pintar
+1886,Pintar,36,Sí,Alta,Instalar ruedas
+1887,Pintar,25,No,Media,Ensamblar marco
+1888,Control de calidad,46,Sí,Media,Control de calidad
+1889,Ensamblar marco,23,No,Media,Instalar ruedas
+1890,Ajuste frenos,39,No,Alta,Ensamblar marco
+1891,Ajuste frenos,13,No,Media,Control de calidad
+1892,Control de calidad,49,Sí,Baja,Ensamblar marco
+1893,Ajuste frenos,48,No,Baja,Pintar
+1894,Ajuste frenos,16,No,Baja,Ensamblar marco
+1895,Ajuste frenos,14,No,Baja,Instalar ruedas
+1896,Ajuste frenos,21,Sí,Alta,Instalar ruedas
+1897,Instalar ruedas,21,No,Baja,Ensamblar marco
+1898,Instalar ruedas,51,Sí,Media,Control de calidad
+1899,Pintar,26,Sí,Baja,Instalar ruedas
+1900,Instalar ruedas,27,Sí,Alta,Ajuste frenos
+1901,Pintar,38,No,Baja,Control de calidad
+1902,Ajuste frenos,42,Sí,Baja,Pintar
+1903,Ensamblar marco,25,No,Baja,Control de calidad
+1904,Ensamblar marco,52,No,Media,Ajuste frenos
+1905,Ensamblar marco,29,No,Alta,Pintar
+1906,Pintar,35,No,Media,Ensamblar marco
+1907,Pintar,23,No,Baja,Instalar ruedas
+1908,Ensamblar marco,46,No,Alta,Ajuste frenos
+1909,Instalar ruedas,13,No,Baja,Ensamblar marco
+1910,Control de calidad,59,Sí,Media,Instalar ruedas
+1911,Ensamblar marco,10,Sí,Media,Ajuste frenos
+1912,Instalar ruedas,20,No,Media,Pintar
+1913,Pintar,30,Sí,Alta,Instalar ruedas
+1914,Control de calidad,54,Sí,Baja,Pintar
+1915,Pintar,28,No,Alta,Instalar ruedas
+1916,Pintar,13,Sí,Baja,Control de calidad
+1917,Instalar ruedas,27,No,Baja,Instalar ruedas
+1918,Ensamblar marco,39,No,Media,Ensamblar marco
+1919,Ajuste frenos,46,No,Media,Control de calidad
+1920,Instalar ruedas,51,Sí,Alta,Pintar
+1921,Ensamblar marco,27,No,Baja,Ajuste frenos
+1922,Ajuste frenos,11,No,Baja,Ajuste frenos
+1923,Ensamblar marco,18,No,Alta,Pintar
+1924,Control de calidad,29,No,Media,Control de calidad
+1925,Pintar,47,No,Media,Ajuste frenos
+1926,Ensamblar marco,51,Sí,Baja,Instalar ruedas
+1927,Pintar,40,Sí,Alta,Ajuste frenos
+1928,Instalar ruedas,48,Sí,Alta,Control de calidad
+1929,Ensamblar marco,49,No,Baja,Control de calidad
+1930,Instalar ruedas,37,No,Alta,Control de calidad
+1931,Ensamblar marco,17,No,Baja,Control de calidad
+1932,Ensamblar marco,41,No,Media,Pintar
+1933,Control de calidad,31,No,Baja,Ensamblar marco
+1934,Pintar,56,No,Alta,Pintar
+1935,Ajuste frenos,59,Sí,Baja,Ensamblar marco
+1936,Pintar,15,No,Media,Instalar ruedas
+1937,Instalar ruedas,44,No,Media,Ensamblar marco
+1938,Ensamblar marco,21,Sí,Baja,Pintar
+1939,Ajuste frenos,12,Sí,Alta,Ajuste frenos
+1940,Ajuste frenos,47,Sí,Baja,Instalar ruedas
+1941,Control de calidad,58,Sí,Baja,Ensamblar marco
+1942,Ensamblar marco,55,No,Media,Control de calidad
+1943,Ensamblar marco,44,No,Media,Pintar
+1944,Ensamblar marco,17,Sí,Alta,Instalar ruedas
+1945,Instalar ruedas,58,No,Alta,Instalar ruedas
+1946,Ajuste frenos,41,No,Media,Control de calidad
+1947,Instalar ruedas,27,Sí,Media,Pintar
+1948,Control de calidad,22,Sí,Alta,Pintar
+1949,Ajuste frenos,55,No,Media,Ensamblar marco
+1950,Ajuste frenos,36,Sí,Alta,Control de calidad
+1951,Ajuste frenos,36,No,Alta,Pintar
+1952,Control de calidad,44,No,Baja,Pintar
+1953,Ajuste frenos,59,Sí,Media,Ensamblar marco
+1954,Ajuste frenos,30,Sí,Media,Instalar ruedas
+1955,Ensamblar marco,51,No,Alta,Ajuste frenos
+1956,Pintar,17,Sí,Baja,Ajuste frenos
+1957,Instalar ruedas,19,Sí,Baja,Instalar ruedas
+1958,Control de calidad,36,Sí,Alta,Pintar
+1959,Pintar,32,No,Baja,Instalar ruedas
+1960,Control de calidad,33,No,Alta,Ensamblar marco
+1961,Pintar,36,Sí,Media,Pintar
+1962,Control de calidad,56,No,Media,Control de calidad
+1963,Control de calidad,51,Sí,Media,Ajuste frenos
+1964,Control de calidad,43,Sí,Baja,Instalar ruedas
+1965,Ajuste frenos,59,Sí,Alta,Control de calidad
+1966,Ensamblar marco,48,Sí,Baja,Instalar ruedas
+1967,Control de calidad,50,Sí,Media,Pintar
+1968,Ensamblar marco,51,Sí,Baja,Instalar ruedas
+1969,Ensamblar marco,13,No,Media,Pintar
+1970,Control de calidad,12,No,Alta,Instalar ruedas
+1971,Ajuste frenos,41,Sí,Baja,Control de calidad
+1972,Ajuste frenos,19,No,Alta,Ajuste frenos
+1973,Control de calidad,15,Sí,Media,Ensamblar marco
+1974,Pintar,46,Sí,Media,Ajuste frenos
+1975,Control de calidad,27,No,Baja,Instalar ruedas
+1976,Ajuste frenos,23,Sí,Baja,Instalar ruedas
+1977,Instalar ruedas,22,No,Alta,Ajuste frenos
+1978,Pintar,48,Sí,Baja,Instalar ruedas
+1979,Ajuste frenos,37,Sí,Alta,Control de calidad
+1980,Control de calidad,43,Sí,Baja,Control de calidad
+1981,Instalar ruedas,13,Sí,Alta,Instalar ruedas
+1982,Pintar,55,No,Baja,Control de calidad
+1983,Ajuste frenos,56,Sí,Alta,Pintar
+1984,Instalar ruedas,32,No,Baja,Ajuste frenos
+1985,Control de calidad,23,Sí,Baja,Ajuste frenos
+1986,Instalar ruedas,31,No,Alta,Pintar
+1987,Ensamblar marco,22,No,Baja,Ensamblar marco
+1988,Ajuste frenos,57,No,Baja,Ensamblar marco
+1989,Control de calidad,35,No,Alta,Ensamblar marco
+1990,Instalar ruedas,15,Sí,Baja,Ensamblar marco
+1991,Pintar,30,Sí,Baja,Ensamblar marco
+1992,Instalar ruedas,52,Sí,Media,Pintar
+1993,Control de calidad,47,Sí,Baja,Pintar
+1994,Pintar,17,No,Media,Instalar ruedas
+1995,Ajuste frenos,37,No,Media,Ensamblar marco
+1996,Ensamblar marco,52,Sí,Alta,Pintar
+1997,Pintar,17,No,Media,Ensamblar marco
+1998,Ensamblar marco,17,Sí,Media,Instalar ruedas
+1999,Ajuste frenos,22,No,Alta,Instalar ruedas
+2000,Ajuste frenos,44,No,Media,Control de calidad
+2001,Ajuste frenos,27,No,Alta,Pintar
+2002,Ajuste frenos,30,No,Alta,Ajuste frenos
+2003,Instalar ruedas,18,Sí,Alta,Pintar
+2004,Control de calidad,29,Sí,Media,Instalar ruedas
+2005,Control de calidad,43,Sí,Alta,Ensamblar marco
+2006,Ensamblar marco,56,No,Alta,Pintar
+2007,Instalar ruedas,34,Sí,Media,Control de calidad
+2008,Ensamblar marco,15,No,Media,Ensamblar marco
+2009,Control de calidad,25,No,Media,Instalar ruedas
+2010,Instalar ruedas,14,Sí,Media,Ensamblar marco
+2011,Pintar,46,Sí,Baja,Ensamblar marco
+2012,Instalar ruedas,53,Sí,Alta,Ensamblar marco
+2013,Ajuste frenos,40,No,Baja,Ensamblar marco
+2014,Pintar,39,No,Baja,Ensamblar marco
+2015,Pintar,58,Sí,Baja,Control de calidad
+2016,Ajuste frenos,19,Sí,Alta,Control de calidad
+2017,Ajuste frenos,35,Sí,Baja,Ensamblar marco
+2018,Instalar ruedas,37,Sí,Alta,Instalar ruedas
+2019,Ensamblar marco,47,No,Media,Control de calidad
+2020,Ajuste frenos,35,No,Alta,Pintar
+2021,Ajuste frenos,36,No,Alta,Pintar
+2022,Instalar ruedas,20,Sí,Alta,Instalar ruedas
+2023,Ajuste frenos,26,Sí,Alta,Control de calidad
+2024,Instalar ruedas,27,Sí,Alta,Control de calidad
+2025,Ensamblar marco,38,Sí,Alta,Control de calidad
+2026,Pintar,50,Sí,Baja,Ajuste frenos
+2027,Control de calidad,19,No,Media,Instalar ruedas
+2028,Ensamblar marco,47,Sí,Baja,Instalar ruedas
+2029,Ajuste frenos,33,Sí,Alta,Instalar ruedas
+2030,Pintar,51,Sí,Alta,Ensamblar marco
+2031,Ensamblar marco,17,No,Baja,Ajuste frenos
+2032,Ensamblar marco,16,Sí,Baja,Instalar ruedas
+2033,Instalar ruedas,28,Sí,Alta,Control de calidad
+2034,Ajuste frenos,56,No,Alta,Instalar ruedas
+2035,Instalar ruedas,32,No,Baja,Pintar
+2036,Ajuste frenos,39,No,Alta,Ajuste frenos
+2037,Pintar,28,No,Alta,Ensamblar marco
+2038,Ajuste frenos,51,No,Media,Instalar ruedas
+2039,Pintar,28,Sí,Media,Instalar ruedas
+2040,Pintar,29,Sí,Alta,Control de calidad
+2041,Ajuste frenos,43,Sí,Baja,Ajuste frenos
+2042,Control de calidad,48,Sí,Media,Pintar
+2043,Instalar ruedas,27,Sí,Baja,Pintar
+2044,Ensamblar marco,41,Sí,Media,Ensamblar marco
+2045,Pintar,32,No,Media,Pintar
+2046,Ajuste frenos,43,Sí,Baja,Instalar ruedas
+2047,Ajuste frenos,55,No,Media,Control de calidad
+2048,Instalar ruedas,42,Sí,Baja,Control de calidad
+2049,Instalar ruedas,13,Sí,Alta,Ajuste frenos
+2050,Ensamblar marco,16,Sí,Media,Ajuste frenos
+2051,Instalar ruedas,48,No,Baja,Ajuste frenos
+2052,Ensamblar marco,50,No,Media,Ensamblar marco
+2053,Ajuste frenos,47,Sí,Baja,Pintar
+2054,Control de calidad,33,No,Media,Ajuste frenos
+2055,Ensamblar marco,34,No,Alta,Instalar ruedas
+2056,Pintar,21,No,Baja,Instalar ruedas
+2057,Ajuste frenos,46,No,Media,Ensamblar marco
+2058,Ajuste frenos,30,Sí,Baja,Control de calidad
+2059,Ensamblar marco,40,Sí,Baja,Ajuste frenos
+2060,Instalar ruedas,50,No,Media,Pintar
+2061,Instalar ruedas,50,Sí,Media,Ensamblar marco
+2062,Ajuste frenos,25,Sí,Media,Control de calidad
+2063,Instalar ruedas,44,No,Alta,Ajuste frenos
+2064,Pintar,48,Sí,Media,Ajuste frenos
+2065,Ensamblar marco,28,No,Baja,Ajuste frenos
+2066,Control de calidad,21,Sí,Media,Pintar
+2067,Control de calidad,10,Sí,Alta,Ajuste frenos
+2068,Instalar ruedas,46,Sí,Media,Instalar ruedas
+2069,Ajuste frenos,39,Sí,Baja,Instalar ruedas
+2070,Instalar ruedas,49,No,Baja,Ajuste frenos
+2071,Ajuste frenos,56,Sí,Media,Ensamblar marco
+2072,Ensamblar marco,31,Sí,Media,Pintar
+2073,Instalar ruedas,46,No,Baja,Pintar
+2074,Control de calidad,58,No,Baja,Ensamblar marco
+2075,Instalar ruedas,10,Sí,Media,Instalar ruedas
+2076,Control de calidad,51,No,Media,Instalar ruedas
+2077,Ajuste frenos,22,Sí,Media,Ajuste frenos
+2078,Pintar,38,No,Alta,Pintar
+2079,Pintar,42,No,Media,Pintar
+2080,Ajuste frenos,37,Sí,Media,Ajuste frenos
+2081,Pintar,37,Sí,Media,Ajuste frenos
+2082,Pintar,51,No,Alta,Ensamblar marco
+2083,Control de calidad,34,No,Alta,Pintar
+2084,Control de calidad,49,Sí,Media,Ensamblar marco
+2085,Instalar ruedas,13,Sí,Alta,Control de calidad
+2086,Pintar,20,No,Baja,Control de calidad
+2087,Ensamblar marco,57,No,Media,Control de calidad
+2088,Instalar ruedas,19,No,Baja,Instalar ruedas
+2089,Pintar,12,Sí,Alta,Pintar
+2090,Pintar,41,Sí,Alta,Control de calidad
+2091,Ensamblar marco,42,Sí,Baja,Control de calidad
+2092,Ensamblar marco,20,No,Media,Control de calidad
+2093,Instalar ruedas,47,Sí,Baja,Control de calidad
+2094,Instalar ruedas,15,Sí,Baja,Pintar
+2095,Ensamblar marco,28,No,Alta,Ajuste frenos
+2096,Pintar,31,Sí,Alta,Instalar ruedas
+2097,Pintar,12,Sí,Baja,Ajuste frenos
+2098,Ajuste frenos,53,No,Baja,Ajuste frenos
+2099,Instalar ruedas,46,No,Media,Control de calidad
+2100,Instalar ruedas,10,No,Media,Instalar ruedas
+2101,Instalar ruedas,34,Sí,Media,Ensamblar marco
+2102,Ajuste frenos,25,Sí,Alta,Instalar ruedas
+2103,Pintar,18,Sí,Alta,Ajuste frenos
+2104,Ajuste frenos,36,Sí,Media,Pintar
+2105,Ensamblar marco,19,No,Alta,Control de calidad
+2106,Ajuste frenos,29,Sí,Media,Ensamblar marco
+2107,Pintar,32,Sí,Media,Ajuste frenos
+2108,Ajuste frenos,31,Sí,Alta,Instalar ruedas
+2109,Ajuste frenos,38,No,Alta,Instalar ruedas
+2110,Ajuste frenos,46,No,Baja,Control de calidad
+2111,Pintar,16,Sí,Baja,Ajuste frenos
+2112,Ensamblar marco,46,No,Baja,Instalar ruedas
+2113,Instalar ruedas,52,Sí,Baja,Control de calidad
+2114,Ajuste frenos,44,No,Alta,Control de calidad
+2115,Pintar,46,No,Media,Pintar
+2116,Ajuste frenos,54,Sí,Baja,Instalar ruedas
+2117,Instalar ruedas,47,Sí,Baja,Instalar ruedas
+2118,Ajuste frenos,51,Sí,Media,Control de calidad
+2119,Ajuste frenos,51,Sí,Baja,Ensamblar marco
+2120,Control de calidad,47,Sí,Baja,Ajuste frenos
+2121,Pintar,21,No,Alta,Pintar
+2122,Ajuste frenos,20,Sí,Baja,Pintar
+2123,Instalar ruedas,25,Sí,Alta,Control de calidad
+2124,Pintar,10,No,Alta,Pintar
+2125,Instalar ruedas,50,No,Alta,Ajuste frenos
+2126,Instalar ruedas,31,No,Baja,Instalar ruedas
+2127,Control de calidad,11,Sí,Baja,Control de calidad
+2128,Ajuste frenos,19,No,Media,Instalar ruedas
+2129,Pintar,38,Sí,Alta,Ajuste frenos
+2130,Ajuste frenos,29,No,Baja,Pintar
+2131,Control de calidad,52,No,Media,Ensamblar marco
+2132,Ajuste frenos,36,No,Media,Ensamblar marco
+2133,Ensamblar marco,25,No,Baja,Ajuste frenos
+2134,Control de calidad,30,Sí,Baja,Ensamblar marco
+2135,Ensamblar marco,17,No,Media,Pintar
+2136,Control de calidad,29,No,Alta,Ensamblar marco
+2137,Ensamblar marco,20,No,Baja,Pintar
+2138,Control de calidad,39,No,Baja,Ensamblar marco
+2139,Control de calidad,55,Sí,Alta,Instalar ruedas
+2140,Control de calidad,50,Sí,Alta,Control de calidad
+2141,Instalar ruedas,15,Sí,Alta,Ensamblar marco
+2142,Pintar,13,Sí,Media,Pintar
+2143,Pintar,20,No,Alta,Pintar
+2144,Instalar ruedas,44,Sí,Media,Pintar
+2145,Pintar,46,No,Alta,Control de calidad
+2146,Control de calidad,29,No,Media,Ajuste frenos
+2147,Pintar,28,No,Alta,Pintar
+2148,Ajuste frenos,19,No,Alta,Instalar ruedas
+2149,Pintar,12,No,Media,Control de calidad
+2150,Control de calidad,34,Sí,Baja,Ensamblar marco
+2151,Pintar,25,No,Media,Control de calidad
+2152,Ensamblar marco,19,Sí,Alta,Instalar ruedas
+2153,Ajuste frenos,54,Sí,Alta,Instalar ruedas
+2154,Pintar,46,Sí,Baja,Pintar
+2155,Ensamblar marco,14,No,Alta,Ajuste frenos
+2156,Instalar ruedas,47,Sí,Baja,Pintar
+2157,Ensamblar marco,35,Sí,Media,Ensamblar marco
+2158,Ajuste frenos,59,Sí,Media,Ensamblar marco
+2159,Ajuste frenos,12,No,Baja,Pintar
+2160,Control de calidad,15,Sí,Baja,Ajuste frenos
+2161,Pintar,45,No,Media,Instalar ruedas
+2162,Instalar ruedas,32,No,Baja,Pintar
+2163,Instalar ruedas,20,Sí,Alta,Ajuste frenos
+2164,Instalar ruedas,40,No,Baja,Ensamblar marco
+2165,Ajuste frenos,15,No,Baja,Instalar ruedas
+2166,Ajuste frenos,21,Sí,Alta,Instalar ruedas
+2167,Ajuste frenos,37,Sí,Media,Ensamblar marco
+2168,Ajuste frenos,48,Sí,Baja,Instalar ruedas
+2169,Ajuste frenos,50,Sí,Media,Ensamblar marco
+2170,Ensamblar marco,10,Sí,Baja,Pintar
+2171,Instalar ruedas,52,Sí,Baja,Control de calidad
+2172,Ensamblar marco,31,Sí,Baja,Pintar
+2173,Control de calidad,26,No,Baja,Instalar ruedas
+2174,Ensamblar marco,37,Sí,Baja,Pintar
+2175,Instalar ruedas,15,Sí,Baja,Ensamblar marco
+2176,Pintar,21,Sí,Alta,Instalar ruedas
+2177,Ensamblar marco,55,No,Baja,Ajuste frenos
+2178,Instalar ruedas,35,Sí,Media,Ensamblar marco
+2179,Ajuste frenos,59,Sí,Alta,Ensamblar marco
+2180,Instalar ruedas,36,No,Media,Ajuste frenos
+2181,Ajuste frenos,59,No,Baja,Instalar ruedas
+2182,Instalar ruedas,57,Sí,Media,Ensamblar marco
+2183,Pintar,25,Sí,Alta,Pintar
+2184,Ensamblar marco,33,Sí,Media,Control de calidad
+2185,Instalar ruedas,44,No,Baja,Ajuste frenos
+2186,Instalar ruedas,56,Sí,Media,Instalar ruedas
+2187,Ensamblar marco,54,Sí,Alta,Instalar ruedas
+2188,Control de calidad,23,No,Alta,Pintar
+2189,Ajuste frenos,39,Sí,Alta,Pintar
+2190,Ensamblar marco,34,Sí,Baja,Instalar ruedas
+2191,Instalar ruedas,48,Sí,Alta,Ajuste frenos
+2192,Pintar,32,Sí,Media,Pintar
+2193,Control de calidad,36,Sí,Baja,Ajuste frenos
+2194,Instalar ruedas,28,Sí,Baja,Instalar ruedas
+2195,Ajuste frenos,34,No,Baja,Ajuste frenos
+2196,Instalar ruedas,14,Sí,Alta,Control de calidad
+2197,Instalar ruedas,39,Sí,Media,Pintar
+2198,Control de calidad,24,Sí,Media,Ensamblar marco
+2199,Ajuste frenos,50,Sí,Alta,Instalar ruedas
+2200,Pintar,51,Sí,Baja,Pintar
+2201,Ensamblar marco,45,Sí,Media,Control de calidad
+2202,Control de calidad,17,No,Alta,Ajuste frenos
+2203,Control de calidad,42,Sí,Baja,Ajuste frenos
+2204,Control de calidad,36,Sí,Alta,Ajuste frenos
+2205,Ensamblar marco,31,Sí,Media,Ajuste frenos
+2206,Instalar ruedas,26,No,Media,Ajuste frenos
+2207,Pintar,42,No,Alta,Control de calidad
+2208,Control de calidad,28,Sí,Alta,Ensamblar marco
+2209,Pintar,17,No,Media,Ajuste frenos
+2210,Instalar ruedas,47,Sí,Baja,Control de calidad
+2211,Instalar ruedas,27,No,Baja,Ensamblar marco
+2212,Pintar,15,Sí,Alta,Instalar ruedas
+2213,Control de calidad,10,No,Baja,Instalar ruedas
+2214,Ajuste frenos,51,No,Media,Ajuste frenos
+2215,Instalar ruedas,43,Sí,Baja,Instalar ruedas
+2216,Instalar ruedas,53,Sí,Alta,Ensamblar marco
+2217,Ensamblar marco,53,No,Alta,Ajuste frenos
+2218,Ensamblar marco,20,No,Media,Ensamblar marco
+2219,Ajuste frenos,42,Sí,Baja,Ensamblar marco
+2220,Instalar ruedas,12,Sí,Alta,Ajuste frenos
+2221,Control de calidad,18,Sí,Baja,Control de calidad
+2222,Control de calidad,40,No,Alta,Ajuste frenos
+2223,Pintar,39,Sí,Media,Pintar
+2224,Control de calidad,25,Sí,Alta,Ajuste frenos
+2225,Ajuste frenos,30,Sí,Baja,Instalar ruedas
+2226,Ensamblar marco,34,No,Baja,Ensamblar marco
+2227,Control de calidad,39,Sí,Baja,Control de calidad
+2228,Ajuste frenos,11,Sí,Baja,Instalar ruedas
+2229,Pintar,47,Sí,Alta,Ensamblar marco
+2230,Control de calidad,31,Sí,Alta,Pintar
+2231,Ensamblar marco,25,Sí,Media,Ensamblar marco
+2232,Ajuste frenos,57,No,Baja,Pintar
+2233,Instalar ruedas,38,No,Alta,Control de calidad
+2234,Ajuste frenos,31,Sí,Alta,Ensamblar marco
+2235,Ensamblar marco,35,Sí,Alta,Pintar
+2236,Pintar,20,Sí,Media,Instalar ruedas
+2237,Pintar,31,Sí,Baja,Ajuste frenos
+2238,Ajuste frenos,27,No,Baja,Ensamblar marco
+2239,Pintar,41,No,Alta,Ensamblar marco
+2240,Ajuste frenos,25,Sí,Media,Ensamblar marco
+2241,Control de calidad,31,Sí,Alta,Control de calidad
+2242,Ajuste frenos,54,Sí,Alta,Pintar
+2243,Ensamblar marco,34,No,Baja,Ajuste frenos
+2244,Control de calidad,17,No,Media,Ajuste frenos
+2245,Ensamblar marco,29,Sí,Alta,Ensamblar marco
+2246,Ajuste frenos,35,No,Media,Instalar ruedas
+2247,Pintar,14,No,Baja,Ajuste frenos
+2248,Control de calidad,22,No,Alta,Ajuste frenos
+2249,Pintar,27,Sí,Alta,Ajuste frenos
+2250,Ensamblar marco,50,No,Alta,Ensamblar marco
+2251,Ajuste frenos,15,Sí,Alta,Pintar
+2252,Ensamblar marco,52,No,Baja,Ensamblar marco
+2253,Pintar,52,Sí,Baja,Ajuste frenos
+2254,Control de calidad,30,No,Alta,Ajuste frenos
+2255,Control de calidad,53,No,Alta,Pintar
+2256,Instalar ruedas,44,No,Alta,Ensamblar marco
+2257,Pintar,31,No,Baja,Instalar ruedas
+2258,Ensamblar marco,53,Sí,Media,Instalar ruedas
+2259,Instalar ruedas,40,No,Alta,Instalar ruedas
+2260,Instalar ruedas,53,Sí,Media,Ajuste frenos
+2261,Control de calidad,25,No,Media,Ajuste frenos
+2262,Ajuste frenos,29,Sí,Media,Pintar
+2263,Ajuste frenos,50,No,Baja,Pintar
+2264,Ajuste frenos,23,No,Media,Instalar ruedas
+2265,Ensamblar marco,10,No,Alta,Pintar
+2266,Control de calidad,10,No,Alta,Instalar ruedas
+2267,Ensamblar marco,31,No,Media,Ajuste frenos
+2268,Pintar,53,No,Baja,Instalar ruedas
+2269,Ajuste frenos,50,Sí,Alta,Instalar ruedas
+2270,Instalar ruedas,49,Sí,Baja,Instalar ruedas
+2271,Pintar,51,No,Alta,Control de calidad
+2272,Control de calidad,10,Sí,Baja,Instalar ruedas
+2273,Ajuste frenos,32,Sí,Media,Pintar
+2274,Instalar ruedas,57,No,Alta,Ajuste frenos
+2275,Pintar,31,No,Alta,Instalar ruedas
+2276,Instalar ruedas,35,No,Baja,Instalar ruedas
+2277,Instalar ruedas,21,Sí,Baja,Control de calidad
+2278,Control de calidad,55,Sí,Media,Ensamblar marco
+2279,Ensamblar marco,37,No,Media,Instalar ruedas
+2280,Pintar,47,No,Alta,Ensamblar marco
+2281,Ajuste frenos,31,Sí,Alta,Pintar
+2282,Control de calidad,43,Sí,Alta,Ajuste frenos
+2283,Ajuste frenos,49,No,Media,Pintar
+2284,Pintar,17,No,Baja,Ajuste frenos
+2285,Pintar,53,No,Baja,Pintar
+2286,Ajuste frenos,37,Sí,Media,Control de calidad
+2287,Ajuste frenos,42,No,Media,Instalar ruedas
+2288,Pintar,51,No,Media,Ensamblar marco
+2289,Control de calidad,55,No,Baja,Ajuste frenos
+2290,Instalar ruedas,28,Sí,Alta,Control de calidad
+2291,Control de calidad,21,No,Media,Ensamblar marco
+2292,Pintar,24,Sí,Alta,Ajuste frenos
+2293,Instalar ruedas,59,Sí,Baja,Ajuste frenos
+2294,Control de calidad,23,Sí,Media,Ajuste frenos
+2295,Control de calidad,56,No,Baja,Control de calidad
+2296,Ajuste frenos,24,Sí,Baja,Instalar ruedas
+2297,Control de calidad,44,Sí,Baja,Control de calidad
+2298,Control de calidad,55,No,Alta,Control de calidad
+2299,Pintar,11,Sí,Alta,Control de calidad
+2300,Instalar ruedas,16,Sí,Alta,Instalar ruedas
+2301,Ajuste frenos,18,No,Media,Pintar
+2302,Ajuste frenos,47,No,Alta,Ajuste frenos
+2303,Ensamblar marco,49,Sí,Baja,Ajuste frenos
+2304,Ensamblar marco,21,Sí,Media,Instalar ruedas
+2305,Ajuste frenos,35,Sí,Baja,Ensamblar marco
+2306,Pintar,26,Sí,Media,Control de calidad
+2307,Ajuste frenos,37,No,Media,Pintar
+2308,Ensamblar marco,20,No,Alta,Instalar ruedas
+2309,Ajuste frenos,13,Sí,Baja,Ajuste frenos
+2310,Ensamblar marco,35,Sí,Alta,Control de calidad
+2311,Control de calidad,59,Sí,Alta,Ajuste frenos
+2312,Control de calidad,11,No,Media,Ensamblar marco
+2313,Control de calidad,57,No,Media,Ensamblar marco
+2314,Instalar ruedas,10,Sí,Media,Instalar ruedas
+2315,Control de calidad,22,Sí,Media,Pintar
+2316,Pintar,11,Sí,Media,Control de calidad
+2317,Pintar,18,No,Alta,Ensamblar marco
+2318,Control de calidad,24,Sí,Alta,Ensamblar marco
+2319,Pintar,10,Sí,Media,Ajuste frenos
+2320,Ensamblar marco,10,No,Alta,Instalar ruedas
+2321,Control de calidad,21,No,Baja,Pintar
+2322,Ajuste frenos,33,Sí,Alta,Pintar
+2323,Pintar,54,Sí,Alta,Pintar
+2324,Pintar,21,Sí,Media,Instalar ruedas
+2325,Instalar ruedas,12,Sí,Baja,Ajuste frenos
+2326,Instalar ruedas,13,Sí,Media,Ajuste frenos
+2327,Ajuste frenos,28,Sí,Alta,Instalar ruedas
+2328,Control de calidad,59,No,Media,Control de calidad
+2329,Instalar ruedas,20,Sí,Media,Ensamblar marco
+2330,Ensamblar marco,35,Sí,Alta,Instalar ruedas
+2331,Instalar ruedas,33,No,Baja,Instalar ruedas
+2332,Ensamblar marco,53,No,Alta,Instalar ruedas
+2333,Control de calidad,25,Sí,Media,Ensamblar marco
+2334,Pintar,12,Sí,Media,Instalar ruedas
+2335,Ajuste frenos,50,No,Alta,Instalar ruedas
+2336,Instalar ruedas,56,No,Baja,Pintar
+2337,Ajuste frenos,44,Sí,Media,Instalar ruedas
+2338,Ensamblar marco,42,No,Alta,Control de calidad
+2339,Ensamblar marco,25,Sí,Baja,Ajuste frenos
+2340,Pintar,10,Sí,Baja,Ajuste frenos
+2341,Pintar,22,No,Baja,Ajuste frenos
+2342,Ensamblar marco,47,Sí,Media,Ensamblar marco
+2343,Ajuste frenos,28,No,Alta,Control de calidad
+2344,Ajuste frenos,46,Sí,Media,Ensamblar marco
+2345,Ajuste frenos,29,Sí,Alta,Control de calidad
+2346,Ajuste frenos,54,No,Baja,Control de calidad
+2347,Ensamblar marco,34,Sí,Alta,Control de calidad
+2348,Pintar,31,No,Alta,Ensamblar marco
+2349,Ensamblar marco,25,No,Baja,Instalar ruedas
+2350,Instalar ruedas,57,No,Alta,Control de calidad
+2351,Control de calidad,41,Sí,Alta,Instalar ruedas
+2352,Ajuste frenos,33,Sí,Alta,Ensamblar marco
+2353,Control de calidad,53,Sí,Alta,Ajuste frenos
+2354,Instalar ruedas,35,No,Baja,Ajuste frenos
+2355,Ensamblar marco,11,No,Baja,Pintar
+2356,Ensamblar marco,44,Sí,Alta,Control de calidad
+2357,Ajuste frenos,47,Sí,Alta,Instalar ruedas
+2358,Ajuste frenos,10,Sí,Baja,Control de calidad
+2359,Pintar,25,No,Media,Ajuste frenos
+2360,Ensamblar marco,11,No,Alta,Ensamblar marco
+2361,Instalar ruedas,16,Sí,Baja,Ensamblar marco
+2362,Pintar,30,Sí,Baja,Control de calidad
+2363,Ajuste frenos,41,Sí,Alta,Ajuste frenos
+2364,Pintar,36,No,Baja,Ajuste frenos
+2365,Pintar,16,Sí,Baja,Control de calidad
+2366,Control de calidad,41,Sí,Baja,Control de calidad
+2367,Ensamblar marco,19,No,Baja,Pintar
+2368,Pintar,19,Sí,Baja,Control de calidad
+2369,Ensamblar marco,24,No,Alta,Pintar
+2370,Pintar,48,Sí,Media,Ensamblar marco
+2371,Pintar,51,Sí,Baja,Instalar ruedas
+2372,Ajuste frenos,15,Sí,Alta,Control de calidad
+2373,Ensamblar marco,22,No,Baja,Ajuste frenos
+2374,Ensamblar marco,14,Sí,Alta,Pintar
+2375,Pintar,54,No,Alta,Ajuste frenos
+2376,Control de calidad,37,Sí,Baja,Ajuste frenos
+2377,Instalar ruedas,33,No,Alta,Control de calidad
+2378,Ensamblar marco,39,Sí,Alta,Control de calidad
+2379,Ajuste frenos,34,Sí,Media,Ensamblar marco
+2380,Pintar,58,No,Media,Control de calidad
+2381,Ajuste frenos,33,Sí,Media,Ajuste frenos
+2382,Control de calidad,33,No,Media,Ajuste frenos
+2383,Control de calidad,23,No,Alta,Control de calidad
+2384,Ensamblar marco,28,Sí,Media,Ensamblar marco
+2385,Ensamblar marco,46,Sí,Media,Instalar ruedas
+2386,Control de calidad,52,Sí,Baja,Pintar
+2387,Control de calidad,33,Sí,Alta,Instalar ruedas
+2388,Instalar ruedas,42,Sí,Alta,Ensamblar marco
+2389,Ajuste frenos,24,Sí,Media,Ajuste frenos
+2390,Ajuste frenos,48,No,Media,Instalar ruedas
+2391,Instalar ruedas,23,No,Baja,Control de calidad
+2392,Ajuste frenos,41,Sí,Alta,Pintar
+2393,Ajuste frenos,31,Sí,Media,Pintar
+2394,Pintar,58,Sí,Media,Instalar ruedas
+2395,Ensamblar marco,48,No,Media,Pintar
+2396,Instalar ruedas,53,No,Media,Instalar ruedas
+2397,Ensamblar marco,43,No,Media,Control de calidad
+2398,Ajuste frenos,51,Sí,Media,Ensamblar marco
+2399,Control de calidad,10,Sí,Alta,Control de calidad
+2400,Ajuste frenos,27,Sí,Media,Pintar
+2401,Control de calidad,34,No,Baja,Instalar ruedas
+2402,Ensamblar marco,18,No,Baja,Control de calidad
+2403,Pintar,50,No,Baja,Ensamblar marco
+2404,Ensamblar marco,14,No,Media,Control de calidad
+2405,Control de calidad,55,No,Media,Control de calidad
+2406,Control de calidad,17,No,Baja,Control de calidad
+2407,Instalar ruedas,40,No,Baja,Instalar ruedas
+2408,Instalar ruedas,21,Sí,Media,Instalar ruedas
+2409,Control de calidad,35,No,Baja,Pintar
+2410,Pintar,52,Sí,Alta,Pintar
+2411,Instalar ruedas,29,Sí,Media,Pintar
+2412,Instalar ruedas,33,No,Alta,Instalar ruedas
+2413,Pintar,55,No,Baja,Pintar
+2414,Pintar,16,Sí,Baja,Ajuste frenos
+2415,Control de calidad,31,Sí,Media,Ajuste frenos
+2416,Ensamblar marco,56,No,Alta,Ajuste frenos
+2417,Control de calidad,18,Sí,Baja,Control de calidad
+2418,Ensamblar marco,53,Sí,Media,Instalar ruedas
+2419,Pintar,44,No,Alta,Control de calidad
+2420,Ajuste frenos,27,No,Media,Pintar
+2421,Instalar ruedas,47,No,Media,Ajuste frenos
+2422,Ajuste frenos,30,Sí,Baja,Pintar
+2423,Ensamblar marco,57,Sí,Baja,Control de calidad
+2424,Ensamblar marco,55,Sí,Media,Instalar ruedas
+2425,Instalar ruedas,46,Sí,Baja,Instalar ruedas
+2426,Ajuste frenos,46,No,Alta,Ajuste frenos
+2427,Ensamblar marco,42,Sí,Baja,Ajuste frenos
+2428,Ajuste frenos,50,Sí,Alta,Ajuste frenos
+2429,Pintar,46,No,Alta,Instalar ruedas
+2430,Ensamblar marco,29,No,Baja,Instalar ruedas
+2431,Instalar ruedas,56,No,Baja,Control de calidad
+2432,Ajuste frenos,31,Sí,Baja,Control de calidad
+2433,Pintar,23,No,Alta,Ajuste frenos
+2434,Ajuste frenos,19,Sí,Media,Control de calidad
+2435,Ensamblar marco,59,Sí,Baja,Ajuste frenos
+2436,Ensamblar marco,36,No,Media,Pintar
+2437,Pintar,54,Sí,Alta,Control de calidad
+2438,Pintar,26,No,Media,Ajuste frenos
+2439,Control de calidad,19,No,Media,Ensamblar marco
+2440,Control de calidad,57,Sí,Baja,Control de calidad
+2441,Instalar ruedas,41,Sí,Alta,Control de calidad
+2442,Control de calidad,39,Sí,Media,Instalar ruedas
+2443,Ensamblar marco,52,No,Baja,Control de calidad
+2444,Pintar,59,No,Alta,Ensamblar marco
+2445,Instalar ruedas,46,No,Alta,Ensamblar marco
+2446,Control de calidad,20,No,Media,Ajuste frenos
+2447,Ajuste frenos,15,Sí,Alta,Ensamblar marco
+2448,Control de calidad,55,No,Alta,Control de calidad
+2449,Instalar ruedas,36,Sí,Baja,Instalar ruedas
+2450,Ensamblar marco,51,No,Media,Control de calidad
+2451,Pintar,48,No,Baja,Ajuste frenos
+2452,Ensamblar marco,49,No,Baja,Ajuste frenos
+2453,Instalar ruedas,51,Sí,Baja,Pintar
+2454,Control de calidad,21,No,Media,Ensamblar marco
+2455,Ensamblar marco,37,Sí,Baja,Pintar
+2456,Instalar ruedas,29,Sí,Alta,Ensamblar marco
+2457,Ajuste frenos,36,Sí,Media,Instalar ruedas
+2458,Control de calidad,24,No,Baja,Control de calidad
+2459,Ensamblar marco,17,No,Media,Control de calidad
+2460,Control de calidad,14,Sí,Alta,Ensamblar marco
+2461,Instalar ruedas,50,Sí,Alta,Ajuste frenos
+2462,Instalar ruedas,36,No,Media,Ajuste frenos
+2463,Ensamblar marco,26,No,Baja,Pintar
+2464,Pintar,20,No,Media,Control de calidad
+2465,Instalar ruedas,43,No,Baja,Ensamblar marco
+2466,Pintar,26,No,Baja,Control de calidad
+2467,Ensamblar marco,47,No,Alta,Instalar ruedas
+2468,Ajuste frenos,39,No,Baja,Ensamblar marco
+2469,Instalar ruedas,49,Sí,Alta,Control de calidad
+2470,Control de calidad,34,Sí,Alta,Ajuste frenos
+2471,Pintar,10,No,Media,Control de calidad
+2472,Control de calidad,32,No,Baja,Pintar
+2473,Ensamblar marco,12,Sí,Baja,Control de calidad
+2474,Ensamblar marco,43,No,Media,Instalar ruedas
+2475,Ensamblar marco,12,No,Baja,Control de calidad
+2476,Pintar,21,No,Media,Control de calidad
+2477,Control de calidad,56,No,Baja,Instalar ruedas
+2478,Ajuste frenos,40,Sí,Baja,Control de calidad
+2479,Ensamblar marco,24,Sí,Alta,Pintar
+2480,Ensamblar marco,29,No,Alta,Control de calidad
+2481,Ensamblar marco,57,Sí,Alta,Instalar ruedas
+2482,Instalar ruedas,23,No,Media,Instalar ruedas
+2483,Control de calidad,35,Sí,Media,Ajuste frenos
+2484,Control de calidad,48,Sí,Media,Ensamblar marco
+2485,Pintar,48,Sí,Media,Ajuste frenos
+2486,Instalar ruedas,41,No,Alta,Control de calidad
+2487,Ajuste frenos,15,No,Media,Instalar ruedas
+2488,Control de calidad,17,Sí,Media,Instalar ruedas
+2489,Pintar,31,No,Alta,Instalar ruedas
+2490,Ajuste frenos,16,No,Media,Ensamblar marco
+2491,Ajuste frenos,56,Sí,Alta,Ajuste frenos
+2492,Pintar,38,No,Alta,Instalar ruedas
+2493,Ajuste frenos,51,Sí,Media,Instalar ruedas
+2494,Pintar,27,Sí,Baja,Ensamblar marco
+2495,Control de calidad,24,No,Baja,Pintar
+2496,Instalar ruedas,50,No,Baja,Instalar ruedas
+2497,Ensamblar marco,53,No,Media,Control de calidad
+2498,Pintar,56,No,Alta,Instalar ruedas
+2499,Pintar,39,No,Media,Instalar ruedas
+2500,Ensamblar marco,27,No,Alta,Ajuste frenos
+2501,Ensamblar marco,12,Sí,Alta,Pintar
+2502,Pintar,53,Sí,Media,Ajuste frenos
+2503,Ensamblar marco,34,Sí,Alta,Control de calidad
+2504,Instalar ruedas,22,Sí,Media,Ajuste frenos
+2505,Ajuste frenos,37,Sí,Alta,Pintar
+2506,Instalar ruedas,45,No,Media,Instalar ruedas
+2507,Ensamblar marco,21,Sí,Alta,Instalar ruedas
+2508,Pintar,42,No,Baja,Instalar ruedas
+2509,Instalar ruedas,26,Sí,Alta,Pintar
+2510,Instalar ruedas,46,No,Media,Instalar ruedas
+2511,Control de calidad,27,No,Media,Instalar ruedas
+2512,Ensamblar marco,35,No,Baja,Ensamblar marco
+2513,Control de calidad,22,Sí,Media,Control de calidad
+2514,Pintar,55,No,Alta,Control de calidad
+2515,Control de calidad,52,No,Alta,Ajuste frenos
+2516,Ajuste frenos,24,No,Alta,Pintar
+2517,Control de calidad,48,No,Baja,Instalar ruedas
+2518,Control de calidad,51,Sí,Media,Instalar ruedas
+2519,Ajuste frenos,35,Sí,Alta,Instalar ruedas
+2520,Instalar ruedas,30,No,Baja,Ensamblar marco
+2521,Control de calidad,14,No,Alta,Ensamblar marco
+2522,Control de calidad,41,Sí,Media,Ajuste frenos
+2523,Pintar,37,Sí,Alta,Pintar
+2524,Instalar ruedas,51,Sí,Baja,Instalar ruedas
+2525,Control de calidad,53,Sí,Media,Pintar
+2526,Control de calidad,48,Sí,Baja,Control de calidad
+2527,Instalar ruedas,26,Sí,Baja,Ajuste frenos
+2528,Ensamblar marco,41,Sí,Media,Instalar ruedas
+2529,Control de calidad,40,No,Media,Control de calidad
+2530,Ensamblar marco,49,Sí,Alta,Control de calidad
+2531,Ajuste frenos,25,No,Media,Ajuste frenos
+2532,Ajuste frenos,42,Sí,Alta,Ajuste frenos
+2533,Ensamblar marco,11,No,Media,Ajuste frenos
+2534,Control de calidad,50,No,Media,Ajuste frenos
+2535,Ensamblar marco,39,Sí,Alta,Pintar
+2536,Ensamblar marco,39,No,Media,Ajuste frenos
+2537,Ensamblar marco,23,No,Media,Pintar
+2538,Control de calidad,10,Sí,Alta,Ensamblar marco
+2539,Ajuste frenos,24,Sí,Baja,Ajuste frenos
+2540,Instalar ruedas,45,Sí,Media,Instalar ruedas
+2541,Instalar ruedas,16,No,Media,Pintar
+2542,Control de calidad,34,Sí,Media,Ensamblar marco
+2543,Pintar,36,Sí,Media,Pintar
+2544,Ensamblar marco,18,Sí,Alta,Pintar
+2545,Pintar,24,Sí,Media,Control de calidad
+2546,Instalar ruedas,15,No,Baja,Instalar ruedas
+2547,Control de calidad,51,No,Baja,Pintar
+2548,Control de calidad,21,No,Alta,Instalar ruedas
+2549,Ensamblar marco,21,Sí,Baja,Control de calidad
+2550,Control de calidad,36,Sí,Baja,Control de calidad
+2551,Control de calidad,56,Sí,Media,Ajuste frenos
+2552,Ajuste frenos,42,Sí,Alta,Control de calidad
+2553,Ajuste frenos,11,Sí,Alta,Pintar
+2554,Ensamblar marco,15,No,Baja,Ensamblar marco
+2555,Instalar ruedas,24,Sí,Alta,Pintar
+2556,Instalar ruedas,36,Sí,Alta,Control de calidad
+2557,Ajuste frenos,12,No,Baja,Ensamblar marco
+2558,Ajuste frenos,42,Sí,Media,Control de calidad
+2559,Ensamblar marco,40,Sí,Media,Instalar ruedas
+2560,Pintar,48,No,Media,Ensamblar marco
+2561,Instalar ruedas,14,No,Baja,Ajuste frenos
+2562,Control de calidad,12,No,Baja,Instalar ruedas
+2563,Control de calidad,11,Sí,Media,Instalar ruedas
+2564,Instalar ruedas,57,No,Media,Pintar
+2565,Pintar,17,Sí,Baja,Control de calidad
+2566,Pintar,25,No,Alta,Control de calidad
+2567,Pintar,32,Sí,Baja,Control de calidad
+2568,Instalar ruedas,28,No,Alta,Pintar
+2569,Pintar,57,No,Baja,Control de calidad
+2570,Ensamblar marco,40,Sí,Media,Ajuste frenos
+2571,Pintar,39,Sí,Alta,Ensamblar marco
+2572,Pintar,29,Sí,Media,Ensamblar marco
+2573,Control de calidad,15,No,Alta,Ensamblar marco
+2574,Pintar,50,No,Media,Control de calidad
+2575,Ensamblar marco,24,No,Media,Ensamblar marco
+2576,Instalar ruedas,20,No,Baja,Ensamblar marco
+2577,Ajuste frenos,12,Sí,Media,Instalar ruedas
+2578,Instalar ruedas,55,No,Media,Control de calidad
+2579,Ensamblar marco,39,Sí,Media,Ajuste frenos
+2580,Pintar,44,Sí,Alta,Instalar ruedas
+2581,Instalar ruedas,16,Sí,Alta,Instalar ruedas
+2582,Ajuste frenos,56,No,Baja,Instalar ruedas
+2583,Ensamblar marco,48,No,Media,Instalar ruedas
+2584,Ensamblar marco,11,Sí,Alta,Instalar ruedas
+2585,Ensamblar marco,12,Sí,Baja,Control de calidad
+2586,Control de calidad,25,No,Alta,Instalar ruedas
+2587,Ajuste frenos,33,No,Alta,Pintar
+2588,Pintar,43,No,Alta,Control de calidad
+2589,Pintar,57,Sí,Media,Ajuste frenos
+2590,Pintar,12,No,Media,Instalar ruedas
+2591,Control de calidad,12,No,Baja,Pintar
+2592,Control de calidad,46,No,Baja,Ajuste frenos
+2593,Ajuste frenos,12,Sí,Baja,Instalar ruedas
+2594,Ensamblar marco,20,No,Alta,Pintar
+2595,Pintar,45,Sí,Alta,Pintar
+2596,Pintar,16,No,Baja,Ajuste frenos
+2597,Ajuste frenos,10,Sí,Baja,Pintar
+2598,Ensamblar marco,42,Sí,Media,Pintar
+2599,Ajuste frenos,22,Sí,Alta,Pintar
+2600,Control de calidad,51,Sí,Baja,Ensamblar marco
+2601,Ensamblar marco,52,No,Media,Pintar
+2602,Instalar ruedas,13,No,Baja,Instalar ruedas
+2603,Control de calidad,19,Sí,Alta,Ensamblar marco
+2604,Control de calidad,52,No,Media,Instalar ruedas
+2605,Pintar,37,No,Baja,Instalar ruedas
+2606,Instalar ruedas,55,No,Baja,Control de calidad
+2607,Ajuste frenos,41,Sí,Media,Ajuste frenos
+2608,Ajuste frenos,52,No,Media,Pintar
+2609,Ensamblar marco,13,No,Media,Control de calidad
+2610,Control de calidad,41,No,Media,Pintar
+2611,Pintar,51,No,Media,Pintar
+2612,Instalar ruedas,16,No,Baja,Control de calidad
+2613,Pintar,57,Sí,Alta,Instalar ruedas
+2614,Pintar,31,Sí,Baja,Control de calidad
+2615,Ensamblar marco,22,Sí,Alta,Ensamblar marco
+2616,Pintar,15,Sí,Media,Pintar
+2617,Pintar,12,Sí,Media,Ajuste frenos
+2618,Ensamblar marco,37,Sí,Media,Control de calidad
+2619,Ensamblar marco,30,No,Baja,Instalar ruedas
+2620,Control de calidad,45,No,Alta,Pintar
+2621,Control de calidad,25,Sí,Baja,Ensamblar marco
+2622,Ajuste frenos,40,No,Baja,Ajuste frenos
+2623,Ensamblar marco,49,No,Media,Ensamblar marco
+2624,Ajuste frenos,51,No,Baja,Ajuste frenos
+2625,Control de calidad,55,Sí,Media,Instalar ruedas
+2626,Control de calidad,19,Sí,Alta,Pintar
+2627,Instalar ruedas,33,Sí,Alta,Control de calidad
+2628,Instalar ruedas,32,Sí,Media,Instalar ruedas
+2629,Ensamblar marco,46,Sí,Media,Control de calidad
+2630,Instalar ruedas,26,No,Alta,Control de calidad
+2631,Ensamblar marco,52,Sí,Alta,Instalar ruedas
+2632,Ajuste frenos,12,No,Alta,Ensamblar marco
+2633,Ajuste frenos,29,No,Baja,Ajuste frenos
+2634,Instalar ruedas,55,No,Baja,Ajuste frenos
+2635,Ensamblar marco,10,Sí,Baja,Instalar ruedas
+2636,Instalar ruedas,58,No,Alta,Pintar
+2637,Instalar ruedas,20,No,Baja,Pintar
+2638,Control de calidad,57,No,Media,Control de calidad
+2639,Ensamblar marco,31,No,Baja,Ensamblar marco
+2640,Instalar ruedas,50,Sí,Media,Control de calidad
+2641,Pintar,58,Sí,Alta,Ajuste frenos
+2642,Ensamblar marco,28,No,Baja,Instalar ruedas
+2643,Ajuste frenos,55,Sí,Baja,Ensamblar marco
+2644,Ensamblar marco,51,No,Alta,Control de calidad
+2645,Instalar ruedas,17,No,Baja,Pintar
+2646,Control de calidad,53,No,Media,Control de calidad
+2647,Control de calidad,24,No,Baja,Pintar
+2648,Ensamblar marco,31,No,Alta,Control de calidad
+2649,Instalar ruedas,52,Sí,Alta,Control de calidad
+2650,Control de calidad,51,Sí,Alta,Pintar
+2651,Ajuste frenos,36,No,Media,Pintar
+2652,Pintar,12,No,Media,Instalar ruedas
+2653,Instalar ruedas,19,Sí,Baja,Control de calidad
+2654,Ensamblar marco,14,No,Media,Control de calidad
+2655,Ensamblar marco,52,Sí,Baja,Instalar ruedas
+2656,Ajuste frenos,27,Sí,Alta,Ajuste frenos
+2657,Ajuste frenos,30,Sí,Alta,Ensamblar marco
+2658,Ensamblar marco,19,No,Baja,Ajuste frenos
+2659,Pintar,23,No,Alta,Ajuste frenos
+2660,Ensamblar marco,17,No,Baja,Ajuste frenos
+2661,Instalar ruedas,36,Sí,Baja,Pintar
+2662,Pintar,14,No,Media,Instalar ruedas
+2663,Control de calidad,24,Sí,Baja,Ajuste frenos
+2664,Ajuste frenos,27,No,Media,Ajuste frenos
+2665,Ajuste frenos,37,No,Alta,Pintar
+2666,Instalar ruedas,22,No,Media,Instalar ruedas
+2667,Instalar ruedas,32,No,Alta,Ensamblar marco
+2668,Control de calidad,27,No,Media,Ensamblar marco
+2669,Ajuste frenos,11,Sí,Media,Ajuste frenos
+2670,Ensamblar marco,54,No,Media,Control de calidad
+2671,Pintar,21,No,Baja,Ajuste frenos
+2672,Pintar,34,No,Alta,Ensamblar marco
+2673,Instalar ruedas,23,Sí,Baja,Control de calidad
+2674,Instalar ruedas,46,Sí,Alta,Instalar ruedas
+2675,Ensamblar marco,12,No,Alta,Pintar
+2676,Ensamblar marco,56,Sí,Alta,Control de calidad
+2677,Ensamblar marco,48,Sí,Baja,Instalar ruedas
+2678,Pintar,38,Sí,Baja,Pintar
+2679,Control de calidad,55,Sí,Baja,Pintar
+2680,Control de calidad,26,No,Media,Instalar ruedas
+2681,Pintar,16,No,Baja,Control de calidad
+2682,Ensamblar marco,50,Sí,Media,Instalar ruedas
+2683,Ajuste frenos,29,Sí,Media,Ajuste frenos
+2684,Instalar ruedas,17,Sí,Baja,Ensamblar marco
+2685,Instalar ruedas,17,No,Media,Ensamblar marco
+2686,Instalar ruedas,41,No,Media,Ensamblar marco
+2687,Instalar ruedas,10,Sí,Baja,Ensamblar marco
+2688,Ensamblar marco,15,No,Baja,Instalar ruedas
+2689,Pintar,11,Sí,Baja,Ajuste frenos
+2690,Pintar,21,Sí,Alta,Pintar
+2691,Instalar ruedas,31,No,Alta,Ensamblar marco
+2692,Ajuste frenos,25,Sí,Media,Ajuste frenos
+2693,Ensamblar marco,26,Sí,Media,Control de calidad
+2694,Control de calidad,32,No,Alta,Control de calidad
+2695,Instalar ruedas,18,No,Alta,Ajuste frenos
+2696,Pintar,24,Sí,Alta,Ensamblar marco
+2697,Control de calidad,36,Sí,Alta,Ajuste frenos
+2698,Ajuste frenos,22,No,Alta,Instalar ruedas
+2699,Instalar ruedas,27,No,Baja,Pintar
+2700,Instalar ruedas,33,Sí,Media,Pintar
+2701,Ensamblar marco,24,Sí,Alta,Pintar
+2702,Ajuste frenos,11,Sí,Baja,Control de calidad
+2703,Pintar,17,Sí,Alta,Ensamblar marco
+2704,Pintar,22,No,Baja,Control de calidad
+2705,Pintar,20,Sí,Baja,Pintar
+2706,Ajuste frenos,31,No,Baja,Instalar ruedas
+2707,Ensamblar marco,51,Sí,Baja,Pintar
+2708,Instalar ruedas,27,No,Media,Pintar
+2709,Ajuste frenos,41,No,Media,Pintar
+2710,Ensamblar marco,46,No,Alta,Control de calidad
+2711,Control de calidad,20,No,Alta,Ajuste frenos
+2712,Ensamblar marco,54,No,Baja,Instalar ruedas
+2713,Instalar ruedas,56,No,Alta,Ajuste frenos
+2714,Ajuste frenos,15,No,Alta,Pintar
+2715,Instalar ruedas,34,No,Baja,Ensamblar marco
+2716,Ensamblar marco,13,No,Media,Ajuste frenos
+2717,Control de calidad,51,No,Alta,Ajuste frenos
+2718,Control de calidad,53,Sí,Alta,Pintar
+2719,Pintar,55,No,Alta,Pintar
+2720,Pintar,29,No,Media,Pintar
+2721,Ensamblar marco,21,Sí,Baja,Instalar ruedas
+2722,Ensamblar marco,12,No,Alta,Pintar
+2723,Control de calidad,24,No,Alta,Ensamblar marco
+2724,Ensamblar marco,10,No,Baja,Ajuste frenos
+2725,Instalar ruedas,49,Sí,Media,Control de calidad
+2726,Pintar,24,No,Media,Pintar
+2727,Pintar,34,Sí,Baja,Ensamblar marco
+2728,Instalar ruedas,46,Sí,Media,Control de calidad
+2729,Ensamblar marco,36,No,Alta,Ajuste frenos
+2730,Control de calidad,29,No,Media,Ensamblar marco
+2731,Pintar,51,Sí,Alta,Ensamblar marco
+2732,Ajuste frenos,38,Sí,Alta,Control de calidad
+2733,Control de calidad,32,Sí,Alta,Instalar ruedas
+2734,Pintar,42,No,Alta,Ajuste frenos
+2735,Ensamblar marco,20,No,Alta,Control de calidad
+2736,Ajuste frenos,18,No,Baja,Ajuste frenos
+2737,Control de calidad,28,No,Alta,Control de calidad
+2738,Ensamblar marco,53,Sí,Baja,Pintar
+2739,Ajuste frenos,19,No,Media,Ajuste frenos
+2740,Control de calidad,13,Sí,Alta,Ensamblar marco
+2741,Ensamblar marco,20,Sí,Alta,Pintar
+2742,Ensamblar marco,23,No,Media,Instalar ruedas
+2743,Pintar,29,No,Baja,Pintar
+2744,Ensamblar marco,40,Sí,Baja,Control de calidad
+2745,Pintar,39,No,Media,Ensamblar marco
+2746,Ajuste frenos,34,No,Baja,Ajuste frenos
+2747,Ajuste frenos,26,Sí,Baja,Ensamblar marco
+2748,Pintar,13,No,Baja,Ajuste frenos
+2749,Ajuste frenos,42,No,Media,Instalar ruedas
+2750,Pintar,23,No,Media,Ajuste frenos
+2751,Ensamblar marco,54,Sí,Alta,Ensamblar marco
+2752,Control de calidad,13,Sí,Baja,Instalar ruedas
+2753,Control de calidad,47,No,Media,Control de calidad
+2754,Control de calidad,30,Sí,Media,Ensamblar marco
+2755,Ensamblar marco,28,No,Baja,Instalar ruedas
+2756,Pintar,32,Sí,Media,Ensamblar marco
+2757,Ajuste frenos,46,Sí,Baja,Ensamblar marco
+2758,Ensamblar marco,56,Sí,Media,Ajuste frenos
+2759,Ensamblar marco,21,Sí,Baja,Ensamblar marco
+2760,Ensamblar marco,39,Sí,Alta,Instalar ruedas
+2761,Pintar,38,No,Baja,Instalar ruedas
+2762,Ensamblar marco,42,Sí,Media,Control de calidad
+2763,Ajuste frenos,16,No,Media,Instalar ruedas
+2764,Pintar,18,Sí,Baja,Ajuste frenos
+2765,Ensamblar marco,26,Sí,Media,Pintar
+2766,Control de calidad,54,Sí,Baja,Control de calidad
+2767,Control de calidad,50,Sí,Alta,Instalar ruedas
+2768,Control de calidad,37,No,Baja,Control de calidad
+2769,Instalar ruedas,43,Sí,Baja,Control de calidad
+2770,Pintar,13,Sí,Media,Ajuste frenos
+2771,Ensamblar marco,39,Sí,Media,Pintar
+2772,Ensamblar marco,52,No,Media,Ensamblar marco
+2773,Ajuste frenos,35,No,Baja,Instalar ruedas
+2774,Instalar ruedas,46,Sí,Alta,Ajuste frenos
+2775,Ajuste frenos,34,No,Media,Control de calidad
+2776,Ensamblar marco,47,Sí,Media,Control de calidad
+2777,Control de calidad,55,No,Baja,Control de calidad
+2778,Instalar ruedas,30,Sí,Baja,Ensamblar marco
+2779,Ajuste frenos,15,No,Media,Control de calidad
+2780,Instalar ruedas,58,No,Alta,Control de calidad
+2781,Instalar ruedas,20,No,Baja,Instalar ruedas
+2782,Pintar,28,No,Alta,Instalar ruedas
+2783,Control de calidad,25,Sí,Baja,Instalar ruedas
+2784,Ensamblar marco,39,No,Media,Ensamblar marco
+2785,Instalar ruedas,53,Sí,Media,Ensamblar marco
+2786,Control de calidad,43,No,Baja,Instalar ruedas
+2787,Pintar,20,No,Baja,Ajuste frenos
+2788,Pintar,21,Sí,Baja,Instalar ruedas
+2789,Pintar,23,Sí,Alta,Instalar ruedas
+2790,Ensamblar marco,42,Sí,Media,Instalar ruedas
+2791,Ensamblar marco,52,Sí,Media,Ensamblar marco
+2792,Pintar,41,No,Media,Pintar
+2793,Ensamblar marco,22,Sí,Baja,Pintar
+2794,Pintar,52,No,Baja,Ensamblar marco
+2795,Control de calidad,53,No,Baja,Ensamblar marco
+2796,Pintar,51,Sí,Baja,Pintar
+2797,Control de calidad,14,Sí,Media,Pintar
+2798,Pintar,46,Sí,Alta,Control de calidad
+2799,Pintar,27,Sí,Baja,Pintar
+2800,Ajuste frenos,13,No,Media,Ajuste frenos
+2801,Pintar,55,No,Baja,Instalar ruedas
+2802,Control de calidad,38,Sí,Media,Instalar ruedas
+2803,Control de calidad,50,No,Alta,Instalar ruedas
+2804,Control de calidad,58,Sí,Alta,Ajuste frenos
+2805,Instalar ruedas,32,No,Media,Control de calidad
+2806,Ajuste frenos,37,No,Media,Instalar ruedas
+2807,Instalar ruedas,32,No,Media,Control de calidad
+2808,Pintar,19,Sí,Media,Ensamblar marco
+2809,Pintar,15,No,Alta,Instalar ruedas
+2810,Control de calidad,29,Sí,Baja,Ajuste frenos
+2811,Control de calidad,41,No,Baja,Instalar ruedas
+2812,Ensamblar marco,51,Sí,Media,Ajuste frenos
+2813,Pintar,47,Sí,Alta,Ensamblar marco
+2814,Control de calidad,49,No,Media,Control de calidad
+2815,Control de calidad,21,Sí,Media,Ensamblar marco
+2816,Pintar,28,No,Alta,Ensamblar marco
+2817,Ensamblar marco,14,Sí,Baja,Control de calidad
+2818,Ajuste frenos,42,No,Baja,Pintar
+2819,Ensamblar marco,44,No,Media,Ensamblar marco
+2820,Ajuste frenos,11,No,Alta,Control de calidad
+2821,Instalar ruedas,49,No,Alta,Ensamblar marco
+2822,Ensamblar marco,53,No,Alta,Ajuste frenos
+2823,Ajuste frenos,50,Sí,Alta,Control de calidad
+2824,Instalar ruedas,21,No,Media,Ensamblar marco
+2825,Instalar ruedas,39,No,Baja,Control de calidad
+2826,Instalar ruedas,55,Sí,Alta,Instalar ruedas
+2827,Instalar ruedas,17,Sí,Alta,Ensamblar marco
+2828,Instalar ruedas,48,Sí,Media,Instalar ruedas
+2829,Pintar,46,No,Baja,Control de calidad
+2830,Ensamblar marco,33,Sí,Baja,Ajuste frenos
+2831,Ensamblar marco,56,No,Baja,Pintar
+2832,Pintar,42,No,Baja,Ajuste frenos
+2833,Control de calidad,15,No,Baja,Instalar ruedas
+2834,Control de calidad,23,Sí,Alta,Ajuste frenos
+2835,Pintar,40,Sí,Alta,Ensamblar marco
+2836,Control de calidad,45,No,Baja,Pintar
+2837,Pintar,26,Sí,Alta,Ajuste frenos
+2838,Control de calidad,47,Sí,Media,Pintar
+2839,Ensamblar marco,39,Sí,Media,Pintar
+2840,Instalar ruedas,15,Sí,Baja,Ajuste frenos
+2841,Ensamblar marco,34,Sí,Alta,Control de calidad
+2842,Pintar,36,No,Media,Instalar ruedas
+2843,Pintar,38,No,Media,Instalar ruedas
+2844,Control de calidad,22,Sí,Alta,Ensamblar marco
+2845,Ajuste frenos,18,No,Baja,Pintar
+2846,Ajuste frenos,57,No,Baja,Ajuste frenos
+2847,Ensamblar marco,27,No,Alta,Ajuste frenos
+2848,Pintar,33,No,Baja,Ajuste frenos
+2849,Pintar,30,Sí,Alta,Pintar
+2850,Ensamblar marco,21,No,Media,Ensamblar marco
+2851,Instalar ruedas,30,No,Alta,Ensamblar marco
+2852,Ensamblar marco,22,Sí,Baja,Ajuste frenos
+2853,Instalar ruedas,14,Sí,Alta,Pintar
+2854,Ensamblar marco,18,Sí,Baja,Ensamblar marco
+2855,Ensamblar marco,34,Sí,Baja,Ajuste frenos
+2856,Instalar ruedas,30,No,Media,Instalar ruedas
+2857,Ajuste frenos,40,No,Baja,Pintar
+2858,Ajuste frenos,45,Sí,Alta,Control de calidad
+2859,Control de calidad,36,Sí,Alta,Ensamblar marco
+2860,Pintar,57,No,Alta,Instalar ruedas
+2861,Ajuste frenos,48,No,Alta,Pintar
+2862,Pintar,12,Sí,Baja,Ajuste frenos
+2863,Instalar ruedas,56,Sí,Media,Control de calidad
+2864,Ensamblar marco,56,Sí,Baja,Pintar
+2865,Ensamblar marco,47,Sí,Baja,Ensamblar marco
+2866,Pintar,54,Sí,Baja,Ajuste frenos
+2867,Ensamblar marco,34,Sí,Baja,Ajuste frenos
+2868,Ajuste frenos,25,Sí,Baja,Pintar
+2869,Ajuste frenos,40,No,Media,Ajuste frenos
+2870,Ensamblar marco,24,No,Alta,Instalar ruedas
+2871,Control de calidad,46,Sí,Baja,Pintar
+2872,Ajuste frenos,28,Sí,Alta,Ensamblar marco
+2873,Pintar,55,Sí,Baja,Pintar
+2874,Pintar,22,No,Media,Instalar ruedas
+2875,Instalar ruedas,52,Sí,Alta,Control de calidad
+2876,Instalar ruedas,54,No,Alta,Ensamblar marco
+2877,Control de calidad,25,Sí,Media,Control de calidad
+2878,Instalar ruedas,45,No,Alta,Control de calidad
+2879,Instalar ruedas,52,No,Alta,Pintar
+2880,Control de calidad,53,No,Baja,Ensamblar marco
+2881,Instalar ruedas,33,No,Baja,Ensamblar marco
+2882,Ensamblar marco,19,Sí,Baja,Instalar ruedas
+2883,Pintar,48,Sí,Media,Ajuste frenos
+2884,Ensamblar marco,42,Sí,Alta,Instalar ruedas
+2885,Instalar ruedas,39,No,Baja,Control de calidad
+2886,Pintar,38,No,Alta,Ajuste frenos
+2887,Pintar,40,No,Alta,Control de calidad
+2888,Ensamblar marco,44,No,Media,Control de calidad
+2889,Ensamblar marco,41,No,Baja,Instalar ruedas
+2890,Ajuste frenos,12,No,Alta,Ajuste frenos
+2891,Ensamblar marco,44,Sí,Baja,Control de calidad
+2892,Control de calidad,47,Sí,Media,Control de calidad
+2893,Ajuste frenos,24,No,Media,Ensamblar marco
+2894,Pintar,58,No,Baja,Instalar ruedas
+2895,Ensamblar marco,51,Sí,Baja,Control de calidad
+2896,Control de calidad,33,Sí,Alta,Ajuste frenos
+2897,Ensamblar marco,28,No,Baja,Ajuste frenos
+2898,Control de calidad,26,No,Alta,Pintar
+2899,Control de calidad,37,Sí,Alta,Pintar
+2900,Ensamblar marco,45,Sí,Alta,Ensamblar marco
+2901,Ensamblar marco,24,No,Baja,Ajuste frenos
+2902,Instalar ruedas,42,Sí,Baja,Ajuste frenos
+2903,Ensamblar marco,58,Sí,Media,Ensamblar marco
+2904,Ajuste frenos,39,Sí,Media,Ensamblar marco
+2905,Instalar ruedas,59,Sí,Baja,Ensamblar marco
+2906,Ensamblar marco,17,No,Alta,Ajuste frenos
+2907,Ajuste frenos,24,No,Alta,Pintar
+2908,Ajuste frenos,50,No,Alta,Instalar ruedas
+2909,Ensamblar marco,38,No,Media,Instalar ruedas
+2910,Control de calidad,21,Sí,Baja,Instalar ruedas
+2911,Ensamblar marco,25,Sí,Alta,Pintar
+2912,Instalar ruedas,57,Sí,Baja,Control de calidad
+2913,Control de calidad,18,Sí,Baja,Ensamblar marco
+2914,Control de calidad,51,No,Alta,Instalar ruedas
+2915,Ajuste frenos,20,Sí,Alta,Ajuste frenos
+2916,Ajuste frenos,18,No,Media,Ensamblar marco
+2917,Instalar ruedas,29,Sí,Baja,Ensamblar marco
+2918,Ajuste frenos,35,No,Alta,Ensamblar marco
+2919,Instalar ruedas,56,No,Alta,Ensamblar marco
+2920,Ajuste frenos,35,No,Baja,Control de calidad
+2921,Ensamblar marco,20,No,Media,Ensamblar marco
+2922,Control de calidad,20,Sí,Alta,Ajuste frenos
+2923,Control de calidad,23,No,Alta,Pintar
+2924,Control de calidad,34,Sí,Alta,Instalar ruedas
+2925,Pintar,33,No,Alta,Control de calidad
+2926,Control de calidad,56,No,Alta,Ensamblar marco
+2927,Pintar,56,Sí,Media,Ensamblar marco
+2928,Instalar ruedas,52,Sí,Baja,Ajuste frenos
+2929,Ajuste frenos,32,Sí,Alta,Control de calidad
+2930,Ensamblar marco,41,No,Media,Instalar ruedas
+2931,Pintar,33,Sí,Media,Control de calidad
+2932,Ensamblar marco,13,No,Baja,Pintar
+2933,Ensamblar marco,24,Sí,Baja,Ensamblar marco
+2934,Ajuste frenos,22,Sí,Baja,Ensamblar marco
+2935,Ensamblar marco,59,No,Baja,Ajuste frenos
+2936,Ensamblar marco,25,Sí,Media,Control de calidad
+2937,Ensamblar marco,56,No,Alta,Pintar
+2938,Ensamblar marco,29,No,Media,Ajuste frenos
+2939,Ensamblar marco,33,No,Media,Ensamblar marco
+2940,Ensamblar marco,41,Sí,Alta,Ajuste frenos
+2941,Instalar ruedas,26,Sí,Media,Ajuste frenos
+2942,Pintar,38,No,Alta,Pintar
+2943,Ensamblar marco,11,Sí,Baja,Control de calidad
+2944,Ensamblar marco,37,Sí,Media,Control de calidad
+2945,Ajuste frenos,32,Sí,Media,Control de calidad
+2946,Pintar,26,Sí,Media,Ajuste frenos
+2947,Ensamblar marco,39,Sí,Baja,Pintar
+2948,Pintar,42,No,Baja,Pintar
+2949,Pintar,59,No,Alta,Ensamblar marco
+2950,Pintar,41,Sí,Alta,Ajuste frenos
+2951,Pintar,53,Sí,Media,Instalar ruedas
+2952,Ensamblar marco,12,No,Alta,Pintar
+2953,Ajuste frenos,14,No,Media,Ajuste frenos
+2954,Pintar,32,No,Media,Control de calidad
+2955,Control de calidad,22,Sí,Alta,Instalar ruedas
+2956,Control de calidad,19,Sí,Alta,Ensamblar marco
+2957,Control de calidad,15,Sí,Alta,Pintar
+2958,Ajuste frenos,37,No,Media,Ajuste frenos
+2959,Instalar ruedas,38,No,Media,Instalar ruedas
+2960,Instalar ruedas,34,Sí,Media,Ensamblar marco
+2961,Control de calidad,30,Sí,Baja,Pintar
+2962,Control de calidad,34,No,Baja,Ensamblar marco
+2963,Pintar,44,Sí,Alta,Instalar ruedas
+2964,Ajuste frenos,46,Sí,Alta,Pintar
+2965,Ajuste frenos,36,Sí,Baja,Ajuste frenos
+2966,Control de calidad,57,Sí,Media,Pintar
+2967,Instalar ruedas,42,No,Alta,Ajuste frenos
+2968,Control de calidad,33,No,Baja,Ensamblar marco
+2969,Instalar ruedas,12,No,Alta,Instalar ruedas
+2970,Ajuste frenos,33,No,Media,Control de calidad
+2971,Ajuste frenos,59,No,Media,Ajuste frenos
+2972,Ajuste frenos,33,No,Baja,Pintar
+2973,Ajuste frenos,28,Sí,Media,Control de calidad
+2974,Ajuste frenos,32,Sí,Alta,Ajuste frenos
+2975,Pintar,34,Sí,Alta,Ensamblar marco
+2976,Instalar ruedas,11,Sí,Alta,Pintar
+2977,Ajuste frenos,14,Sí,Baja,Pintar
+2978,Ensamblar marco,22,Sí,Media,Pintar
+2979,Instalar ruedas,36,No,Baja,Pintar
+2980,Ajuste frenos,42,Sí,Alta,Control de calidad
+2981,Ensamblar marco,13,No,Baja,Pintar
+2982,Pintar,32,Sí,Alta,Ensamblar marco
+2983,Ajuste frenos,34,No,Alta,Ensamblar marco
+2984,Instalar ruedas,47,Sí,Baja,Ajuste frenos
+2985,Instalar ruedas,25,Sí,Alta,Control de calidad
+2986,Control de calidad,50,No,Alta,Pintar
+2987,Ensamblar marco,27,Sí,Baja,Ensamblar marco
+2988,Ajuste frenos,46,No,Alta,Pintar
+2989,Control de calidad,52,No,Alta,Control de calidad
+2990,Instalar ruedas,14,No,Baja,Instalar ruedas
+2991,Ajuste frenos,36,No,Media,Instalar ruedas
+2992,Instalar ruedas,44,No,Baja,Ajuste frenos
+2993,Ajuste frenos,35,No,Baja,Ensamblar marco
+2994,Ensamblar marco,15,No,Baja,Instalar ruedas
+2995,Control de calidad,30,Sí,Baja,Instalar ruedas
+2996,Ensamblar marco,12,No,Baja,Control de calidad
+2997,Control de calidad,51,Sí,Baja,Pintar
+2998,Ensamblar marco,45,Sí,Media,Instalar ruedas
+2999,Pintar,49,Sí,Media,Pintar
+3000,Control de calidad,10,No,Alta,Control de calidad

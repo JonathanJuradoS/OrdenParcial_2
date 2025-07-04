@@ -1,0 +1,3001 @@
+Empleado_ID,Acción,Departamento,Prioridad,Acción_predecesora
+1,Inducción,Operaciones,Media,Firma contrato
+2,Activación cuenta,RRHH,Alta,Capacitación
+3,Inducción,RRHH,Baja,Activación cuenta
+4,Asignación de tareas,Operaciones,Alta,Capacitación
+5,Asignación de tareas,RRHH,Media,Asignación de tareas
+6,Activación cuenta,RRHH,Baja,Capacitación
+7,Capacitación,Operaciones,Alta,Activación cuenta
+8,Asignación de tareas,RRHH,Baja,Asignación de tareas
+9,Asignación de tareas,Comercial,Alta,Asignación de tareas
+10,Capacitación,TI,Media,Asignación de tareas
+11,Capacitación,Operaciones,Alta,Asignación de tareas
+12,Firma contrato,Comercial,Baja,Firma contrato
+13,Activación cuenta,Comercial,Baja,Firma contrato
+14,Activación cuenta,RRHH,Media,Activación cuenta
+15,Activación cuenta,TI,Media,Asignación de tareas
+16,Capacitación,Operaciones,Media,Capacitación
+17,Activación cuenta,Operaciones,Media,Capacitación
+18,Activación cuenta,Operaciones,Alta,Inducción
+19,Capacitación,TI,Media,Capacitación
+20,Capacitación,Comercial,Baja,Activación cuenta
+21,Firma contrato,Comercial,Baja,Asignación de tareas
+22,Inducción,RRHH,Alta,Asignación de tareas
+23,Firma contrato,RRHH,Baja,Capacitación
+24,Asignación de tareas,RRHH,Baja,Asignación de tareas
+25,Firma contrato,Comercial,Media,Firma contrato
+26,Firma contrato,RRHH,Alta,Inducción
+27,Firma contrato,TI,Baja,Firma contrato
+28,Capacitación,Operaciones,Baja,Activación cuenta
+29,Firma contrato,Operaciones,Baja,Firma contrato
+30,Capacitación,Operaciones,Media,Firma contrato
+31,Activación cuenta,TI,Media,Inducción
+32,Firma contrato,Comercial,Baja,Capacitación
+33,Inducción,RRHH,Media,Activación cuenta
+34,Asignación de tareas,Operaciones,Baja,Capacitación
+35,Firma contrato,Comercial,Alta,Capacitación
+36,Firma contrato,Comercial,Alta,Firma contrato
+37,Inducción,Operaciones,Baja,Capacitación
+38,Capacitación,Comercial,Media,Asignación de tareas
+39,Inducción,Comercial,Media,Capacitación
+40,Asignación de tareas,TI,Baja,Inducción
+41,Inducción,RRHH,Baja,Inducción
+42,Inducción,TI,Alta,Inducción
+43,Activación cuenta,TI,Media,Inducción
+44,Firma contrato,Operaciones,Alta,Inducción
+45,Firma contrato,Comercial,Alta,Firma contrato
+46,Inducción,TI,Media,Inducción
+47,Capacitación,Operaciones,Media,Inducción
+48,Inducción,TI,Baja,Asignación de tareas
+49,Inducción,TI,Media,Inducción
+50,Activación cuenta,TI,Media,Asignación de tareas
+51,Asignación de tareas,Operaciones,Alta,Capacitación
+52,Firma contrato,RRHH,Alta,Inducción
+53,Capacitación,TI,Alta,Inducción
+54,Capacitación,Comercial,Baja,Firma contrato
+55,Activación cuenta,Comercial,Baja,Inducción
+56,Activación cuenta,TI,Baja,Capacitación
+57,Capacitación,TI,Baja,Firma contrato
+58,Activación cuenta,Operaciones,Media,Capacitación
+59,Asignación de tareas,RRHH,Baja,Activación cuenta
+60,Activación cuenta,Operaciones,Media,Asignación de tareas
+61,Firma contrato,Comercial,Baja,Inducción
+62,Activación cuenta,Comercial,Baja,Asignación de tareas
+63,Asignación de tareas,TI,Baja,Capacitación
+64,Asignación de tareas,Operaciones,Alta,Asignación de tareas
+65,Firma contrato,Comercial,Alta,Firma contrato
+66,Inducción,RRHH,Baja,Activación cuenta
+67,Activación cuenta,Operaciones,Media,Firma contrato
+68,Asignación de tareas,Operaciones,Baja,Firma contrato
+69,Firma contrato,Operaciones,Media,Capacitación
+70,Capacitación,RRHH,Media,Capacitación
+71,Asignación de tareas,Comercial,Baja,Inducción
+72,Firma contrato,TI,Media,Activación cuenta
+73,Activación cuenta,TI,Media,Asignación de tareas
+74,Firma contrato,RRHH,Media,Capacitación
+75,Inducción,Operaciones,Media,Capacitación
+76,Firma contrato,RRHH,Media,Inducción
+77,Capacitación,RRHH,Alta,Activación cuenta
+78,Inducción,Operaciones,Alta,Asignación de tareas
+79,Activación cuenta,RRHH,Media,Firma contrato
+80,Firma contrato,TI,Alta,Firma contrato
+81,Firma contrato,TI,Baja,Inducción
+82,Asignación de tareas,RRHH,Media,Capacitación
+83,Capacitación,RRHH,Alta,Asignación de tareas
+84,Firma contrato,RRHH,Baja,Asignación de tareas
+85,Activación cuenta,RRHH,Baja,Asignación de tareas
+86,Firma contrato,Comercial,Alta,Capacitación
+87,Asignación de tareas,RRHH,Alta,Capacitación
+88,Firma contrato,TI,Baja,Firma contrato
+89,Capacitación,TI,Alta,Asignación de tareas
+90,Capacitación,Comercial,Baja,Capacitación
+91,Inducción,Comercial,Baja,Firma contrato
+92,Capacitación,Operaciones,Alta,Asignación de tareas
+93,Activación cuenta,RRHH,Media,Firma contrato
+94,Firma contrato,Comercial,Alta,Firma contrato
+95,Inducción,RRHH,Media,Firma contrato
+96,Asignación de tareas,Comercial,Alta,Inducción
+97,Activación cuenta,Comercial,Alta,Asignación de tareas
+98,Capacitación,RRHH,Alta,Firma contrato
+99,Inducción,TI,Media,Inducción
+100,Asignación de tareas,TI,Media,Capacitación
+101,Firma contrato,TI,Media,Firma contrato
+102,Capacitación,Operaciones,Baja,Capacitación
+103,Inducción,TI,Media,Activación cuenta
+104,Firma contrato,TI,Media,Firma contrato
+105,Firma contrato,RRHH,Alta,Activación cuenta
+106,Firma contrato,Operaciones,Baja,Asignación de tareas
+107,Capacitación,Operaciones,Baja,Firma contrato
+108,Firma contrato,Comercial,Alta,Inducción
+109,Asignación de tareas,RRHH,Alta,Inducción
+110,Capacitación,Operaciones,Baja,Firma contrato
+111,Activación cuenta,Comercial,Baja,Asignación de tareas
+112,Firma contrato,RRHH,Alta,Firma contrato
+113,Inducción,TI,Alta,Inducción
+114,Activación cuenta,RRHH,Media,Capacitación
+115,Firma contrato,TI,Media,Inducción
+116,Inducción,Operaciones,Media,Inducción
+117,Capacitación,TI,Alta,Capacitación
+118,Capacitación,RRHH,Media,Inducción
+119,Activación cuenta,Operaciones,Media,Firma contrato
+120,Firma contrato,TI,Baja,Activación cuenta
+121,Capacitación,Comercial,Alta,Inducción
+122,Asignación de tareas,Comercial,Media,Capacitación
+123,Inducción,Operaciones,Media,Firma contrato
+124,Capacitación,TI,Baja,Firma contrato
+125,Inducción,Comercial,Alta,Activación cuenta
+126,Firma contrato,Operaciones,Media,Capacitación
+127,Firma contrato,TI,Baja,Inducción
+128,Asignación de tareas,Operaciones,Media,Asignación de tareas
+129,Firma contrato,Operaciones,Alta,Capacitación
+130,Inducción,Operaciones,Baja,Asignación de tareas
+131,Asignación de tareas,TI,Baja,Activación cuenta
+132,Asignación de tareas,Comercial,Baja,Asignación de tareas
+133,Firma contrato,TI,Baja,Capacitación
+134,Capacitación,Comercial,Media,Asignación de tareas
+135,Asignación de tareas,Comercial,Media,Inducción
+136,Activación cuenta,TI,Baja,Activación cuenta
+137,Capacitación,Comercial,Media,Inducción
+138,Activación cuenta,Comercial,Baja,Inducción
+139,Asignación de tareas,RRHH,Alta,Inducción
+140,Activación cuenta,RRHH,Alta,Activación cuenta
+141,Firma contrato,Comercial,Alta,Activación cuenta
+142,Capacitación,TI,Media,Asignación de tareas
+143,Inducción,RRHH,Media,Capacitación
+144,Inducción,TI,Media,Firma contrato
+145,Inducción,Operaciones,Baja,Firma contrato
+146,Activación cuenta,RRHH,Baja,Inducción
+147,Inducción,Operaciones,Alta,Inducción
+148,Capacitación,RRHH,Media,Firma contrato
+149,Firma contrato,Operaciones,Baja,Capacitación
+150,Asignación de tareas,Operaciones,Media,Inducción
+151,Capacitación,TI,Alta,Asignación de tareas
+152,Asignación de tareas,RRHH,Media,Capacitación
+153,Activación cuenta,RRHH,Baja,Inducción
+154,Activación cuenta,Operaciones,Alta,Inducción
+155,Activación cuenta,Comercial,Media,Inducción
+156,Asignación de tareas,Operaciones,Alta,Firma contrato
+157,Asignación de tareas,Comercial,Baja,Activación cuenta
+158,Asignación de tareas,Comercial,Media,Firma contrato
+159,Inducción,Operaciones,Baja,Firma contrato
+160,Inducción,Comercial,Baja,Asignación de tareas
+161,Activación cuenta,Operaciones,Media,Asignación de tareas
+162,Firma contrato,TI,Alta,Inducción
+163,Capacitación,Operaciones,Media,Inducción
+164,Capacitación,TI,Alta,Capacitación
+165,Firma contrato,TI,Alta,Capacitación
+166,Inducción,Comercial,Alta,Capacitación
+167,Firma contrato,Operaciones,Media,Inducción
+168,Inducción,TI,Media,Activación cuenta
+169,Capacitación,TI,Media,Firma contrato
+170,Asignación de tareas,TI,Baja,Activación cuenta
+171,Inducción,TI,Alta,Activación cuenta
+172,Activación cuenta,TI,Baja,Asignación de tareas
+173,Activación cuenta,Operaciones,Media,Firma contrato
+174,Firma contrato,RRHH,Media,Capacitación
+175,Capacitación,RRHH,Media,Firma contrato
+176,Activación cuenta,Operaciones,Alta,Inducción
+177,Asignación de tareas,TI,Alta,Firma contrato
+178,Inducción,RRHH,Alta,Firma contrato
+179,Firma contrato,TI,Alta,Activación cuenta
+180,Inducción,RRHH,Alta,Capacitación
+181,Capacitación,Comercial,Media,Capacitación
+182,Firma contrato,Comercial,Alta,Firma contrato
+183,Asignación de tareas,TI,Media,Inducción
+184,Inducción,Comercial,Media,Capacitación
+185,Firma contrato,RRHH,Baja,Capacitación
+186,Asignación de tareas,Comercial,Baja,Capacitación
+187,Inducción,TI,Baja,Inducción
+188,Asignación de tareas,RRHH,Baja,Asignación de tareas
+189,Asignación de tareas,TI,Baja,Activación cuenta
+190,Capacitación,TI,Baja,Activación cuenta
+191,Inducción,TI,Media,Capacitación
+192,Capacitación,RRHH,Baja,Firma contrato
+193,Inducción,Operaciones,Media,Capacitación
+194,Firma contrato,TI,Alta,Asignación de tareas
+195,Firma contrato,Operaciones,Media,Firma contrato
+196,Firma contrato,Operaciones,Media,Activación cuenta
+197,Firma contrato,Comercial,Media,Asignación de tareas
+198,Asignación de tareas,RRHH,Media,Capacitación
+199,Firma contrato,RRHH,Alta,Inducción
+200,Asignación de tareas,TI,Media,Activación cuenta
+201,Asignación de tareas,Operaciones,Baja,Firma contrato
+202,Capacitación,TI,Media,Firma contrato
+203,Firma contrato,Operaciones,Alta,Asignación de tareas
+204,Firma contrato,Comercial,Media,Firma contrato
+205,Firma contrato,RRHH,Alta,Inducción
+206,Asignación de tareas,RRHH,Media,Asignación de tareas
+207,Asignación de tareas,RRHH,Alta,Capacitación
+208,Firma contrato,TI,Media,Capacitación
+209,Capacitación,TI,Baja,Firma contrato
+210,Activación cuenta,RRHH,Media,Activación cuenta
+211,Capacitación,Operaciones,Media,Firma contrato
+212,Activación cuenta,Operaciones,Baja,Activación cuenta
+213,Inducción,TI,Alta,Firma contrato
+214,Firma contrato,RRHH,Alta,Inducción
+215,Asignación de tareas,Comercial,Alta,Firma contrato
+216,Asignación de tareas,RRHH,Alta,Capacitación
+217,Inducción,Comercial,Media,Inducción
+218,Firma contrato,Operaciones,Alta,Capacitación
+219,Firma contrato,TI,Alta,Activación cuenta
+220,Activación cuenta,RRHH,Alta,Firma contrato
+221,Firma contrato,TI,Media,Activación cuenta
+222,Activación cuenta,Comercial,Media,Firma contrato
+223,Capacitación,RRHH,Baja,Capacitación
+224,Activación cuenta,Operaciones,Alta,Activación cuenta
+225,Inducción,Comercial,Baja,Inducción
+226,Activación cuenta,Comercial,Baja,Inducción
+227,Capacitación,TI,Media,Activación cuenta
+228,Asignación de tareas,Operaciones,Media,Asignación de tareas
+229,Firma contrato,Operaciones,Alta,Inducción
+230,Firma contrato,RRHH,Media,Activación cuenta
+231,Activación cuenta,RRHH,Baja,Activación cuenta
+232,Activación cuenta,Operaciones,Media,Activación cuenta
+233,Capacitación,Comercial,Baja,Firma contrato
+234,Activación cuenta,TI,Alta,Inducción
+235,Activación cuenta,RRHH,Media,Activación cuenta
+236,Asignación de tareas,TI,Baja,Asignación de tareas
+237,Inducción,RRHH,Baja,Capacitación
+238,Activación cuenta,TI,Media,Firma contrato
+239,Inducción,TI,Media,Firma contrato
+240,Inducción,Comercial,Baja,Firma contrato
+241,Asignación de tareas,RRHH,Baja,Capacitación
+242,Asignación de tareas,RRHH,Alta,Firma contrato
+243,Activación cuenta,TI,Alta,Activación cuenta
+244,Asignación de tareas,Comercial,Media,Asignación de tareas
+245,Firma contrato,Comercial,Alta,Firma contrato
+246,Activación cuenta,RRHH,Alta,Capacitación
+247,Capacitación,TI,Media,Asignación de tareas
+248,Firma contrato,Comercial,Media,Asignación de tareas
+249,Asignación de tareas,TI,Media,Inducción
+250,Inducción,TI,Baja,Activación cuenta
+251,Inducción,TI,Baja,Activación cuenta
+252,Inducción,Comercial,Baja,Firma contrato
+253,Inducción,Operaciones,Baja,Inducción
+254,Asignación de tareas,Comercial,Media,Asignación de tareas
+255,Asignación de tareas,Comercial,Baja,Activación cuenta
+256,Activación cuenta,TI,Baja,Activación cuenta
+257,Activación cuenta,Operaciones,Alta,Capacitación
+258,Firma contrato,Operaciones,Baja,Activación cuenta
+259,Asignación de tareas,RRHH,Baja,Asignación de tareas
+260,Firma contrato,Comercial,Alta,Capacitación
+261,Firma contrato,Operaciones,Baja,Activación cuenta
+262,Firma contrato,RRHH,Media,Activación cuenta
+263,Firma contrato,Comercial,Baja,Activación cuenta
+264,Asignación de tareas,Operaciones,Media,Firma contrato
+265,Inducción,Operaciones,Alta,Asignación de tareas
+266,Firma contrato,Comercial,Baja,Firma contrato
+267,Capacitación,Comercial,Baja,Activación cuenta
+268,Capacitación,Comercial,Alta,Firma contrato
+269,Capacitación,RRHH,Media,Inducción
+270,Asignación de tareas,Operaciones,Media,Activación cuenta
+271,Firma contrato,Comercial,Baja,Inducción
+272,Firma contrato,RRHH,Alta,Inducción
+273,Capacitación,Operaciones,Baja,Asignación de tareas
+274,Inducción,RRHH,Alta,Inducción
+275,Capacitación,Comercial,Media,Activación cuenta
+276,Capacitación,Comercial,Media,Inducción
+277,Activación cuenta,TI,Media,Capacitación
+278,Asignación de tareas,RRHH,Alta,Asignación de tareas
+279,Activación cuenta,TI,Alta,Capacitación
+280,Asignación de tareas,Operaciones,Alta,Inducción
+281,Capacitación,RRHH,Alta,Capacitación
+282,Firma contrato,Comercial,Alta,Asignación de tareas
+283,Firma contrato,RRHH,Baja,Activación cuenta
+284,Inducción,TI,Baja,Capacitación
+285,Asignación de tareas,Comercial,Baja,Asignación de tareas
+286,Firma contrato,Operaciones,Alta,Capacitación
+287,Firma contrato,Comercial,Baja,Activación cuenta
+288,Firma contrato,RRHH,Baja,Firma contrato
+289,Asignación de tareas,RRHH,Alta,Capacitación
+290,Inducción,TI,Alta,Asignación de tareas
+291,Asignación de tareas,Operaciones,Baja,Activación cuenta
+292,Asignación de tareas,TI,Media,Asignación de tareas
+293,Asignación de tareas,Comercial,Baja,Asignación de tareas
+294,Capacitación,Operaciones,Baja,Inducción
+295,Asignación de tareas,Comercial,Media,Activación cuenta
+296,Activación cuenta,TI,Alta,Activación cuenta
+297,Inducción,TI,Media,Capacitación
+298,Capacitación,Comercial,Media,Asignación de tareas
+299,Activación cuenta,Comercial,Baja,Asignación de tareas
+300,Activación cuenta,TI,Baja,Activación cuenta
+301,Firma contrato,Operaciones,Baja,Inducción
+302,Capacitación,RRHH,Baja,Capacitación
+303,Inducción,Operaciones,Baja,Activación cuenta
+304,Activación cuenta,Comercial,Alta,Activación cuenta
+305,Inducción,TI,Alta,Activación cuenta
+306,Inducción,Operaciones,Media,Firma contrato
+307,Asignación de tareas,Comercial,Media,Asignación de tareas
+308,Inducción,Comercial,Baja,Firma contrato
+309,Asignación de tareas,Operaciones,Baja,Activación cuenta
+310,Activación cuenta,Operaciones,Media,Capacitación
+311,Capacitación,RRHH,Media,Inducción
+312,Firma contrato,RRHH,Media,Firma contrato
+313,Activación cuenta,TI,Media,Capacitación
+314,Capacitación,TI,Media,Inducción
+315,Capacitación,RRHH,Alta,Capacitación
+316,Activación cuenta,Operaciones,Baja,Activación cuenta
+317,Firma contrato,RRHH,Baja,Capacitación
+318,Inducción,Operaciones,Media,Inducción
+319,Activación cuenta,Operaciones,Media,Activación cuenta
+320,Firma contrato,TI,Media,Asignación de tareas
+321,Firma contrato,RRHH,Media,Asignación de tareas
+322,Activación cuenta,RRHH,Media,Asignación de tareas
+323,Asignación de tareas,TI,Media,Asignación de tareas
+324,Capacitación,TI,Media,Asignación de tareas
+325,Activación cuenta,Operaciones,Baja,Capacitación
+326,Asignación de tareas,RRHH,Media,Firma contrato
+327,Activación cuenta,Comercial,Baja,Firma contrato
+328,Capacitación,Operaciones,Baja,Capacitación
+329,Activación cuenta,Comercial,Baja,Capacitación
+330,Firma contrato,Comercial,Baja,Capacitación
+331,Firma contrato,RRHH,Media,Asignación de tareas
+332,Inducción,RRHH,Alta,Asignación de tareas
+333,Asignación de tareas,TI,Media,Inducción
+334,Firma contrato,RRHH,Baja,Activación cuenta
+335,Firma contrato,Operaciones,Baja,Inducción
+336,Asignación de tareas,TI,Baja,Asignación de tareas
+337,Activación cuenta,TI,Media,Capacitación
+338,Asignación de tareas,Comercial,Baja,Asignación de tareas
+339,Asignación de tareas,Comercial,Media,Activación cuenta
+340,Firma contrato,TI,Baja,Inducción
+341,Capacitación,Operaciones,Baja,Asignación de tareas
+342,Activación cuenta,TI,Baja,Capacitación
+343,Inducción,RRHH,Baja,Capacitación
+344,Activación cuenta,Comercial,Media,Capacitación
+345,Firma contrato,Operaciones,Baja,Inducción
+346,Inducción,Comercial,Media,Capacitación
+347,Firma contrato,RRHH,Alta,Inducción
+348,Firma contrato,Operaciones,Media,Firma contrato
+349,Capacitación,TI,Media,Asignación de tareas
+350,Capacitación,Comercial,Alta,Capacitación
+351,Asignación de tareas,RRHH,Alta,Asignación de tareas
+352,Capacitación,RRHH,Alta,Capacitación
+353,Capacitación,TI,Baja,Activación cuenta
+354,Activación cuenta,Operaciones,Alta,Capacitación
+355,Capacitación,RRHH,Baja,Inducción
+356,Firma contrato,Comercial,Baja,Activación cuenta
+357,Firma contrato,TI,Alta,Asignación de tareas
+358,Capacitación,TI,Baja,Activación cuenta
+359,Capacitación,RRHH,Alta,Asignación de tareas
+360,Firma contrato,Comercial,Media,Inducción
+361,Inducción,Comercial,Media,Activación cuenta
+362,Inducción,TI,Baja,Activación cuenta
+363,Asignación de tareas,Operaciones,Baja,Firma contrato
+364,Firma contrato,RRHH,Media,Asignación de tareas
+365,Activación cuenta,TI,Alta,Firma contrato
+366,Asignación de tareas,TI,Alta,Firma contrato
+367,Inducción,Operaciones,Baja,Asignación de tareas
+368,Asignación de tareas,Operaciones,Media,Inducción
+369,Activación cuenta,RRHH,Alta,Asignación de tareas
+370,Asignación de tareas,RRHH,Baja,Inducción
+371,Asignación de tareas,Operaciones,Media,Asignación de tareas
+372,Activación cuenta,RRHH,Baja,Firma contrato
+373,Capacitación,Comercial,Alta,Firma contrato
+374,Activación cuenta,RRHH,Baja,Firma contrato
+375,Activación cuenta,TI,Media,Activación cuenta
+376,Activación cuenta,Operaciones,Alta,Asignación de tareas
+377,Inducción,RRHH,Baja,Activación cuenta
+378,Asignación de tareas,TI,Media,Asignación de tareas
+379,Inducción,Comercial,Alta,Capacitación
+380,Asignación de tareas,Comercial,Media,Capacitación
+381,Firma contrato,Comercial,Baja,Capacitación
+382,Capacitación,Comercial,Media,Inducción
+383,Inducción,RRHH,Media,Asignación de tareas
+384,Inducción,Operaciones,Alta,Asignación de tareas
+385,Asignación de tareas,Operaciones,Media,Inducción
+386,Inducción,TI,Baja,Firma contrato
+387,Capacitación,Operaciones,Alta,Capacitación
+388,Activación cuenta,RRHH,Alta,Inducción
+389,Asignación de tareas,RRHH,Baja,Capacitación
+390,Firma contrato,Comercial,Alta,Capacitación
+391,Asignación de tareas,RRHH,Alta,Capacitación
+392,Asignación de tareas,TI,Alta,Asignación de tareas
+393,Asignación de tareas,RRHH,Alta,Asignación de tareas
+394,Asignación de tareas,Operaciones,Media,Capacitación
+395,Inducción,TI,Alta,Capacitación
+396,Firma contrato,Comercial,Media,Activación cuenta
+397,Inducción,Operaciones,Media,Capacitación
+398,Inducción,RRHH,Alta,Capacitación
+399,Firma contrato,RRHH,Alta,Capacitación
+400,Activación cuenta,Comercial,Alta,Inducción
+401,Inducción,RRHH,Baja,Inducción
+402,Activación cuenta,Operaciones,Baja,Firma contrato
+403,Asignación de tareas,Operaciones,Alta,Inducción
+404,Asignación de tareas,Comercial,Alta,Activación cuenta
+405,Inducción,TI,Media,Firma contrato
+406,Inducción,Comercial,Media,Asignación de tareas
+407,Capacitación,RRHH,Media,Firma contrato
+408,Firma contrato,TI,Alta,Inducción
+409,Capacitación,Operaciones,Alta,Firma contrato
+410,Inducción,RRHH,Baja,Asignación de tareas
+411,Capacitación,Comercial,Baja,Inducción
+412,Asignación de tareas,Operaciones,Media,Firma contrato
+413,Asignación de tareas,RRHH,Baja,Inducción
+414,Inducción,RRHH,Media,Inducción
+415,Asignación de tareas,Comercial,Baja,Capacitación
+416,Inducción,TI,Media,Capacitación
+417,Asignación de tareas,TI,Baja,Capacitación
+418,Asignación de tareas,TI,Baja,Capacitación
+419,Inducción,Comercial,Media,Activación cuenta
+420,Inducción,Operaciones,Media,Capacitación
+421,Capacitación,TI,Alta,Capacitación
+422,Inducción,Operaciones,Baja,Firma contrato
+423,Asignación de tareas,Comercial,Baja,Firma contrato
+424,Capacitación,TI,Media,Inducción
+425,Activación cuenta,Operaciones,Baja,Asignación de tareas
+426,Activación cuenta,Comercial,Baja,Asignación de tareas
+427,Asignación de tareas,TI,Alta,Inducción
+428,Firma contrato,Operaciones,Baja,Activación cuenta
+429,Capacitación,RRHH,Baja,Firma contrato
+430,Asignación de tareas,RRHH,Alta,Inducción
+431,Firma contrato,TI,Baja,Capacitación
+432,Inducción,Comercial,Baja,Firma contrato
+433,Firma contrato,Operaciones,Baja,Asignación de tareas
+434,Firma contrato,TI,Alta,Asignación de tareas
+435,Inducción,RRHH,Baja,Firma contrato
+436,Asignación de tareas,Operaciones,Media,Activación cuenta
+437,Capacitación,Comercial,Baja,Activación cuenta
+438,Capacitación,RRHH,Media,Firma contrato
+439,Inducción,TI,Baja,Inducción
+440,Inducción,RRHH,Media,Activación cuenta
+441,Capacitación,TI,Baja,Firma contrato
+442,Asignación de tareas,RRHH,Media,Inducción
+443,Asignación de tareas,TI,Alta,Firma contrato
+444,Asignación de tareas,Comercial,Alta,Activación cuenta
+445,Inducción,Operaciones,Alta,Inducción
+446,Inducción,Operaciones,Media,Capacitación
+447,Activación cuenta,RRHH,Baja,Capacitación
+448,Asignación de tareas,Comercial,Baja,Inducción
+449,Asignación de tareas,TI,Media,Capacitación
+450,Capacitación,TI,Baja,Firma contrato
+451,Inducción,RRHH,Media,Asignación de tareas
+452,Capacitación,Operaciones,Baja,Asignación de tareas
+453,Asignación de tareas,RRHH,Media,Inducción
+454,Activación cuenta,TI,Media,Activación cuenta
+455,Capacitación,Operaciones,Media,Capacitación
+456,Capacitación,TI,Media,Firma contrato
+457,Activación cuenta,TI,Alta,Inducción
+458,Firma contrato,TI,Alta,Capacitación
+459,Inducción,TI,Media,Capacitación
+460,Firma contrato,RRHH,Alta,Firma contrato
+461,Firma contrato,Comercial,Alta,Capacitación
+462,Asignación de tareas,TI,Baja,Firma contrato
+463,Activación cuenta,Comercial,Alta,Activación cuenta
+464,Inducción,TI,Alta,Asignación de tareas
+465,Capacitación,RRHH,Alta,Inducción
+466,Firma contrato,Operaciones,Alta,Firma contrato
+467,Activación cuenta,TI,Baja,Capacitación
+468,Firma contrato,TI,Media,Capacitación
+469,Asignación de tareas,Comercial,Alta,Activación cuenta
+470,Inducción,Operaciones,Baja,Capacitación
+471,Inducción,RRHH,Alta,Activación cuenta
+472,Capacitación,Operaciones,Media,Firma contrato
+473,Asignación de tareas,RRHH,Media,Firma contrato
+474,Asignación de tareas,Comercial,Alta,Firma contrato
+475,Inducción,TI,Alta,Activación cuenta
+476,Inducción,TI,Media,Firma contrato
+477,Firma contrato,Operaciones,Media,Firma contrato
+478,Capacitación,Comercial,Alta,Firma contrato
+479,Asignación de tareas,RRHH,Alta,Inducción
+480,Activación cuenta,TI,Alta,Firma contrato
+481,Firma contrato,RRHH,Media,Capacitación
+482,Capacitación,Operaciones,Baja,Activación cuenta
+483,Asignación de tareas,TI,Baja,Firma contrato
+484,Firma contrato,RRHH,Baja,Inducción
+485,Inducción,Operaciones,Baja,Firma contrato
+486,Firma contrato,Comercial,Media,Capacitación
+487,Capacitación,RRHH,Alta,Capacitación
+488,Activación cuenta,Comercial,Media,Inducción
+489,Firma contrato,RRHH,Baja,Capacitación
+490,Asignación de tareas,TI,Baja,Activación cuenta
+491,Asignación de tareas,Comercial,Baja,Firma contrato
+492,Firma contrato,Operaciones,Baja,Firma contrato
+493,Activación cuenta,Comercial,Baja,Activación cuenta
+494,Capacitación,Comercial,Media,Asignación de tareas
+495,Asignación de tareas,TI,Baja,Activación cuenta
+496,Capacitación,Comercial,Media,Firma contrato
+497,Inducción,Operaciones,Media,Activación cuenta
+498,Asignación de tareas,Operaciones,Alta,Capacitación
+499,Activación cuenta,TI,Alta,Activación cuenta
+500,Inducción,RRHH,Baja,Activación cuenta
+501,Capacitación,RRHH,Media,Firma contrato
+502,Inducción,Comercial,Baja,Asignación de tareas
+503,Firma contrato,TI,Baja,Asignación de tareas
+504,Firma contrato,TI,Baja,Capacitación
+505,Capacitación,TI,Media,Asignación de tareas
+506,Capacitación,TI,Alta,Firma contrato
+507,Firma contrato,Comercial,Baja,Asignación de tareas
+508,Activación cuenta,Comercial,Baja,Asignación de tareas
+509,Asignación de tareas,TI,Baja,Asignación de tareas
+510,Capacitación,Operaciones,Media,Capacitación
+511,Capacitación,Operaciones,Baja,Capacitación
+512,Activación cuenta,Comercial,Alta,Inducción
+513,Inducción,RRHH,Media,Firma contrato
+514,Capacitación,TI,Alta,Capacitación
+515,Activación cuenta,Operaciones,Alta,Firma contrato
+516,Capacitación,TI,Media,Capacitación
+517,Activación cuenta,Comercial,Alta,Activación cuenta
+518,Activación cuenta,RRHH,Media,Activación cuenta
+519,Capacitación,Comercial,Alta,Inducción
+520,Firma contrato,RRHH,Media,Inducción
+521,Asignación de tareas,TI,Baja,Asignación de tareas
+522,Capacitación,Operaciones,Baja,Capacitación
+523,Capacitación,Operaciones,Media,Inducción
+524,Asignación de tareas,Operaciones,Media,Firma contrato
+525,Capacitación,TI,Alta,Firma contrato
+526,Activación cuenta,Comercial,Media,Activación cuenta
+527,Capacitación,TI,Media,Inducción
+528,Inducción,TI,Alta,Capacitación
+529,Capacitación,RRHH,Media,Asignación de tareas
+530,Asignación de tareas,Operaciones,Media,Firma contrato
+531,Activación cuenta,TI,Alta,Asignación de tareas
+532,Inducción,Comercial,Media,Firma contrato
+533,Inducción,Operaciones,Baja,Inducción
+534,Activación cuenta,Comercial,Media,Firma contrato
+535,Inducción,Operaciones,Media,Activación cuenta
+536,Firma contrato,Comercial,Alta,Activación cuenta
+537,Asignación de tareas,Operaciones,Media,Firma contrato
+538,Inducción,Comercial,Baja,Activación cuenta
+539,Capacitación,Comercial,Media,Inducción
+540,Asignación de tareas,Comercial,Alta,Inducción
+541,Firma contrato,Comercial,Baja,Asignación de tareas
+542,Capacitación,TI,Baja,Capacitación
+543,Firma contrato,TI,Media,Firma contrato
+544,Firma contrato,RRHH,Alta,Capacitación
+545,Asignación de tareas,RRHH,Alta,Capacitación
+546,Activación cuenta,Operaciones,Media,Inducción
+547,Activación cuenta,RRHH,Alta,Capacitación
+548,Firma contrato,Operaciones,Baja,Asignación de tareas
+549,Activación cuenta,Operaciones,Media,Inducción
+550,Asignación de tareas,Comercial,Media,Capacitación
+551,Asignación de tareas,RRHH,Media,Capacitación
+552,Capacitación,Operaciones,Alta,Inducción
+553,Asignación de tareas,Comercial,Baja,Firma contrato
+554,Capacitación,Operaciones,Baja,Activación cuenta
+555,Firma contrato,TI,Baja,Firma contrato
+556,Inducción,Operaciones,Alta,Firma contrato
+557,Inducción,TI,Alta,Capacitación
+558,Activación cuenta,Comercial,Alta,Firma contrato
+559,Firma contrato,TI,Baja,Firma contrato
+560,Activación cuenta,Operaciones,Media,Firma contrato
+561,Firma contrato,RRHH,Baja,Capacitación
+562,Asignación de tareas,Operaciones,Media,Capacitación
+563,Activación cuenta,TI,Alta,Asignación de tareas
+564,Capacitación,Operaciones,Alta,Asignación de tareas
+565,Capacitación,Comercial,Media,Firma contrato
+566,Activación cuenta,Comercial,Media,Inducción
+567,Capacitación,Operaciones,Media,Asignación de tareas
+568,Asignación de tareas,Operaciones,Alta,Capacitación
+569,Activación cuenta,Operaciones,Alta,Activación cuenta
+570,Inducción,Comercial,Alta,Asignación de tareas
+571,Capacitación,Operaciones,Baja,Firma contrato
+572,Capacitación,Comercial,Baja,Capacitación
+573,Activación cuenta,Comercial,Alta,Firma contrato
+574,Capacitación,TI,Alta,Inducción
+575,Firma contrato,TI,Baja,Firma contrato
+576,Asignación de tareas,RRHH,Alta,Capacitación
+577,Capacitación,TI,Alta,Activación cuenta
+578,Firma contrato,TI,Media,Firma contrato
+579,Firma contrato,TI,Baja,Capacitación
+580,Activación cuenta,TI,Media,Asignación de tareas
+581,Capacitación,TI,Alta,Inducción
+582,Activación cuenta,RRHH,Alta,Firma contrato
+583,Asignación de tareas,Operaciones,Baja,Capacitación
+584,Firma contrato,Comercial,Alta,Activación cuenta
+585,Inducción,RRHH,Alta,Capacitación
+586,Capacitación,RRHH,Media,Firma contrato
+587,Firma contrato,Operaciones,Media,Activación cuenta
+588,Asignación de tareas,Operaciones,Alta,Inducción
+589,Activación cuenta,Comercial,Alta,Firma contrato
+590,Firma contrato,Operaciones,Baja,Firma contrato
+591,Asignación de tareas,Comercial,Media,Capacitación
+592,Capacitación,RRHH,Media,Inducción
+593,Asignación de tareas,Operaciones,Alta,Activación cuenta
+594,Firma contrato,TI,Alta,Firma contrato
+595,Firma contrato,Operaciones,Baja,Inducción
+596,Asignación de tareas,RRHH,Media,Inducción
+597,Asignación de tareas,Operaciones,Media,Asignación de tareas
+598,Firma contrato,RRHH,Alta,Asignación de tareas
+599,Activación cuenta,Comercial,Alta,Firma contrato
+600,Asignación de tareas,Operaciones,Baja,Capacitación
+601,Capacitación,RRHH,Alta,Asignación de tareas
+602,Firma contrato,TI,Baja,Capacitación
+603,Capacitación,RRHH,Alta,Activación cuenta
+604,Firma contrato,Comercial,Baja,Activación cuenta
+605,Inducción,Operaciones,Media,Asignación de tareas
+606,Firma contrato,TI,Media,Inducción
+607,Capacitación,Operaciones,Media,Firma contrato
+608,Activación cuenta,RRHH,Media,Asignación de tareas
+609,Capacitación,RRHH,Media,Asignación de tareas
+610,Capacitación,Operaciones,Alta,Activación cuenta
+611,Activación cuenta,Comercial,Baja,Activación cuenta
+612,Firma contrato,Comercial,Baja,Activación cuenta
+613,Capacitación,TI,Baja,Firma contrato
+614,Asignación de tareas,RRHH,Baja,Inducción
+615,Capacitación,RRHH,Media,Inducción
+616,Inducción,Comercial,Alta,Asignación de tareas
+617,Capacitación,RRHH,Media,Capacitación
+618,Firma contrato,RRHH,Baja,Firma contrato
+619,Firma contrato,RRHH,Alta,Activación cuenta
+620,Activación cuenta,Comercial,Media,Inducción
+621,Capacitación,RRHH,Alta,Firma contrato
+622,Activación cuenta,Comercial,Baja,Firma contrato
+623,Asignación de tareas,RRHH,Media,Asignación de tareas
+624,Capacitación,TI,Media,Capacitación
+625,Firma contrato,TI,Alta,Inducción
+626,Asignación de tareas,Comercial,Baja,Asignación de tareas
+627,Inducción,TI,Media,Capacitación
+628,Firma contrato,Operaciones,Media,Activación cuenta
+629,Activación cuenta,Comercial,Media,Asignación de tareas
+630,Asignación de tareas,Comercial,Alta,Capacitación
+631,Capacitación,Comercial,Alta,Capacitación
+632,Inducción,Comercial,Media,Firma contrato
+633,Inducción,TI,Alta,Asignación de tareas
+634,Activación cuenta,Operaciones,Alta,Inducción
+635,Inducción,Operaciones,Baja,Inducción
+636,Firma contrato,RRHH,Baja,Firma contrato
+637,Asignación de tareas,RRHH,Alta,Activación cuenta
+638,Asignación de tareas,Operaciones,Media,Firma contrato
+639,Activación cuenta,RRHH,Media,Activación cuenta
+640,Inducción,RRHH,Alta,Capacitación
+641,Inducción,TI,Alta,Firma contrato
+642,Activación cuenta,Comercial,Media,Inducción
+643,Capacitación,TI,Media,Activación cuenta
+644,Asignación de tareas,Comercial,Media,Firma contrato
+645,Asignación de tareas,TI,Alta,Inducción
+646,Inducción,TI,Media,Firma contrato
+647,Activación cuenta,Operaciones,Media,Asignación de tareas
+648,Capacitación,Operaciones,Alta,Firma contrato
+649,Activación cuenta,Comercial,Media,Capacitación
+650,Inducción,Operaciones,Alta,Capacitación
+651,Firma contrato,TI,Baja,Firma contrato
+652,Firma contrato,Comercial,Alta,Activación cuenta
+653,Inducción,RRHH,Media,Activación cuenta
+654,Asignación de tareas,Operaciones,Media,Asignación de tareas
+655,Activación cuenta,RRHH,Baja,Asignación de tareas
+656,Inducción,RRHH,Alta,Asignación de tareas
+657,Inducción,Comercial,Media,Inducción
+658,Asignación de tareas,Operaciones,Media,Asignación de tareas
+659,Activación cuenta,RRHH,Alta,Firma contrato
+660,Activación cuenta,Operaciones,Baja,Asignación de tareas
+661,Asignación de tareas,Operaciones,Media,Asignación de tareas
+662,Firma contrato,Operaciones,Baja,Firma contrato
+663,Asignación de tareas,TI,Baja,Activación cuenta
+664,Asignación de tareas,RRHH,Media,Asignación de tareas
+665,Firma contrato,Operaciones,Media,Firma contrato
+666,Capacitación,TI,Alta,Inducción
+667,Capacitación,TI,Baja,Firma contrato
+668,Inducción,Operaciones,Alta,Activación cuenta
+669,Activación cuenta,RRHH,Alta,Asignación de tareas
+670,Firma contrato,RRHH,Alta,Firma contrato
+671,Inducción,Operaciones,Baja,Firma contrato
+672,Capacitación,TI,Baja,Activación cuenta
+673,Capacitación,Comercial,Media,Asignación de tareas
+674,Capacitación,Comercial,Baja,Asignación de tareas
+675,Inducción,Comercial,Media,Asignación de tareas
+676,Capacitación,Comercial,Baja,Firma contrato
+677,Inducción,RRHH,Media,Activación cuenta
+678,Inducción,Comercial,Media,Asignación de tareas
+679,Activación cuenta,RRHH,Baja,Inducción
+680,Asignación de tareas,RRHH,Media,Inducción
+681,Inducción,Operaciones,Media,Inducción
+682,Asignación de tareas,TI,Baja,Activación cuenta
+683,Capacitación,RRHH,Baja,Capacitación
+684,Capacitación,Operaciones,Baja,Asignación de tareas
+685,Inducción,TI,Alta,Activación cuenta
+686,Firma contrato,TI,Baja,Firma contrato
+687,Activación cuenta,Comercial,Baja,Firma contrato
+688,Inducción,Comercial,Alta,Activación cuenta
+689,Firma contrato,RRHH,Baja,Inducción
+690,Activación cuenta,Comercial,Media,Inducción
+691,Firma contrato,TI,Alta,Activación cuenta
+692,Activación cuenta,Comercial,Media,Firma contrato
+693,Inducción,RRHH,Alta,Capacitación
+694,Inducción,Operaciones,Baja,Activación cuenta
+695,Activación cuenta,RRHH,Baja,Activación cuenta
+696,Capacitación,Operaciones,Baja,Asignación de tareas
+697,Asignación de tareas,TI,Alta,Inducción
+698,Inducción,Operaciones,Baja,Firma contrato
+699,Firma contrato,RRHH,Alta,Activación cuenta
+700,Capacitación,Operaciones,Alta,Activación cuenta
+701,Capacitación,Operaciones,Alta,Activación cuenta
+702,Asignación de tareas,TI,Media,Activación cuenta
+703,Asignación de tareas,RRHH,Media,Inducción
+704,Inducción,Operaciones,Alta,Capacitación
+705,Activación cuenta,Operaciones,Media,Asignación de tareas
+706,Capacitación,Operaciones,Media,Firma contrato
+707,Capacitación,TI,Alta,Inducción
+708,Activación cuenta,RRHH,Media,Asignación de tareas
+709,Firma contrato,TI,Alta,Capacitación
+710,Firma contrato,RRHH,Media,Activación cuenta
+711,Activación cuenta,RRHH,Baja,Asignación de tareas
+712,Capacitación,Operaciones,Media,Capacitación
+713,Asignación de tareas,TI,Alta,Inducción
+714,Inducción,TI,Media,Inducción
+715,Capacitación,Operaciones,Media,Asignación de tareas
+716,Capacitación,Comercial,Media,Activación cuenta
+717,Capacitación,TI,Baja,Activación cuenta
+718,Asignación de tareas,Operaciones,Media,Inducción
+719,Inducción,RRHH,Alta,Activación cuenta
+720,Capacitación,TI,Media,Firma contrato
+721,Firma contrato,RRHH,Baja,Capacitación
+722,Capacitación,RRHH,Alta,Firma contrato
+723,Activación cuenta,TI,Baja,Inducción
+724,Capacitación,RRHH,Alta,Capacitación
+725,Asignación de tareas,RRHH,Alta,Capacitación
+726,Activación cuenta,TI,Baja,Inducción
+727,Asignación de tareas,Comercial,Media,Asignación de tareas
+728,Inducción,Comercial,Media,Asignación de tareas
+729,Inducción,Comercial,Baja,Firma contrato
+730,Firma contrato,Comercial,Media,Asignación de tareas
+731,Activación cuenta,TI,Alta,Activación cuenta
+732,Capacitación,TI,Baja,Activación cuenta
+733,Firma contrato,Comercial,Media,Asignación de tareas
+734,Activación cuenta,Operaciones,Alta,Capacitación
+735,Capacitación,RRHH,Media,Activación cuenta
+736,Firma contrato,TI,Media,Asignación de tareas
+737,Asignación de tareas,Operaciones,Baja,Asignación de tareas
+738,Activación cuenta,TI,Alta,Firma contrato
+739,Capacitación,RRHH,Alta,Activación cuenta
+740,Activación cuenta,RRHH,Alta,Asignación de tareas
+741,Activación cuenta,RRHH,Media,Inducción
+742,Asignación de tareas,RRHH,Baja,Capacitación
+743,Inducción,Operaciones,Media,Inducción
+744,Activación cuenta,RRHH,Baja,Activación cuenta
+745,Capacitación,TI,Alta,Capacitación
+746,Firma contrato,RRHH,Alta,Activación cuenta
+747,Firma contrato,Operaciones,Media,Activación cuenta
+748,Asignación de tareas,RRHH,Alta,Asignación de tareas
+749,Capacitación,Operaciones,Baja,Inducción
+750,Inducción,TI,Media,Firma contrato
+751,Asignación de tareas,TI,Alta,Inducción
+752,Asignación de tareas,RRHH,Baja,Asignación de tareas
+753,Activación cuenta,Comercial,Alta,Activación cuenta
+754,Activación cuenta,Comercial,Media,Inducción
+755,Activación cuenta,Operaciones,Baja,Activación cuenta
+756,Capacitación,Comercial,Baja,Activación cuenta
+757,Inducción,TI,Media,Capacitación
+758,Activación cuenta,Comercial,Baja,Inducción
+759,Asignación de tareas,TI,Baja,Asignación de tareas
+760,Inducción,TI,Media,Asignación de tareas
+761,Firma contrato,TI,Media,Capacitación
+762,Capacitación,TI,Baja,Activación cuenta
+763,Asignación de tareas,Operaciones,Baja,Inducción
+764,Inducción,Comercial,Media,Activación cuenta
+765,Inducción,TI,Baja,Capacitación
+766,Activación cuenta,RRHH,Baja,Firma contrato
+767,Inducción,TI,Baja,Capacitación
+768,Inducción,Operaciones,Media,Capacitación
+769,Capacitación,TI,Alta,Firma contrato
+770,Capacitación,Operaciones,Baja,Asignación de tareas
+771,Capacitación,RRHH,Media,Asignación de tareas
+772,Inducción,TI,Alta,Capacitación
+773,Inducción,Comercial,Baja,Asignación de tareas
+774,Asignación de tareas,RRHH,Baja,Firma contrato
+775,Activación cuenta,Operaciones,Baja,Firma contrato
+776,Firma contrato,Comercial,Baja,Asignación de tareas
+777,Asignación de tareas,Comercial,Alta,Firma contrato
+778,Asignación de tareas,TI,Media,Activación cuenta
+779,Firma contrato,Comercial,Media,Asignación de tareas
+780,Activación cuenta,TI,Alta,Activación cuenta
+781,Activación cuenta,Comercial,Media,Asignación de tareas
+782,Asignación de tareas,RRHH,Media,Inducción
+783,Firma contrato,TI,Media,Asignación de tareas
+784,Activación cuenta,Operaciones,Baja,Asignación de tareas
+785,Activación cuenta,RRHH,Alta,Asignación de tareas
+786,Capacitación,Operaciones,Alta,Inducción
+787,Capacitación,TI,Baja,Asignación de tareas
+788,Activación cuenta,Comercial,Media,Capacitación
+789,Inducción,RRHH,Alta,Asignación de tareas
+790,Asignación de tareas,RRHH,Alta,Asignación de tareas
+791,Capacitación,RRHH,Baja,Firma contrato
+792,Inducción,TI,Media,Firma contrato
+793,Firma contrato,Operaciones,Alta,Capacitación
+794,Capacitación,Operaciones,Media,Inducción
+795,Asignación de tareas,RRHH,Baja,Capacitación
+796,Inducción,RRHH,Baja,Activación cuenta
+797,Capacitación,RRHH,Media,Asignación de tareas
+798,Firma contrato,TI,Baja,Firma contrato
+799,Activación cuenta,Comercial,Alta,Firma contrato
+800,Firma contrato,TI,Media,Activación cuenta
+801,Inducción,Operaciones,Media,Firma contrato
+802,Asignación de tareas,Comercial,Baja,Asignación de tareas
+803,Activación cuenta,RRHH,Baja,Activación cuenta
+804,Activación cuenta,RRHH,Media,Activación cuenta
+805,Activación cuenta,RRHH,Alta,Capacitación
+806,Activación cuenta,Operaciones,Media,Inducción
+807,Asignación de tareas,TI,Baja,Capacitación
+808,Capacitación,TI,Baja,Capacitación
+809,Capacitación,TI,Alta,Activación cuenta
+810,Activación cuenta,Comercial,Alta,Firma contrato
+811,Asignación de tareas,Comercial,Media,Asignación de tareas
+812,Firma contrato,RRHH,Media,Inducción
+813,Capacitación,Operaciones,Media,Asignación de tareas
+814,Inducción,TI,Baja,Activación cuenta
+815,Inducción,Comercial,Alta,Firma contrato
+816,Capacitación,TI,Alta,Inducción
+817,Inducción,Operaciones,Alta,Capacitación
+818,Inducción,Operaciones,Baja,Capacitación
+819,Asignación de tareas,RRHH,Alta,Activación cuenta
+820,Activación cuenta,RRHH,Baja,Capacitación
+821,Asignación de tareas,TI,Alta,Activación cuenta
+822,Capacitación,TI,Baja,Inducción
+823,Asignación de tareas,RRHH,Alta,Firma contrato
+824,Capacitación,RRHH,Media,Asignación de tareas
+825,Capacitación,Operaciones,Alta,Firma contrato
+826,Activación cuenta,Comercial,Baja,Capacitación
+827,Activación cuenta,Comercial,Media,Asignación de tareas
+828,Capacitación,TI,Media,Inducción
+829,Asignación de tareas,TI,Alta,Firma contrato
+830,Capacitación,Operaciones,Alta,Firma contrato
+831,Firma contrato,Comercial,Media,Capacitación
+832,Firma contrato,Comercial,Alta,Capacitación
+833,Activación cuenta,Comercial,Alta,Inducción
+834,Asignación de tareas,RRHH,Media,Firma contrato
+835,Inducción,Comercial,Alta,Asignación de tareas
+836,Activación cuenta,RRHH,Alta,Activación cuenta
+837,Capacitación,Operaciones,Alta,Activación cuenta
+838,Inducción,TI,Alta,Capacitación
+839,Activación cuenta,RRHH,Alta,Activación cuenta
+840,Firma contrato,TI,Alta,Firma contrato
+841,Activación cuenta,Operaciones,Baja,Activación cuenta
+842,Capacitación,Comercial,Media,Asignación de tareas
+843,Firma contrato,Operaciones,Alta,Capacitación
+844,Inducción,Operaciones,Alta,Capacitación
+845,Capacitación,Comercial,Media,Activación cuenta
+846,Asignación de tareas,Comercial,Alta,Inducción
+847,Asignación de tareas,Comercial,Alta,Activación cuenta
+848,Activación cuenta,Comercial,Baja,Capacitación
+849,Capacitación,TI,Baja,Inducción
+850,Capacitación,RRHH,Alta,Inducción
+851,Inducción,RRHH,Media,Firma contrato
+852,Inducción,TI,Media,Inducción
+853,Activación cuenta,Comercial,Media,Inducción
+854,Activación cuenta,TI,Media,Capacitación
+855,Inducción,RRHH,Baja,Activación cuenta
+856,Activación cuenta,RRHH,Media,Firma contrato
+857,Inducción,Operaciones,Alta,Inducción
+858,Capacitación,Comercial,Baja,Inducción
+859,Inducción,RRHH,Media,Inducción
+860,Firma contrato,Operaciones,Alta,Capacitación
+861,Asignación de tareas,Comercial,Media,Capacitación
+862,Inducción,Operaciones,Alta,Capacitación
+863,Inducción,RRHH,Baja,Capacitación
+864,Asignación de tareas,Operaciones,Alta,Inducción
+865,Inducción,Comercial,Baja,Asignación de tareas
+866,Capacitación,Comercial,Media,Inducción
+867,Asignación de tareas,TI,Media,Activación cuenta
+868,Capacitación,Comercial,Alta,Capacitación
+869,Firma contrato,Comercial,Alta,Firma contrato
+870,Firma contrato,Operaciones,Alta,Inducción
+871,Firma contrato,Operaciones,Alta,Firma contrato
+872,Inducción,Comercial,Alta,Capacitación
+873,Activación cuenta,RRHH,Media,Capacitación
+874,Inducción,TI,Media,Activación cuenta
+875,Inducción,Operaciones,Baja,Inducción
+876,Asignación de tareas,Comercial,Media,Capacitación
+877,Asignación de tareas,RRHH,Baja,Capacitación
+878,Capacitación,Operaciones,Alta,Inducción
+879,Activación cuenta,TI,Media,Inducción
+880,Activación cuenta,RRHH,Media,Asignación de tareas
+881,Activación cuenta,TI,Media,Activación cuenta
+882,Inducción,RRHH,Alta,Activación cuenta
+883,Inducción,TI,Alta,Firma contrato
+884,Firma contrato,Operaciones,Baja,Asignación de tareas
+885,Capacitación,Operaciones,Media,Firma contrato
+886,Activación cuenta,Operaciones,Baja,Capacitación
+887,Inducción,Comercial,Baja,Asignación de tareas
+888,Firma contrato,TI,Baja,Firma contrato
+889,Asignación de tareas,RRHH,Baja,Firma contrato
+890,Capacitación,TI,Media,Activación cuenta
+891,Inducción,Comercial,Alta,Inducción
+892,Inducción,Operaciones,Alta,Capacitación
+893,Firma contrato,TI,Alta,Asignación de tareas
+894,Asignación de tareas,RRHH,Alta,Activación cuenta
+895,Firma contrato,RRHH,Alta,Asignación de tareas
+896,Firma contrato,Operaciones,Media,Asignación de tareas
+897,Capacitación,RRHH,Media,Inducción
+898,Firma contrato,TI,Baja,Activación cuenta
+899,Activación cuenta,RRHH,Baja,Asignación de tareas
+900,Activación cuenta,TI,Alta,Inducción
+901,Capacitación,TI,Baja,Activación cuenta
+902,Activación cuenta,TI,Alta,Capacitación
+903,Asignación de tareas,Comercial,Baja,Inducción
+904,Activación cuenta,RRHH,Baja,Capacitación
+905,Firma contrato,RRHH,Baja,Inducción
+906,Firma contrato,Operaciones,Alta,Inducción
+907,Capacitación,Comercial,Alta,Asignación de tareas
+908,Activación cuenta,TI,Alta,Asignación de tareas
+909,Activación cuenta,Operaciones,Alta,Capacitación
+910,Inducción,Comercial,Baja,Firma contrato
+911,Asignación de tareas,TI,Alta,Inducción
+912,Capacitación,Comercial,Alta,Firma contrato
+913,Inducción,Comercial,Media,Capacitación
+914,Activación cuenta,TI,Baja,Activación cuenta
+915,Firma contrato,Operaciones,Media,Activación cuenta
+916,Asignación de tareas,TI,Media,Capacitación
+917,Capacitación,TI,Media,Firma contrato
+918,Capacitación,RRHH,Baja,Firma contrato
+919,Inducción,Operaciones,Media,Activación cuenta
+920,Activación cuenta,Comercial,Alta,Asignación de tareas
+921,Asignación de tareas,RRHH,Alta,Firma contrato
+922,Activación cuenta,Comercial,Media,Firma contrato
+923,Activación cuenta,Operaciones,Media,Activación cuenta
+924,Activación cuenta,Operaciones,Baja,Capacitación
+925,Capacitación,TI,Alta,Asignación de tareas
+926,Activación cuenta,TI,Media,Activación cuenta
+927,Firma contrato,Comercial,Media,Capacitación
+928,Firma contrato,RRHH,Alta,Inducción
+929,Asignación de tareas,Operaciones,Alta,Activación cuenta
+930,Capacitación,RRHH,Media,Capacitación
+931,Capacitación,TI,Baja,Firma contrato
+932,Firma contrato,Operaciones,Baja,Inducción
+933,Activación cuenta,TI,Media,Firma contrato
+934,Inducción,Comercial,Baja,Firma contrato
+935,Capacitación,Operaciones,Media,Capacitación
+936,Inducción,TI,Alta,Asignación de tareas
+937,Capacitación,Operaciones,Media,Activación cuenta
+938,Firma contrato,Comercial,Media,Capacitación
+939,Asignación de tareas,Operaciones,Media,Activación cuenta
+940,Firma contrato,TI,Alta,Activación cuenta
+941,Inducción,TI,Baja,Asignación de tareas
+942,Capacitación,RRHH,Media,Asignación de tareas
+943,Capacitación,RRHH,Baja,Firma contrato
+944,Activación cuenta,Operaciones,Media,Asignación de tareas
+945,Activación cuenta,Operaciones,Baja,Asignación de tareas
+946,Inducción,Comercial,Media,Activación cuenta
+947,Capacitación,TI,Alta,Activación cuenta
+948,Activación cuenta,Comercial,Alta,Capacitación
+949,Activación cuenta,Comercial,Media,Firma contrato
+950,Inducción,Comercial,Baja,Firma contrato
+951,Activación cuenta,RRHH,Alta,Inducción
+952,Asignación de tareas,Comercial,Media,Firma contrato
+953,Inducción,TI,Alta,Inducción
+954,Activación cuenta,Comercial,Media,Asignación de tareas
+955,Capacitación,RRHH,Media,Activación cuenta
+956,Capacitación,TI,Baja,Inducción
+957,Inducción,Comercial,Baja,Firma contrato
+958,Firma contrato,RRHH,Baja,Activación cuenta
+959,Firma contrato,TI,Baja,Capacitación
+960,Firma contrato,RRHH,Alta,Activación cuenta
+961,Inducción,TI,Alta,Activación cuenta
+962,Capacitación,Comercial,Media,Asignación de tareas
+963,Asignación de tareas,TI,Baja,Capacitación
+964,Asignación de tareas,RRHH,Media,Inducción
+965,Activación cuenta,RRHH,Media,Inducción
+966,Activación cuenta,RRHH,Media,Activación cuenta
+967,Asignación de tareas,Comercial,Media,Firma contrato
+968,Capacitación,RRHH,Alta,Inducción
+969,Firma contrato,TI,Baja,Inducción
+970,Asignación de tareas,Comercial,Media,Activación cuenta
+971,Firma contrato,Operaciones,Alta,Firma contrato
+972,Capacitación,Operaciones,Alta,Inducción
+973,Asignación de tareas,RRHH,Baja,Inducción
+974,Activación cuenta,Comercial,Baja,Activación cuenta
+975,Capacitación,Comercial,Media,Activación cuenta
+976,Inducción,Comercial,Baja,Activación cuenta
+977,Activación cuenta,TI,Baja,Capacitación
+978,Capacitación,RRHH,Alta,Capacitación
+979,Inducción,Comercial,Alta,Asignación de tareas
+980,Capacitación,TI,Baja,Asignación de tareas
+981,Activación cuenta,RRHH,Media,Capacitación
+982,Inducción,RRHH,Media,Inducción
+983,Inducción,Comercial,Alta,Capacitación
+984,Activación cuenta,TI,Alta,Firma contrato
+985,Asignación de tareas,Comercial,Media,Inducción
+986,Inducción,Operaciones,Media,Asignación de tareas
+987,Inducción,Operaciones,Baja,Capacitación
+988,Activación cuenta,RRHH,Baja,Firma contrato
+989,Activación cuenta,TI,Baja,Activación cuenta
+990,Asignación de tareas,RRHH,Baja,Firma contrato
+991,Activación cuenta,TI,Baja,Capacitación
+992,Asignación de tareas,Comercial,Alta,Inducción
+993,Inducción,TI,Alta,Firma contrato
+994,Asignación de tareas,TI,Baja,Activación cuenta
+995,Firma contrato,Operaciones,Alta,Asignación de tareas
+996,Inducción,RRHH,Alta,Firma contrato
+997,Capacitación,Comercial,Media,Activación cuenta
+998,Asignación de tareas,RRHH,Alta,Asignación de tareas
+999,Asignación de tareas,Operaciones,Baja,Activación cuenta
+1000,Inducción,RRHH,Baja,Asignación de tareas
+1001,Inducción,RRHH,Alta,Firma contrato
+1002,Firma contrato,Operaciones,Alta,Firma contrato
+1003,Firma contrato,RRHH,Baja,Firma contrato
+1004,Activación cuenta,Operaciones,Baja,Firma contrato
+1005,Firma contrato,Operaciones,Baja,Firma contrato
+1006,Inducción,Operaciones,Baja,Capacitación
+1007,Asignación de tareas,TI,Baja,Activación cuenta
+1008,Asignación de tareas,Comercial,Alta,Activación cuenta
+1009,Inducción,Comercial,Media,Activación cuenta
+1010,Inducción,Operaciones,Media,Activación cuenta
+1011,Activación cuenta,TI,Alta,Activación cuenta
+1012,Asignación de tareas,Comercial,Baja,Firma contrato
+1013,Asignación de tareas,Operaciones,Baja,Activación cuenta
+1014,Activación cuenta,Comercial,Media,Activación cuenta
+1015,Asignación de tareas,Comercial,Media,Asignación de tareas
+1016,Activación cuenta,Operaciones,Baja,Firma contrato
+1017,Asignación de tareas,Operaciones,Alta,Asignación de tareas
+1018,Activación cuenta,Comercial,Baja,Firma contrato
+1019,Firma contrato,RRHH,Media,Activación cuenta
+1020,Firma contrato,Operaciones,Baja,Inducción
+1021,Inducción,Comercial,Baja,Activación cuenta
+1022,Inducción,TI,Alta,Activación cuenta
+1023,Activación cuenta,TI,Media,Activación cuenta
+1024,Activación cuenta,Operaciones,Baja,Capacitación
+1025,Firma contrato,Operaciones,Alta,Inducción
+1026,Capacitación,TI,Baja,Inducción
+1027,Asignación de tareas,Operaciones,Alta,Activación cuenta
+1028,Capacitación,RRHH,Baja,Asignación de tareas
+1029,Inducción,Comercial,Media,Asignación de tareas
+1030,Firma contrato,RRHH,Media,Capacitación
+1031,Inducción,RRHH,Alta,Activación cuenta
+1032,Capacitación,TI,Baja,Firma contrato
+1033,Inducción,Comercial,Alta,Firma contrato
+1034,Inducción,TI,Alta,Capacitación
+1035,Firma contrato,TI,Alta,Asignación de tareas
+1036,Firma contrato,Comercial,Alta,Asignación de tareas
+1037,Asignación de tareas,Comercial,Alta,Inducción
+1038,Capacitación,TI,Baja,Firma contrato
+1039,Capacitación,Comercial,Media,Inducción
+1040,Inducción,TI,Media,Firma contrato
+1041,Inducción,Operaciones,Media,Activación cuenta
+1042,Firma contrato,TI,Media,Capacitación
+1043,Activación cuenta,TI,Baja,Activación cuenta
+1044,Firma contrato,Operaciones,Media,Firma contrato
+1045,Asignación de tareas,TI,Baja,Firma contrato
+1046,Activación cuenta,Comercial,Baja,Capacitación
+1047,Capacitación,Comercial,Alta,Activación cuenta
+1048,Inducción,RRHH,Baja,Capacitación
+1049,Activación cuenta,RRHH,Baja,Firma contrato
+1050,Asignación de tareas,Comercial,Alta,Firma contrato
+1051,Inducción,Comercial,Alta,Inducción
+1052,Activación cuenta,Comercial,Alta,Activación cuenta
+1053,Inducción,Comercial,Media,Asignación de tareas
+1054,Firma contrato,TI,Baja,Inducción
+1055,Asignación de tareas,TI,Alta,Inducción
+1056,Activación cuenta,RRHH,Media,Activación cuenta
+1057,Asignación de tareas,Operaciones,Alta,Capacitación
+1058,Activación cuenta,Comercial,Alta,Asignación de tareas
+1059,Inducción,TI,Alta,Capacitación
+1060,Activación cuenta,Comercial,Baja,Firma contrato
+1061,Firma contrato,TI,Media,Activación cuenta
+1062,Capacitación,TI,Media,Capacitación
+1063,Activación cuenta,TI,Media,Capacitación
+1064,Asignación de tareas,Comercial,Media,Asignación de tareas
+1065,Capacitación,RRHH,Media,Capacitación
+1066,Capacitación,TI,Baja,Capacitación
+1067,Asignación de tareas,RRHH,Alta,Capacitación
+1068,Asignación de tareas,TI,Baja,Asignación de tareas
+1069,Inducción,TI,Baja,Firma contrato
+1070,Firma contrato,Operaciones,Alta,Firma contrato
+1071,Asignación de tareas,RRHH,Media,Firma contrato
+1072,Asignación de tareas,Comercial,Baja,Asignación de tareas
+1073,Asignación de tareas,Operaciones,Alta,Capacitación
+1074,Asignación de tareas,Operaciones,Media,Firma contrato
+1075,Inducción,TI,Baja,Asignación de tareas
+1076,Asignación de tareas,Operaciones,Alta,Inducción
+1077,Capacitación,Operaciones,Alta,Asignación de tareas
+1078,Firma contrato,Comercial,Alta,Activación cuenta
+1079,Firma contrato,Comercial,Baja,Activación cuenta
+1080,Capacitación,Comercial,Alta,Firma contrato
+1081,Activación cuenta,TI,Media,Capacitación
+1082,Firma contrato,Operaciones,Media,Asignación de tareas
+1083,Asignación de tareas,RRHH,Baja,Activación cuenta
+1084,Capacitación,Comercial,Baja,Activación cuenta
+1085,Firma contrato,Operaciones,Media,Inducción
+1086,Inducción,TI,Baja,Asignación de tareas
+1087,Firma contrato,Comercial,Media,Asignación de tareas
+1088,Inducción,RRHH,Baja,Capacitación
+1089,Firma contrato,RRHH,Baja,Inducción
+1090,Firma contrato,Comercial,Baja,Firma contrato
+1091,Firma contrato,RRHH,Alta,Firma contrato
+1092,Asignación de tareas,Operaciones,Media,Activación cuenta
+1093,Asignación de tareas,TI,Alta,Asignación de tareas
+1094,Capacitación,RRHH,Baja,Firma contrato
+1095,Firma contrato,RRHH,Baja,Activación cuenta
+1096,Capacitación,RRHH,Baja,Capacitación
+1097,Activación cuenta,TI,Baja,Firma contrato
+1098,Capacitación,Operaciones,Alta,Capacitación
+1099,Inducción,Comercial,Baja,Asignación de tareas
+1100,Firma contrato,RRHH,Baja,Inducción
+1101,Inducción,Comercial,Media,Inducción
+1102,Inducción,Operaciones,Baja,Inducción
+1103,Asignación de tareas,RRHH,Alta,Asignación de tareas
+1104,Activación cuenta,TI,Media,Capacitación
+1105,Capacitación,RRHH,Baja,Firma contrato
+1106,Firma contrato,RRHH,Alta,Asignación de tareas
+1107,Activación cuenta,Operaciones,Baja,Activación cuenta
+1108,Asignación de tareas,RRHH,Media,Capacitación
+1109,Capacitación,TI,Baja,Firma contrato
+1110,Asignación de tareas,TI,Media,Asignación de tareas
+1111,Capacitación,Comercial,Alta,Activación cuenta
+1112,Activación cuenta,TI,Media,Asignación de tareas
+1113,Inducción,Comercial,Baja,Inducción
+1114,Inducción,Operaciones,Media,Activación cuenta
+1115,Firma contrato,Operaciones,Baja,Capacitación
+1116,Asignación de tareas,Operaciones,Alta,Firma contrato
+1117,Asignación de tareas,RRHH,Baja,Capacitación
+1118,Activación cuenta,Operaciones,Media,Activación cuenta
+1119,Asignación de tareas,RRHH,Alta,Capacitación
+1120,Capacitación,TI,Media,Inducción
+1121,Inducción,Operaciones,Alta,Inducción
+1122,Firma contrato,RRHH,Alta,Inducción
+1123,Activación cuenta,TI,Alta,Activación cuenta
+1124,Firma contrato,Comercial,Alta,Activación cuenta
+1125,Capacitación,Comercial,Baja,Asignación de tareas
+1126,Activación cuenta,Operaciones,Baja,Activación cuenta
+1127,Capacitación,TI,Media,Firma contrato
+1128,Asignación de tareas,RRHH,Alta,Asignación de tareas
+1129,Activación cuenta,RRHH,Baja,Asignación de tareas
+1130,Asignación de tareas,TI,Baja,Activación cuenta
+1131,Capacitación,Comercial,Alta,Capacitación
+1132,Firma contrato,Comercial,Baja,Firma contrato
+1133,Firma contrato,RRHH,Media,Asignación de tareas
+1134,Firma contrato,Operaciones,Alta,Inducción
+1135,Asignación de tareas,Operaciones,Alta,Inducción
+1136,Capacitación,RRHH,Baja,Inducción
+1137,Asignación de tareas,TI,Media,Firma contrato
+1138,Capacitación,RRHH,Baja,Asignación de tareas
+1139,Capacitación,TI,Media,Capacitación
+1140,Capacitación,Comercial,Media,Capacitación
+1141,Asignación de tareas,TI,Alta,Inducción
+1142,Asignación de tareas,Comercial,Alta,Inducción
+1143,Asignación de tareas,Operaciones,Baja,Firma contrato
+1144,Inducción,Comercial,Media,Capacitación
+1145,Activación cuenta,RRHH,Alta,Capacitación
+1146,Capacitación,Operaciones,Media,Inducción
+1147,Asignación de tareas,TI,Baja,Firma contrato
+1148,Activación cuenta,RRHH,Media,Capacitación
+1149,Capacitación,Comercial,Baja,Asignación de tareas
+1150,Asignación de tareas,TI,Baja,Capacitación
+1151,Inducción,Comercial,Alta,Asignación de tareas
+1152,Asignación de tareas,Comercial,Baja,Inducción
+1153,Firma contrato,TI,Alta,Firma contrato
+1154,Activación cuenta,RRHH,Baja,Firma contrato
+1155,Inducción,TI,Alta,Activación cuenta
+1156,Capacitación,Operaciones,Baja,Activación cuenta
+1157,Capacitación,TI,Baja,Inducción
+1158,Activación cuenta,RRHH,Alta,Activación cuenta
+1159,Capacitación,Operaciones,Baja,Inducción
+1160,Activación cuenta,TI,Alta,Capacitación
+1161,Firma contrato,TI,Media,Inducción
+1162,Firma contrato,Comercial,Alta,Inducción
+1163,Capacitación,Operaciones,Alta,Firma contrato
+1164,Firma contrato,TI,Baja,Capacitación
+1165,Activación cuenta,Comercial,Baja,Firma contrato
+1166,Firma contrato,RRHH,Media,Capacitación
+1167,Activación cuenta,RRHH,Alta,Inducción
+1168,Firma contrato,TI,Baja,Inducción
+1169,Capacitación,Operaciones,Media,Activación cuenta
+1170,Firma contrato,Operaciones,Alta,Capacitación
+1171,Inducción,Operaciones,Baja,Firma contrato
+1172,Asignación de tareas,RRHH,Alta,Activación cuenta
+1173,Firma contrato,RRHH,Baja,Asignación de tareas
+1174,Firma contrato,RRHH,Media,Asignación de tareas
+1175,Firma contrato,Operaciones,Media,Firma contrato
+1176,Firma contrato,Comercial,Alta,Activación cuenta
+1177,Activación cuenta,TI,Baja,Activación cuenta
+1178,Activación cuenta,Operaciones,Media,Asignación de tareas
+1179,Inducción,RRHH,Alta,Activación cuenta
+1180,Capacitación,RRHH,Baja,Firma contrato
+1181,Firma contrato,TI,Media,Firma contrato
+1182,Firma contrato,TI,Alta,Firma contrato
+1183,Inducción,Operaciones,Alta,Firma contrato
+1184,Capacitación,RRHH,Alta,Asignación de tareas
+1185,Activación cuenta,RRHH,Alta,Activación cuenta
+1186,Activación cuenta,Comercial,Alta,Activación cuenta
+1187,Inducción,Comercial,Alta,Asignación de tareas
+1188,Asignación de tareas,TI,Alta,Asignación de tareas
+1189,Capacitación,Comercial,Media,Inducción
+1190,Asignación de tareas,Operaciones,Media,Asignación de tareas
+1191,Inducción,Comercial,Media,Activación cuenta
+1192,Capacitación,RRHH,Media,Firma contrato
+1193,Asignación de tareas,Comercial,Media,Asignación de tareas
+1194,Asignación de tareas,Operaciones,Media,Capacitación
+1195,Activación cuenta,Operaciones,Baja,Activación cuenta
+1196,Inducción,Operaciones,Media,Firma contrato
+1197,Asignación de tareas,RRHH,Alta,Firma contrato
+1198,Inducción,Comercial,Baja,Asignación de tareas
+1199,Asignación de tareas,RRHH,Alta,Asignación de tareas
+1200,Inducción,Operaciones,Alta,Inducción
+1201,Inducción,Comercial,Baja,Firma contrato
+1202,Activación cuenta,RRHH,Baja,Firma contrato
+1203,Asignación de tareas,RRHH,Baja,Activación cuenta
+1204,Activación cuenta,RRHH,Media,Asignación de tareas
+1205,Inducción,Operaciones,Media,Asignación de tareas
+1206,Inducción,RRHH,Media,Firma contrato
+1207,Firma contrato,Operaciones,Media,Activación cuenta
+1208,Activación cuenta,Comercial,Baja,Inducción
+1209,Inducción,Operaciones,Media,Firma contrato
+1210,Inducción,Comercial,Media,Asignación de tareas
+1211,Activación cuenta,TI,Alta,Asignación de tareas
+1212,Inducción,Operaciones,Baja,Inducción
+1213,Inducción,Operaciones,Baja,Asignación de tareas
+1214,Firma contrato,RRHH,Baja,Asignación de tareas
+1215,Activación cuenta,Comercial,Baja,Inducción
+1216,Activación cuenta,RRHH,Baja,Capacitación
+1217,Activación cuenta,Comercial,Baja,Firma contrato
+1218,Activación cuenta,RRHH,Alta,Inducción
+1219,Asignación de tareas,Comercial,Baja,Capacitación
+1220,Asignación de tareas,TI,Baja,Capacitación
+1221,Capacitación,Comercial,Baja,Inducción
+1222,Inducción,TI,Baja,Firma contrato
+1223,Asignación de tareas,TI,Media,Firma contrato
+1224,Asignación de tareas,Comercial,Baja,Asignación de tareas
+1225,Inducción,TI,Alta,Inducción
+1226,Inducción,TI,Media,Asignación de tareas
+1227,Asignación de tareas,TI,Baja,Inducción
+1228,Capacitación,RRHH,Alta,Capacitación
+1229,Firma contrato,RRHH,Baja,Asignación de tareas
+1230,Activación cuenta,Operaciones,Baja,Activación cuenta
+1231,Inducción,Operaciones,Alta,Capacitación
+1232,Capacitación,Comercial,Baja,Capacitación
+1233,Inducción,Operaciones,Media,Capacitación
+1234,Firma contrato,Comercial,Alta,Firma contrato
+1235,Firma contrato,Comercial,Media,Activación cuenta
+1236,Inducción,Comercial,Media,Firma contrato
+1237,Firma contrato,Operaciones,Baja,Inducción
+1238,Activación cuenta,TI,Alta,Capacitación
+1239,Activación cuenta,TI,Alta,Firma contrato
+1240,Inducción,Comercial,Media,Activación cuenta
+1241,Asignación de tareas,Operaciones,Baja,Activación cuenta
+1242,Activación cuenta,TI,Baja,Firma contrato
+1243,Asignación de tareas,TI,Media,Firma contrato
+1244,Inducción,RRHH,Baja,Firma contrato
+1245,Asignación de tareas,RRHH,Media,Activación cuenta
+1246,Asignación de tareas,Comercial,Baja,Inducción
+1247,Firma contrato,TI,Alta,Capacitación
+1248,Firma contrato,Operaciones,Alta,Firma contrato
+1249,Asignación de tareas,Operaciones,Media,Capacitación
+1250,Inducción,Operaciones,Alta,Firma contrato
+1251,Activación cuenta,Comercial,Media,Inducción
+1252,Firma contrato,TI,Media,Asignación de tareas
+1253,Activación cuenta,Comercial,Baja,Inducción
+1254,Asignación de tareas,Comercial,Baja,Activación cuenta
+1255,Activación cuenta,Operaciones,Media,Firma contrato
+1256,Activación cuenta,RRHH,Alta,Asignación de tareas
+1257,Asignación de tareas,RRHH,Baja,Asignación de tareas
+1258,Asignación de tareas,Operaciones,Media,Capacitación
+1259,Activación cuenta,TI,Media,Capacitación
+1260,Capacitación,RRHH,Media,Activación cuenta
+1261,Capacitación,TI,Baja,Capacitación
+1262,Capacitación,Operaciones,Baja,Activación cuenta
+1263,Firma contrato,Operaciones,Alta,Inducción
+1264,Asignación de tareas,TI,Media,Firma contrato
+1265,Inducción,Operaciones,Media,Asignación de tareas
+1266,Capacitación,RRHH,Alta,Asignación de tareas
+1267,Inducción,TI,Baja,Capacitación
+1268,Asignación de tareas,RRHH,Baja,Asignación de tareas
+1269,Capacitación,Operaciones,Baja,Activación cuenta
+1270,Inducción,TI,Media,Activación cuenta
+1271,Capacitación,RRHH,Alta,Asignación de tareas
+1272,Firma contrato,TI,Alta,Asignación de tareas
+1273,Activación cuenta,TI,Media,Asignación de tareas
+1274,Activación cuenta,Comercial,Media,Capacitación
+1275,Asignación de tareas,RRHH,Alta,Capacitación
+1276,Activación cuenta,TI,Alta,Firma contrato
+1277,Firma contrato,RRHH,Baja,Capacitación
+1278,Asignación de tareas,Operaciones,Media,Inducción
+1279,Inducción,TI,Alta,Activación cuenta
+1280,Activación cuenta,TI,Media,Activación cuenta
+1281,Activación cuenta,RRHH,Media,Inducción
+1282,Asignación de tareas,TI,Alta,Asignación de tareas
+1283,Firma contrato,Operaciones,Media,Asignación de tareas
+1284,Inducción,Comercial,Media,Firma contrato
+1285,Inducción,RRHH,Baja,Activación cuenta
+1286,Capacitación,RRHH,Baja,Activación cuenta
+1287,Firma contrato,Operaciones,Media,Asignación de tareas
+1288,Activación cuenta,RRHH,Media,Activación cuenta
+1289,Capacitación,Operaciones,Alta,Firma contrato
+1290,Capacitación,Comercial,Media,Inducción
+1291,Activación cuenta,Comercial,Baja,Capacitación
+1292,Activación cuenta,TI,Media,Inducción
+1293,Asignación de tareas,RRHH,Alta,Activación cuenta
+1294,Asignación de tareas,Comercial,Media,Inducción
+1295,Capacitación,Comercial,Alta,Capacitación
+1296,Inducción,TI,Baja,Capacitación
+1297,Asignación de tareas,RRHH,Media,Inducción
+1298,Capacitación,TI,Baja,Activación cuenta
+1299,Inducción,TI,Baja,Capacitación
+1300,Activación cuenta,Operaciones,Media,Activación cuenta
+1301,Capacitación,RRHH,Media,Asignación de tareas
+1302,Firma contrato,Operaciones,Alta,Asignación de tareas
+1303,Firma contrato,TI,Baja,Inducción
+1304,Inducción,Comercial,Alta,Asignación de tareas
+1305,Firma contrato,TI,Media,Firma contrato
+1306,Inducción,TI,Media,Capacitación
+1307,Firma contrato,Operaciones,Media,Activación cuenta
+1308,Activación cuenta,RRHH,Baja,Activación cuenta
+1309,Activación cuenta,Operaciones,Alta,Capacitación
+1310,Firma contrato,Operaciones,Alta,Activación cuenta
+1311,Capacitación,Comercial,Media,Asignación de tareas
+1312,Inducción,RRHH,Baja,Asignación de tareas
+1313,Asignación de tareas,RRHH,Baja,Inducción
+1314,Inducción,RRHH,Media,Activación cuenta
+1315,Activación cuenta,TI,Baja,Activación cuenta
+1316,Firma contrato,Comercial,Baja,Firma contrato
+1317,Asignación de tareas,Operaciones,Alta,Asignación de tareas
+1318,Inducción,Operaciones,Media,Firma contrato
+1319,Asignación de tareas,Operaciones,Baja,Inducción
+1320,Capacitación,Operaciones,Baja,Inducción
+1321,Activación cuenta,Operaciones,Media,Firma contrato
+1322,Activación cuenta,Operaciones,Alta,Inducción
+1323,Firma contrato,TI,Baja,Asignación de tareas
+1324,Asignación de tareas,Operaciones,Baja,Firma contrato
+1325,Capacitación,TI,Alta,Asignación de tareas
+1326,Inducción,TI,Baja,Activación cuenta
+1327,Activación cuenta,Comercial,Media,Activación cuenta
+1328,Activación cuenta,TI,Baja,Activación cuenta
+1329,Firma contrato,TI,Baja,Activación cuenta
+1330,Asignación de tareas,Operaciones,Baja,Firma contrato
+1331,Asignación de tareas,Operaciones,Baja,Inducción
+1332,Activación cuenta,Comercial,Media,Firma contrato
+1333,Asignación de tareas,Comercial,Alta,Firma contrato
+1334,Inducción,RRHH,Media,Inducción
+1335,Capacitación,RRHH,Media,Capacitación
+1336,Asignación de tareas,Comercial,Media,Firma contrato
+1337,Firma contrato,Comercial,Baja,Firma contrato
+1338,Firma contrato,TI,Alta,Firma contrato
+1339,Capacitación,Comercial,Media,Activación cuenta
+1340,Asignación de tareas,TI,Alta,Inducción
+1341,Asignación de tareas,Comercial,Media,Asignación de tareas
+1342,Inducción,TI,Baja,Activación cuenta
+1343,Firma contrato,Operaciones,Alta,Inducción
+1344,Firma contrato,Comercial,Media,Activación cuenta
+1345,Firma contrato,RRHH,Media,Capacitación
+1346,Capacitación,RRHH,Baja,Firma contrato
+1347,Asignación de tareas,TI,Baja,Firma contrato
+1348,Asignación de tareas,Operaciones,Alta,Asignación de tareas
+1349,Asignación de tareas,Comercial,Baja,Firma contrato
+1350,Capacitación,TI,Baja,Activación cuenta
+1351,Capacitación,Operaciones,Alta,Inducción
+1352,Asignación de tareas,TI,Alta,Inducción
+1353,Asignación de tareas,RRHH,Media,Inducción
+1354,Activación cuenta,TI,Baja,Asignación de tareas
+1355,Capacitación,Comercial,Alta,Inducción
+1356,Asignación de tareas,TI,Alta,Capacitación
+1357,Inducción,TI,Baja,Capacitación
+1358,Inducción,RRHH,Media,Capacitación
+1359,Asignación de tareas,TI,Baja,Capacitación
+1360,Inducción,Operaciones,Baja,Firma contrato
+1361,Asignación de tareas,TI,Alta,Inducción
+1362,Firma contrato,Operaciones,Media,Capacitación
+1363,Asignación de tareas,Comercial,Media,Activación cuenta
+1364,Asignación de tareas,TI,Media,Firma contrato
+1365,Activación cuenta,RRHH,Media,Activación cuenta
+1366,Firma contrato,Operaciones,Baja,Activación cuenta
+1367,Capacitación,TI,Baja,Firma contrato
+1368,Activación cuenta,Operaciones,Alta,Activación cuenta
+1369,Activación cuenta,RRHH,Media,Activación cuenta
+1370,Inducción,Comercial,Baja,Inducción
+1371,Inducción,Operaciones,Baja,Activación cuenta
+1372,Capacitación,RRHH,Media,Capacitación
+1373,Asignación de tareas,Comercial,Baja,Inducción
+1374,Asignación de tareas,TI,Media,Asignación de tareas
+1375,Capacitación,Operaciones,Media,Inducción
+1376,Firma contrato,TI,Baja,Inducción
+1377,Capacitación,Comercial,Media,Asignación de tareas
+1378,Inducción,TI,Alta,Inducción
+1379,Inducción,Operaciones,Media,Inducción
+1380,Inducción,RRHH,Baja,Activación cuenta
+1381,Activación cuenta,Operaciones,Media,Capacitación
+1382,Capacitación,Operaciones,Baja,Firma contrato
+1383,Capacitación,Comercial,Media,Asignación de tareas
+1384,Activación cuenta,Comercial,Alta,Capacitación
+1385,Capacitación,Comercial,Alta,Inducción
+1386,Firma contrato,RRHH,Alta,Firma contrato
+1387,Asignación de tareas,RRHH,Alta,Capacitación
+1388,Activación cuenta,Comercial,Alta,Inducción
+1389,Capacitación,RRHH,Media,Capacitación
+1390,Firma contrato,RRHH,Alta,Activación cuenta
+1391,Inducción,Comercial,Alta,Capacitación
+1392,Asignación de tareas,Operaciones,Media,Inducción
+1393,Capacitación,Operaciones,Baja,Capacitación
+1394,Firma contrato,Operaciones,Baja,Activación cuenta
+1395,Activación cuenta,Comercial,Alta,Inducción
+1396,Asignación de tareas,Operaciones,Media,Inducción
+1397,Inducción,Operaciones,Alta,Capacitación
+1398,Capacitación,Comercial,Alta,Capacitación
+1399,Capacitación,Comercial,Media,Inducción
+1400,Asignación de tareas,TI,Alta,Activación cuenta
+1401,Inducción,RRHH,Baja,Inducción
+1402,Inducción,Operaciones,Alta,Activación cuenta
+1403,Activación cuenta,TI,Media,Inducción
+1404,Firma contrato,RRHH,Baja,Capacitación
+1405,Asignación de tareas,RRHH,Baja,Firma contrato
+1406,Capacitación,Operaciones,Baja,Firma contrato
+1407,Activación cuenta,RRHH,Media,Firma contrato
+1408,Capacitación,Comercial,Alta,Capacitación
+1409,Firma contrato,TI,Alta,Firma contrato
+1410,Asignación de tareas,TI,Alta,Asignación de tareas
+1411,Firma contrato,RRHH,Media,Inducción
+1412,Asignación de tareas,TI,Baja,Activación cuenta
+1413,Asignación de tareas,Comercial,Baja,Activación cuenta
+1414,Capacitación,Comercial,Alta,Inducción
+1415,Firma contrato,Comercial,Baja,Activación cuenta
+1416,Inducción,TI,Baja,Firma contrato
+1417,Inducción,Comercial,Alta,Asignación de tareas
+1418,Asignación de tareas,RRHH,Baja,Activación cuenta
+1419,Inducción,TI,Media,Activación cuenta
+1420,Activación cuenta,RRHH,Alta,Asignación de tareas
+1421,Activación cuenta,RRHH,Baja,Inducción
+1422,Firma contrato,RRHH,Media,Capacitación
+1423,Asignación de tareas,TI,Alta,Activación cuenta
+1424,Firma contrato,Operaciones,Baja,Activación cuenta
+1425,Inducción,Operaciones,Baja,Capacitación
+1426,Inducción,Operaciones,Alta,Capacitación
+1427,Activación cuenta,TI,Media,Inducción
+1428,Activación cuenta,TI,Alta,Capacitación
+1429,Activación cuenta,TI,Alta,Firma contrato
+1430,Inducción,TI,Baja,Capacitación
+1431,Capacitación,RRHH,Baja,Firma contrato
+1432,Activación cuenta,TI,Baja,Firma contrato
+1433,Capacitación,TI,Baja,Activación cuenta
+1434,Asignación de tareas,RRHH,Media,Firma contrato
+1435,Capacitación,RRHH,Media,Asignación de tareas
+1436,Activación cuenta,Comercial,Media,Activación cuenta
+1437,Inducción,Operaciones,Baja,Inducción
+1438,Asignación de tareas,TI,Alta,Firma contrato
+1439,Capacitación,Operaciones,Alta,Activación cuenta
+1440,Capacitación,Comercial,Media,Inducción
+1441,Activación cuenta,Comercial,Baja,Firma contrato
+1442,Firma contrato,RRHH,Baja,Inducción
+1443,Inducción,Comercial,Alta,Inducción
+1444,Activación cuenta,RRHH,Media,Firma contrato
+1445,Activación cuenta,Operaciones,Baja,Asignación de tareas
+1446,Activación cuenta,Operaciones,Alta,Capacitación
+1447,Inducción,TI,Media,Inducción
+1448,Inducción,Comercial,Media,Activación cuenta
+1449,Activación cuenta,Operaciones,Baja,Asignación de tareas
+1450,Inducción,RRHH,Alta,Capacitación
+1451,Activación cuenta,Comercial,Alta,Inducción
+1452,Asignación de tareas,RRHH,Baja,Asignación de tareas
+1453,Inducción,Operaciones,Alta,Capacitación
+1454,Asignación de tareas,Operaciones,Media,Firma contrato
+1455,Asignación de tareas,Comercial,Media,Inducción
+1456,Inducción,TI,Media,Asignación de tareas
+1457,Asignación de tareas,Operaciones,Media,Activación cuenta
+1458,Activación cuenta,TI,Alta,Firma contrato
+1459,Activación cuenta,Comercial,Alta,Inducción
+1460,Firma contrato,Comercial,Baja,Asignación de tareas
+1461,Capacitación,Comercial,Baja,Inducción
+1462,Activación cuenta,Comercial,Media,Capacitación
+1463,Capacitación,TI,Alta,Asignación de tareas
+1464,Activación cuenta,Operaciones,Media,Firma contrato
+1465,Firma contrato,Comercial,Alta,Firma contrato
+1466,Asignación de tareas,Comercial,Alta,Asignación de tareas
+1467,Activación cuenta,RRHH,Alta,Capacitación
+1468,Capacitación,Comercial,Baja,Firma contrato
+1469,Inducción,Comercial,Baja,Capacitación
+1470,Inducción,Comercial,Baja,Asignación de tareas
+1471,Capacitación,Comercial,Alta,Firma contrato
+1472,Firma contrato,RRHH,Alta,Activación cuenta
+1473,Capacitación,TI,Media,Firma contrato
+1474,Inducción,RRHH,Media,Asignación de tareas
+1475,Firma contrato,Operaciones,Alta,Capacitación
+1476,Inducción,Operaciones,Media,Firma contrato
+1477,Capacitación,RRHH,Baja,Capacitación
+1478,Firma contrato,RRHH,Alta,Inducción
+1479,Firma contrato,TI,Media,Firma contrato
+1480,Firma contrato,TI,Alta,Asignación de tareas
+1481,Capacitación,RRHH,Baja,Inducción
+1482,Asignación de tareas,Operaciones,Media,Capacitación
+1483,Firma contrato,RRHH,Media,Capacitación
+1484,Capacitación,Comercial,Alta,Firma contrato
+1485,Inducción,Operaciones,Media,Asignación de tareas
+1486,Capacitación,TI,Baja,Capacitación
+1487,Capacitación,RRHH,Baja,Activación cuenta
+1488,Inducción,Operaciones,Media,Capacitación
+1489,Capacitación,RRHH,Baja,Capacitación
+1490,Firma contrato,TI,Alta,Capacitación
+1491,Firma contrato,TI,Media,Asignación de tareas
+1492,Asignación de tareas,Operaciones,Baja,Firma contrato
+1493,Asignación de tareas,RRHH,Baja,Firma contrato
+1494,Capacitación,TI,Alta,Asignación de tareas
+1495,Inducción,RRHH,Baja,Firma contrato
+1496,Firma contrato,TI,Baja,Capacitación
+1497,Activación cuenta,TI,Baja,Asignación de tareas
+1498,Inducción,TI,Alta,Firma contrato
+1499,Inducción,TI,Baja,Inducción
+1500,Inducción,Operaciones,Media,Firma contrato
+1501,Inducción,Operaciones,Alta,Activación cuenta
+1502,Inducción,TI,Baja,Activación cuenta
+1503,Inducción,Operaciones,Baja,Inducción
+1504,Capacitación,Operaciones,Alta,Inducción
+1505,Activación cuenta,TI,Alta,Capacitación
+1506,Inducción,Operaciones,Media,Activación cuenta
+1507,Capacitación,Comercial,Media,Asignación de tareas
+1508,Firma contrato,Operaciones,Alta,Asignación de tareas
+1509,Activación cuenta,TI,Alta,Activación cuenta
+1510,Firma contrato,Operaciones,Baja,Asignación de tareas
+1511,Firma contrato,Comercial,Alta,Capacitación
+1512,Asignación de tareas,Comercial,Alta,Inducción
+1513,Capacitación,Comercial,Baja,Capacitación
+1514,Firma contrato,RRHH,Alta,Firma contrato
+1515,Capacitación,Operaciones,Media,Activación cuenta
+1516,Capacitación,Comercial,Alta,Asignación de tareas
+1517,Firma contrato,TI,Alta,Activación cuenta
+1518,Firma contrato,TI,Media,Asignación de tareas
+1519,Capacitación,TI,Alta,Inducción
+1520,Inducción,Operaciones,Media,Firma contrato
+1521,Inducción,TI,Baja,Activación cuenta
+1522,Asignación de tareas,Operaciones,Baja,Capacitación
+1523,Inducción,RRHH,Alta,Capacitación
+1524,Inducción,TI,Media,Activación cuenta
+1525,Asignación de tareas,Comercial,Media,Asignación de tareas
+1526,Firma contrato,Operaciones,Media,Inducción
+1527,Inducción,TI,Baja,Capacitación
+1528,Inducción,TI,Media,Capacitación
+1529,Inducción,RRHH,Media,Asignación de tareas
+1530,Asignación de tareas,RRHH,Baja,Inducción
+1531,Asignación de tareas,RRHH,Media,Inducción
+1532,Firma contrato,Operaciones,Media,Firma contrato
+1533,Asignación de tareas,Comercial,Media,Activación cuenta
+1534,Activación cuenta,TI,Alta,Activación cuenta
+1535,Asignación de tareas,Operaciones,Baja,Capacitación
+1536,Firma contrato,Operaciones,Media,Firma contrato
+1537,Firma contrato,Operaciones,Media,Capacitación
+1538,Activación cuenta,Operaciones,Baja,Activación cuenta
+1539,Asignación de tareas,RRHH,Media,Activación cuenta
+1540,Inducción,Comercial,Media,Firma contrato
+1541,Asignación de tareas,Comercial,Media,Activación cuenta
+1542,Inducción,Operaciones,Alta,Activación cuenta
+1543,Asignación de tareas,TI,Alta,Inducción
+1544,Activación cuenta,Operaciones,Media,Activación cuenta
+1545,Inducción,Operaciones,Baja,Capacitación
+1546,Inducción,Comercial,Alta,Capacitación
+1547,Asignación de tareas,RRHH,Baja,Capacitación
+1548,Asignación de tareas,RRHH,Baja,Asignación de tareas
+1549,Firma contrato,Comercial,Alta,Inducción
+1550,Capacitación,RRHH,Alta,Asignación de tareas
+1551,Activación cuenta,Comercial,Alta,Inducción
+1552,Activación cuenta,Operaciones,Alta,Activación cuenta
+1553,Inducción,TI,Media,Inducción
+1554,Capacitación,Comercial,Baja,Asignación de tareas
+1555,Capacitación,Operaciones,Media,Inducción
+1556,Activación cuenta,TI,Baja,Asignación de tareas
+1557,Activación cuenta,Operaciones,Baja,Inducción
+1558,Activación cuenta,RRHH,Alta,Inducción
+1559,Inducción,Operaciones,Media,Inducción
+1560,Firma contrato,TI,Baja,Inducción
+1561,Capacitación,RRHH,Baja,Capacitación
+1562,Asignación de tareas,RRHH,Media,Capacitación
+1563,Inducción,TI,Media,Capacitación
+1564,Firma contrato,Comercial,Baja,Asignación de tareas
+1565,Firma contrato,RRHH,Media,Capacitación
+1566,Capacitación,TI,Media,Inducción
+1567,Firma contrato,Comercial,Alta,Inducción
+1568,Capacitación,RRHH,Media,Activación cuenta
+1569,Activación cuenta,Comercial,Alta,Inducción
+1570,Firma contrato,Operaciones,Media,Capacitación
+1571,Capacitación,TI,Media,Capacitación
+1572,Asignación de tareas,Operaciones,Alta,Inducción
+1573,Activación cuenta,Operaciones,Baja,Capacitación
+1574,Asignación de tareas,Comercial,Baja,Inducción
+1575,Asignación de tareas,Operaciones,Alta,Inducción
+1576,Activación cuenta,Operaciones,Media,Capacitación
+1577,Activación cuenta,TI,Media,Asignación de tareas
+1578,Asignación de tareas,TI,Alta,Asignación de tareas
+1579,Inducción,RRHH,Baja,Capacitación
+1580,Inducción,Operaciones,Media,Asignación de tareas
+1581,Capacitación,TI,Baja,Firma contrato
+1582,Firma contrato,RRHH,Baja,Inducción
+1583,Firma contrato,Comercial,Baja,Capacitación
+1584,Capacitación,Comercial,Alta,Firma contrato
+1585,Inducción,TI,Alta,Activación cuenta
+1586,Capacitación,Comercial,Alta,Inducción
+1587,Inducción,TI,Media,Capacitación
+1588,Inducción,Operaciones,Media,Inducción
+1589,Capacitación,TI,Media,Firma contrato
+1590,Capacitación,RRHH,Alta,Asignación de tareas
+1591,Capacitación,Comercial,Baja,Firma contrato
+1592,Firma contrato,Comercial,Media,Inducción
+1593,Capacitación,RRHH,Alta,Inducción
+1594,Capacitación,Comercial,Alta,Inducción
+1595,Capacitación,Operaciones,Alta,Asignación de tareas
+1596,Activación cuenta,Operaciones,Alta,Activación cuenta
+1597,Inducción,Operaciones,Media,Firma contrato
+1598,Asignación de tareas,TI,Baja,Capacitación
+1599,Activación cuenta,Operaciones,Alta,Firma contrato
+1600,Capacitación,RRHH,Media,Firma contrato
+1601,Capacitación,Comercial,Alta,Inducción
+1602,Activación cuenta,Comercial,Baja,Asignación de tareas
+1603,Capacitación,TI,Alta,Inducción
+1604,Inducción,TI,Alta,Firma contrato
+1605,Activación cuenta,RRHH,Alta,Inducción
+1606,Capacitación,TI,Alta,Inducción
+1607,Firma contrato,Comercial,Alta,Activación cuenta
+1608,Asignación de tareas,Operaciones,Alta,Capacitación
+1609,Firma contrato,TI,Baja,Asignación de tareas
+1610,Firma contrato,TI,Alta,Firma contrato
+1611,Activación cuenta,TI,Media,Inducción
+1612,Firma contrato,Operaciones,Baja,Firma contrato
+1613,Asignación de tareas,Operaciones,Alta,Inducción
+1614,Inducción,Operaciones,Alta,Capacitación
+1615,Firma contrato,TI,Baja,Activación cuenta
+1616,Capacitación,TI,Alta,Inducción
+1617,Activación cuenta,RRHH,Baja,Inducción
+1618,Capacitación,RRHH,Baja,Asignación de tareas
+1619,Capacitación,Comercial,Baja,Inducción
+1620,Inducción,TI,Media,Activación cuenta
+1621,Firma contrato,Comercial,Alta,Asignación de tareas
+1622,Firma contrato,Comercial,Baja,Inducción
+1623,Activación cuenta,TI,Alta,Inducción
+1624,Capacitación,TI,Baja,Asignación de tareas
+1625,Asignación de tareas,TI,Alta,Asignación de tareas
+1626,Activación cuenta,Operaciones,Baja,Inducción
+1627,Inducción,RRHH,Alta,Activación cuenta
+1628,Activación cuenta,Operaciones,Baja,Inducción
+1629,Firma contrato,TI,Alta,Firma contrato
+1630,Asignación de tareas,Operaciones,Media,Activación cuenta
+1631,Firma contrato,RRHH,Baja,Activación cuenta
+1632,Firma contrato,TI,Alta,Activación cuenta
+1633,Capacitación,RRHH,Baja,Capacitación
+1634,Activación cuenta,Operaciones,Baja,Inducción
+1635,Inducción,TI,Media,Firma contrato
+1636,Activación cuenta,Comercial,Baja,Activación cuenta
+1637,Activación cuenta,TI,Baja,Capacitación
+1638,Inducción,Comercial,Media,Capacitación
+1639,Inducción,TI,Alta,Inducción
+1640,Capacitación,Operaciones,Media,Capacitación
+1641,Capacitación,Comercial,Baja,Activación cuenta
+1642,Firma contrato,Comercial,Media,Activación cuenta
+1643,Inducción,RRHH,Media,Activación cuenta
+1644,Firma contrato,RRHH,Baja,Activación cuenta
+1645,Inducción,Operaciones,Baja,Capacitación
+1646,Inducción,Comercial,Baja,Activación cuenta
+1647,Asignación de tareas,Comercial,Baja,Activación cuenta
+1648,Asignación de tareas,TI,Baja,Activación cuenta
+1649,Capacitación,Comercial,Baja,Activación cuenta
+1650,Activación cuenta,Comercial,Baja,Firma contrato
+1651,Capacitación,Operaciones,Baja,Capacitación
+1652,Inducción,Comercial,Baja,Capacitación
+1653,Firma contrato,TI,Media,Asignación de tareas
+1654,Capacitación,Operaciones,Media,Asignación de tareas
+1655,Asignación de tareas,RRHH,Alta,Firma contrato
+1656,Activación cuenta,TI,Media,Asignación de tareas
+1657,Activación cuenta,TI,Baja,Capacitación
+1658,Asignación de tareas,Operaciones,Alta,Asignación de tareas
+1659,Inducción,Comercial,Alta,Capacitación
+1660,Capacitación,Operaciones,Baja,Asignación de tareas
+1661,Firma contrato,Comercial,Baja,Capacitación
+1662,Firma contrato,TI,Baja,Firma contrato
+1663,Capacitación,Operaciones,Alta,Inducción
+1664,Firma contrato,Comercial,Media,Asignación de tareas
+1665,Firma contrato,Comercial,Baja,Asignación de tareas
+1666,Inducción,Comercial,Alta,Capacitación
+1667,Capacitación,Operaciones,Baja,Inducción
+1668,Activación cuenta,RRHH,Baja,Capacitación
+1669,Asignación de tareas,RRHH,Media,Firma contrato
+1670,Activación cuenta,Operaciones,Alta,Activación cuenta
+1671,Asignación de tareas,RRHH,Baja,Activación cuenta
+1672,Asignación de tareas,TI,Alta,Activación cuenta
+1673,Asignación de tareas,TI,Media,Asignación de tareas
+1674,Activación cuenta,TI,Baja,Activación cuenta
+1675,Asignación de tareas,RRHH,Alta,Firma contrato
+1676,Capacitación,TI,Alta,Asignación de tareas
+1677,Activación cuenta,RRHH,Media,Capacitación
+1678,Capacitación,Operaciones,Alta,Firma contrato
+1679,Firma contrato,Operaciones,Baja,Inducción
+1680,Firma contrato,Operaciones,Baja,Firma contrato
+1681,Activación cuenta,TI,Baja,Inducción
+1682,Inducción,TI,Media,Capacitación
+1683,Asignación de tareas,Comercial,Baja,Activación cuenta
+1684,Capacitación,Comercial,Baja,Activación cuenta
+1685,Activación cuenta,TI,Media,Firma contrato
+1686,Capacitación,Comercial,Alta,Asignación de tareas
+1687,Asignación de tareas,Comercial,Alta,Capacitación
+1688,Firma contrato,RRHH,Baja,Activación cuenta
+1689,Capacitación,Operaciones,Alta,Inducción
+1690,Activación cuenta,Comercial,Baja,Inducción
+1691,Firma contrato,Operaciones,Media,Firma contrato
+1692,Asignación de tareas,RRHH,Baja,Asignación de tareas
+1693,Asignación de tareas,RRHH,Baja,Inducción
+1694,Activación cuenta,RRHH,Baja,Capacitación
+1695,Inducción,TI,Alta,Activación cuenta
+1696,Asignación de tareas,Operaciones,Baja,Inducción
+1697,Capacitación,Operaciones,Baja,Firma contrato
+1698,Activación cuenta,TI,Media,Capacitación
+1699,Activación cuenta,TI,Baja,Inducción
+1700,Firma contrato,RRHH,Baja,Inducción
+1701,Firma contrato,TI,Baja,Asignación de tareas
+1702,Activación cuenta,TI,Baja,Asignación de tareas
+1703,Firma contrato,RRHH,Media,Activación cuenta
+1704,Capacitación,RRHH,Media,Inducción
+1705,Firma contrato,Operaciones,Baja,Firma contrato
+1706,Inducción,Operaciones,Baja,Firma contrato
+1707,Asignación de tareas,RRHH,Baja,Inducción
+1708,Asignación de tareas,TI,Media,Firma contrato
+1709,Firma contrato,Operaciones,Baja,Capacitación
+1710,Capacitación,TI,Media,Activación cuenta
+1711,Activación cuenta,TI,Alta,Capacitación
+1712,Capacitación,TI,Baja,Inducción
+1713,Inducción,RRHH,Media,Inducción
+1714,Capacitación,RRHH,Alta,Activación cuenta
+1715,Firma contrato,TI,Baja,Capacitación
+1716,Inducción,Operaciones,Media,Capacitación
+1717,Asignación de tareas,TI,Media,Firma contrato
+1718,Firma contrato,Operaciones,Alta,Inducción
+1719,Activación cuenta,Comercial,Baja,Capacitación
+1720,Activación cuenta,Comercial,Media,Capacitación
+1721,Capacitación,TI,Alta,Activación cuenta
+1722,Capacitación,Operaciones,Alta,Asignación de tareas
+1723,Asignación de tareas,Operaciones,Baja,Firma contrato
+1724,Activación cuenta,TI,Baja,Firma contrato
+1725,Inducción,Operaciones,Alta,Asignación de tareas
+1726,Activación cuenta,Operaciones,Media,Asignación de tareas
+1727,Firma contrato,TI,Baja,Activación cuenta
+1728,Asignación de tareas,Operaciones,Media,Activación cuenta
+1729,Activación cuenta,TI,Alta,Capacitación
+1730,Firma contrato,Operaciones,Alta,Activación cuenta
+1731,Inducción,TI,Media,Firma contrato
+1732,Activación cuenta,Comercial,Alta,Activación cuenta
+1733,Inducción,TI,Baja,Asignación de tareas
+1734,Activación cuenta,RRHH,Alta,Inducción
+1735,Capacitación,RRHH,Baja,Firma contrato
+1736,Asignación de tareas,Operaciones,Alta,Capacitación
+1737,Firma contrato,Comercial,Baja,Capacitación
+1738,Firma contrato,Operaciones,Alta,Inducción
+1739,Activación cuenta,RRHH,Media,Firma contrato
+1740,Asignación de tareas,RRHH,Alta,Activación cuenta
+1741,Capacitación,RRHH,Baja,Capacitación
+1742,Capacitación,Comercial,Alta,Inducción
+1743,Asignación de tareas,TI,Baja,Firma contrato
+1744,Asignación de tareas,RRHH,Media,Firma contrato
+1745,Firma contrato,Comercial,Baja,Inducción
+1746,Asignación de tareas,TI,Media,Inducción
+1747,Capacitación,Operaciones,Media,Asignación de tareas
+1748,Asignación de tareas,Comercial,Alta,Inducción
+1749,Inducción,RRHH,Alta,Capacitación
+1750,Asignación de tareas,RRHH,Alta,Capacitación
+1751,Inducción,Comercial,Media,Inducción
+1752,Inducción,Comercial,Alta,Capacitación
+1753,Capacitación,RRHH,Alta,Firma contrato
+1754,Asignación de tareas,Comercial,Baja,Asignación de tareas
+1755,Asignación de tareas,Operaciones,Media,Asignación de tareas
+1756,Firma contrato,TI,Baja,Capacitación
+1757,Activación cuenta,TI,Baja,Asignación de tareas
+1758,Asignación de tareas,RRHH,Alta,Capacitación
+1759,Firma contrato,Operaciones,Media,Asignación de tareas
+1760,Inducción,Operaciones,Alta,Activación cuenta
+1761,Activación cuenta,Comercial,Media,Asignación de tareas
+1762,Asignación de tareas,Operaciones,Alta,Firma contrato
+1763,Asignación de tareas,Comercial,Media,Asignación de tareas
+1764,Asignación de tareas,Operaciones,Baja,Asignación de tareas
+1765,Capacitación,RRHH,Media,Inducción
+1766,Firma contrato,Comercial,Baja,Inducción
+1767,Asignación de tareas,RRHH,Baja,Activación cuenta
+1768,Capacitación,TI,Alta,Inducción
+1769,Asignación de tareas,TI,Alta,Capacitación
+1770,Firma contrato,RRHH,Alta,Inducción
+1771,Activación cuenta,RRHH,Media,Asignación de tareas
+1772,Activación cuenta,Comercial,Baja,Asignación de tareas
+1773,Asignación de tareas,Operaciones,Baja,Inducción
+1774,Inducción,Operaciones,Media,Inducción
+1775,Firma contrato,Comercial,Alta,Capacitación
+1776,Inducción,Operaciones,Baja,Inducción
+1777,Inducción,RRHH,Media,Firma contrato
+1778,Activación cuenta,TI,Alta,Activación cuenta
+1779,Asignación de tareas,RRHH,Alta,Activación cuenta
+1780,Inducción,Operaciones,Media,Asignación de tareas
+1781,Asignación de tareas,Comercial,Media,Asignación de tareas
+1782,Capacitación,Comercial,Alta,Capacitación
+1783,Asignación de tareas,Operaciones,Baja,Asignación de tareas
+1784,Asignación de tareas,Operaciones,Alta,Activación cuenta
+1785,Capacitación,RRHH,Alta,Capacitación
+1786,Firma contrato,Operaciones,Alta,Capacitación
+1787,Capacitación,Operaciones,Media,Asignación de tareas
+1788,Capacitación,RRHH,Alta,Activación cuenta
+1789,Firma contrato,Comercial,Alta,Activación cuenta
+1790,Inducción,Comercial,Alta,Capacitación
+1791,Firma contrato,RRHH,Media,Firma contrato
+1792,Firma contrato,Comercial,Baja,Capacitación
+1793,Activación cuenta,Comercial,Media,Inducción
+1794,Firma contrato,Operaciones,Alta,Asignación de tareas
+1795,Capacitación,RRHH,Alta,Inducción
+1796,Activación cuenta,Comercial,Alta,Asignación de tareas
+1797,Inducción,Comercial,Media,Capacitación
+1798,Inducción,Operaciones,Alta,Asignación de tareas
+1799,Inducción,RRHH,Alta,Capacitación
+1800,Inducción,RRHH,Alta,Firma contrato
+1801,Firma contrato,Operaciones,Baja,Capacitación
+1802,Firma contrato,Operaciones,Baja,Activación cuenta
+1803,Activación cuenta,Comercial,Baja,Inducción
+1804,Inducción,RRHH,Baja,Capacitación
+1805,Inducción,Operaciones,Baja,Activación cuenta
+1806,Asignación de tareas,Comercial,Baja,Asignación de tareas
+1807,Capacitación,RRHH,Media,Firma contrato
+1808,Firma contrato,TI,Baja,Capacitación
+1809,Firma contrato,RRHH,Media,Inducción
+1810,Inducción,RRHH,Baja,Firma contrato
+1811,Asignación de tareas,TI,Media,Activación cuenta
+1812,Capacitación,RRHH,Media,Inducción
+1813,Activación cuenta,Operaciones,Alta,Activación cuenta
+1814,Firma contrato,Operaciones,Media,Firma contrato
+1815,Asignación de tareas,RRHH,Media,Activación cuenta
+1816,Firma contrato,RRHH,Alta,Activación cuenta
+1817,Asignación de tareas,TI,Media,Capacitación
+1818,Inducción,TI,Alta,Firma contrato
+1819,Capacitación,TI,Alta,Firma contrato
+1820,Inducción,Comercial,Alta,Asignación de tareas
+1821,Activación cuenta,TI,Baja,Firma contrato
+1822,Asignación de tareas,RRHH,Media,Firma contrato
+1823,Inducción,Comercial,Baja,Asignación de tareas
+1824,Inducción,Comercial,Media,Inducción
+1825,Activación cuenta,TI,Media,Capacitación
+1826,Inducción,RRHH,Baja,Activación cuenta
+1827,Asignación de tareas,RRHH,Alta,Firma contrato
+1828,Asignación de tareas,TI,Baja,Firma contrato
+1829,Inducción,Comercial,Alta,Asignación de tareas
+1830,Inducción,Comercial,Media,Asignación de tareas
+1831,Capacitación,Operaciones,Baja,Capacitación
+1832,Inducción,TI,Alta,Asignación de tareas
+1833,Activación cuenta,Operaciones,Alta,Inducción
+1834,Activación cuenta,TI,Baja,Inducción
+1835,Firma contrato,Comercial,Media,Asignación de tareas
+1836,Capacitación,Operaciones,Media,Firma contrato
+1837,Capacitación,TI,Media,Capacitación
+1838,Asignación de tareas,RRHH,Alta,Inducción
+1839,Asignación de tareas,Comercial,Media,Capacitación
+1840,Firma contrato,RRHH,Alta,Asignación de tareas
+1841,Inducción,RRHH,Alta,Capacitación
+1842,Firma contrato,Comercial,Alta,Inducción
+1843,Capacitación,RRHH,Alta,Inducción
+1844,Activación cuenta,RRHH,Media,Firma contrato
+1845,Asignación de tareas,Comercial,Baja,Inducción
+1846,Asignación de tareas,Comercial,Media,Activación cuenta
+1847,Firma contrato,TI,Baja,Firma contrato
+1848,Inducción,Comercial,Baja,Firma contrato
+1849,Activación cuenta,RRHH,Alta,Activación cuenta
+1850,Capacitación,Operaciones,Baja,Asignación de tareas
+1851,Activación cuenta,RRHH,Media,Capacitación
+1852,Inducción,RRHH,Media,Inducción
+1853,Capacitación,Comercial,Media,Inducción
+1854,Capacitación,RRHH,Baja,Inducción
+1855,Asignación de tareas,Comercial,Alta,Capacitación
+1856,Inducción,TI,Alta,Capacitación
+1857,Firma contrato,RRHH,Baja,Capacitación
+1858,Inducción,RRHH,Alta,Asignación de tareas
+1859,Firma contrato,Operaciones,Alta,Asignación de tareas
+1860,Firma contrato,Comercial,Baja,Capacitación
+1861,Firma contrato,RRHH,Alta,Firma contrato
+1862,Activación cuenta,Comercial,Media,Inducción
+1863,Firma contrato,TI,Media,Firma contrato
+1864,Capacitación,RRHH,Media,Capacitación
+1865,Capacitación,Comercial,Alta,Firma contrato
+1866,Capacitación,RRHH,Alta,Asignación de tareas
+1867,Activación cuenta,TI,Baja,Firma contrato
+1868,Firma contrato,Comercial,Alta,Activación cuenta
+1869,Inducción,RRHH,Alta,Asignación de tareas
+1870,Activación cuenta,TI,Alta,Inducción
+1871,Capacitación,RRHH,Alta,Asignación de tareas
+1872,Inducción,RRHH,Alta,Asignación de tareas
+1873,Capacitación,Operaciones,Baja,Inducción
+1874,Asignación de tareas,TI,Media,Asignación de tareas
+1875,Capacitación,RRHH,Media,Activación cuenta
+1876,Capacitación,RRHH,Media,Capacitación
+1877,Firma contrato,Operaciones,Baja,Capacitación
+1878,Inducción,RRHH,Media,Asignación de tareas
+1879,Capacitación,RRHH,Alta,Inducción
+1880,Capacitación,TI,Media,Asignación de tareas
+1881,Capacitación,Operaciones,Baja,Asignación de tareas
+1882,Inducción,RRHH,Baja,Activación cuenta
+1883,Capacitación,RRHH,Alta,Inducción
+1884,Capacitación,TI,Baja,Firma contrato
+1885,Activación cuenta,RRHH,Baja,Firma contrato
+1886,Activación cuenta,RRHH,Alta,Inducción
+1887,Capacitación,Operaciones,Media,Activación cuenta
+1888,Asignación de tareas,RRHH,Media,Capacitación
+1889,Firma contrato,RRHH,Alta,Inducción
+1890,Inducción,Comercial,Alta,Activación cuenta
+1891,Activación cuenta,RRHH,Media,Firma contrato
+1892,Capacitación,TI,Media,Firma contrato
+1893,Asignación de tareas,RRHH,Media,Firma contrato
+1894,Capacitación,TI,Alta,Asignación de tareas
+1895,Capacitación,Comercial,Baja,Activación cuenta
+1896,Activación cuenta,RRHH,Media,Asignación de tareas
+1897,Asignación de tareas,RRHH,Alta,Capacitación
+1898,Inducción,TI,Media,Asignación de tareas
+1899,Activación cuenta,TI,Media,Inducción
+1900,Asignación de tareas,Comercial,Baja,Activación cuenta
+1901,Asignación de tareas,RRHH,Media,Activación cuenta
+1902,Activación cuenta,Comercial,Alta,Inducción
+1903,Asignación de tareas,Comercial,Media,Capacitación
+1904,Firma contrato,RRHH,Alta,Inducción
+1905,Capacitación,TI,Baja,Firma contrato
+1906,Firma contrato,TI,Alta,Capacitación
+1907,Inducción,RRHH,Alta,Capacitación
+1908,Inducción,TI,Baja,Asignación de tareas
+1909,Activación cuenta,Comercial,Media,Inducción
+1910,Capacitación,Operaciones,Alta,Firma contrato
+1911,Capacitación,TI,Media,Activación cuenta
+1912,Capacitación,RRHH,Alta,Inducción
+1913,Asignación de tareas,RRHH,Alta,Inducción
+1914,Asignación de tareas,RRHH,Baja,Activación cuenta
+1915,Firma contrato,Comercial,Media,Capacitación
+1916,Inducción,Comercial,Baja,Inducción
+1917,Inducción,Operaciones,Media,Capacitación
+1918,Firma contrato,RRHH,Baja,Asignación de tareas
+1919,Capacitación,Operaciones,Baja,Activación cuenta
+1920,Activación cuenta,RRHH,Alta,Firma contrato
+1921,Inducción,TI,Alta,Asignación de tareas
+1922,Asignación de tareas,Operaciones,Baja,Firma contrato
+1923,Firma contrato,RRHH,Baja,Activación cuenta
+1924,Activación cuenta,Comercial,Alta,Inducción
+1925,Asignación de tareas,TI,Media,Asignación de tareas
+1926,Inducción,TI,Alta,Inducción
+1927,Asignación de tareas,Comercial,Baja,Asignación de tareas
+1928,Capacitación,RRHH,Baja,Firma contrato
+1929,Activación cuenta,RRHH,Media,Inducción
+1930,Asignación de tareas,RRHH,Baja,Inducción
+1931,Capacitación,Operaciones,Alta,Activación cuenta
+1932,Capacitación,RRHH,Alta,Activación cuenta
+1933,Capacitación,TI,Alta,Capacitación
+1934,Capacitación,Comercial,Alta,Asignación de tareas
+1935,Inducción,RRHH,Alta,Asignación de tareas
+1936,Asignación de tareas,Comercial,Media,Asignación de tareas
+1937,Capacitación,RRHH,Media,Activación cuenta
+1938,Activación cuenta,TI,Alta,Activación cuenta
+1939,Capacitación,RRHH,Alta,Asignación de tareas
+1940,Activación cuenta,Comercial,Alta,Inducción
+1941,Capacitación,TI,Baja,Activación cuenta
+1942,Capacitación,Comercial,Baja,Firma contrato
+1943,Asignación de tareas,Operaciones,Media,Activación cuenta
+1944,Asignación de tareas,Comercial,Media,Activación cuenta
+1945,Inducción,Comercial,Media,Capacitación
+1946,Firma contrato,Operaciones,Baja,Capacitación
+1947,Capacitación,RRHH,Baja,Firma contrato
+1948,Inducción,TI,Alta,Capacitación
+1949,Asignación de tareas,Comercial,Baja,Inducción
+1950,Asignación de tareas,Operaciones,Baja,Asignación de tareas
+1951,Firma contrato,Comercial,Baja,Activación cuenta
+1952,Asignación de tareas,RRHH,Media,Firma contrato
+1953,Inducción,TI,Media,Asignación de tareas
+1954,Inducción,Operaciones,Baja,Inducción
+1955,Capacitación,TI,Baja,Capacitación
+1956,Capacitación,TI,Baja,Firma contrato
+1957,Asignación de tareas,RRHH,Baja,Inducción
+1958,Inducción,Comercial,Media,Activación cuenta
+1959,Inducción,TI,Media,Activación cuenta
+1960,Firma contrato,Operaciones,Alta,Activación cuenta
+1961,Activación cuenta,TI,Alta,Capacitación
+1962,Activación cuenta,Comercial,Baja,Asignación de tareas
+1963,Firma contrato,RRHH,Alta,Capacitación
+1964,Firma contrato,RRHH,Alta,Inducción
+1965,Capacitación,RRHH,Alta,Asignación de tareas
+1966,Firma contrato,Operaciones,Baja,Asignación de tareas
+1967,Inducción,Operaciones,Media,Activación cuenta
+1968,Asignación de tareas,RRHH,Baja,Inducción
+1969,Activación cuenta,TI,Alta,Asignación de tareas
+1970,Firma contrato,Operaciones,Baja,Asignación de tareas
+1971,Inducción,Comercial,Media,Firma contrato
+1972,Firma contrato,Comercial,Media,Activación cuenta
+1973,Inducción,Comercial,Media,Firma contrato
+1974,Activación cuenta,Operaciones,Baja,Firma contrato
+1975,Asignación de tareas,Operaciones,Alta,Inducción
+1976,Inducción,RRHH,Alta,Asignación de tareas
+1977,Asignación de tareas,Operaciones,Baja,Firma contrato
+1978,Asignación de tareas,TI,Alta,Firma contrato
+1979,Asignación de tareas,Comercial,Media,Asignación de tareas
+1980,Capacitación,Comercial,Baja,Inducción
+1981,Firma contrato,TI,Media,Firma contrato
+1982,Inducción,Operaciones,Media,Asignación de tareas
+1983,Asignación de tareas,TI,Baja,Firma contrato
+1984,Firma contrato,Comercial,Baja,Inducción
+1985,Asignación de tareas,TI,Media,Activación cuenta
+1986,Activación cuenta,TI,Media,Asignación de tareas
+1987,Inducción,TI,Alta,Activación cuenta
+1988,Firma contrato,RRHH,Baja,Firma contrato
+1989,Asignación de tareas,Comercial,Alta,Asignación de tareas
+1990,Activación cuenta,TI,Media,Firma contrato
+1991,Activación cuenta,RRHH,Media,Inducción
+1992,Activación cuenta,Comercial,Media,Asignación de tareas
+1993,Asignación de tareas,RRHH,Alta,Firma contrato
+1994,Inducción,RRHH,Alta,Inducción
+1995,Asignación de tareas,TI,Media,Activación cuenta
+1996,Inducción,RRHH,Baja,Capacitación
+1997,Capacitación,Comercial,Media,Activación cuenta
+1998,Inducción,TI,Baja,Asignación de tareas
+1999,Asignación de tareas,TI,Alta,Inducción
+2000,Inducción,RRHH,Baja,Inducción
+2001,Asignación de tareas,Comercial,Alta,Firma contrato
+2002,Activación cuenta,RRHH,Media,Asignación de tareas
+2003,Asignación de tareas,Comercial,Alta,Firma contrato
+2004,Capacitación,RRHH,Media,Capacitación
+2005,Asignación de tareas,RRHH,Baja,Capacitación
+2006,Capacitación,Comercial,Media,Firma contrato
+2007,Firma contrato,TI,Alta,Activación cuenta
+2008,Asignación de tareas,Operaciones,Media,Capacitación
+2009,Activación cuenta,Comercial,Media,Inducción
+2010,Activación cuenta,Comercial,Alta,Firma contrato
+2011,Inducción,TI,Media,Asignación de tareas
+2012,Inducción,Comercial,Alta,Capacitación
+2013,Activación cuenta,Operaciones,Media,Capacitación
+2014,Capacitación,TI,Media,Asignación de tareas
+2015,Activación cuenta,TI,Alta,Inducción
+2016,Activación cuenta,Operaciones,Alta,Inducción
+2017,Capacitación,RRHH,Alta,Asignación de tareas
+2018,Inducción,Operaciones,Baja,Inducción
+2019,Capacitación,Operaciones,Media,Inducción
+2020,Activación cuenta,Comercial,Baja,Activación cuenta
+2021,Firma contrato,Operaciones,Alta,Firma contrato
+2022,Firma contrato,Comercial,Media,Firma contrato
+2023,Capacitación,TI,Media,Inducción
+2024,Firma contrato,Comercial,Alta,Capacitación
+2025,Inducción,Comercial,Alta,Activación cuenta
+2026,Firma contrato,TI,Baja,Activación cuenta
+2027,Activación cuenta,Operaciones,Media,Activación cuenta
+2028,Inducción,Comercial,Alta,Firma contrato
+2029,Activación cuenta,TI,Media,Activación cuenta
+2030,Firma contrato,TI,Media,Activación cuenta
+2031,Capacitación,Operaciones,Alta,Asignación de tareas
+2032,Asignación de tareas,Comercial,Media,Firma contrato
+2033,Asignación de tareas,RRHH,Alta,Inducción
+2034,Inducción,Operaciones,Media,Inducción
+2035,Activación cuenta,Comercial,Alta,Activación cuenta
+2036,Firma contrato,Comercial,Media,Firma contrato
+2037,Firma contrato,Operaciones,Media,Capacitación
+2038,Capacitación,RRHH,Baja,Firma contrato
+2039,Firma contrato,RRHH,Media,Inducción
+2040,Firma contrato,TI,Alta,Inducción
+2041,Inducción,TI,Baja,Inducción
+2042,Firma contrato,Operaciones,Baja,Firma contrato
+2043,Asignación de tareas,RRHH,Baja,Inducción
+2044,Inducción,TI,Alta,Asignación de tareas
+2045,Activación cuenta,Operaciones,Alta,Activación cuenta
+2046,Asignación de tareas,TI,Baja,Asignación de tareas
+2047,Activación cuenta,Comercial,Alta,Inducción
+2048,Capacitación,Operaciones,Media,Capacitación
+2049,Asignación de tareas,RRHH,Baja,Capacitación
+2050,Capacitación,TI,Alta,Firma contrato
+2051,Firma contrato,Comercial,Baja,Activación cuenta
+2052,Firma contrato,Operaciones,Alta,Firma contrato
+2053,Inducción,RRHH,Media,Activación cuenta
+2054,Inducción,Comercial,Alta,Asignación de tareas
+2055,Capacitación,Comercial,Baja,Capacitación
+2056,Inducción,Operaciones,Alta,Firma contrato
+2057,Asignación de tareas,TI,Media,Capacitación
+2058,Capacitación,TI,Alta,Firma contrato
+2059,Activación cuenta,Comercial,Alta,Activación cuenta
+2060,Asignación de tareas,Operaciones,Alta,Firma contrato
+2061,Asignación de tareas,Operaciones,Media,Asignación de tareas
+2062,Capacitación,TI,Baja,Firma contrato
+2063,Capacitación,Comercial,Media,Firma contrato
+2064,Capacitación,Comercial,Alta,Asignación de tareas
+2065,Asignación de tareas,TI,Alta,Firma contrato
+2066,Capacitación,RRHH,Alta,Inducción
+2067,Activación cuenta,TI,Media,Activación cuenta
+2068,Capacitación,TI,Alta,Inducción
+2069,Asignación de tareas,RRHH,Baja,Asignación de tareas
+2070,Asignación de tareas,Comercial,Baja,Capacitación
+2071,Firma contrato,Comercial,Baja,Asignación de tareas
+2072,Capacitación,Comercial,Baja,Inducción
+2073,Activación cuenta,RRHH,Media,Asignación de tareas
+2074,Capacitación,Comercial,Baja,Capacitación
+2075,Activación cuenta,Operaciones,Alta,Firma contrato
+2076,Capacitación,Operaciones,Media,Inducción
+2077,Activación cuenta,TI,Alta,Firma contrato
+2078,Capacitación,TI,Alta,Capacitación
+2079,Capacitación,Comercial,Baja,Firma contrato
+2080,Asignación de tareas,Comercial,Baja,Asignación de tareas
+2081,Capacitación,TI,Baja,Asignación de tareas
+2082,Inducción,TI,Alta,Inducción
+2083,Firma contrato,Comercial,Media,Capacitación
+2084,Firma contrato,Comercial,Baja,Inducción
+2085,Activación cuenta,Comercial,Media,Capacitación
+2086,Activación cuenta,TI,Baja,Activación cuenta
+2087,Asignación de tareas,TI,Alta,Inducción
+2088,Firma contrato,RRHH,Baja,Inducción
+2089,Inducción,Operaciones,Baja,Activación cuenta
+2090,Inducción,Comercial,Baja,Capacitación
+2091,Asignación de tareas,RRHH,Media,Inducción
+2092,Asignación de tareas,Comercial,Alta,Activación cuenta
+2093,Inducción,TI,Media,Capacitación
+2094,Activación cuenta,Comercial,Alta,Firma contrato
+2095,Inducción,Operaciones,Alta,Asignación de tareas
+2096,Inducción,Comercial,Baja,Activación cuenta
+2097,Capacitación,TI,Baja,Activación cuenta
+2098,Activación cuenta,RRHH,Baja,Asignación de tareas
+2099,Firma contrato,TI,Baja,Asignación de tareas
+2100,Asignación de tareas,TI,Media,Activación cuenta
+2101,Asignación de tareas,RRHH,Baja,Activación cuenta
+2102,Activación cuenta,TI,Media,Capacitación
+2103,Activación cuenta,RRHH,Media,Asignación de tareas
+2104,Capacitación,Operaciones,Media,Inducción
+2105,Asignación de tareas,TI,Baja,Activación cuenta
+2106,Firma contrato,Comercial,Baja,Firma contrato
+2107,Firma contrato,TI,Alta,Capacitación
+2108,Activación cuenta,RRHH,Media,Asignación de tareas
+2109,Activación cuenta,Operaciones,Media,Activación cuenta
+2110,Capacitación,Operaciones,Alta,Asignación de tareas
+2111,Firma contrato,Operaciones,Media,Inducción
+2112,Activación cuenta,Comercial,Alta,Capacitación
+2113,Activación cuenta,RRHH,Alta,Asignación de tareas
+2114,Firma contrato,Comercial,Baja,Inducción
+2115,Asignación de tareas,RRHH,Alta,Capacitación
+2116,Asignación de tareas,Comercial,Alta,Activación cuenta
+2117,Inducción,Operaciones,Baja,Activación cuenta
+2118,Capacitación,RRHH,Media,Capacitación
+2119,Capacitación,TI,Baja,Capacitación
+2120,Asignación de tareas,Operaciones,Baja,Activación cuenta
+2121,Asignación de tareas,Comercial,Alta,Asignación de tareas
+2122,Activación cuenta,TI,Alta,Asignación de tareas
+2123,Firma contrato,TI,Alta,Inducción
+2124,Inducción,TI,Alta,Asignación de tareas
+2125,Firma contrato,Comercial,Media,Firma contrato
+2126,Activación cuenta,Operaciones,Media,Firma contrato
+2127,Asignación de tareas,Comercial,Baja,Inducción
+2128,Inducción,TI,Baja,Firma contrato
+2129,Capacitación,Operaciones,Alta,Inducción
+2130,Capacitación,TI,Baja,Firma contrato
+2131,Capacitación,RRHH,Baja,Activación cuenta
+2132,Inducción,Comercial,Media,Asignación de tareas
+2133,Inducción,TI,Baja,Firma contrato
+2134,Activación cuenta,TI,Baja,Asignación de tareas
+2135,Asignación de tareas,Operaciones,Baja,Capacitación
+2136,Activación cuenta,RRHH,Alta,Capacitación
+2137,Asignación de tareas,TI,Alta,Capacitación
+2138,Activación cuenta,RRHH,Baja,Activación cuenta
+2139,Asignación de tareas,Comercial,Alta,Asignación de tareas
+2140,Asignación de tareas,Comercial,Alta,Capacitación
+2141,Asignación de tareas,Operaciones,Alta,Asignación de tareas
+2142,Inducción,Operaciones,Media,Activación cuenta
+2143,Inducción,Operaciones,Baja,Asignación de tareas
+2144,Firma contrato,Comercial,Alta,Asignación de tareas
+2145,Activación cuenta,Comercial,Media,Inducción
+2146,Inducción,TI,Baja,Capacitación
+2147,Asignación de tareas,Operaciones,Alta,Activación cuenta
+2148,Asignación de tareas,RRHH,Media,Capacitación
+2149,Asignación de tareas,Operaciones,Baja,Firma contrato
+2150,Asignación de tareas,Comercial,Media,Capacitación
+2151,Firma contrato,TI,Alta,Asignación de tareas
+2152,Activación cuenta,RRHH,Alta,Activación cuenta
+2153,Firma contrato,TI,Media,Capacitación
+2154,Activación cuenta,Comercial,Alta,Inducción
+2155,Asignación de tareas,TI,Baja,Capacitación
+2156,Inducción,RRHH,Media,Firma contrato
+2157,Inducción,TI,Baja,Capacitación
+2158,Activación cuenta,Operaciones,Alta,Firma contrato
+2159,Firma contrato,Operaciones,Alta,Asignación de tareas
+2160,Asignación de tareas,RRHH,Baja,Firma contrato
+2161,Firma contrato,Operaciones,Alta,Firma contrato
+2162,Asignación de tareas,Operaciones,Alta,Activación cuenta
+2163,Capacitación,Operaciones,Alta,Asignación de tareas
+2164,Firma contrato,Operaciones,Alta,Firma contrato
+2165,Firma contrato,TI,Baja,Asignación de tareas
+2166,Capacitación,Operaciones,Media,Asignación de tareas
+2167,Asignación de tareas,TI,Baja,Inducción
+2168,Capacitación,Comercial,Alta,Firma contrato
+2169,Firma contrato,Comercial,Media,Asignación de tareas
+2170,Inducción,Operaciones,Media,Activación cuenta
+2171,Capacitación,TI,Alta,Activación cuenta
+2172,Capacitación,RRHH,Alta,Capacitación
+2173,Inducción,RRHH,Baja,Asignación de tareas
+2174,Activación cuenta,RRHH,Baja,Inducción
+2175,Inducción,RRHH,Alta,Activación cuenta
+2176,Firma contrato,RRHH,Baja,Firma contrato
+2177,Asignación de tareas,RRHH,Media,Firma contrato
+2178,Inducción,TI,Alta,Inducción
+2179,Inducción,Operaciones,Media,Firma contrato
+2180,Firma contrato,TI,Alta,Capacitación
+2181,Inducción,TI,Baja,Capacitación
+2182,Firma contrato,TI,Alta,Asignación de tareas
+2183,Activación cuenta,RRHH,Alta,Capacitación
+2184,Capacitación,TI,Media,Asignación de tareas
+2185,Capacitación,TI,Baja,Inducción
+2186,Firma contrato,RRHH,Baja,Activación cuenta
+2187,Firma contrato,RRHH,Media,Activación cuenta
+2188,Asignación de tareas,TI,Media,Firma contrato
+2189,Firma contrato,Operaciones,Baja,Firma contrato
+2190,Capacitación,RRHH,Baja,Firma contrato
+2191,Activación cuenta,TI,Alta,Asignación de tareas
+2192,Firma contrato,RRHH,Baja,Firma contrato
+2193,Asignación de tareas,RRHH,Alta,Activación cuenta
+2194,Capacitación,RRHH,Baja,Capacitación
+2195,Capacitación,Operaciones,Media,Inducción
+2196,Asignación de tareas,TI,Media,Asignación de tareas
+2197,Capacitación,Operaciones,Alta,Firma contrato
+2198,Asignación de tareas,Operaciones,Baja,Inducción
+2199,Asignación de tareas,TI,Media,Asignación de tareas
+2200,Inducción,Operaciones,Baja,Firma contrato
+2201,Activación cuenta,Comercial,Alta,Asignación de tareas
+2202,Inducción,Operaciones,Alta,Activación cuenta
+2203,Asignación de tareas,Operaciones,Alta,Firma contrato
+2204,Capacitación,RRHH,Baja,Asignación de tareas
+2205,Asignación de tareas,Operaciones,Baja,Firma contrato
+2206,Activación cuenta,TI,Media,Inducción
+2207,Asignación de tareas,RRHH,Media,Asignación de tareas
+2208,Activación cuenta,RRHH,Baja,Inducción
+2209,Asignación de tareas,TI,Alta,Capacitación
+2210,Capacitación,RRHH,Alta,Inducción
+2211,Capacitación,RRHH,Alta,Firma contrato
+2212,Inducción,Comercial,Baja,Capacitación
+2213,Asignación de tareas,Operaciones,Media,Capacitación
+2214,Firma contrato,TI,Media,Firma contrato
+2215,Firma contrato,Comercial,Media,Inducción
+2216,Inducción,RRHH,Baja,Activación cuenta
+2217,Capacitación,TI,Media,Firma contrato
+2218,Activación cuenta,RRHH,Media,Capacitación
+2219,Asignación de tareas,Operaciones,Media,Inducción
+2220,Firma contrato,Operaciones,Alta,Asignación de tareas
+2221,Capacitación,TI,Alta,Activación cuenta
+2222,Activación cuenta,Comercial,Baja,Activación cuenta
+2223,Asignación de tareas,Comercial,Media,Activación cuenta
+2224,Inducción,TI,Alta,Activación cuenta
+2225,Firma contrato,Operaciones,Media,Firma contrato
+2226,Capacitación,Comercial,Alta,Capacitación
+2227,Capacitación,RRHH,Baja,Capacitación
+2228,Capacitación,Operaciones,Baja,Inducción
+2229,Activación cuenta,TI,Alta,Firma contrato
+2230,Capacitación,TI,Baja,Asignación de tareas
+2231,Firma contrato,Operaciones,Baja,Asignación de tareas
+2232,Firma contrato,RRHH,Alta,Inducción
+2233,Inducción,Operaciones,Media,Activación cuenta
+2234,Asignación de tareas,TI,Media,Firma contrato
+2235,Capacitación,Operaciones,Baja,Asignación de tareas
+2236,Asignación de tareas,Operaciones,Baja,Activación cuenta
+2237,Inducción,Comercial,Baja,Asignación de tareas
+2238,Asignación de tareas,Comercial,Baja,Capacitación
+2239,Capacitación,RRHH,Baja,Firma contrato
+2240,Activación cuenta,Operaciones,Media,Capacitación
+2241,Inducción,RRHH,Alta,Inducción
+2242,Firma contrato,TI,Media,Firma contrato
+2243,Capacitación,RRHH,Baja,Asignación de tareas
+2244,Activación cuenta,Comercial,Media,Firma contrato
+2245,Asignación de tareas,RRHH,Baja,Activación cuenta
+2246,Activación cuenta,RRHH,Alta,Asignación de tareas
+2247,Asignación de tareas,TI,Alta,Inducción
+2248,Asignación de tareas,TI,Media,Asignación de tareas
+2249,Firma contrato,Operaciones,Alta,Inducción
+2250,Asignación de tareas,RRHH,Baja,Activación cuenta
+2251,Activación cuenta,Operaciones,Media,Activación cuenta
+2252,Asignación de tareas,Comercial,Alta,Firma contrato
+2253,Firma contrato,TI,Media,Activación cuenta
+2254,Firma contrato,RRHH,Baja,Firma contrato
+2255,Capacitación,TI,Baja,Asignación de tareas
+2256,Capacitación,Operaciones,Baja,Capacitación
+2257,Inducción,TI,Alta,Capacitación
+2258,Capacitación,RRHH,Baja,Firma contrato
+2259,Capacitación,Comercial,Alta,Asignación de tareas
+2260,Capacitación,RRHH,Baja,Asignación de tareas
+2261,Inducción,RRHH,Media,Capacitación
+2262,Capacitación,TI,Baja,Capacitación
+2263,Inducción,RRHH,Alta,Activación cuenta
+2264,Inducción,TI,Alta,Capacitación
+2265,Inducción,Operaciones,Baja,Capacitación
+2266,Capacitación,RRHH,Alta,Asignación de tareas
+2267,Capacitación,RRHH,Media,Firma contrato
+2268,Asignación de tareas,Comercial,Alta,Asignación de tareas
+2269,Firma contrato,RRHH,Alta,Inducción
+2270,Firma contrato,RRHH,Baja,Inducción
+2271,Asignación de tareas,Operaciones,Media,Firma contrato
+2272,Asignación de tareas,Operaciones,Alta,Activación cuenta
+2273,Activación cuenta,Comercial,Baja,Activación cuenta
+2274,Asignación de tareas,Operaciones,Baja,Inducción
+2275,Capacitación,RRHH,Alta,Activación cuenta
+2276,Activación cuenta,Operaciones,Baja,Capacitación
+2277,Inducción,RRHH,Baja,Activación cuenta
+2278,Firma contrato,RRHH,Alta,Asignación de tareas
+2279,Capacitación,Comercial,Alta,Asignación de tareas
+2280,Firma contrato,Comercial,Baja,Inducción
+2281,Inducción,Comercial,Alta,Inducción
+2282,Firma contrato,Operaciones,Baja,Firma contrato
+2283,Asignación de tareas,Comercial,Media,Inducción
+2284,Asignación de tareas,TI,Media,Asignación de tareas
+2285,Capacitación,RRHH,Alta,Firma contrato
+2286,Capacitación,TI,Alta,Asignación de tareas
+2287,Asignación de tareas,Comercial,Media,Firma contrato
+2288,Activación cuenta,Operaciones,Alta,Firma contrato
+2289,Firma contrato,TI,Baja,Capacitación
+2290,Activación cuenta,TI,Media,Asignación de tareas
+2291,Inducción,RRHH,Baja,Firma contrato
+2292,Activación cuenta,Operaciones,Baja,Firma contrato
+2293,Asignación de tareas,RRHH,Media,Capacitación
+2294,Capacitación,Comercial,Baja,Asignación de tareas
+2295,Activación cuenta,TI,Media,Firma contrato
+2296,Firma contrato,Comercial,Baja,Firma contrato
+2297,Firma contrato,Comercial,Baja,Asignación de tareas
+2298,Inducción,RRHH,Baja,Activación cuenta
+2299,Inducción,Operaciones,Baja,Inducción
+2300,Activación cuenta,Operaciones,Media,Activación cuenta
+2301,Capacitación,TI,Media,Activación cuenta
+2302,Asignación de tareas,Comercial,Media,Firma contrato
+2303,Activación cuenta,TI,Baja,Inducción
+2304,Activación cuenta,TI,Media,Asignación de tareas
+2305,Activación cuenta,Comercial,Media,Activación cuenta
+2306,Activación cuenta,TI,Media,Firma contrato
+2307,Firma contrato,Operaciones,Baja,Asignación de tareas
+2308,Asignación de tareas,Operaciones,Alta,Activación cuenta
+2309,Inducción,TI,Alta,Activación cuenta
+2310,Asignación de tareas,RRHH,Baja,Activación cuenta
+2311,Firma contrato,Comercial,Baja,Inducción
+2312,Activación cuenta,Comercial,Media,Capacitación
+2313,Activación cuenta,RRHH,Alta,Asignación de tareas
+2314,Inducción,TI,Media,Activación cuenta
+2315,Activación cuenta,TI,Baja,Inducción
+2316,Asignación de tareas,RRHH,Media,Asignación de tareas
+2317,Asignación de tareas,Comercial,Alta,Capacitación
+2318,Inducción,Operaciones,Media,Inducción
+2319,Activación cuenta,TI,Media,Activación cuenta
+2320,Inducción,RRHH,Baja,Activación cuenta
+2321,Firma contrato,Comercial,Alta,Asignación de tareas
+2322,Capacitación,Comercial,Media,Activación cuenta
+2323,Inducción,RRHH,Alta,Activación cuenta
+2324,Asignación de tareas,RRHH,Alta,Inducción
+2325,Inducción,Operaciones,Alta,Capacitación
+2326,Activación cuenta,Operaciones,Baja,Capacitación
+2327,Activación cuenta,TI,Alta,Firma contrato
+2328,Firma contrato,Operaciones,Baja,Asignación de tareas
+2329,Asignación de tareas,RRHH,Media,Firma contrato
+2330,Asignación de tareas,Operaciones,Baja,Inducción
+2331,Asignación de tareas,RRHH,Media,Firma contrato
+2332,Capacitación,TI,Media,Inducción
+2333,Capacitación,Comercial,Baja,Firma contrato
+2334,Inducción,Operaciones,Baja,Activación cuenta
+2335,Activación cuenta,Comercial,Media,Asignación de tareas
+2336,Firma contrato,Operaciones,Media,Activación cuenta
+2337,Inducción,Operaciones,Baja,Asignación de tareas
+2338,Inducción,Comercial,Alta,Asignación de tareas
+2339,Firma contrato,RRHH,Baja,Capacitación
+2340,Inducción,RRHH,Media,Activación cuenta
+2341,Inducción,TI,Media,Capacitación
+2342,Activación cuenta,Comercial,Media,Inducción
+2343,Capacitación,Comercial,Media,Firma contrato
+2344,Inducción,RRHH,Baja,Capacitación
+2345,Activación cuenta,Operaciones,Baja,Inducción
+2346,Inducción,RRHH,Media,Asignación de tareas
+2347,Asignación de tareas,RRHH,Alta,Inducción
+2348,Capacitación,Comercial,Baja,Firma contrato
+2349,Asignación de tareas,TI,Media,Capacitación
+2350,Asignación de tareas,RRHH,Alta,Inducción
+2351,Firma contrato,Operaciones,Media,Asignación de tareas
+2352,Activación cuenta,RRHH,Media,Inducción
+2353,Inducción,RRHH,Baja,Inducción
+2354,Activación cuenta,RRHH,Media,Inducción
+2355,Asignación de tareas,Comercial,Media,Capacitación
+2356,Firma contrato,TI,Alta,Firma contrato
+2357,Firma contrato,TI,Baja,Firma contrato
+2358,Activación cuenta,Comercial,Baja,Capacitación
+2359,Firma contrato,Comercial,Media,Asignación de tareas
+2360,Firma contrato,Operaciones,Baja,Activación cuenta
+2361,Capacitación,TI,Baja,Activación cuenta
+2362,Capacitación,RRHH,Media,Firma contrato
+2363,Asignación de tareas,TI,Media,Inducción
+2364,Asignación de tareas,TI,Alta,Capacitación
+2365,Capacitación,Comercial,Media,Activación cuenta
+2366,Inducción,RRHH,Media,Asignación de tareas
+2367,Activación cuenta,RRHH,Media,Firma contrato
+2368,Inducción,RRHH,Alta,Capacitación
+2369,Asignación de tareas,RRHH,Baja,Capacitación
+2370,Firma contrato,Operaciones,Alta,Inducción
+2371,Inducción,TI,Baja,Activación cuenta
+2372,Firma contrato,TI,Baja,Activación cuenta
+2373,Capacitación,RRHH,Alta,Asignación de tareas
+2374,Asignación de tareas,Comercial,Baja,Asignación de tareas
+2375,Asignación de tareas,Operaciones,Media,Asignación de tareas
+2376,Firma contrato,TI,Media,Capacitación
+2377,Activación cuenta,Operaciones,Media,Activación cuenta
+2378,Inducción,TI,Alta,Capacitación
+2379,Capacitación,RRHH,Alta,Asignación de tareas
+2380,Firma contrato,Operaciones,Alta,Firma contrato
+2381,Firma contrato,Operaciones,Baja,Inducción
+2382,Asignación de tareas,RRHH,Media,Activación cuenta
+2383,Firma contrato,TI,Baja,Activación cuenta
+2384,Asignación de tareas,Operaciones,Alta,Asignación de tareas
+2385,Asignación de tareas,Operaciones,Baja,Capacitación
+2386,Inducción,TI,Alta,Inducción
+2387,Firma contrato,RRHH,Baja,Firma contrato
+2388,Inducción,RRHH,Media,Capacitación
+2389,Asignación de tareas,Operaciones,Alta,Capacitación
+2390,Activación cuenta,Comercial,Media,Activación cuenta
+2391,Inducción,TI,Baja,Activación cuenta
+2392,Asignación de tareas,TI,Alta,Firma contrato
+2393,Firma contrato,Operaciones,Baja,Inducción
+2394,Capacitación,TI,Alta,Inducción
+2395,Activación cuenta,TI,Media,Capacitación
+2396,Capacitación,TI,Baja,Inducción
+2397,Asignación de tareas,TI,Media,Activación cuenta
+2398,Activación cuenta,RRHH,Alta,Capacitación
+2399,Firma contrato,RRHH,Alta,Capacitación
+2400,Capacitación,TI,Baja,Capacitación
+2401,Capacitación,Comercial,Media,Asignación de tareas
+2402,Inducción,RRHH,Baja,Firma contrato
+2403,Activación cuenta,RRHH,Alta,Firma contrato
+2404,Asignación de tareas,RRHH,Baja,Inducción
+2405,Inducción,Operaciones,Alta,Asignación de tareas
+2406,Inducción,Operaciones,Alta,Inducción
+2407,Capacitación,Comercial,Media,Activación cuenta
+2408,Inducción,Operaciones,Alta,Firma contrato
+2409,Firma contrato,Comercial,Media,Capacitación
+2410,Capacitación,RRHH,Baja,Capacitación
+2411,Capacitación,RRHH,Baja,Firma contrato
+2412,Firma contrato,TI,Alta,Firma contrato
+2413,Firma contrato,RRHH,Baja,Asignación de tareas
+2414,Capacitación,RRHH,Baja,Firma contrato
+2415,Asignación de tareas,TI,Media,Inducción
+2416,Inducción,Operaciones,Baja,Firma contrato
+2417,Inducción,Comercial,Baja,Activación cuenta
+2418,Asignación de tareas,Operaciones,Baja,Capacitación
+2419,Firma contrato,RRHH,Alta,Firma contrato
+2420,Activación cuenta,TI,Alta,Firma contrato
+2421,Activación cuenta,Comercial,Media,Capacitación
+2422,Activación cuenta,RRHH,Alta,Inducción
+2423,Asignación de tareas,Operaciones,Alta,Capacitación
+2424,Capacitación,RRHH,Media,Asignación de tareas
+2425,Firma contrato,RRHH,Media,Capacitación
+2426,Activación cuenta,RRHH,Baja,Capacitación
+2427,Firma contrato,Comercial,Baja,Asignación de tareas
+2428,Capacitación,TI,Media,Capacitación
+2429,Firma contrato,TI,Alta,Firma contrato
+2430,Activación cuenta,Operaciones,Media,Asignación de tareas
+2431,Asignación de tareas,RRHH,Baja,Capacitación
+2432,Firma contrato,TI,Alta,Inducción
+2433,Capacitación,Comercial,Media,Activación cuenta
+2434,Asignación de tareas,TI,Media,Firma contrato
+2435,Asignación de tareas,RRHH,Media,Capacitación
+2436,Activación cuenta,Comercial,Media,Activación cuenta
+2437,Activación cuenta,Operaciones,Alta,Asignación de tareas
+2438,Inducción,Operaciones,Baja,Inducción
+2439,Inducción,RRHH,Alta,Firma contrato
+2440,Capacitación,Operaciones,Alta,Activación cuenta
+2441,Asignación de tareas,Comercial,Alta,Asignación de tareas
+2442,Asignación de tareas,RRHH,Media,Inducción
+2443,Activación cuenta,TI,Media,Capacitación
+2444,Asignación de tareas,Operaciones,Baja,Capacitación
+2445,Activación cuenta,Comercial,Media,Activación cuenta
+2446,Firma contrato,RRHH,Media,Asignación de tareas
+2447,Asignación de tareas,Comercial,Alta,Firma contrato
+2448,Asignación de tareas,TI,Baja,Activación cuenta
+2449,Inducción,RRHH,Media,Activación cuenta
+2450,Capacitación,RRHH,Alta,Asignación de tareas
+2451,Capacitación,TI,Baja,Activación cuenta
+2452,Firma contrato,TI,Media,Activación cuenta
+2453,Activación cuenta,Operaciones,Media,Activación cuenta
+2454,Asignación de tareas,Comercial,Media,Asignación de tareas
+2455,Asignación de tareas,RRHH,Media,Asignación de tareas
+2456,Inducción,TI,Media,Asignación de tareas
+2457,Capacitación,Comercial,Baja,Firma contrato
+2458,Capacitación,TI,Alta,Activación cuenta
+2459,Inducción,Comercial,Baja,Inducción
+2460,Asignación de tareas,Operaciones,Alta,Activación cuenta
+2461,Activación cuenta,Operaciones,Baja,Asignación de tareas
+2462,Activación cuenta,RRHH,Media,Firma contrato
+2463,Firma contrato,Operaciones,Alta,Activación cuenta
+2464,Activación cuenta,RRHH,Alta,Asignación de tareas
+2465,Activación cuenta,Comercial,Media,Asignación de tareas
+2466,Activación cuenta,TI,Baja,Firma contrato
+2467,Asignación de tareas,TI,Alta,Firma contrato
+2468,Firma contrato,TI,Media,Inducción
+2469,Activación cuenta,TI,Media,Activación cuenta
+2470,Asignación de tareas,Comercial,Media,Capacitación
+2471,Asignación de tareas,TI,Alta,Firma contrato
+2472,Inducción,TI,Media,Firma contrato
+2473,Firma contrato,RRHH,Baja,Capacitación
+2474,Inducción,TI,Baja,Activación cuenta
+2475,Asignación de tareas,Operaciones,Media,Activación cuenta
+2476,Activación cuenta,Operaciones,Media,Inducción
+2477,Activación cuenta,RRHH,Baja,Inducción
+2478,Activación cuenta,TI,Alta,Capacitación
+2479,Inducción,RRHH,Alta,Activación cuenta
+2480,Asignación de tareas,Operaciones,Alta,Inducción
+2481,Firma contrato,Comercial,Media,Inducción
+2482,Capacitación,TI,Media,Activación cuenta
+2483,Capacitación,RRHH,Media,Inducción
+2484,Capacitación,Comercial,Baja,Capacitación
+2485,Firma contrato,TI,Alta,Activación cuenta
+2486,Asignación de tareas,Comercial,Media,Capacitación
+2487,Capacitación,Operaciones,Media,Firma contrato
+2488,Firma contrato,Operaciones,Baja,Asignación de tareas
+2489,Capacitación,Operaciones,Media,Inducción
+2490,Inducción,TI,Media,Capacitación
+2491,Inducción,Operaciones,Baja,Inducción
+2492,Asignación de tareas,Operaciones,Media,Inducción
+2493,Firma contrato,RRHH,Baja,Firma contrato
+2494,Asignación de tareas,Operaciones,Media,Firma contrato
+2495,Asignación de tareas,TI,Media,Asignación de tareas
+2496,Inducción,TI,Baja,Asignación de tareas
+2497,Inducción,RRHH,Alta,Inducción
+2498,Asignación de tareas,TI,Baja,Capacitación
+2499,Firma contrato,TI,Media,Asignación de tareas
+2500,Firma contrato,RRHH,Alta,Inducción
+2501,Capacitación,RRHH,Media,Asignación de tareas
+2502,Capacitación,RRHH,Media,Firma contrato
+2503,Firma contrato,Operaciones,Media,Firma contrato
+2504,Firma contrato,TI,Baja,Capacitación
+2505,Capacitación,RRHH,Media,Activación cuenta
+2506,Asignación de tareas,Operaciones,Media,Activación cuenta
+2507,Asignación de tareas,TI,Alta,Capacitación
+2508,Firma contrato,Operaciones,Media,Firma contrato
+2509,Asignación de tareas,RRHH,Baja,Asignación de tareas
+2510,Activación cuenta,Comercial,Baja,Firma contrato
+2511,Inducción,Operaciones,Alta,Activación cuenta
+2512,Inducción,RRHH,Baja,Asignación de tareas
+2513,Activación cuenta,Operaciones,Alta,Asignación de tareas
+2514,Asignación de tareas,TI,Alta,Firma contrato
+2515,Asignación de tareas,Comercial,Baja,Inducción
+2516,Firma contrato,RRHH,Media,Activación cuenta
+2517,Asignación de tareas,TI,Baja,Capacitación
+2518,Asignación de tareas,Operaciones,Media,Asignación de tareas
+2519,Inducción,Comercial,Media,Activación cuenta
+2520,Firma contrato,Comercial,Media,Activación cuenta
+2521,Activación cuenta,TI,Media,Capacitación
+2522,Firma contrato,Operaciones,Media,Activación cuenta
+2523,Inducción,Operaciones,Alta,Asignación de tareas
+2524,Capacitación,TI,Alta,Inducción
+2525,Capacitación,Comercial,Baja,Asignación de tareas
+2526,Inducción,Operaciones,Media,Activación cuenta
+2527,Inducción,Comercial,Baja,Capacitación
+2528,Capacitación,Comercial,Alta,Firma contrato
+2529,Asignación de tareas,RRHH,Alta,Inducción
+2530,Firma contrato,RRHH,Alta,Asignación de tareas
+2531,Asignación de tareas,Operaciones,Baja,Inducción
+2532,Inducción,RRHH,Baja,Asignación de tareas
+2533,Firma contrato,Operaciones,Alta,Asignación de tareas
+2534,Inducción,Operaciones,Media,Activación cuenta
+2535,Activación cuenta,TI,Media,Inducción
+2536,Activación cuenta,TI,Media,Activación cuenta
+2537,Firma contrato,TI,Media,Capacitación
+2538,Asignación de tareas,TI,Alta,Firma contrato
+2539,Asignación de tareas,RRHH,Media,Asignación de tareas
+2540,Firma contrato,TI,Media,Capacitación
+2541,Inducción,RRHH,Baja,Firma contrato
+2542,Asignación de tareas,RRHH,Baja,Capacitación
+2543,Capacitación,Operaciones,Media,Firma contrato
+2544,Capacitación,Comercial,Alta,Firma contrato
+2545,Inducción,Comercial,Baja,Firma contrato
+2546,Asignación de tareas,RRHH,Media,Activación cuenta
+2547,Capacitación,Operaciones,Alta,Capacitación
+2548,Firma contrato,Operaciones,Baja,Capacitación
+2549,Capacitación,Operaciones,Alta,Activación cuenta
+2550,Firma contrato,TI,Baja,Inducción
+2551,Activación cuenta,Comercial,Media,Asignación de tareas
+2552,Firma contrato,Comercial,Baja,Inducción
+2553,Asignación de tareas,RRHH,Baja,Activación cuenta
+2554,Inducción,TI,Alta,Asignación de tareas
+2555,Activación cuenta,Operaciones,Alta,Inducción
+2556,Inducción,TI,Baja,Inducción
+2557,Inducción,Operaciones,Media,Firma contrato
+2558,Firma contrato,RRHH,Alta,Activación cuenta
+2559,Asignación de tareas,Operaciones,Baja,Capacitación
+2560,Asignación de tareas,RRHH,Media,Inducción
+2561,Inducción,TI,Alta,Activación cuenta
+2562,Capacitación,Operaciones,Media,Asignación de tareas
+2563,Capacitación,TI,Baja,Firma contrato
+2564,Activación cuenta,Comercial,Media,Firma contrato
+2565,Asignación de tareas,Operaciones,Alta,Capacitación
+2566,Firma contrato,Operaciones,Media,Asignación de tareas
+2567,Activación cuenta,Operaciones,Baja,Firma contrato
+2568,Capacitación,RRHH,Media,Capacitación
+2569,Capacitación,Operaciones,Baja,Asignación de tareas
+2570,Firma contrato,Comercial,Baja,Inducción
+2571,Inducción,TI,Media,Activación cuenta
+2572,Firma contrato,Operaciones,Media,Asignación de tareas
+2573,Activación cuenta,RRHH,Alta,Asignación de tareas
+2574,Activación cuenta,Operaciones,Media,Activación cuenta
+2575,Firma contrato,TI,Media,Inducción
+2576,Firma contrato,Operaciones,Alta,Capacitación
+2577,Activación cuenta,RRHH,Alta,Capacitación
+2578,Asignación de tareas,Operaciones,Baja,Inducción
+2579,Asignación de tareas,TI,Baja,Firma contrato
+2580,Firma contrato,Operaciones,Media,Asignación de tareas
+2581,Activación cuenta,RRHH,Alta,Inducción
+2582,Capacitación,Comercial,Alta,Asignación de tareas
+2583,Inducción,Operaciones,Media,Asignación de tareas
+2584,Inducción,RRHH,Alta,Activación cuenta
+2585,Capacitación,RRHH,Baja,Inducción
+2586,Activación cuenta,RRHH,Alta,Capacitación
+2587,Inducción,RRHH,Baja,Firma contrato
+2588,Capacitación,Operaciones,Media,Inducción
+2589,Firma contrato,Operaciones,Baja,Inducción
+2590,Inducción,RRHH,Media,Asignación de tareas
+2591,Inducción,Operaciones,Media,Capacitación
+2592,Firma contrato,RRHH,Alta,Firma contrato
+2593,Capacitación,Operaciones,Baja,Asignación de tareas
+2594,Capacitación,RRHH,Media,Inducción
+2595,Firma contrato,Comercial,Media,Inducción
+2596,Asignación de tareas,Comercial,Baja,Activación cuenta
+2597,Activación cuenta,TI,Baja,Asignación de tareas
+2598,Asignación de tareas,Comercial,Media,Firma contrato
+2599,Firma contrato,Operaciones,Media,Capacitación
+2600,Inducción,Comercial,Alta,Activación cuenta
+2601,Firma contrato,Comercial,Baja,Activación cuenta
+2602,Asignación de tareas,RRHH,Media,Activación cuenta
+2603,Firma contrato,Operaciones,Media,Capacitación
+2604,Asignación de tareas,TI,Baja,Activación cuenta
+2605,Asignación de tareas,TI,Alta,Asignación de tareas
+2606,Inducción,TI,Alta,Capacitación
+2607,Firma contrato,TI,Media,Activación cuenta
+2608,Firma contrato,TI,Alta,Inducción
+2609,Capacitación,RRHH,Alta,Firma contrato
+2610,Activación cuenta,RRHH,Baja,Firma contrato
+2611,Firma contrato,TI,Media,Asignación de tareas
+2612,Asignación de tareas,Comercial,Baja,Asignación de tareas
+2613,Inducción,RRHH,Baja,Capacitación
+2614,Firma contrato,TI,Baja,Activación cuenta
+2615,Asignación de tareas,Operaciones,Alta,Capacitación
+2616,Inducción,TI,Baja,Capacitación
+2617,Inducción,Operaciones,Media,Inducción
+2618,Inducción,Comercial,Baja,Inducción
+2619,Activación cuenta,Operaciones,Alta,Capacitación
+2620,Asignación de tareas,Comercial,Alta,Activación cuenta
+2621,Firma contrato,Comercial,Alta,Firma contrato
+2622,Capacitación,Operaciones,Media,Capacitación
+2623,Capacitación,TI,Alta,Firma contrato
+2624,Inducción,RRHH,Media,Activación cuenta
+2625,Inducción,Operaciones,Alta,Asignación de tareas
+2626,Activación cuenta,TI,Baja,Inducción
+2627,Activación cuenta,Comercial,Alta,Inducción
+2628,Inducción,RRHH,Alta,Firma contrato
+2629,Inducción,Comercial,Alta,Inducción
+2630,Asignación de tareas,Comercial,Alta,Activación cuenta
+2631,Activación cuenta,TI,Media,Activación cuenta
+2632,Activación cuenta,RRHH,Alta,Firma contrato
+2633,Capacitación,Operaciones,Baja,Capacitación
+2634,Asignación de tareas,Operaciones,Media,Asignación de tareas
+2635,Capacitación,Comercial,Baja,Firma contrato
+2636,Firma contrato,Operaciones,Baja,Inducción
+2637,Asignación de tareas,RRHH,Alta,Inducción
+2638,Capacitación,Comercial,Media,Activación cuenta
+2639,Inducción,Operaciones,Media,Inducción
+2640,Capacitación,Comercial,Baja,Inducción
+2641,Capacitación,Operaciones,Media,Capacitación
+2642,Capacitación,TI,Alta,Activación cuenta
+2643,Firma contrato,RRHH,Media,Firma contrato
+2644,Inducción,Operaciones,Media,Inducción
+2645,Activación cuenta,Operaciones,Media,Asignación de tareas
+2646,Firma contrato,Operaciones,Alta,Activación cuenta
+2647,Activación cuenta,Operaciones,Media,Capacitación
+2648,Capacitación,RRHH,Baja,Firma contrato
+2649,Activación cuenta,Comercial,Baja,Asignación de tareas
+2650,Capacitación,Operaciones,Media,Inducción
+2651,Asignación de tareas,Comercial,Baja,Inducción
+2652,Inducción,TI,Baja,Asignación de tareas
+2653,Asignación de tareas,Comercial,Baja,Inducción
+2654,Asignación de tareas,RRHH,Media,Asignación de tareas
+2655,Inducción,Operaciones,Alta,Activación cuenta
+2656,Capacitación,Operaciones,Media,Activación cuenta
+2657,Asignación de tareas,Operaciones,Baja,Asignación de tareas
+2658,Activación cuenta,TI,Alta,Asignación de tareas
+2659,Activación cuenta,RRHH,Alta,Activación cuenta
+2660,Firma contrato,TI,Alta,Firma contrato
+2661,Asignación de tareas,RRHH,Media,Inducción
+2662,Inducción,Operaciones,Baja,Firma contrato
+2663,Inducción,Operaciones,Baja,Inducción
+2664,Activación cuenta,Operaciones,Media,Firma contrato
+2665,Inducción,Operaciones,Media,Capacitación
+2666,Inducción,RRHH,Media,Capacitación
+2667,Inducción,Operaciones,Baja,Inducción
+2668,Activación cuenta,Comercial,Media,Asignación de tareas
+2669,Activación cuenta,RRHH,Baja,Capacitación
+2670,Activación cuenta,Operaciones,Media,Inducción
+2671,Activación cuenta,RRHH,Baja,Asignación de tareas
+2672,Firma contrato,RRHH,Media,Firma contrato
+2673,Activación cuenta,Comercial,Media,Capacitación
+2674,Firma contrato,TI,Baja,Asignación de tareas
+2675,Asignación de tareas,RRHH,Baja,Capacitación
+2676,Firma contrato,Operaciones,Media,Inducción
+2677,Asignación de tareas,Comercial,Media,Inducción
+2678,Firma contrato,TI,Baja,Capacitación
+2679,Activación cuenta,Operaciones,Alta,Capacitación
+2680,Inducción,Operaciones,Baja,Firma contrato
+2681,Activación cuenta,TI,Media,Asignación de tareas
+2682,Inducción,RRHH,Alta,Asignación de tareas
+2683,Capacitación,RRHH,Alta,Asignación de tareas
+2684,Asignación de tareas,Operaciones,Media,Firma contrato
+2685,Activación cuenta,RRHH,Media,Capacitación
+2686,Activación cuenta,Comercial,Alta,Activación cuenta
+2687,Asignación de tareas,Operaciones,Baja,Asignación de tareas
+2688,Firma contrato,TI,Media,Firma contrato
+2689,Firma contrato,RRHH,Media,Capacitación
+2690,Inducción,Operaciones,Baja,Inducción
+2691,Asignación de tareas,RRHH,Media,Firma contrato
+2692,Asignación de tareas,TI,Alta,Activación cuenta
+2693,Inducción,TI,Baja,Asignación de tareas
+2694,Capacitación,TI,Baja,Firma contrato
+2695,Firma contrato,Operaciones,Baja,Inducción
+2696,Asignación de tareas,RRHH,Alta,Inducción
+2697,Asignación de tareas,TI,Baja,Capacitación
+2698,Capacitación,RRHH,Media,Inducción
+2699,Activación cuenta,Comercial,Alta,Firma contrato
+2700,Firma contrato,TI,Media,Inducción
+2701,Firma contrato,Operaciones,Alta,Firma contrato
+2702,Inducción,TI,Alta,Asignación de tareas
+2703,Inducción,TI,Alta,Asignación de tareas
+2704,Inducción,RRHH,Baja,Activación cuenta
+2705,Capacitación,Comercial,Baja,Asignación de tareas
+2706,Asignación de tareas,Comercial,Media,Capacitación
+2707,Capacitación,RRHH,Alta,Firma contrato
+2708,Inducción,Operaciones,Baja,Activación cuenta
+2709,Capacitación,TI,Media,Firma contrato
+2710,Asignación de tareas,Comercial,Alta,Activación cuenta
+2711,Activación cuenta,RRHH,Alta,Capacitación
+2712,Activación cuenta,Operaciones,Alta,Activación cuenta
+2713,Asignación de tareas,Comercial,Alta,Capacitación
+2714,Inducción,Comercial,Media,Activación cuenta
+2715,Activación cuenta,RRHH,Alta,Capacitación
+2716,Asignación de tareas,RRHH,Baja,Capacitación
+2717,Inducción,Comercial,Baja,Asignación de tareas
+2718,Activación cuenta,TI,Alta,Asignación de tareas
+2719,Capacitación,Operaciones,Alta,Capacitación
+2720,Firma contrato,Operaciones,Media,Firma contrato
+2721,Asignación de tareas,Operaciones,Media,Firma contrato
+2722,Capacitación,Operaciones,Media,Capacitación
+2723,Capacitación,Comercial,Baja,Firma contrato
+2724,Capacitación,RRHH,Baja,Firma contrato
+2725,Activación cuenta,Comercial,Baja,Capacitación
+2726,Inducción,Comercial,Alta,Firma contrato
+2727,Asignación de tareas,RRHH,Alta,Firma contrato
+2728,Firma contrato,Comercial,Baja,Activación cuenta
+2729,Activación cuenta,Comercial,Media,Activación cuenta
+2730,Asignación de tareas,RRHH,Baja,Firma contrato
+2731,Activación cuenta,Operaciones,Baja,Activación cuenta
+2732,Firma contrato,RRHH,Baja,Inducción
+2733,Firma contrato,Comercial,Media,Capacitación
+2734,Capacitación,TI,Alta,Asignación de tareas
+2735,Inducción,TI,Alta,Firma contrato
+2736,Asignación de tareas,Comercial,Baja,Capacitación
+2737,Asignación de tareas,Operaciones,Media,Inducción
+2738,Capacitación,Operaciones,Media,Capacitación
+2739,Inducción,RRHH,Baja,Inducción
+2740,Capacitación,TI,Alta,Asignación de tareas
+2741,Inducción,RRHH,Baja,Firma contrato
+2742,Asignación de tareas,Comercial,Alta,Capacitación
+2743,Firma contrato,TI,Alta,Asignación de tareas
+2744,Capacitación,TI,Alta,Capacitación
+2745,Activación cuenta,Operaciones,Baja,Activación cuenta
+2746,Asignación de tareas,RRHH,Media,Firma contrato
+2747,Firma contrato,Comercial,Alta,Activación cuenta
+2748,Inducción,Operaciones,Baja,Capacitación
+2749,Firma contrato,TI,Alta,Inducción
+2750,Firma contrato,RRHH,Media,Inducción
+2751,Capacitación,Comercial,Alta,Asignación de tareas
+2752,Asignación de tareas,Comercial,Baja,Asignación de tareas
+2753,Firma contrato,RRHH,Alta,Activación cuenta
+2754,Firma contrato,Operaciones,Alta,Asignación de tareas
+2755,Firma contrato,TI,Media,Firma contrato
+2756,Capacitación,RRHH,Baja,Asignación de tareas
+2757,Capacitación,Comercial,Media,Firma contrato
+2758,Activación cuenta,TI,Baja,Capacitación
+2759,Capacitación,Comercial,Baja,Capacitación
+2760,Inducción,RRHH,Alta,Capacitación
+2761,Firma contrato,TI,Baja,Activación cuenta
+2762,Firma contrato,Operaciones,Baja,Capacitación
+2763,Firma contrato,RRHH,Media,Inducción
+2764,Capacitación,RRHH,Baja,Asignación de tareas
+2765,Activación cuenta,TI,Baja,Inducción
+2766,Asignación de tareas,TI,Baja,Capacitación
+2767,Asignación de tareas,Operaciones,Media,Activación cuenta
+2768,Asignación de tareas,Operaciones,Baja,Asignación de tareas
+2769,Inducción,RRHH,Media,Inducción
+2770,Firma contrato,TI,Alta,Capacitación
+2771,Activación cuenta,Operaciones,Alta,Activación cuenta
+2772,Activación cuenta,Comercial,Media,Firma contrato
+2773,Asignación de tareas,Comercial,Media,Firma contrato
+2774,Inducción,Comercial,Baja,Inducción
+2775,Firma contrato,Comercial,Alta,Inducción
+2776,Firma contrato,Comercial,Alta,Asignación de tareas
+2777,Inducción,Operaciones,Baja,Asignación de tareas
+2778,Activación cuenta,Operaciones,Alta,Capacitación
+2779,Activación cuenta,Comercial,Baja,Capacitación
+2780,Inducción,TI,Media,Capacitación
+2781,Activación cuenta,Operaciones,Media,Activación cuenta
+2782,Activación cuenta,TI,Alta,Activación cuenta
+2783,Asignación de tareas,TI,Media,Inducción
+2784,Asignación de tareas,Comercial,Media,Activación cuenta
+2785,Activación cuenta,Operaciones,Alta,Asignación de tareas
+2786,Activación cuenta,Comercial,Alta,Asignación de tareas
+2787,Inducción,Operaciones,Media,Capacitación
+2788,Activación cuenta,Comercial,Media,Asignación de tareas
+2789,Activación cuenta,RRHH,Alta,Firma contrato
+2790,Activación cuenta,TI,Media,Firma contrato
+2791,Asignación de tareas,Operaciones,Alta,Inducción
+2792,Inducción,TI,Media,Firma contrato
+2793,Asignación de tareas,TI,Baja,Activación cuenta
+2794,Inducción,Comercial,Alta,Activación cuenta
+2795,Asignación de tareas,RRHH,Alta,Activación cuenta
+2796,Activación cuenta,TI,Media,Inducción
+2797,Inducción,TI,Media,Activación cuenta
+2798,Capacitación,TI,Alta,Inducción
+2799,Activación cuenta,Comercial,Alta,Firma contrato
+2800,Firma contrato,Operaciones,Media,Firma contrato
+2801,Asignación de tareas,Operaciones,Baja,Activación cuenta
+2802,Inducción,TI,Media,Inducción
+2803,Capacitación,Operaciones,Media,Asignación de tareas
+2804,Activación cuenta,Comercial,Media,Capacitación
+2805,Inducción,Operaciones,Baja,Activación cuenta
+2806,Firma contrato,TI,Alta,Inducción
+2807,Firma contrato,RRHH,Alta,Firma contrato
+2808,Inducción,RRHH,Baja,Inducción
+2809,Firma contrato,Comercial,Alta,Asignación de tareas
+2810,Capacitación,TI,Media,Capacitación
+2811,Activación cuenta,Operaciones,Media,Firma contrato
+2812,Firma contrato,Comercial,Baja,Capacitación
+2813,Firma contrato,TI,Baja,Activación cuenta
+2814,Asignación de tareas,TI,Media,Firma contrato
+2815,Inducción,Comercial,Baja,Firma contrato
+2816,Firma contrato,TI,Baja,Inducción
+2817,Firma contrato,Comercial,Baja,Activación cuenta
+2818,Firma contrato,Comercial,Media,Inducción
+2819,Asignación de tareas,Comercial,Alta,Asignación de tareas
+2820,Inducción,RRHH,Baja,Capacitación
+2821,Capacitación,Comercial,Baja,Capacitación
+2822,Inducción,Comercial,Baja,Firma contrato
+2823,Activación cuenta,Comercial,Baja,Firma contrato
+2824,Inducción,Operaciones,Baja,Asignación de tareas
+2825,Asignación de tareas,TI,Alta,Capacitación
+2826,Firma contrato,Operaciones,Alta,Asignación de tareas
+2827,Asignación de tareas,RRHH,Media,Firma contrato
+2828,Firma contrato,RRHH,Alta,Asignación de tareas
+2829,Inducción,Operaciones,Alta,Capacitación
+2830,Asignación de tareas,RRHH,Baja,Capacitación
+2831,Capacitación,TI,Baja,Asignación de tareas
+2832,Inducción,RRHH,Media,Asignación de tareas
+2833,Firma contrato,RRHH,Media,Capacitación
+2834,Inducción,RRHH,Alta,Activación cuenta
+2835,Activación cuenta,RRHH,Media,Activación cuenta
+2836,Asignación de tareas,RRHH,Baja,Asignación de tareas
+2837,Inducción,Comercial,Alta,Asignación de tareas
+2838,Asignación de tareas,RRHH,Media,Inducción
+2839,Activación cuenta,RRHH,Baja,Inducción
+2840,Inducción,RRHH,Alta,Asignación de tareas
+2841,Activación cuenta,TI,Media,Asignación de tareas
+2842,Capacitación,RRHH,Alta,Firma contrato
+2843,Asignación de tareas,RRHH,Baja,Activación cuenta
+2844,Capacitación,TI,Media,Asignación de tareas
+2845,Asignación de tareas,Operaciones,Alta,Activación cuenta
+2846,Inducción,Operaciones,Media,Firma contrato
+2847,Inducción,Operaciones,Baja,Asignación de tareas
+2848,Inducción,Comercial,Alta,Firma contrato
+2849,Activación cuenta,RRHH,Media,Capacitación
+2850,Asignación de tareas,RRHH,Alta,Capacitación
+2851,Activación cuenta,TI,Media,Capacitación
+2852,Asignación de tareas,Comercial,Baja,Firma contrato
+2853,Inducción,Operaciones,Media,Asignación de tareas
+2854,Firma contrato,TI,Media,Asignación de tareas
+2855,Inducción,TI,Media,Inducción
+2856,Capacitación,TI,Baja,Firma contrato
+2857,Inducción,TI,Media,Inducción
+2858,Inducción,TI,Baja,Inducción
+2859,Asignación de tareas,Comercial,Baja,Asignación de tareas
+2860,Activación cuenta,Operaciones,Baja,Activación cuenta
+2861,Inducción,RRHH,Alta,Inducción
+2862,Capacitación,Comercial,Baja,Asignación de tareas
+2863,Capacitación,Comercial,Media,Firma contrato
+2864,Asignación de tareas,TI,Baja,Asignación de tareas
+2865,Activación cuenta,Operaciones,Baja,Asignación de tareas
+2866,Firma contrato,RRHH,Baja,Activación cuenta
+2867,Inducción,TI,Baja,Activación cuenta
+2868,Inducción,Comercial,Media,Capacitación
+2869,Asignación de tareas,Comercial,Alta,Activación cuenta
+2870,Activación cuenta,RRHH,Baja,Inducción
+2871,Asignación de tareas,TI,Baja,Asignación de tareas
+2872,Inducción,RRHH,Baja,Activación cuenta
+2873,Capacitación,Comercial,Alta,Activación cuenta
+2874,Activación cuenta,Comercial,Baja,Asignación de tareas
+2875,Firma contrato,Operaciones,Alta,Firma contrato
+2876,Firma contrato,TI,Baja,Firma contrato
+2877,Activación cuenta,RRHH,Media,Capacitación
+2878,Inducción,Operaciones,Media,Capacitación
+2879,Capacitación,Operaciones,Baja,Inducción
+2880,Capacitación,Operaciones,Baja,Inducción
+2881,Inducción,RRHH,Alta,Activación cuenta
+2882,Capacitación,Comercial,Media,Firma contrato
+2883,Asignación de tareas,TI,Media,Activación cuenta
+2884,Firma contrato,Operaciones,Alta,Inducción
+2885,Asignación de tareas,Comercial,Alta,Firma contrato
+2886,Inducción,RRHH,Media,Firma contrato
+2887,Asignación de tareas,RRHH,Media,Activación cuenta
+2888,Firma contrato,Comercial,Alta,Asignación de tareas
+2889,Capacitación,Operaciones,Media,Asignación de tareas
+2890,Asignación de tareas,Operaciones,Media,Activación cuenta
+2891,Firma contrato,Operaciones,Media,Firma contrato
+2892,Inducción,Comercial,Baja,Inducción
+2893,Firma contrato,Operaciones,Baja,Firma contrato
+2894,Asignación de tareas,TI,Alta,Activación cuenta
+2895,Activación cuenta,RRHH,Media,Capacitación
+2896,Firma contrato,TI,Media,Activación cuenta
+2897,Inducción,RRHH,Media,Firma contrato
+2898,Activación cuenta,Comercial,Media,Activación cuenta
+2899,Asignación de tareas,TI,Media,Asignación de tareas
+2900,Firma contrato,TI,Media,Capacitación
+2901,Activación cuenta,RRHH,Alta,Firma contrato
+2902,Asignación de tareas,RRHH,Media,Capacitación
+2903,Activación cuenta,Operaciones,Alta,Asignación de tareas
+2904,Activación cuenta,TI,Alta,Firma contrato
+2905,Firma contrato,Operaciones,Alta,Capacitación
+2906,Asignación de tareas,Comercial,Alta,Inducción
+2907,Firma contrato,TI,Alta,Asignación de tareas
+2908,Inducción,RRHH,Baja,Capacitación
+2909,Capacitación,RRHH,Media,Capacitación
+2910,Activación cuenta,Operaciones,Alta,Capacitación
+2911,Asignación de tareas,Operaciones,Media,Inducción
+2912,Capacitación,RRHH,Media,Asignación de tareas
+2913,Capacitación,Operaciones,Alta,Activación cuenta
+2914,Inducción,Comercial,Baja,Asignación de tareas
+2915,Capacitación,Comercial,Media,Asignación de tareas
+2916,Activación cuenta,Comercial,Alta,Inducción
+2917,Capacitación,Operaciones,Alta,Firma contrato
+2918,Capacitación,Operaciones,Media,Firma contrato
+2919,Activación cuenta,TI,Alta,Inducción
+2920,Asignación de tareas,RRHH,Alta,Capacitación
+2921,Capacitación,TI,Baja,Inducción
+2922,Firma contrato,Comercial,Alta,Firma contrato
+2923,Capacitación,Comercial,Baja,Activación cuenta
+2924,Firma contrato,RRHH,Baja,Asignación de tareas
+2925,Capacitación,TI,Alta,Firma contrato
+2926,Activación cuenta,RRHH,Alta,Capacitación
+2927,Inducción,RRHH,Baja,Asignación de tareas
+2928,Activación cuenta,TI,Alta,Asignación de tareas
+2929,Capacitación,RRHH,Media,Activación cuenta
+2930,Asignación de tareas,Operaciones,Media,Capacitación
+2931,Inducción,Operaciones,Baja,Asignación de tareas
+2932,Firma contrato,Operaciones,Media,Inducción
+2933,Inducción,Comercial,Media,Inducción
+2934,Capacitación,Operaciones,Alta,Inducción
+2935,Activación cuenta,Comercial,Baja,Firma contrato
+2936,Firma contrato,TI,Alta,Inducción
+2937,Firma contrato,TI,Media,Asignación de tareas
+2938,Activación cuenta,RRHH,Media,Inducción
+2939,Firma contrato,Operaciones,Baja,Activación cuenta
+2940,Asignación de tareas,Comercial,Alta,Activación cuenta
+2941,Capacitación,Comercial,Media,Inducción
+2942,Activación cuenta,TI,Media,Firma contrato
+2943,Firma contrato,RRHH,Baja,Firma contrato
+2944,Firma contrato,RRHH,Baja,Firma contrato
+2945,Activación cuenta,TI,Alta,Inducción
+2946,Activación cuenta,RRHH,Alta,Activación cuenta
+2947,Firma contrato,Operaciones,Media,Inducción
+2948,Firma contrato,Operaciones,Media,Firma contrato
+2949,Inducción,RRHH,Baja,Firma contrato
+2950,Activación cuenta,Comercial,Alta,Capacitación
+2951,Asignación de tareas,TI,Baja,Activación cuenta
+2952,Inducción,Comercial,Media,Capacitación
+2953,Inducción,Operaciones,Media,Asignación de tareas
+2954,Asignación de tareas,Operaciones,Alta,Asignación de tareas
+2955,Capacitación,RRHH,Alta,Firma contrato
+2956,Asignación de tareas,Comercial,Alta,Capacitación
+2957,Firma contrato,RRHH,Media,Asignación de tareas
+2958,Inducción,Comercial,Media,Capacitación
+2959,Asignación de tareas,Comercial,Alta,Activación cuenta
+2960,Capacitación,Operaciones,Baja,Asignación de tareas
+2961,Firma contrato,TI,Alta,Capacitación
+2962,Activación cuenta,TI,Baja,Inducción
+2963,Activación cuenta,RRHH,Alta,Firma contrato
+2964,Firma contrato,TI,Media,Capacitación
+2965,Firma contrato,Comercial,Baja,Activación cuenta
+2966,Activación cuenta,Operaciones,Alta,Inducción
+2967,Activación cuenta,Operaciones,Media,Inducción
+2968,Firma contrato,Comercial,Baja,Inducción
+2969,Capacitación,Comercial,Alta,Capacitación
+2970,Firma contrato,RRHH,Baja,Capacitación
+2971,Capacitación,Comercial,Baja,Asignación de tareas
+2972,Asignación de tareas,Operaciones,Media,Firma contrato
+2973,Activación cuenta,TI,Media,Activación cuenta
+2974,Capacitación,Comercial,Media,Asignación de tareas
+2975,Asignación de tareas,Operaciones,Alta,Capacitación
+2976,Firma contrato,TI,Alta,Asignación de tareas
+2977,Inducción,RRHH,Alta,Activación cuenta
+2978,Firma contrato,Operaciones,Media,Asignación de tareas
+2979,Activación cuenta,Comercial,Alta,Inducción
+2980,Capacitación,Operaciones,Media,Asignación de tareas
+2981,Firma contrato,Operaciones,Baja,Firma contrato
+2982,Inducción,TI,Media,Capacitación
+2983,Activación cuenta,RRHH,Alta,Capacitación
+2984,Inducción,RRHH,Media,Firma contrato
+2985,Inducción,RRHH,Alta,Inducción
+2986,Asignación de tareas,Operaciones,Media,Capacitación
+2987,Asignación de tareas,Operaciones,Baja,Asignación de tareas
+2988,Asignación de tareas,Operaciones,Baja,Capacitación
+2989,Firma contrato,TI,Alta,Asignación de tareas
+2990,Activación cuenta,RRHH,Baja,Activación cuenta
+2991,Asignación de tareas,Operaciones,Media,Capacitación
+2992,Firma contrato,TI,Baja,Inducción
+2993,Asignación de tareas,Comercial,Baja,Asignación de tareas
+2994,Firma contrato,Operaciones,Media,Asignación de tareas
+2995,Capacitación,TI,Alta,Capacitación
+2996,Activación cuenta,Comercial,Media,Activación cuenta
+2997,Inducción,TI,Media,Capacitación
+2998,Capacitación,TI,Media,Asignación de tareas
+2999,Asignación de tareas,Comercial,Media,Asignación de tareas
+3000,Firma contrato,Operaciones,Baja,Firma contrato

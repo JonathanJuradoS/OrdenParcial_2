@@ -1,0 +1,3001 @@
+Evento_ID,Acción,Responsable,Estado,Acción_requerida,Tiempo_estimado
+1,Enviar invitaciones,George Hill,Pendiente,Reservar local,33
+2,Reservar local,Linda Barnes,Pendiente,Reservar local,80
+3,Enviar invitaciones,Dorothy Barrett,Finalizado,Ejecutar evento,84
+4,Enviar invitaciones,Jacqueline Freeman,En proceso,Comprar materiales,38
+5,Reservar local,Michael Gilbert,En proceso,Comprar materiales,24
+6,Decorar,Patrick Aguirre,En proceso,Decorar,28
+7,Comprar materiales,Amber Ramirez,En proceso,Enviar invitaciones,75
+8,Reservar local,Todd Blake,Pendiente,Ejecutar evento,80
+9,Ejecutar evento,Gregory Coffey,En proceso,Enviar invitaciones,18
+10,Reservar local,Marcus Cardenas,Pendiente,Ejecutar evento,59
+11,Reservar local,Jonathan Turner,En proceso,Ejecutar evento,21
+12,Decorar,Katherine Torres,Finalizado,Decorar,51
+13,Decorar,Christina Wong,Finalizado,Ejecutar evento,28
+14,Comprar materiales,Richard Thomas,Finalizado,Enviar invitaciones,17
+15,Ejecutar evento,Richard Cohen,Finalizado,Comprar materiales,37
+16,Enviar invitaciones,Meagan Smith,En proceso,Reservar local,33
+17,Ejecutar evento,Joyce Vega,Finalizado,Ejecutar evento,38
+18,Reservar local,Jason Scott,En proceso,Comprar materiales,70
+19,Enviar invitaciones,Rick Adams,Finalizado,Reservar local,89
+20,Comprar materiales,Donna Johnson,En proceso,Decorar,30
+21,Decorar,Patrick Richards,Finalizado,Ejecutar evento,23
+22,Reservar local,Samantha Davis,En proceso,Ejecutar evento,20
+23,Ejecutar evento,Jose Jones Jr.,En proceso,Enviar invitaciones,88
+24,Comprar materiales,Tiffany Thompson,En proceso,Ejecutar evento,87
+25,Ejecutar evento,Ronald Washington,Finalizado,Comprar materiales,73
+26,Ejecutar evento,Andrew Klein,Finalizado,Decorar,42
+27,Decorar,Sarah Johnson,En proceso,Ejecutar evento,87
+28,Ejecutar evento,Jennifer Brooks,Finalizado,Enviar invitaciones,79
+29,Ejecutar evento,Kathleen Williams,En proceso,Ejecutar evento,87
+30,Reservar local,Hannah Villanueva,En proceso,Enviar invitaciones,64
+31,Comprar materiales,Kristin Parker,Finalizado,Enviar invitaciones,18
+32,Enviar invitaciones,Tracy Nelson,Finalizado,Ejecutar evento,19
+33,Ejecutar evento,Kimberly Calhoun,En proceso,Decorar,24
+34,Comprar materiales,Kristen Hamilton,Pendiente,Decorar,83
+35,Enviar invitaciones,Todd Davis,Pendiente,Enviar invitaciones,74
+36,Enviar invitaciones,Amanda Mueller,Pendiente,Comprar materiales,60
+37,Reservar local,Marisa Mills,Pendiente,Decorar,64
+38,Comprar materiales,Jessica Cook,Pendiente,Decorar,38
+39,Ejecutar evento,Ryan Simmons,Pendiente,Ejecutar evento,39
+40,Decorar,Daniel Rivers,Finalizado,Reservar local,49
+41,Reservar local,Edward Harding,Finalizado,Enviar invitaciones,82
+42,Reservar local,David Sanchez,Pendiente,Ejecutar evento,87
+43,Reservar local,Jennifer Manning,Finalizado,Comprar materiales,69
+44,Reservar local,Kathryn Myers,Pendiente,Comprar materiales,89
+45,Reservar local,Sheri Yoder,En proceso,Enviar invitaciones,80
+46,Ejecutar evento,Samantha Peterson DVM,En proceso,Enviar invitaciones,37
+47,Decorar,Jimmy Sandoval,Finalizado,Enviar invitaciones,82
+48,Enviar invitaciones,Kevin Hill,Finalizado,Comprar materiales,23
+49,Reservar local,Heather Cline,Finalizado,Reservar local,42
+50,Comprar materiales,Jamie James,Finalizado,Enviar invitaciones,34
+51,Reservar local,Abigail Marquez,Pendiente,Ejecutar evento,70
+52,Reservar local,Joseph Wiggins,Pendiente,Comprar materiales,62
+53,Decorar,Elizabeth Mendoza,En proceso,Ejecutar evento,29
+54,Ejecutar evento,Mr. Nicholas Shields,Pendiente,Ejecutar evento,65
+55,Ejecutar evento,Rick Murray,Pendiente,Enviar invitaciones,48
+56,Ejecutar evento,Dave Williams,Pendiente,Reservar local,33
+57,Ejecutar evento,Matthew Mccoy,En proceso,Reservar local,15
+58,Comprar materiales,Zachary Doyle,En proceso,Decorar,30
+59,Comprar materiales,Christian Clarke,Pendiente,Reservar local,82
+60,Comprar materiales,Michele Collins DVM,Pendiente,Comprar materiales,18
+61,Decorar,Joy Perez,En proceso,Decorar,44
+62,Enviar invitaciones,Caroline Randall,Pendiente,Ejecutar evento,75
+63,Reservar local,Nicholas White,Pendiente,Enviar invitaciones,47
+64,Enviar invitaciones,Marc Hayes,En proceso,Decorar,36
+65,Comprar materiales,Samuel Miller,Pendiente,Ejecutar evento,29
+66,Ejecutar evento,Tina Wilson,En proceso,Reservar local,67
+67,Decorar,Shannon Tran PhD,Finalizado,Enviar invitaciones,32
+68,Ejecutar evento,James Fernandez,Finalizado,Enviar invitaciones,89
+69,Ejecutar evento,Gary Vazquez,En proceso,Reservar local,33
+70,Enviar invitaciones,David Wright,En proceso,Enviar invitaciones,69
+71,Enviar invitaciones,Allison Mann,Pendiente,Enviar invitaciones,36
+72,Reservar local,John Maynard,En proceso,Enviar invitaciones,79
+73,Ejecutar evento,Heather Russell,En proceso,Reservar local,71
+74,Comprar materiales,John Mcdonald,Pendiente,Comprar materiales,85
+75,Decorar,Sara Gonzalez,Pendiente,Reservar local,50
+76,Enviar invitaciones,Nicholas Jones,Finalizado,Reservar local,88
+77,Reservar local,David Smith,Pendiente,Enviar invitaciones,82
+78,Comprar materiales,Jennifer Donaldson,Pendiente,Decorar,41
+79,Comprar materiales,Kenneth Watson,En proceso,Enviar invitaciones,25
+80,Enviar invitaciones,Melissa Zamora,Pendiente,Reservar local,28
+81,Ejecutar evento,Stephanie Campbell,Finalizado,Enviar invitaciones,21
+82,Enviar invitaciones,Bruce Morris,En proceso,Ejecutar evento,68
+83,Comprar materiales,Robert Rodriguez,En proceso,Decorar,26
+84,Reservar local,Julie Jones,Pendiente,Ejecutar evento,17
+85,Reservar local,Mary Jackson,Finalizado,Ejecutar evento,32
+86,Decorar,Jill Ingram,Pendiente,Enviar invitaciones,64
+87,Enviar invitaciones,Paul Jackson,Finalizado,Comprar materiales,15
+88,Enviar invitaciones,Jaime Hickman,Finalizado,Ejecutar evento,51
+89,Reservar local,Marc Miller,Finalizado,Enviar invitaciones,31
+90,Comprar materiales,Judy Smith,En proceso,Decorar,34
+91,Ejecutar evento,Andrea Baker,Finalizado,Comprar materiales,40
+92,Comprar materiales,Megan Chapman,En proceso,Decorar,53
+93,Reservar local,Lauren Wilson,Pendiente,Comprar materiales,46
+94,Ejecutar evento,Christine Brown,Pendiente,Decorar,52
+95,Enviar invitaciones,Jason Flores,Pendiente,Ejecutar evento,81
+96,Reservar local,Dakota Williamson,En proceso,Decorar,76
+97,Enviar invitaciones,Nicholas White,Pendiente,Decorar,66
+98,Enviar invitaciones,Michele Chambers,En proceso,Comprar materiales,27
+99,Comprar materiales,Julia Farley,Finalizado,Decorar,41
+100,Ejecutar evento,Lisa Thomas,En proceso,Reservar local,21
+101,Reservar local,Paige Sampson MD,En proceso,Reservar local,75
+102,Reservar local,Samuel Barry,Finalizado,Decorar,87
+103,Comprar materiales,Kevin Clark,Finalizado,Reservar local,33
+104,Reservar local,Christina Fuller,Finalizado,Enviar invitaciones,44
+105,Enviar invitaciones,Jason Murray,En proceso,Decorar,22
+106,Ejecutar evento,Suzanne Fitzpatrick,Pendiente,Comprar materiales,18
+107,Reservar local,Jamie Rodriguez,Finalizado,Reservar local,38
+108,Decorar,Mary Jones,Pendiente,Enviar invitaciones,41
+109,Comprar materiales,Regina Peterson,En proceso,Ejecutar evento,66
+110,Decorar,Megan Mccall,En proceso,Comprar materiales,71
+111,Decorar,Deborah Kelly,Finalizado,Decorar,24
+112,Reservar local,Dawn Tucker,En proceso,Decorar,36
+113,Decorar,Dean Gilbert,En proceso,Comprar materiales,17
+114,Enviar invitaciones,Dana Welch,Finalizado,Comprar materiales,54
+115,Reservar local,Ryan Mclean,En proceso,Ejecutar evento,88
+116,Comprar materiales,Sara Flores,Pendiente,Ejecutar evento,24
+117,Decorar,Nathaniel Taylor,Pendiente,Decorar,62
+118,Comprar materiales,Jeremy Fletcher,En proceso,Enviar invitaciones,82
+119,Ejecutar evento,Michael Jones,En proceso,Decorar,61
+120,Comprar materiales,Janet Johnson,Pendiente,Ejecutar evento,34
+121,Ejecutar evento,Paul Taylor,Finalizado,Comprar materiales,19
+122,Reservar local,David Lee,Finalizado,Reservar local,55
+123,Reservar local,Nicole Day,En proceso,Reservar local,71
+124,Decorar,Philip Garza,Finalizado,Decorar,32
+125,Enviar invitaciones,Bethany Lawson,Finalizado,Reservar local,50
+126,Reservar local,Amanda Shah,Pendiente,Ejecutar evento,48
+127,Enviar invitaciones,Jacob Conner,Pendiente,Enviar invitaciones,24
+128,Reservar local,Joy George,Finalizado,Enviar invitaciones,82
+129,Ejecutar evento,Jose Robinson,En proceso,Comprar materiales,28
+130,Decorar,Kimberly Freeman,En proceso,Decorar,35
+131,Comprar materiales,David Harris,En proceso,Enviar invitaciones,38
+132,Reservar local,Sydney Mathews,En proceso,Reservar local,39
+133,Enviar invitaciones,Denise Myers,Finalizado,Decorar,17
+134,Enviar invitaciones,Michael Morris,Pendiente,Enviar invitaciones,29
+135,Decorar,John Guzman,En proceso,Comprar materiales,30
+136,Decorar,Ross Hunt,En proceso,Decorar,16
+137,Comprar materiales,Dawn Castillo,En proceso,Ejecutar evento,53
+138,Ejecutar evento,Colton Singleton,En proceso,Decorar,66
+139,Enviar invitaciones,Kimberly Scott,Finalizado,Comprar materiales,80
+140,Reservar local,Tracey Hamilton,En proceso,Decorar,42
+141,Ejecutar evento,Paul Davis,En proceso,Reservar local,39
+142,Enviar invitaciones,Charles Thomas,Pendiente,Reservar local,46
+143,Enviar invitaciones,Steven Collier,Pendiente,Ejecutar evento,57
+144,Enviar invitaciones,Michelle Robbins,En proceso,Comprar materiales,47
+145,Comprar materiales,Charles Walter,En proceso,Enviar invitaciones,22
+146,Enviar invitaciones,Guy Anderson,Pendiente,Comprar materiales,57
+147,Comprar materiales,Sherry Holt,Pendiente,Reservar local,60
+148,Enviar invitaciones,Katherine Baker,En proceso,Reservar local,71
+149,Reservar local,Ricardo Brown,Finalizado,Reservar local,85
+150,Decorar,Jodi Hanson,Pendiente,Enviar invitaciones,16
+151,Enviar invitaciones,Wesley Jordan,En proceso,Ejecutar evento,23
+152,Enviar invitaciones,Dana Nichols,Pendiente,Enviar invitaciones,56
+153,Comprar materiales,Troy Frederick,En proceso,Ejecutar evento,75
+154,Reservar local,Theresa Manning,En proceso,Enviar invitaciones,84
+155,Decorar,Janice Smith,Pendiente,Decorar,26
+156,Comprar materiales,Leah Gould,Pendiente,Enviar invitaciones,56
+157,Ejecutar evento,Catherine Wood,Finalizado,Ejecutar evento,59
+158,Enviar invitaciones,Michelle Clark,En proceso,Enviar invitaciones,48
+159,Ejecutar evento,Todd Hernandez,Finalizado,Enviar invitaciones,44
+160,Comprar materiales,Rebecca Hall,Finalizado,Reservar local,32
+161,Reservar local,Brittney Santiago,Pendiente,Reservar local,27
+162,Decorar,Billy Boyer,En proceso,Ejecutar evento,30
+163,Ejecutar evento,Kyle Palmer,En proceso,Comprar materiales,30
+164,Reservar local,Jessica Flores,Finalizado,Decorar,69
+165,Ejecutar evento,Jennifer Anthony,Pendiente,Enviar invitaciones,24
+166,Ejecutar evento,David Cunningham,Pendiente,Enviar invitaciones,73
+167,Ejecutar evento,Andrew Shelton,En proceso,Comprar materiales,69
+168,Reservar local,Kayla Cannon,En proceso,Comprar materiales,81
+169,Enviar invitaciones,Melanie Bridges,Pendiente,Ejecutar evento,80
+170,Decorar,Matthew Banks,En proceso,Comprar materiales,26
+171,Enviar invitaciones,Louis Hogan,Pendiente,Comprar materiales,51
+172,Enviar invitaciones,Elizabeth Wilcox,Pendiente,Ejecutar evento,87
+173,Enviar invitaciones,Brianna Bowen,En proceso,Enviar invitaciones,56
+174,Ejecutar evento,Teresa Gonzalez DDS,Pendiente,Enviar invitaciones,75
+175,Enviar invitaciones,Mary Phillips,En proceso,Enviar invitaciones,34
+176,Ejecutar evento,Lisa King,En proceso,Enviar invitaciones,84
+177,Enviar invitaciones,William Cannon,Pendiente,Ejecutar evento,45
+178,Decorar,Christopher Walsh,Pendiente,Reservar local,86
+179,Decorar,Jennifer Conley,Pendiente,Decorar,27
+180,Ejecutar evento,Dillon Jackson,En proceso,Ejecutar evento,82
+181,Reservar local,Eric Schmitt,Pendiente,Ejecutar evento,30
+182,Enviar invitaciones,Connie Romero,Finalizado,Comprar materiales,76
+183,Enviar invitaciones,Mark Stokes,Finalizado,Comprar materiales,23
+184,Enviar invitaciones,Taylor Mullins,En proceso,Decorar,63
+185,Comprar materiales,Lori Brown,Finalizado,Reservar local,32
+186,Enviar invitaciones,Keith Allen,Finalizado,Reservar local,81
+187,Enviar invitaciones,Peter Scott,Pendiente,Enviar invitaciones,69
+188,Decorar,Jeff Bailey,En proceso,Enviar invitaciones,64
+189,Decorar,Daniel James,Finalizado,Reservar local,28
+190,Reservar local,Tracy Wall,Finalizado,Enviar invitaciones,43
+191,Reservar local,Joseph Kim,Finalizado,Comprar materiales,49
+192,Ejecutar evento,Henry Santos,Pendiente,Reservar local,58
+193,Ejecutar evento,Cody Perkins,Finalizado,Comprar materiales,48
+194,Enviar invitaciones,Michael Sanchez,Finalizado,Enviar invitaciones,43
+195,Decorar,Michelle Jackson,Finalizado,Decorar,83
+196,Enviar invitaciones,William Tucker,En proceso,Reservar local,50
+197,Reservar local,Edward Richardson,En proceso,Reservar local,18
+198,Reservar local,Sarah Chavez,Pendiente,Enviar invitaciones,84
+199,Decorar,Fred Brown,En proceso,Ejecutar evento,52
+200,Reservar local,Amanda Atkins,En proceso,Comprar materiales,79
+201,Comprar materiales,Sierra Nelson,En proceso,Enviar invitaciones,45
+202,Comprar materiales,Natasha Herrera,Pendiente,Enviar invitaciones,30
+203,Enviar invitaciones,Ronald Raymond,Pendiente,Reservar local,39
+204,Enviar invitaciones,Abigail Jensen,Pendiente,Decorar,36
+205,Ejecutar evento,Bethany Rosario,Pendiente,Decorar,52
+206,Ejecutar evento,Ricky Olsen,En proceso,Comprar materiales,84
+207,Ejecutar evento,Shelia Barajas,En proceso,Comprar materiales,67
+208,Reservar local,Angela Bowman,En proceso,Comprar materiales,68
+209,Decorar,Cheryl Avery,Finalizado,Decorar,18
+210,Reservar local,Amanda Williams,Pendiente,Enviar invitaciones,75
+211,Reservar local,Brittany Miller,En proceso,Comprar materiales,15
+212,Ejecutar evento,Richard Hall,En proceso,Enviar invitaciones,35
+213,Comprar materiales,Kimberly Waller,En proceso,Reservar local,35
+214,Reservar local,Karla Lee,Pendiente,Reservar local,62
+215,Comprar materiales,Thomas Scott,Finalizado,Enviar invitaciones,54
+216,Reservar local,Mark Barker,Pendiente,Enviar invitaciones,71
+217,Reservar local,Amanda Wright,Pendiente,Enviar invitaciones,63
+218,Decorar,John Santana,Pendiente,Comprar materiales,50
+219,Comprar materiales,Seth Escobar,En proceso,Decorar,53
+220,Ejecutar evento,Chelsea Mccullough,Pendiente,Ejecutar evento,37
+221,Comprar materiales,Robin Olsen,En proceso,Ejecutar evento,60
+222,Enviar invitaciones,Todd Taylor,Pendiente,Ejecutar evento,89
+223,Ejecutar evento,Sandra Gonzalez,Pendiente,Ejecutar evento,27
+224,Ejecutar evento,John Bradley,En proceso,Decorar,48
+225,Comprar materiales,Emily Bell,Finalizado,Decorar,56
+226,Enviar invitaciones,Brianna Smith,Pendiente,Comprar materiales,84
+227,Enviar invitaciones,Zachary Wilson,Finalizado,Enviar invitaciones,87
+228,Decorar,Mr. Scott Villa PhD,En proceso,Reservar local,37
+229,Reservar local,Kimberly Russell,Finalizado,Decorar,80
+230,Ejecutar evento,Natalie King,Finalizado,Ejecutar evento,61
+231,Decorar,Jake Skinner,En proceso,Comprar materiales,24
+232,Decorar,Taylor Bowman,Pendiente,Ejecutar evento,81
+233,Comprar materiales,Michael Greer,Pendiente,Decorar,75
+234,Ejecutar evento,Jason Roberts,En proceso,Decorar,54
+235,Decorar,Yolanda Perez,Finalizado,Decorar,76
+236,Comprar materiales,Andrea Watson,Finalizado,Enviar invitaciones,21
+237,Enviar invitaciones,Tommy Williams,En proceso,Comprar materiales,73
+238,Decorar,Claudia Beck,Finalizado,Decorar,70
+239,Decorar,Jose Smith,Finalizado,Comprar materiales,36
+240,Decorar,Jennifer Johnson,En proceso,Reservar local,85
+241,Reservar local,Andrew Turner,En proceso,Enviar invitaciones,17
+242,Comprar materiales,James Manning,Pendiente,Enviar invitaciones,38
+243,Decorar,Kayla Silva,Finalizado,Ejecutar evento,74
+244,Decorar,Alexander Clark,Pendiente,Reservar local,40
+245,Enviar invitaciones,Bruce Mccoy,Finalizado,Decorar,22
+246,Ejecutar evento,Ricky Mcclain,En proceso,Enviar invitaciones,63
+247,Ejecutar evento,Christina Harmon,En proceso,Decorar,35
+248,Decorar,Donald Juarez,Pendiente,Reservar local,81
+249,Reservar local,Jonathan Wall,Pendiente,Decorar,27
+250,Reservar local,Jeffery Johnson,Finalizado,Ejecutar evento,85
+251,Reservar local,Dustin Holmes DDS,Finalizado,Decorar,81
+252,Enviar invitaciones,Stanley Ortiz,En proceso,Decorar,42
+253,Enviar invitaciones,Theresa Maddox,En proceso,Reservar local,47
+254,Enviar invitaciones,Maria Ware,Pendiente,Comprar materiales,78
+255,Reservar local,Juan Carter,En proceso,Enviar invitaciones,46
+256,Enviar invitaciones,Juan Allen,Pendiente,Enviar invitaciones,32
+257,Comprar materiales,Connie Morris,Pendiente,Decorar,84
+258,Reservar local,Jennifer Swanson,Pendiente,Ejecutar evento,57
+259,Comprar materiales,Holly Reid,En proceso,Enviar invitaciones,67
+260,Ejecutar evento,Daniel Powell,Pendiente,Ejecutar evento,15
+261,Reservar local,James Wright,Finalizado,Decorar,36
+262,Reservar local,Selena Cruz,Pendiente,Decorar,30
+263,Ejecutar evento,Christopher Reed,Finalizado,Comprar materiales,35
+264,Ejecutar evento,Joseph Warner,Pendiente,Enviar invitaciones,19
+265,Ejecutar evento,April Kennedy,En proceso,Enviar invitaciones,75
+266,Reservar local,Tiffany Kelly,Pendiente,Ejecutar evento,56
+267,Enviar invitaciones,Karen Evans,Pendiente,Comprar materiales,29
+268,Enviar invitaciones,Derrick Schneider,En proceso,Enviar invitaciones,56
+269,Comprar materiales,Leslie Khan,En proceso,Enviar invitaciones,77
+270,Ejecutar evento,Lisa Lee,En proceso,Comprar materiales,18
+271,Decorar,Sydney Anderson,En proceso,Enviar invitaciones,88
+272,Reservar local,Laura Miller,En proceso,Enviar invitaciones,52
+273,Ejecutar evento,Samantha Brown,Pendiente,Comprar materiales,37
+274,Enviar invitaciones,Laurie Soto,En proceso,Decorar,80
+275,Enviar invitaciones,Joseph Morton,Finalizado,Ejecutar evento,89
+276,Comprar materiales,Daniel Romero,En proceso,Enviar invitaciones,87
+277,Decorar,Sarah Hopkins,En proceso,Ejecutar evento,46
+278,Ejecutar evento,Erica Scott,En proceso,Ejecutar evento,60
+279,Reservar local,Connie Martinez,Finalizado,Enviar invitaciones,56
+280,Reservar local,Tara Wilson,Pendiente,Decorar,16
+281,Enviar invitaciones,Laura Kelly,Pendiente,Enviar invitaciones,34
+282,Enviar invitaciones,Justin Hampton,Pendiente,Reservar local,35
+283,Ejecutar evento,Daniel Campbell,Pendiente,Enviar invitaciones,56
+284,Comprar materiales,Joe Simpson,En proceso,Decorar,36
+285,Decorar,Kristen Leon,En proceso,Decorar,57
+286,Ejecutar evento,Ashley Underwood,En proceso,Reservar local,79
+287,Decorar,Marc Davis,En proceso,Comprar materiales,75
+288,Comprar materiales,Jacob Davis,Pendiente,Enviar invitaciones,72
+289,Reservar local,Cameron Sullivan,Finalizado,Decorar,72
+290,Reservar local,Elizabeth Bennett,Finalizado,Reservar local,15
+291,Reservar local,Deborah Bender,En proceso,Ejecutar evento,31
+292,Decorar,Lauren Vega,En proceso,Reservar local,86
+293,Ejecutar evento,Robert Freeman,Finalizado,Ejecutar evento,52
+294,Comprar materiales,Penny Barnes,En proceso,Enviar invitaciones,17
+295,Ejecutar evento,Benjamin Smith,En proceso,Enviar invitaciones,65
+296,Reservar local,Beth Wood,En proceso,Decorar,42
+297,Enviar invitaciones,Brandon Hartman,En proceso,Comprar materiales,27
+298,Comprar materiales,Eduardo Garcia,Pendiente,Decorar,21
+299,Decorar,Justin Castillo,En proceso,Enviar invitaciones,43
+300,Comprar materiales,Sean Wilson,Finalizado,Comprar materiales,48
+301,Enviar invitaciones,Darren Wells,Pendiente,Enviar invitaciones,79
+302,Comprar materiales,Kevin Donovan,Finalizado,Comprar materiales,15
+303,Enviar invitaciones,Sherry Thompson,Pendiente,Decorar,29
+304,Decorar,Ann Singleton,En proceso,Comprar materiales,47
+305,Enviar invitaciones,Brian Gilbert,Finalizado,Enviar invitaciones,43
+306,Decorar,Joanna Norris,Finalizado,Reservar local,78
+307,Reservar local,Claudia Kirk,Finalizado,Comprar materiales,89
+308,Ejecutar evento,Crystal Case,En proceso,Enviar invitaciones,60
+309,Ejecutar evento,Joshua Reeves,En proceso,Decorar,34
+310,Enviar invitaciones,Joshua Lynch,Finalizado,Comprar materiales,16
+311,Comprar materiales,Brenda Johnston,Pendiente,Comprar materiales,85
+312,Decorar,Christopher Knight,En proceso,Reservar local,22
+313,Decorar,Alan Cardenas,En proceso,Ejecutar evento,34
+314,Enviar invitaciones,Michelle Green,Finalizado,Ejecutar evento,81
+315,Decorar,Nathaniel Herrera,En proceso,Comprar materiales,89
+316,Comprar materiales,Andrea Williams,Pendiente,Decorar,62
+317,Ejecutar evento,Veronica Pena,Finalizado,Comprar materiales,73
+318,Enviar invitaciones,Benjamin Le,En proceso,Enviar invitaciones,22
+319,Enviar invitaciones,Alexis Rodriguez,Pendiente,Ejecutar evento,55
+320,Reservar local,Alexandra Harris,Pendiente,Ejecutar evento,85
+321,Decorar,Monique Johnson,Finalizado,Comprar materiales,64
+322,Reservar local,Roy Miller,Pendiente,Reservar local,24
+323,Decorar,Daniel Bishop,En proceso,Reservar local,64
+324,Comprar materiales,Donald Martin,En proceso,Reservar local,79
+325,Decorar,Jeffrey Pugh,En proceso,Decorar,85
+326,Enviar invitaciones,Carlos Mann,En proceso,Ejecutar evento,76
+327,Enviar invitaciones,Ruth Martin,Finalizado,Enviar invitaciones,55
+328,Decorar,Christine Lin,Finalizado,Comprar materiales,25
+329,Decorar,Steve Zimmerman,Pendiente,Comprar materiales,37
+330,Decorar,Jared Garcia,Finalizado,Reservar local,15
+331,Enviar invitaciones,Andrew Koch,Pendiente,Ejecutar evento,54
+332,Reservar local,Matthew Robinson,En proceso,Reservar local,62
+333,Reservar local,Brian Cobb,Finalizado,Decorar,60
+334,Enviar invitaciones,Janice Petty,Pendiente,Reservar local,56
+335,Comprar materiales,Janice Wilkerson,Finalizado,Ejecutar evento,19
+336,Reservar local,Diane Myers,En proceso,Decorar,80
+337,Ejecutar evento,Bobby Salinas,Finalizado,Enviar invitaciones,45
+338,Comprar materiales,Juan Fox,En proceso,Reservar local,72
+339,Enviar invitaciones,Mark Wu,Pendiente,Decorar,19
+340,Decorar,Christopher Thompson,Pendiente,Ejecutar evento,69
+341,Reservar local,Courtney Cruz,En proceso,Comprar materiales,42
+342,Enviar invitaciones,Jasmine Anderson,En proceso,Enviar invitaciones,63
+343,Enviar invitaciones,Courtney Stephens,Finalizado,Reservar local,15
+344,Comprar materiales,Barry Lawson,Pendiente,Decorar,33
+345,Reservar local,Lisa Rodriguez,Pendiente,Reservar local,40
+346,Ejecutar evento,Erica Ramos,En proceso,Decorar,78
+347,Decorar,Mario Lopez,Finalizado,Comprar materiales,16
+348,Reservar local,Patricia Levy,Pendiente,Comprar materiales,68
+349,Decorar,Michael Gonzalez,En proceso,Enviar invitaciones,44
+350,Comprar materiales,Daniel Phillips,En proceso,Enviar invitaciones,87
+351,Enviar invitaciones,Pamela Jones,Finalizado,Comprar materiales,80
+352,Ejecutar evento,Eddie Norris,En proceso,Reservar local,75
+353,Decorar,Ashley Young,En proceso,Comprar materiales,83
+354,Ejecutar evento,Caitlin Jackson,En proceso,Reservar local,40
+355,Reservar local,Anthony King,En proceso,Comprar materiales,73
+356,Decorar,Kimberly Allen,Finalizado,Enviar invitaciones,38
+357,Decorar,James Vazquez,Finalizado,Decorar,69
+358,Reservar local,Stephanie Melendez,Finalizado,Comprar materiales,27
+359,Decorar,John Simpson,Pendiente,Enviar invitaciones,43
+360,Reservar local,Dr. Vincent Jackson,Finalizado,Enviar invitaciones,35
+361,Comprar materiales,Timothy Sims,Pendiente,Ejecutar evento,38
+362,Ejecutar evento,Emily Fields,En proceso,Ejecutar evento,86
+363,Ejecutar evento,Robert Ellison,Pendiente,Enviar invitaciones,43
+364,Enviar invitaciones,John Young,Finalizado,Comprar materiales,59
+365,Decorar,Catherine Payne,Pendiente,Ejecutar evento,61
+366,Decorar,Kevin Wilson,Finalizado,Ejecutar evento,52
+367,Enviar invitaciones,Stephanie Schmidt,Pendiente,Decorar,45
+368,Enviar invitaciones,Nicole Todd DDS,Finalizado,Ejecutar evento,17
+369,Decorar,Jeffrey Henry,En proceso,Reservar local,32
+370,Comprar materiales,Mr. Jeremiah Palmer,Finalizado,Enviar invitaciones,52
+371,Comprar materiales,Kevin Irwin,Pendiente,Ejecutar evento,25
+372,Enviar invitaciones,Shannon West,Finalizado,Enviar invitaciones,61
+373,Comprar materiales,Alex Anderson,En proceso,Decorar,29
+374,Reservar local,Terri Navarro,Finalizado,Comprar materiales,31
+375,Enviar invitaciones,Tyler Cooke,Pendiente,Reservar local,24
+376,Comprar materiales,Gabriel Roberts,En proceso,Comprar materiales,66
+377,Comprar materiales,Nicole Leonard,Pendiente,Enviar invitaciones,46
+378,Decorar,Ryan Taylor,Finalizado,Enviar invitaciones,33
+379,Ejecutar evento,Pamela Morgan,En proceso,Reservar local,31
+380,Ejecutar evento,Jason Brown,Pendiente,Comprar materiales,16
+381,Comprar materiales,Roy Ramirez,En proceso,Decorar,86
+382,Enviar invitaciones,Kiara Rodriguez,En proceso,Reservar local,72
+383,Ejecutar evento,John Young,Finalizado,Ejecutar evento,63
+384,Enviar invitaciones,Michael Clarke,Finalizado,Ejecutar evento,72
+385,Ejecutar evento,David Zamora,En proceso,Decorar,70
+386,Reservar local,Terrence Figueroa,Pendiente,Comprar materiales,29
+387,Ejecutar evento,Jordan Dunn,Pendiente,Ejecutar evento,59
+388,Reservar local,Michael Vang,Pendiente,Reservar local,75
+389,Comprar materiales,Sara Smith,En proceso,Reservar local,22
+390,Decorar,Dr. Donna Kirk,En proceso,Comprar materiales,67
+391,Enviar invitaciones,Jorge Murray,Finalizado,Comprar materiales,39
+392,Comprar materiales,Larry Horton,Pendiente,Decorar,48
+393,Comprar materiales,Alexis Martinez,En proceso,Enviar invitaciones,79
+394,Ejecutar evento,Michael Cruz,Pendiente,Reservar local,74
+395,Reservar local,Laura Ramos,Pendiente,Decorar,15
+396,Ejecutar evento,Lisa Woods,Pendiente,Ejecutar evento,55
+397,Decorar,Derek Quinn,En proceso,Ejecutar evento,26
+398,Reservar local,Kimberly Ward,En proceso,Comprar materiales,23
+399,Decorar,Alejandro Smith,En proceso,Reservar local,43
+400,Ejecutar evento,Mark Morris,Finalizado,Reservar local,70
+401,Ejecutar evento,Christopher Mcdonald,En proceso,Reservar local,67
+402,Ejecutar evento,Kelly Evans,Finalizado,Reservar local,77
+403,Ejecutar evento,Omar Nichols,Finalizado,Enviar invitaciones,78
+404,Decorar,Suzanne Davis,En proceso,Enviar invitaciones,47
+405,Reservar local,Susan Thomas,Finalizado,Comprar materiales,88
+406,Comprar materiales,Luke Hoffman DVM,Pendiente,Enviar invitaciones,45
+407,Comprar materiales,Teresa Peters,En proceso,Reservar local,79
+408,Decorar,Brittany Perez,Pendiente,Decorar,58
+409,Decorar,Nancy Arias,Pendiente,Comprar materiales,31
+410,Enviar invitaciones,Susan Stout,Finalizado,Decorar,20
+411,Ejecutar evento,Phillip Green,Pendiente,Comprar materiales,44
+412,Enviar invitaciones,Juan Harrison,Pendiente,Reservar local,48
+413,Reservar local,David Newman MD,Pendiente,Enviar invitaciones,76
+414,Comprar materiales,Eric Aguilar,En proceso,Reservar local,63
+415,Comprar materiales,Monica Prince,Pendiente,Enviar invitaciones,43
+416,Enviar invitaciones,Jason Blankenship,Pendiente,Comprar materiales,87
+417,Enviar invitaciones,Jasmine Hammond,Pendiente,Comprar materiales,41
+418,Enviar invitaciones,Eric Owens,En proceso,Comprar materiales,20
+419,Decorar,Rachel Jones,Finalizado,Comprar materiales,46
+420,Decorar,Benjamin Adams,En proceso,Enviar invitaciones,73
+421,Ejecutar evento,Brad Hernandez,Finalizado,Enviar invitaciones,75
+422,Comprar materiales,Alexis Hernandez,En proceso,Comprar materiales,37
+423,Comprar materiales,Deanna Aguilar,En proceso,Reservar local,74
+424,Reservar local,Joanne Haas,Pendiente,Decorar,47
+425,Decorar,Eric Williams,Finalizado,Comprar materiales,33
+426,Decorar,William Thompson,En proceso,Decorar,87
+427,Ejecutar evento,Meghan Ramirez,Finalizado,Reservar local,82
+428,Reservar local,Nicholas Smith,Pendiente,Ejecutar evento,49
+429,Enviar invitaciones,Melissa Johnson,En proceso,Enviar invitaciones,73
+430,Reservar local,Edward Williams,Finalizado,Reservar local,53
+431,Reservar local,Donna Norris,En proceso,Ejecutar evento,36
+432,Enviar invitaciones,Paul Carroll,En proceso,Enviar invitaciones,69
+433,Decorar,John Sexton,Finalizado,Comprar materiales,43
+434,Comprar materiales,Matthew Wallace,Finalizado,Ejecutar evento,58
+435,Comprar materiales,Robert King,Finalizado,Comprar materiales,89
+436,Comprar materiales,Deanna Taylor,Finalizado,Enviar invitaciones,69
+437,Comprar materiales,Kayla Stewart PhD,Finalizado,Reservar local,30
+438,Decorar,Edward Fuller,En proceso,Reservar local,77
+439,Enviar invitaciones,Jack Moore,Pendiente,Enviar invitaciones,26
+440,Enviar invitaciones,Kara Wiggins,En proceso,Reservar local,43
+441,Decorar,Samantha Burch,En proceso,Reservar local,52
+442,Comprar materiales,Gabriel Cole,En proceso,Comprar materiales,17
+443,Enviar invitaciones,Andrew Jenkins,Finalizado,Ejecutar evento,34
+444,Comprar materiales,Scott Griffin,Finalizado,Ejecutar evento,31
+445,Decorar,Susan Chase,En proceso,Decorar,84
+446,Decorar,Victoria Bell,Finalizado,Ejecutar evento,20
+447,Ejecutar evento,Virginia Miller,En proceso,Ejecutar evento,17
+448,Reservar local,Kristy Smith,En proceso,Decorar,27
+449,Reservar local,Darren Jarvis,Pendiente,Decorar,32
+450,Decorar,Shane Elliott,Finalizado,Comprar materiales,27
+451,Decorar,Mary Sanders,Pendiente,Reservar local,43
+452,Reservar local,Clarence Fields,Pendiente,Decorar,16
+453,Ejecutar evento,Brandon Roberts,En proceso,Enviar invitaciones,23
+454,Reservar local,John Reilly,Pendiente,Ejecutar evento,38
+455,Reservar local,Katie Benitez,Finalizado,Ejecutar evento,55
+456,Ejecutar evento,Jodi Huang,En proceso,Reservar local,20
+457,Comprar materiales,David Jackson,Pendiente,Comprar materiales,66
+458,Reservar local,Miss Amber Davis,Finalizado,Reservar local,40
+459,Decorar,Patrick Berger,Finalizado,Ejecutar evento,62
+460,Comprar materiales,Sara Hubbard,Pendiente,Ejecutar evento,30
+461,Ejecutar evento,Brian Byrd,En proceso,Ejecutar evento,84
+462,Enviar invitaciones,Robert Lawson,En proceso,Ejecutar evento,36
+463,Decorar,Mary Hubbard,En proceso,Decorar,82
+464,Reservar local,Michael Whitaker,En proceso,Reservar local,62
+465,Decorar,Jason Fuller,En proceso,Ejecutar evento,27
+466,Ejecutar evento,Ms. Shelly Johnson DVM,Pendiente,Enviar invitaciones,77
+467,Ejecutar evento,Daniel Parks,En proceso,Reservar local,79
+468,Enviar invitaciones,Sandra Blake,En proceso,Reservar local,33
+469,Decorar,Patrick Torres,En proceso,Enviar invitaciones,22
+470,Comprar materiales,Troy Porter,Pendiente,Ejecutar evento,84
+471,Enviar invitaciones,David Garcia,Finalizado,Ejecutar evento,45
+472,Enviar invitaciones,Jasmine Wright,Finalizado,Decorar,25
+473,Enviar invitaciones,Mrs. Susan Smith,En proceso,Comprar materiales,51
+474,Decorar,Mike Lopez,Finalizado,Comprar materiales,31
+475,Decorar,Glenn Lopez,Finalizado,Decorar,48
+476,Enviar invitaciones,Brenda Long,Pendiente,Reservar local,29
+477,Decorar,Tracey Travis,En proceso,Comprar materiales,64
+478,Decorar,Michael Ward,Pendiente,Ejecutar evento,40
+479,Decorar,Michael Bell,Finalizado,Enviar invitaciones,27
+480,Reservar local,John Bell,En proceso,Decorar,40
+481,Reservar local,Rachel Webb,Pendiente,Enviar invitaciones,24
+482,Comprar materiales,Jose Rodriguez,Finalizado,Enviar invitaciones,55
+483,Decorar,Erin Moreno,En proceso,Reservar local,67
+484,Enviar invitaciones,Tina Green,En proceso,Comprar materiales,43
+485,Reservar local,Daniel Williams,Pendiente,Ejecutar evento,53
+486,Comprar materiales,Peter Rivera,Pendiente,Reservar local,17
+487,Comprar materiales,Kathryn Johnson,Finalizado,Comprar materiales,41
+488,Decorar,Kimberly Tate,En proceso,Decorar,80
+489,Enviar invitaciones,Mrs. Samantha Walker,En proceso,Comprar materiales,83
+490,Reservar local,Lisa Cohen,En proceso,Comprar materiales,17
+491,Comprar materiales,Gregory Garcia,Finalizado,Ejecutar evento,57
+492,Ejecutar evento,Patricia Thompson,Pendiente,Decorar,85
+493,Ejecutar evento,Theresa Wilcox,En proceso,Ejecutar evento,31
+494,Decorar,Emily Fernandez,Finalizado,Enviar invitaciones,37
+495,Decorar,Hannah Bailey,Pendiente,Comprar materiales,34
+496,Decorar,Mary Castillo,Finalizado,Ejecutar evento,87
+497,Comprar materiales,David Ayala,Finalizado,Enviar invitaciones,79
+498,Comprar materiales,Tara Branch,Finalizado,Decorar,44
+499,Decorar,Matthew Wise,Finalizado,Enviar invitaciones,72
+500,Reservar local,Julie Coffey,En proceso,Reservar local,59
+501,Decorar,Andrew Brooks,Finalizado,Comprar materiales,17
+502,Enviar invitaciones,Chelsea Howe,Finalizado,Enviar invitaciones,22
+503,Reservar local,Shannon Stephens,Finalizado,Decorar,58
+504,Ejecutar evento,Jason Adkins,Pendiente,Decorar,88
+505,Enviar invitaciones,Nicholas Kline,Finalizado,Reservar local,22
+506,Reservar local,Christopher Chavez,En proceso,Enviar invitaciones,32
+507,Decorar,Melissa Martinez,En proceso,Decorar,77
+508,Enviar invitaciones,Timothy Hickman,Finalizado,Reservar local,80
+509,Decorar,Courtney Zavala,Finalizado,Reservar local,73
+510,Enviar invitaciones,Timothy Ramos,Finalizado,Decorar,62
+511,Comprar materiales,Justin Wagner,En proceso,Ejecutar evento,15
+512,Reservar local,Nicholas Parker,Pendiente,Reservar local,50
+513,Ejecutar evento,Jennifer Carroll,En proceso,Decorar,68
+514,Ejecutar evento,Catherine Martin,Pendiente,Reservar local,39
+515,Reservar local,Jason Jackson,Pendiente,Reservar local,75
+516,Decorar,Anthony Simmons,Pendiente,Decorar,66
+517,Ejecutar evento,Timothy Rodriguez,Finalizado,Comprar materiales,88
+518,Enviar invitaciones,Lisa Foster,En proceso,Comprar materiales,83
+519,Enviar invitaciones,Ashley Rodriguez,Finalizado,Decorar,83
+520,Comprar materiales,Nicholas Blackburn,Finalizado,Decorar,34
+521,Ejecutar evento,Cindy Golden,Pendiente,Ejecutar evento,15
+522,Comprar materiales,Robert Pittman,En proceso,Enviar invitaciones,75
+523,Ejecutar evento,Kristen Nichols,En proceso,Enviar invitaciones,48
+524,Enviar invitaciones,Ashley Rodriguez,En proceso,Comprar materiales,56
+525,Decorar,Sean Kane,En proceso,Reservar local,57
+526,Enviar invitaciones,Christopher Williams,Pendiente,Decorar,53
+527,Decorar,Tyrone Parsons,Pendiente,Decorar,15
+528,Reservar local,Priscilla Hughes,Finalizado,Decorar,70
+529,Enviar invitaciones,Christopher Thompson,En proceso,Reservar local,24
+530,Reservar local,Ronald Melendez,Finalizado,Reservar local,62
+531,Enviar invitaciones,Daniel Garcia,Finalizado,Comprar materiales,50
+532,Ejecutar evento,Dorothy Ibarra DDS,En proceso,Decorar,87
+533,Decorar,Kelly Gilbert,En proceso,Comprar materiales,20
+534,Reservar local,Frank Miller,Finalizado,Comprar materiales,40
+535,Ejecutar evento,Billy Jackson,Pendiente,Decorar,62
+536,Enviar invitaciones,Thomas Buckley,Finalizado,Comprar materiales,68
+537,Enviar invitaciones,Samantha Taylor,Finalizado,Decorar,22
+538,Reservar local,Anthony Walker,Finalizado,Enviar invitaciones,33
+539,Enviar invitaciones,Lisa Rogers,En proceso,Reservar local,17
+540,Decorar,Tami Johnson,Pendiente,Reservar local,51
+541,Decorar,Diane King,Pendiente,Comprar materiales,88
+542,Comprar materiales,Mitchell White,Finalizado,Decorar,78
+543,Enviar invitaciones,Christina Miller,En proceso,Enviar invitaciones,77
+544,Enviar invitaciones,Cheryl Oliver,Pendiente,Ejecutar evento,36
+545,Reservar local,Nicholas Mason,Pendiente,Reservar local,15
+546,Enviar invitaciones,Joseph Perez,En proceso,Enviar invitaciones,42
+547,Ejecutar evento,Thomas Gallegos,En proceso,Reservar local,20
+548,Decorar,Edward Goodwin,En proceso,Decorar,25
+549,Ejecutar evento,Ryan Davis,En proceso,Reservar local,23
+550,Decorar,Connie Campos,Finalizado,Enviar invitaciones,24
+551,Comprar materiales,Andrew Thomas,En proceso,Ejecutar evento,67
+552,Reservar local,James Washington,En proceso,Decorar,32
+553,Decorar,Chelsea Chapman,Finalizado,Ejecutar evento,82
+554,Reservar local,Natalie Murphy,En proceso,Ejecutar evento,39
+555,Decorar,Marcus Brown,Finalizado,Enviar invitaciones,74
+556,Reservar local,William Jones,Pendiente,Ejecutar evento,51
+557,Enviar invitaciones,Erica Stone,En proceso,Reservar local,16
+558,Comprar materiales,Sandra Johnson,Finalizado,Enviar invitaciones,18
+559,Enviar invitaciones,Lori Smith,Pendiente,Enviar invitaciones,38
+560,Comprar materiales,Jesus Fisher,Pendiente,Enviar invitaciones,67
+561,Comprar materiales,Mark Nolan,Finalizado,Enviar invitaciones,47
+562,Decorar,Gina Carter,Pendiente,Comprar materiales,62
+563,Comprar materiales,John Brown,Finalizado,Reservar local,16
+564,Reservar local,Katelyn Davis,Pendiente,Enviar invitaciones,67
+565,Decorar,Stephen Miller,Finalizado,Enviar invitaciones,16
+566,Enviar invitaciones,Debbie Sanchez,Finalizado,Decorar,41
+567,Reservar local,Colleen Murphy,Pendiente,Ejecutar evento,45
+568,Decorar,Michael Williams,En proceso,Decorar,51
+569,Reservar local,Samantha Smith,En proceso,Ejecutar evento,61
+570,Enviar invitaciones,Lisa Stanton,Finalizado,Comprar materiales,87
+571,Reservar local,Darlene Williams,Finalizado,Decorar,73
+572,Reservar local,Heidi Clark,Finalizado,Comprar materiales,19
+573,Comprar materiales,Bryan Love,En proceso,Reservar local,43
+574,Reservar local,Tara Rodriguez,Finalizado,Decorar,77
+575,Ejecutar evento,Carol Robinson,En proceso,Comprar materiales,67
+576,Reservar local,Kimberly Cantu,En proceso,Enviar invitaciones,30
+577,Ejecutar evento,Justin Herring,En proceso,Decorar,53
+578,Decorar,Heidi Maldonado,Finalizado,Decorar,43
+579,Comprar materiales,Martha Alvarez,Finalizado,Comprar materiales,49
+580,Decorar,Linda Cameron,Finalizado,Reservar local,71
+581,Ejecutar evento,Kimberly Hernandez,En proceso,Comprar materiales,34
+582,Enviar invitaciones,Kimberly Sherman,En proceso,Ejecutar evento,45
+583,Comprar materiales,Ashley Hicks,Pendiente,Enviar invitaciones,26
+584,Reservar local,Scott Mann,Pendiente,Ejecutar evento,88
+585,Decorar,Barbara Bush,Pendiente,Decorar,35
+586,Decorar,Kevin Vasquez,Pendiente,Ejecutar evento,85
+587,Enviar invitaciones,Luis Andrews,En proceso,Decorar,77
+588,Ejecutar evento,Rick Johnson,Finalizado,Reservar local,26
+589,Comprar materiales,Carrie Sparks,Pendiente,Reservar local,85
+590,Ejecutar evento,Thomas Buckley,Pendiente,Comprar materiales,15
+591,Ejecutar evento,Patrick Davis,En proceso,Decorar,65
+592,Reservar local,Mrs. Stacey Silva DDS,En proceso,Decorar,79
+593,Decorar,David Walls,En proceso,Reservar local,41
+594,Decorar,Vincent Hodges,Pendiente,Comprar materiales,23
+595,Enviar invitaciones,Johnny Johnson,En proceso,Decorar,56
+596,Enviar invitaciones,Summer Long,Finalizado,Ejecutar evento,88
+597,Decorar,Larry Gutierrez,En proceso,Enviar invitaciones,34
+598,Decorar,Jacob Woods,En proceso,Ejecutar evento,62
+599,Enviar invitaciones,Mark Williams,Pendiente,Enviar invitaciones,86
+600,Comprar materiales,Robert Washington,En proceso,Comprar materiales,65
+601,Decorar,Vanessa Munoz,En proceso,Ejecutar evento,88
+602,Ejecutar evento,Albert Gonzalez,Pendiente,Decorar,55
+603,Decorar,Carlos Nichols,En proceso,Enviar invitaciones,66
+604,Comprar materiales,Mandy Wade,Pendiente,Enviar invitaciones,62
+605,Decorar,Andrew Pham,Pendiente,Reservar local,73
+606,Decorar,Joseph Barr,En proceso,Reservar local,18
+607,Comprar materiales,Julie Chandler,En proceso,Reservar local,24
+608,Enviar invitaciones,George Sherman,Pendiente,Ejecutar evento,17
+609,Reservar local,Michelle Mcmillan,En proceso,Enviar invitaciones,30
+610,Enviar invitaciones,Alicia Meadows,Finalizado,Decorar,41
+611,Comprar materiales,Joshua Pope,Finalizado,Comprar materiales,75
+612,Ejecutar evento,Michael Mcdaniel,Finalizado,Enviar invitaciones,22
+613,Ejecutar evento,Mark Mitchell,Pendiente,Ejecutar evento,42
+614,Comprar materiales,Christopher Myers,Pendiente,Ejecutar evento,67
+615,Comprar materiales,David Nunez,Finalizado,Ejecutar evento,73
+616,Decorar,Seth Luna,Pendiente,Comprar materiales,82
+617,Decorar,Anna Morris,En proceso,Enviar invitaciones,42
+618,Comprar materiales,Joseph Woods,Finalizado,Ejecutar evento,22
+619,Reservar local,Stephanie Bennett,En proceso,Reservar local,59
+620,Enviar invitaciones,Sharon Bailey,Finalizado,Decorar,72
+621,Ejecutar evento,Steve Serrano,En proceso,Ejecutar evento,40
+622,Comprar materiales,Marissa Crawford,Pendiente,Reservar local,46
+623,Comprar materiales,Jose Martinez,Finalizado,Enviar invitaciones,35
+624,Ejecutar evento,Michael Frost,Pendiente,Reservar local,51
+625,Comprar materiales,Susan Rodriguez,Pendiente,Ejecutar evento,85
+626,Comprar materiales,Cynthia Page,En proceso,Comprar materiales,24
+627,Enviar invitaciones,Sonya Marks,Finalizado,Enviar invitaciones,82
+628,Comprar materiales,John Davis,Pendiente,Reservar local,69
+629,Ejecutar evento,Matthew Jones,En proceso,Reservar local,61
+630,Ejecutar evento,Michelle Flores,En proceso,Enviar invitaciones,29
+631,Reservar local,Gail Nichols,En proceso,Enviar invitaciones,33
+632,Decorar,Nicholas Hopkins,Pendiente,Enviar invitaciones,78
+633,Enviar invitaciones,Elizabeth Murray,Pendiente,Ejecutar evento,19
+634,Comprar materiales,Derek Bell,Finalizado,Decorar,15
+635,Comprar materiales,Melissa Sanchez,En proceso,Comprar materiales,76
+636,Comprar materiales,Edward Thompson,Finalizado,Comprar materiales,46
+637,Ejecutar evento,Jeremy Simmons,Finalizado,Comprar materiales,79
+638,Enviar invitaciones,Kevin Kaufman,En proceso,Enviar invitaciones,43
+639,Ejecutar evento,Marcus Hensley,Pendiente,Decorar,30
+640,Decorar,Michael Williams,En proceso,Comprar materiales,21
+641,Enviar invitaciones,Jennifer Brown MD,En proceso,Comprar materiales,74
+642,Enviar invitaciones,Alexander Cox,Pendiente,Ejecutar evento,88
+643,Ejecutar evento,Audrey Abbott,Pendiente,Comprar materiales,39
+644,Reservar local,Lisa Williams,Finalizado,Decorar,15
+645,Comprar materiales,Patrick Gardner,Pendiente,Ejecutar evento,64
+646,Decorar,Kristina Smith,Finalizado,Decorar,41
+647,Reservar local,Ronald Lowe,En proceso,Decorar,38
+648,Enviar invitaciones,Vicki Long,En proceso,Reservar local,29
+649,Enviar invitaciones,Katherine Waters,En proceso,Ejecutar evento,21
+650,Decorar,Amber Gomez,En proceso,Decorar,49
+651,Enviar invitaciones,Kara Wells,En proceso,Comprar materiales,81
+652,Comprar materiales,Valerie Martinez,Pendiente,Reservar local,26
+653,Reservar local,Jason Riley,En proceso,Ejecutar evento,40
+654,Comprar materiales,Kenneth Pearson,Pendiente,Decorar,66
+655,Enviar invitaciones,Jeffrey Weber,En proceso,Enviar invitaciones,38
+656,Enviar invitaciones,Mary Hunter,En proceso,Ejecutar evento,46
+657,Comprar materiales,Richard Chapman,En proceso,Enviar invitaciones,40
+658,Decorar,James Chen,En proceso,Ejecutar evento,58
+659,Enviar invitaciones,Matthew Roberts,Pendiente,Enviar invitaciones,81
+660,Enviar invitaciones,Marie Herrera,En proceso,Enviar invitaciones,17
+661,Ejecutar evento,Adrian Adams,Pendiente,Enviar invitaciones,43
+662,Comprar materiales,Sara Evans,Pendiente,Ejecutar evento,59
+663,Ejecutar evento,Amy Palmer,Finalizado,Ejecutar evento,22
+664,Enviar invitaciones,Vanessa Lewis,Finalizado,Ejecutar evento,19
+665,Enviar invitaciones,Patrick Young,Finalizado,Enviar invitaciones,48
+666,Ejecutar evento,Robert Rodriguez,Pendiente,Decorar,49
+667,Decorar,Valerie Oliver,En proceso,Comprar materiales,18
+668,Reservar local,Holly Miller,En proceso,Ejecutar evento,88
+669,Comprar materiales,Chris Logan,En proceso,Comprar materiales,63
+670,Ejecutar evento,Nathan Hunt,En proceso,Ejecutar evento,43
+671,Decorar,Dr. Alec Juarez,Finalizado,Ejecutar evento,41
+672,Enviar invitaciones,Alexandra Garcia,Finalizado,Comprar materiales,62
+673,Ejecutar evento,Nicholas Lawson,En proceso,Comprar materiales,88
+674,Ejecutar evento,Benjamin Dennis,Pendiente,Comprar materiales,64
+675,Reservar local,Jasmine Myers,Pendiente,Enviar invitaciones,56
+676,Reservar local,Mrs. Crystal Peterson MD,Finalizado,Decorar,75
+677,Reservar local,Lisa Thomas,Finalizado,Reservar local,51
+678,Decorar,Christopher Obrien,Finalizado,Enviar invitaciones,27
+679,Comprar materiales,Aimee Nelson,Finalizado,Ejecutar evento,63
+680,Decorar,Matthew Davis,Finalizado,Ejecutar evento,65
+681,Ejecutar evento,Nicholas Davis,En proceso,Enviar invitaciones,49
+682,Ejecutar evento,Nancy Mckinney,Pendiente,Ejecutar evento,24
+683,Ejecutar evento,Tiffany Johnson,Finalizado,Comprar materiales,34
+684,Reservar local,Michelle Allen,En proceso,Decorar,84
+685,Enviar invitaciones,Patty Hinton,Pendiente,Decorar,38
+686,Ejecutar evento,Katherine Hughes,En proceso,Decorar,47
+687,Reservar local,Briana Park,Finalizado,Reservar local,64
+688,Comprar materiales,Michelle Martinez,En proceso,Reservar local,31
+689,Ejecutar evento,Stacy Mercer,Finalizado,Enviar invitaciones,59
+690,Comprar materiales,Jeff Walker,Pendiente,Comprar materiales,73
+691,Reservar local,Jordan Cordova,En proceso,Comprar materiales,83
+692,Ejecutar evento,Lacey Waller,Pendiente,Comprar materiales,59
+693,Enviar invitaciones,John Rodriguez,En proceso,Enviar invitaciones,31
+694,Ejecutar evento,Michael Martin,En proceso,Decorar,86
+695,Reservar local,Crystal Weiss,Pendiente,Reservar local,54
+696,Enviar invitaciones,Julie Williams,Pendiente,Reservar local,23
+697,Ejecutar evento,Gregory Floyd,Finalizado,Ejecutar evento,49
+698,Decorar,Nicole Arnold,Finalizado,Ejecutar evento,55
+699,Ejecutar evento,Robert Newman,En proceso,Enviar invitaciones,50
+700,Comprar materiales,Denise White,En proceso,Ejecutar evento,29
+701,Reservar local,Christopher Anderson,Pendiente,Decorar,40
+702,Decorar,Elizabeth Holder,Finalizado,Comprar materiales,82
+703,Decorar,Chris Winters,Pendiente,Enviar invitaciones,64
+704,Ejecutar evento,Stephanie Jones,Pendiente,Decorar,44
+705,Reservar local,Earl Ingram,Finalizado,Reservar local,46
+706,Ejecutar evento,Maria Wood,En proceso,Reservar local,64
+707,Decorar,Stephanie Miller,Finalizado,Ejecutar evento,37
+708,Comprar materiales,Dustin Spencer,En proceso,Comprar materiales,71
+709,Enviar invitaciones,Cheyenne Malone,En proceso,Comprar materiales,76
+710,Decorar,Sarah Thompson,Finalizado,Reservar local,81
+711,Decorar,Brenda Anderson,En proceso,Ejecutar evento,60
+712,Enviar invitaciones,Gina Martinez,En proceso,Comprar materiales,64
+713,Ejecutar evento,Daniel Hernandez,Finalizado,Enviar invitaciones,69
+714,Ejecutar evento,Gary Saunders,Pendiente,Enviar invitaciones,59
+715,Comprar materiales,Travis Roberts,Pendiente,Decorar,83
+716,Comprar materiales,David Marks,Finalizado,Enviar invitaciones,65
+717,Comprar materiales,Kimberly Cabrera,Pendiente,Comprar materiales,81
+718,Enviar invitaciones,Janet Mosley,Finalizado,Reservar local,64
+719,Ejecutar evento,Kevin Drake,Pendiente,Enviar invitaciones,27
+720,Comprar materiales,Sherry Duran,Pendiente,Comprar materiales,48
+721,Ejecutar evento,Julia Dyer,En proceso,Comprar materiales,82
+722,Reservar local,Marcus Harrington,En proceso,Reservar local,71
+723,Comprar materiales,Mark Henderson,Pendiente,Ejecutar evento,61
+724,Comprar materiales,Edward Moore,Finalizado,Comprar materiales,41
+725,Reservar local,James Williams,En proceso,Ejecutar evento,69
+726,Decorar,Karen Deleon,Finalizado,Reservar local,16
+727,Reservar local,Elizabeth Collins,Pendiente,Reservar local,66
+728,Reservar local,Joy Williams,En proceso,Decorar,19
+729,Comprar materiales,Peter Collins,En proceso,Ejecutar evento,85
+730,Ejecutar evento,Olivia Dyer,Pendiente,Ejecutar evento,81
+731,Comprar materiales,Alexander Goodwin,Pendiente,Reservar local,16
+732,Reservar local,Matthew Johnson DDS,Finalizado,Decorar,74
+733,Comprar materiales,Brian Rodriguez,En proceso,Ejecutar evento,53
+734,Reservar local,Aaron Chapman,Finalizado,Ejecutar evento,58
+735,Enviar invitaciones,Daniel Smith,Pendiente,Enviar invitaciones,87
+736,Ejecutar evento,Devin Harris,En proceso,Enviar invitaciones,31
+737,Ejecutar evento,Sheila Shaffer,En proceso,Decorar,76
+738,Reservar local,John Tran,Pendiente,Enviar invitaciones,83
+739,Comprar materiales,Gary Russell,En proceso,Comprar materiales,85
+740,Reservar local,Lauren Tran,En proceso,Comprar materiales,74
+741,Comprar materiales,Katie Solis,Finalizado,Ejecutar evento,51
+742,Decorar,Jessica Rogers,Pendiente,Comprar materiales,53
+743,Reservar local,Julie Rodriguez,Pendiente,Decorar,89
+744,Enviar invitaciones,James Hodges,Pendiente,Comprar materiales,36
+745,Enviar invitaciones,Carol Hart,Pendiente,Decorar,85
+746,Comprar materiales,Edwin Davis,Pendiente,Comprar materiales,74
+747,Ejecutar evento,Jeffrey Simpson,Finalizado,Decorar,75
+748,Enviar invitaciones,Andrea Harris,Pendiente,Enviar invitaciones,19
+749,Reservar local,James Edwards,Finalizado,Comprar materiales,88
+750,Reservar local,Kristina Keller,Pendiente,Reservar local,35
+751,Comprar materiales,Antonio May,Finalizado,Enviar invitaciones,84
+752,Decorar,Tiffany Bailey,Finalizado,Ejecutar evento,84
+753,Enviar invitaciones,Dr. Karen Mendez,Finalizado,Ejecutar evento,57
+754,Comprar materiales,Seth Burns,Pendiente,Decorar,57
+755,Ejecutar evento,Mark Ferrell,En proceso,Enviar invitaciones,77
+756,Decorar,Courtney Mcguire,En proceso,Decorar,35
+757,Reservar local,Jillian Shields,Pendiente,Decorar,56
+758,Reservar local,Madison Montoya,Finalizado,Enviar invitaciones,20
+759,Enviar invitaciones,Wesley Jordan,En proceso,Enviar invitaciones,57
+760,Enviar invitaciones,Carrie Clark,Finalizado,Reservar local,21
+761,Ejecutar evento,Mary Booth,Pendiente,Ejecutar evento,36
+762,Enviar invitaciones,Bianca Johnson,Finalizado,Reservar local,46
+763,Reservar local,Stacey Edwards,Pendiente,Decorar,67
+764,Reservar local,Stephen Mitchell,Pendiente,Ejecutar evento,41
+765,Decorar,Jacob Miller,Pendiente,Reservar local,58
+766,Decorar,Dr. Steven Turner,En proceso,Enviar invitaciones,19
+767,Comprar materiales,Thomas Reynolds,Pendiente,Decorar,39
+768,Ejecutar evento,Andrea Walker,En proceso,Comprar materiales,57
+769,Reservar local,Kenneth Boyd,En proceso,Decorar,43
+770,Comprar materiales,Erin Hammond,En proceso,Reservar local,78
+771,Reservar local,Kevin Wilson,En proceso,Reservar local,37
+772,Decorar,Pamela Jarvis,En proceso,Enviar invitaciones,81
+773,Reservar local,Jenna Anderson,En proceso,Ejecutar evento,16
+774,Reservar local,Susan Munoz,En proceso,Ejecutar evento,46
+775,Ejecutar evento,Timothy Collins,Finalizado,Comprar materiales,47
+776,Decorar,Ana Gates,Pendiente,Comprar materiales,51
+777,Reservar local,Jeffery Anderson,En proceso,Enviar invitaciones,63
+778,Reservar local,Matthew Sherman,Pendiente,Enviar invitaciones,69
+779,Comprar materiales,Alexander Allen,Pendiente,Comprar materiales,33
+780,Reservar local,Natalie Cunningham,Pendiente,Comprar materiales,22
+781,Enviar invitaciones,Tara Roberson,Pendiente,Ejecutar evento,61
+782,Reservar local,Peggy Graham,Finalizado,Decorar,43
+783,Decorar,Justin Jackson,En proceso,Reservar local,53
+784,Reservar local,Mr. Timothy Stewart DDS,En proceso,Decorar,31
+785,Comprar materiales,Erica Hamilton,Pendiente,Ejecutar evento,48
+786,Reservar local,Robert Brown,Finalizado,Comprar materiales,19
+787,Reservar local,Benjamin Spears,Pendiente,Decorar,37
+788,Decorar,Daniel Deleon,Finalizado,Reservar local,21
+789,Ejecutar evento,John Torres,Finalizado,Decorar,55
+790,Decorar,Hannah Underwood,En proceso,Comprar materiales,53
+791,Ejecutar evento,Casey Harris,Pendiente,Enviar invitaciones,54
+792,Comprar materiales,Kelly Wolf,Finalizado,Ejecutar evento,48
+793,Decorar,Beth Kelly,Pendiente,Enviar invitaciones,49
+794,Ejecutar evento,Michael Barton,En proceso,Ejecutar evento,63
+795,Comprar materiales,Ashley Conrad,Pendiente,Comprar materiales,89
+796,Decorar,Tiffany Stewart,Finalizado,Reservar local,86
+797,Decorar,Deborah Turner,Finalizado,Decorar,74
+798,Ejecutar evento,Scott Crawford,Finalizado,Reservar local,36
+799,Decorar,George Miller,Pendiente,Decorar,85
+800,Comprar materiales,Troy Vargas MD,Finalizado,Enviar invitaciones,43
+801,Decorar,Melissa Roth DDS,Pendiente,Comprar materiales,70
+802,Decorar,Harry Poole,Finalizado,Decorar,56
+803,Reservar local,Kaitlin Crawford DVM,En proceso,Ejecutar evento,85
+804,Comprar materiales,Brian Benson,Finalizado,Reservar local,26
+805,Enviar invitaciones,Andre Frederick,Finalizado,Decorar,68
+806,Comprar materiales,Andrea Mitchell,En proceso,Decorar,65
+807,Comprar materiales,Deborah Garcia,Finalizado,Decorar,65
+808,Decorar,Fred Willis,En proceso,Decorar,77
+809,Reservar local,Rebecca Holloway,En proceso,Enviar invitaciones,47
+810,Ejecutar evento,Candace Jackson,Finalizado,Reservar local,34
+811,Ejecutar evento,Mark Davis,Pendiente,Enviar invitaciones,70
+812,Reservar local,Marilyn Haley,Finalizado,Reservar local,45
+813,Reservar local,Jessica Gray,Finalizado,Reservar local,66
+814,Decorar,Debra Harrell,En proceso,Enviar invitaciones,24
+815,Reservar local,Thomas Wilson,Pendiente,Decorar,42
+816,Comprar materiales,Jennifer Cohen,Finalizado,Reservar local,55
+817,Ejecutar evento,James Kim,Finalizado,Comprar materiales,35
+818,Ejecutar evento,Amy Brady,Pendiente,Reservar local,82
+819,Reservar local,Lisa Williams,En proceso,Reservar local,76
+820,Decorar,Mary Brown,Pendiente,Decorar,60
+821,Enviar invitaciones,Christopher Mitchell,En proceso,Enviar invitaciones,34
+822,Decorar,John Johnston,Finalizado,Decorar,57
+823,Ejecutar evento,Michael Diaz,En proceso,Ejecutar evento,31
+824,Decorar,Eric Smith,En proceso,Decorar,23
+825,Reservar local,Selena Cervantes,Pendiente,Ejecutar evento,52
+826,Enviar invitaciones,Joshua Morgan,En proceso,Enviar invitaciones,44
+827,Decorar,Emma Nguyen,Pendiente,Comprar materiales,23
+828,Comprar materiales,Michelle Baker,Finalizado,Enviar invitaciones,52
+829,Decorar,Gregory Casey,Finalizado,Enviar invitaciones,47
+830,Decorar,Kayla Patterson,Pendiente,Decorar,85
+831,Reservar local,James Potts,Pendiente,Decorar,27
+832,Ejecutar evento,Gabrielle Horne,Pendiente,Ejecutar evento,43
+833,Ejecutar evento,Marissa Mendoza,En proceso,Comprar materiales,50
+834,Ejecutar evento,Diana Schneider,En proceso,Ejecutar evento,65
+835,Ejecutar evento,Mark Roman,Pendiente,Comprar materiales,39
+836,Decorar,Deborah Mccarty,Pendiente,Reservar local,86
+837,Comprar materiales,Courtney Marshall,Finalizado,Comprar materiales,26
+838,Decorar,Sophia Massey,Pendiente,Ejecutar evento,79
+839,Decorar,Susan Ramos,En proceso,Comprar materiales,49
+840,Reservar local,Deborah Richards,Pendiente,Decorar,42
+841,Enviar invitaciones,Jessica Esparza,En proceso,Enviar invitaciones,32
+842,Comprar materiales,Carolyn Brown,Pendiente,Comprar materiales,57
+843,Enviar invitaciones,Dylan Martin,Finalizado,Reservar local,41
+844,Ejecutar evento,Dr. William Brown DVM,Pendiente,Reservar local,50
+845,Reservar local,David Johnson,Pendiente,Enviar invitaciones,82
+846,Reservar local,Michael Sanders,Finalizado,Decorar,49
+847,Decorar,Tyler Rivera,En proceso,Reservar local,84
+848,Enviar invitaciones,Brian Lynch,En proceso,Reservar local,68
+849,Comprar materiales,Richard Green,Pendiente,Ejecutar evento,76
+850,Enviar invitaciones,Jeremy Ellis,En proceso,Reservar local,43
+851,Enviar invitaciones,Paul Smith,Finalizado,Comprar materiales,61
+852,Ejecutar evento,Billy Hester,Pendiente,Ejecutar evento,77
+853,Comprar materiales,Michael Harper,Finalizado,Decorar,72
+854,Ejecutar evento,Aaron Stanley,En proceso,Comprar materiales,86
+855,Enviar invitaciones,Stephanie Morris,Pendiente,Reservar local,75
+856,Decorar,Ruth Rivera,Finalizado,Ejecutar evento,50
+857,Decorar,Kimberly Weber,En proceso,Reservar local,22
+858,Ejecutar evento,Ethan Barnett,En proceso,Enviar invitaciones,21
+859,Decorar,Abigail Chavez DDS,En proceso,Reservar local,59
+860,Decorar,Ricardo Sheppard,En proceso,Reservar local,29
+861,Ejecutar evento,Amy Phillips,Finalizado,Ejecutar evento,61
+862,Decorar,Teresa Parker,Pendiente,Enviar invitaciones,47
+863,Decorar,Valerie Wall,Pendiente,Comprar materiales,45
+864,Decorar,Jeffrey Figueroa,Finalizado,Enviar invitaciones,51
+865,Enviar invitaciones,Becky Jones,Finalizado,Ejecutar evento,32
+866,Comprar materiales,John Bowers,Finalizado,Reservar local,51
+867,Decorar,Christine Mccarthy,En proceso,Ejecutar evento,32
+868,Comprar materiales,William Hill,Pendiente,Decorar,56
+869,Comprar materiales,Gerald Lee,En proceso,Comprar materiales,65
+870,Ejecutar evento,Jessica Martinez,Finalizado,Decorar,77
+871,Comprar materiales,Jessica Hardy,Pendiente,Enviar invitaciones,63
+872,Decorar,Lindsey Davis,Finalizado,Reservar local,66
+873,Enviar invitaciones,Jeffrey Stevens,En proceso,Comprar materiales,62
+874,Comprar materiales,Richard Johnson,En proceso,Enviar invitaciones,40
+875,Comprar materiales,Elizabeth Hernandez DVM,En proceso,Decorar,56
+876,Reservar local,Jessica Robinson,Finalizado,Comprar materiales,66
+877,Comprar materiales,Jessica Figueroa,Pendiente,Decorar,38
+878,Comprar materiales,Robert Burton,Finalizado,Enviar invitaciones,68
+879,Comprar materiales,Erika Day,Finalizado,Decorar,61
+880,Reservar local,James Cox,En proceso,Reservar local,70
+881,Comprar materiales,Nicholas Hines,En proceso,Reservar local,51
+882,Reservar local,Elizabeth Jenkins,Pendiente,Decorar,80
+883,Comprar materiales,Alyssa Adams,Pendiente,Enviar invitaciones,18
+884,Reservar local,Jill Robertson,En proceso,Comprar materiales,58
+885,Ejecutar evento,Michael Morgan,Finalizado,Ejecutar evento,48
+886,Decorar,Vanessa Gonzalez,Pendiente,Comprar materiales,71
+887,Comprar materiales,Alejandra Craig,Pendiente,Ejecutar evento,84
+888,Enviar invitaciones,James Williams,En proceso,Decorar,68
+889,Decorar,Lisa Hodges,Pendiente,Decorar,29
+890,Comprar materiales,Alex Baldwin,Pendiente,Reservar local,80
+891,Comprar materiales,Donald Moore,En proceso,Reservar local,39
+892,Comprar materiales,Daniel Schmidt,Pendiente,Decorar,48
+893,Comprar materiales,Franklin Andrade,Pendiente,Reservar local,35
+894,Comprar materiales,William Reed,Finalizado,Comprar materiales,54
+895,Decorar,Jessica Taylor,En proceso,Decorar,28
+896,Enviar invitaciones,Peter Jones,Pendiente,Decorar,17
+897,Enviar invitaciones,Jonathan Jackson,En proceso,Ejecutar evento,86
+898,Decorar,Madison Brown DDS,Pendiente,Comprar materiales,51
+899,Comprar materiales,Leslie Chen,Pendiente,Ejecutar evento,32
+900,Ejecutar evento,Edward Stewart,Pendiente,Comprar materiales,51
+901,Enviar invitaciones,Patricia Cruz,Finalizado,Reservar local,64
+902,Ejecutar evento,Leah Jones,Finalizado,Enviar invitaciones,79
+903,Ejecutar evento,Nicole Mueller,En proceso,Comprar materiales,51
+904,Comprar materiales,Seth Gray,Pendiente,Decorar,51
+905,Reservar local,Adam Blake DVM,Pendiente,Enviar invitaciones,28
+906,Ejecutar evento,Kevin Jenkins,En proceso,Comprar materiales,39
+907,Ejecutar evento,Morgan Sanchez,Pendiente,Reservar local,57
+908,Comprar materiales,Mary Velasquez,Pendiente,Enviar invitaciones,39
+909,Ejecutar evento,Christopher Hernandez,Pendiente,Ejecutar evento,86
+910,Comprar materiales,Linda Erickson,Finalizado,Enviar invitaciones,41
+911,Ejecutar evento,Jared Smith,Finalizado,Decorar,43
+912,Ejecutar evento,Jay Lawson,Finalizado,Enviar invitaciones,82
+913,Comprar materiales,Mark Mcintosh,En proceso,Ejecutar evento,69
+914,Decorar,Melody Morris,En proceso,Ejecutar evento,26
+915,Comprar materiales,Michael Dickson,Finalizado,Comprar materiales,18
+916,Decorar,Patrick Miller,Finalizado,Reservar local,40
+917,Reservar local,Ms. Sandra Williams,Pendiente,Decorar,46
+918,Enviar invitaciones,Valerie Kennedy,Pendiente,Decorar,21
+919,Enviar invitaciones,Richard Wilson,Finalizado,Reservar local,33
+920,Enviar invitaciones,Darren Harris,Finalizado,Reservar local,80
+921,Enviar invitaciones,Thomas Jones,En proceso,Decorar,48
+922,Decorar,Morgan Martinez,En proceso,Comprar materiales,85
+923,Comprar materiales,Shelby Russell,Pendiente,Decorar,39
+924,Ejecutar evento,Thomas Lozano,Finalizado,Ejecutar evento,81
+925,Enviar invitaciones,Ryan Harris,Pendiente,Comprar materiales,71
+926,Decorar,Veronica Ford,Finalizado,Comprar materiales,73
+927,Enviar invitaciones,Stephanie Jones,Finalizado,Enviar invitaciones,84
+928,Ejecutar evento,Christopher Smith,Pendiente,Comprar materiales,44
+929,Comprar materiales,Ryan Gregory,Finalizado,Ejecutar evento,83
+930,Enviar invitaciones,Kristen Golden,En proceso,Comprar materiales,85
+931,Ejecutar evento,Jason Green,Finalizado,Ejecutar evento,17
+932,Decorar,Veronica Brown,Pendiente,Ejecutar evento,85
+933,Ejecutar evento,Timothy Conrad,En proceso,Decorar,78
+934,Reservar local,Dennis Martin,Finalizado,Comprar materiales,77
+935,Decorar,Nicole Wilson,Finalizado,Reservar local,81
+936,Reservar local,Karla Smith,Finalizado,Reservar local,20
+937,Enviar invitaciones,Ronald Davis,Pendiente,Enviar invitaciones,86
+938,Decorar,Melissa Hill,Pendiente,Comprar materiales,41
+939,Decorar,Andrew Wilson,En proceso,Decorar,39
+940,Enviar invitaciones,Charles Jackson,Pendiente,Decorar,64
+941,Comprar materiales,Blake Logan,Pendiente,Ejecutar evento,63
+942,Decorar,Holly Vazquez,En proceso,Ejecutar evento,59
+943,Decorar,Thomas Rogers,En proceso,Decorar,36
+944,Ejecutar evento,Johnathan Cohen,Finalizado,Reservar local,67
+945,Enviar invitaciones,Jennifer Brown,Pendiente,Decorar,65
+946,Reservar local,Victoria Brown,Pendiente,Comprar materiales,39
+947,Comprar materiales,Travis Macdonald,Finalizado,Reservar local,45
+948,Comprar materiales,Jeffrey King,Finalizado,Ejecutar evento,30
+949,Enviar invitaciones,Lisa Nelson,Pendiente,Enviar invitaciones,25
+950,Enviar invitaciones,Richard King,Pendiente,Enviar invitaciones,88
+951,Reservar local,Lindsey Mueller,Finalizado,Decorar,86
+952,Ejecutar evento,Paula Carter,Finalizado,Comprar materiales,53
+953,Reservar local,Karen Kaiser,Pendiente,Ejecutar evento,89
+954,Enviar invitaciones,Monica Knox,Pendiente,Enviar invitaciones,35
+955,Reservar local,Devon Coleman,En proceso,Enviar invitaciones,26
+956,Ejecutar evento,Alexandra Page MD,Pendiente,Comprar materiales,51
+957,Comprar materiales,Bryan Small,Pendiente,Comprar materiales,29
+958,Comprar materiales,Elizabeth Smith,Finalizado,Enviar invitaciones,36
+959,Enviar invitaciones,Jennifer Johnson,Pendiente,Ejecutar evento,52
+960,Ejecutar evento,Dawn Colon,Pendiente,Enviar invitaciones,82
+961,Decorar,Crystal Murphy,Finalizado,Ejecutar evento,48
+962,Enviar invitaciones,Carrie Jones,En proceso,Decorar,60
+963,Comprar materiales,George Hughes,En proceso,Ejecutar evento,87
+964,Decorar,Kathleen Joseph,Finalizado,Ejecutar evento,41
+965,Ejecutar evento,Kenneth Morris MD,En proceso,Reservar local,61
+966,Reservar local,Linda Garcia,Finalizado,Decorar,70
+967,Comprar materiales,Phillip Baker,En proceso,Ejecutar evento,62
+968,Decorar,Michele Lane,En proceso,Comprar materiales,19
+969,Decorar,Robert Ramsey,Finalizado,Ejecutar evento,21
+970,Enviar invitaciones,Sean Fields,Finalizado,Enviar invitaciones,28
+971,Reservar local,Michael Gomez,Finalizado,Enviar invitaciones,64
+972,Enviar invitaciones,Tammy Wilson,En proceso,Decorar,57
+973,Reservar local,Christopher Hurley,Pendiente,Decorar,23
+974,Reservar local,Gerald Smith,En proceso,Decorar,21
+975,Comprar materiales,Anne Bradshaw,Finalizado,Enviar invitaciones,34
+976,Reservar local,Jay Nelson,Pendiente,Decorar,33
+977,Decorar,Lauren Turner MD,En proceso,Comprar materiales,66
+978,Decorar,Theresa Patton,Finalizado,Decorar,56
+979,Decorar,Jermaine Adams,Pendiente,Ejecutar evento,58
+980,Ejecutar evento,Caitlin Clayton,Finalizado,Enviar invitaciones,47
+981,Decorar,Susan Moore,Pendiente,Ejecutar evento,24
+982,Reservar local,Amanda Nolan,Finalizado,Ejecutar evento,60
+983,Comprar materiales,John Pace,Finalizado,Enviar invitaciones,58
+984,Enviar invitaciones,Alexander Hutchinson,Finalizado,Comprar materiales,24
+985,Ejecutar evento,John Johns,En proceso,Comprar materiales,55
+986,Reservar local,Nicole Cox,En proceso,Decorar,48
+987,Comprar materiales,David Mcmahon,Pendiente,Comprar materiales,64
+988,Decorar,Derek Chen,Pendiente,Decorar,16
+989,Ejecutar evento,Steven Snow,En proceso,Decorar,23
+990,Enviar invitaciones,Pamela Singh,Pendiente,Comprar materiales,45
+991,Ejecutar evento,Michelle Wright,En proceso,Enviar invitaciones,63
+992,Decorar,Jennifer Fuentes,En proceso,Decorar,62
+993,Decorar,Douglas Cabrera,Finalizado,Enviar invitaciones,23
+994,Enviar invitaciones,William Johnson,Pendiente,Reservar local,25
+995,Decorar,Richard Green,Pendiente,Ejecutar evento,73
+996,Reservar local,Bradley Hanna,Finalizado,Decorar,30
+997,Ejecutar evento,Ashley Nixon,Pendiente,Comprar materiales,35
+998,Comprar materiales,Diane Moore,Pendiente,Enviar invitaciones,28
+999,Ejecutar evento,Crystal Fritz,Finalizado,Ejecutar evento,40
+1000,Ejecutar evento,Joseph Hebert,Pendiente,Decorar,49
+1001,Decorar,Daniel Garcia,Pendiente,Ejecutar evento,78
+1002,Comprar materiales,David Haney,En proceso,Ejecutar evento,63
+1003,Reservar local,Marc Rodriguez,Finalizado,Reservar local,30
+1004,Enviar invitaciones,Steven Valdez,Pendiente,Decorar,53
+1005,Comprar materiales,Betty Sexton,Pendiente,Comprar materiales,79
+1006,Reservar local,Christina Palmer,Finalizado,Reservar local,25
+1007,Enviar invitaciones,Ruben Jenkins,En proceso,Reservar local,63
+1008,Enviar invitaciones,Philip Lewis,Finalizado,Decorar,46
+1009,Decorar,Daniel Castro,Finalizado,Enviar invitaciones,42
+1010,Decorar,Samantha Wade,Finalizado,Comprar materiales,44
+1011,Enviar invitaciones,Maria Johnson,Finalizado,Reservar local,44
+1012,Enviar invitaciones,Rebecca Green,Finalizado,Decorar,83
+1013,Enviar invitaciones,Christine Blackburn,Finalizado,Reservar local,56
+1014,Ejecutar evento,Ashley Hubbard,Pendiente,Enviar invitaciones,38
+1015,Reservar local,Natalie Washington,Finalizado,Enviar invitaciones,23
+1016,Reservar local,Jeremy Robertson,Pendiente,Enviar invitaciones,31
+1017,Comprar materiales,Jennifer Robinson,Pendiente,Ejecutar evento,34
+1018,Ejecutar evento,Amanda Taylor,Finalizado,Decorar,50
+1019,Ejecutar evento,Cole Stewart,En proceso,Reservar local,81
+1020,Decorar,Susan Keller,En proceso,Ejecutar evento,21
+1021,Reservar local,Cindy Davis,Pendiente,Reservar local,45
+1022,Reservar local,Aaron Brown,Finalizado,Enviar invitaciones,22
+1023,Reservar local,Mathew Cardenas,Pendiente,Decorar,17
+1024,Reservar local,Barbara Jackson,Pendiente,Reservar local,81
+1025,Reservar local,Randall Kelley,En proceso,Enviar invitaciones,38
+1026,Enviar invitaciones,Joy Andrews,Finalizado,Decorar,55
+1027,Comprar materiales,Alexandria Carlson,Finalizado,Ejecutar evento,28
+1028,Enviar invitaciones,Misty Brown,Finalizado,Enviar invitaciones,26
+1029,Reservar local,Caitlyn Gardner,Pendiente,Ejecutar evento,24
+1030,Comprar materiales,Amy Petersen,En proceso,Reservar local,40
+1031,Comprar materiales,Dustin Green,Finalizado,Ejecutar evento,80
+1032,Ejecutar evento,Jesse Smith,Finalizado,Reservar local,28
+1033,Reservar local,Ronald Shaw,Finalizado,Comprar materiales,75
+1034,Reservar local,Leslie Navarro,Finalizado,Reservar local,18
+1035,Ejecutar evento,Joshua Montes,Finalizado,Ejecutar evento,55
+1036,Reservar local,Virginia Stuart,En proceso,Enviar invitaciones,70
+1037,Comprar materiales,Melvin Myers,Finalizado,Reservar local,85
+1038,Enviar invitaciones,Daniel Gillespie,Finalizado,Reservar local,79
+1039,Reservar local,Steven Arnold,Pendiente,Reservar local,58
+1040,Ejecutar evento,Lynn Cruz,Pendiente,Ejecutar evento,43
+1041,Ejecutar evento,Jasmine Fox,En proceso,Comprar materiales,16
+1042,Decorar,Damon Morgan,En proceso,Decorar,27
+1043,Enviar invitaciones,Sheri Randall,Pendiente,Comprar materiales,41
+1044,Comprar materiales,Dave Kidd,Pendiente,Enviar invitaciones,68
+1045,Decorar,Stacey Munoz,En proceso,Enviar invitaciones,41
+1046,Enviar invitaciones,Kathryn Kennedy,Pendiente,Decorar,79
+1047,Reservar local,Theresa Shepherd,En proceso,Ejecutar evento,58
+1048,Enviar invitaciones,Lisa Anderson,Pendiente,Ejecutar evento,75
+1049,Comprar materiales,Ariana Garza,Pendiente,Comprar materiales,47
+1050,Decorar,Maria Goodwin,Finalizado,Reservar local,65
+1051,Comprar materiales,Jon Perry,En proceso,Decorar,78
+1052,Reservar local,Ronnie Perez,Pendiente,Comprar materiales,16
+1053,Comprar materiales,Devin Fitzgerald,En proceso,Reservar local,69
+1054,Comprar materiales,Mr. Michael Ellison II,En proceso,Reservar local,35
+1055,Reservar local,Jennifer Grant,Finalizado,Comprar materiales,82
+1056,Decorar,Justin Perry,Pendiente,Comprar materiales,44
+1057,Decorar,Tina Weaver,Pendiente,Enviar invitaciones,72
+1058,Comprar materiales,Brittany Pacheco,En proceso,Decorar,82
+1059,Enviar invitaciones,John Rivera,Pendiente,Decorar,23
+1060,Comprar materiales,Stephanie Juarez,Pendiente,Decorar,39
+1061,Decorar,Emily Morgan,Finalizado,Reservar local,85
+1062,Enviar invitaciones,Linda Johnston,En proceso,Comprar materiales,67
+1063,Enviar invitaciones,Barbara Baker,Finalizado,Enviar invitaciones,27
+1064,Enviar invitaciones,Garrett Rodriguez,Finalizado,Decorar,37
+1065,Decorar,Christina Sandoval,En proceso,Enviar invitaciones,56
+1066,Decorar,Andrew Horton,Pendiente,Decorar,16
+1067,Enviar invitaciones,Gloria Johnson,Finalizado,Decorar,31
+1068,Reservar local,Michael Hall,En proceso,Comprar materiales,40
+1069,Comprar materiales,Dakota Dixon,En proceso,Enviar invitaciones,57
+1070,Comprar materiales,David Sanchez,En proceso,Decorar,37
+1071,Enviar invitaciones,Mary Hernandez,En proceso,Enviar invitaciones,35
+1072,Reservar local,Kelsey Maxwell,En proceso,Comprar materiales,63
+1073,Enviar invitaciones,Shannon Miller,Pendiente,Ejecutar evento,78
+1074,Decorar,Sarah Francis,Pendiente,Decorar,41
+1075,Ejecutar evento,Matthew Turner,En proceso,Comprar materiales,73
+1076,Comprar materiales,Caleb Palmer,Finalizado,Comprar materiales,25
+1077,Enviar invitaciones,Brittany French,Finalizado,Decorar,73
+1078,Decorar,Danielle Alexander,Pendiente,Ejecutar evento,21
+1079,Ejecutar evento,Catherine Leonard,En proceso,Reservar local,39
+1080,Reservar local,Lisa Reynolds,En proceso,Ejecutar evento,61
+1081,Decorar,Rick Serrano,Pendiente,Enviar invitaciones,68
+1082,Enviar invitaciones,Michael Williams,Finalizado,Ejecutar evento,67
+1083,Ejecutar evento,Jacob Booth,Pendiente,Reservar local,80
+1084,Ejecutar evento,Charles Howard,En proceso,Comprar materiales,77
+1085,Comprar materiales,Emma Morales,Pendiente,Decorar,73
+1086,Comprar materiales,Michael Flores,Finalizado,Enviar invitaciones,79
+1087,Decorar,Calvin Huerta,Finalizado,Decorar,45
+1088,Enviar invitaciones,Christina Werner,Pendiente,Comprar materiales,50
+1089,Decorar,Gregg Poole,En proceso,Comprar materiales,87
+1090,Reservar local,Bonnie Rhodes,En proceso,Reservar local,44
+1091,Enviar invitaciones,David Weaver,Pendiente,Ejecutar evento,56
+1092,Reservar local,Robert Cervantes,Finalizado,Enviar invitaciones,73
+1093,Decorar,Melissa Hernandez,Pendiente,Ejecutar evento,40
+1094,Decorar,Michelle Powell,Pendiente,Enviar invitaciones,52
+1095,Comprar materiales,Joel Oneal,Finalizado,Enviar invitaciones,53
+1096,Decorar,Holly Davies,En proceso,Enviar invitaciones,36
+1097,Reservar local,Mathew Graham,En proceso,Enviar invitaciones,55
+1098,Enviar invitaciones,Matthew Powell,Pendiente,Enviar invitaciones,24
+1099,Decorar,Richard Smith,En proceso,Comprar materiales,32
+1100,Comprar materiales,Jonathan Gray,Finalizado,Decorar,63
+1101,Ejecutar evento,Christine Smith,En proceso,Enviar invitaciones,63
+1102,Comprar materiales,Lisa Flores,Finalizado,Decorar,38
+1103,Enviar invitaciones,Kristin George,Finalizado,Comprar materiales,66
+1104,Ejecutar evento,Gilbert Smith,Finalizado,Ejecutar evento,42
+1105,Reservar local,Ryan Dawson,En proceso,Enviar invitaciones,50
+1106,Decorar,Matthew Baker,En proceso,Comprar materiales,24
+1107,Enviar invitaciones,Stephanie Garza,Finalizado,Decorar,76
+1108,Reservar local,Rhonda White,Pendiente,Comprar materiales,74
+1109,Decorar,Christopher Sosa,Finalizado,Enviar invitaciones,82
+1110,Comprar materiales,Steven Hernandez,En proceso,Decorar,74
+1111,Ejecutar evento,Brian Allen,Finalizado,Decorar,76
+1112,Decorar,Wanda Rodriguez,En proceso,Decorar,35
+1113,Reservar local,Catherine Pena,En proceso,Reservar local,82
+1114,Comprar materiales,Jessica Hernandez,Finalizado,Reservar local,34
+1115,Comprar materiales,Nathan Jones,Finalizado,Decorar,52
+1116,Comprar materiales,Jacob Newton,Finalizado,Enviar invitaciones,25
+1117,Ejecutar evento,Christine Myers,Finalizado,Decorar,48
+1118,Enviar invitaciones,Hannah Davis,Finalizado,Comprar materiales,33
+1119,Comprar materiales,James Moore,Pendiente,Ejecutar evento,72
+1120,Decorar,Melissa Nunez,En proceso,Decorar,80
+1121,Decorar,Tina Eaton,En proceso,Reservar local,80
+1122,Reservar local,Joshua Hernandez,Finalizado,Ejecutar evento,55
+1123,Comprar materiales,Kendra Wright,En proceso,Reservar local,60
+1124,Enviar invitaciones,Heather Lee,En proceso,Decorar,27
+1125,Decorar,Robert Sherman,Pendiente,Enviar invitaciones,52
+1126,Comprar materiales,Jillian Johnson,En proceso,Comprar materiales,80
+1127,Enviar invitaciones,Megan Skinner,En proceso,Ejecutar evento,54
+1128,Enviar invitaciones,Dr. Kristine Valentine,Finalizado,Comprar materiales,61
+1129,Enviar invitaciones,Raymond Ball,En proceso,Ejecutar evento,47
+1130,Reservar local,Thomas Williams,Finalizado,Ejecutar evento,75
+1131,Decorar,William Snyder,Pendiente,Ejecutar evento,28
+1132,Decorar,Rachael Chandler,Pendiente,Ejecutar evento,29
+1133,Ejecutar evento,Tammy Ramsey,Finalizado,Ejecutar evento,64
+1134,Reservar local,Christian Fuentes,Finalizado,Ejecutar evento,77
+1135,Comprar materiales,Jodi Williams,Pendiente,Reservar local,86
+1136,Decorar,Mercedes Hall,Pendiente,Enviar invitaciones,52
+1137,Ejecutar evento,Rachael Odonnell,En proceso,Decorar,18
+1138,Comprar materiales,Patricia Sutton,En proceso,Reservar local,77
+1139,Decorar,Matthew Thompson,Finalizado,Decorar,24
+1140,Enviar invitaciones,Paul Adams MD,Finalizado,Comprar materiales,35
+1141,Ejecutar evento,Kent Rose,En proceso,Comprar materiales,38
+1142,Enviar invitaciones,Emily Garza DDS,Finalizado,Decorar,19
+1143,Comprar materiales,Robert Hopkins,Finalizado,Ejecutar evento,61
+1144,Ejecutar evento,Elizabeth Welch,Pendiente,Reservar local,56
+1145,Decorar,Regina Pugh,En proceso,Ejecutar evento,44
+1146,Comprar materiales,Jason Moore,Finalizado,Reservar local,81
+1147,Enviar invitaciones,Julie Benjamin,Finalizado,Reservar local,48
+1148,Ejecutar evento,Tammy Taylor,En proceso,Reservar local,42
+1149,Ejecutar evento,Claire Henry MD,Finalizado,Ejecutar evento,57
+1150,Enviar invitaciones,Margaret Holmes,Pendiente,Decorar,86
+1151,Ejecutar evento,Lee Harper,Pendiente,Decorar,53
+1152,Ejecutar evento,Angela Newton,En proceso,Decorar,60
+1153,Reservar local,Troy Hartman,En proceso,Ejecutar evento,37
+1154,Enviar invitaciones,Tammy Bass,En proceso,Reservar local,87
+1155,Reservar local,Lawrence Macias,En proceso,Enviar invitaciones,50
+1156,Decorar,David Anderson,En proceso,Decorar,75
+1157,Decorar,Regina Noble,Finalizado,Enviar invitaciones,71
+1158,Decorar,Carl Sanford,Pendiente,Decorar,35
+1159,Decorar,Justin Freeman,En proceso,Reservar local,19
+1160,Decorar,Rachel Grant,En proceso,Decorar,66
+1161,Ejecutar evento,Megan Copeland,Finalizado,Enviar invitaciones,73
+1162,Ejecutar evento,Alicia Goodman,En proceso,Enviar invitaciones,86
+1163,Decorar,Sara Thomas,En proceso,Decorar,86
+1164,Ejecutar evento,Sharon Murphy,Pendiente,Reservar local,24
+1165,Reservar local,Morgan Johnson,En proceso,Comprar materiales,54
+1166,Decorar,Kerri Reilly,En proceso,Comprar materiales,33
+1167,Enviar invitaciones,Mitchell Hunter,Finalizado,Decorar,36
+1168,Enviar invitaciones,Jonathan Fleming,Finalizado,Decorar,26
+1169,Reservar local,Catherine Sweeney,Pendiente,Comprar materiales,17
+1170,Ejecutar evento,Barry Hopkins,Pendiente,Comprar materiales,86
+1171,Reservar local,Jesse Thompson,Finalizado,Reservar local,83
+1172,Enviar invitaciones,Madison Ramirez,Pendiente,Decorar,63
+1173,Decorar,Nicole Wright,Finalizado,Comprar materiales,34
+1174,Enviar invitaciones,Philip Bates,En proceso,Ejecutar evento,78
+1175,Comprar materiales,Shannon Banks,Finalizado,Ejecutar evento,47
+1176,Ejecutar evento,Joshua Pearson,Pendiente,Reservar local,57
+1177,Enviar invitaciones,Hannah Solis,Finalizado,Decorar,80
+1178,Enviar invitaciones,Mary Munoz,Finalizado,Enviar invitaciones,88
+1179,Reservar local,Todd Jones,Finalizado,Reservar local,69
+1180,Enviar invitaciones,Kathryn Hutchinson,En proceso,Enviar invitaciones,19
+1181,Reservar local,Tanya Farmer,Pendiente,Enviar invitaciones,89
+1182,Decorar,Nicole Macias,Finalizado,Comprar materiales,85
+1183,Decorar,Aaron Foster,Pendiente,Ejecutar evento,78
+1184,Decorar,Janet Smith,Finalizado,Decorar,61
+1185,Ejecutar evento,Leslie Garrett,En proceso,Ejecutar evento,56
+1186,Reservar local,Dr. Kevin Gonzalez Jr.,Finalizado,Ejecutar evento,21
+1187,Reservar local,Marissa Smith,Pendiente,Comprar materiales,42
+1188,Reservar local,Kristin Garcia,En proceso,Ejecutar evento,88
+1189,Decorar,Joshua Stewart,Pendiente,Reservar local,24
+1190,Enviar invitaciones,Janet Patterson,Finalizado,Reservar local,44
+1191,Comprar materiales,Marie Orozco,Pendiente,Comprar materiales,28
+1192,Reservar local,Joseph Leach,En proceso,Comprar materiales,64
+1193,Ejecutar evento,Robert Stephens,En proceso,Ejecutar evento,17
+1194,Enviar invitaciones,Amy Padilla,Pendiente,Decorar,87
+1195,Decorar,Veronica Brooks,Finalizado,Enviar invitaciones,71
+1196,Enviar invitaciones,Mariah Pearson,Finalizado,Decorar,46
+1197,Comprar materiales,Richard Mack,En proceso,Reservar local,24
+1198,Reservar local,Dawn Daniels,Finalizado,Decorar,15
+1199,Enviar invitaciones,Jennifer Hahn,Pendiente,Ejecutar evento,17
+1200,Enviar invitaciones,Mallory Fox,Finalizado,Reservar local,51
+1201,Enviar invitaciones,Jamie Allen,Finalizado,Decorar,42
+1202,Comprar materiales,Jessica Irwin,Finalizado,Decorar,83
+1203,Reservar local,William Harris,Pendiente,Enviar invitaciones,32
+1204,Enviar invitaciones,Jennifer Lewis,Finalizado,Ejecutar evento,42
+1205,Ejecutar evento,Victoria Martinez,Pendiente,Ejecutar evento,26
+1206,Comprar materiales,Mrs. Nicole Warren,Finalizado,Ejecutar evento,79
+1207,Enviar invitaciones,Connor Burke,En proceso,Enviar invitaciones,67
+1208,Ejecutar evento,Jessica Howell,En proceso,Ejecutar evento,77
+1209,Enviar invitaciones,Kevin Anderson,Finalizado,Comprar materiales,42
+1210,Reservar local,Deborah Hall,Finalizado,Reservar local,89
+1211,Reservar local,Marco Boyer,Pendiente,Enviar invitaciones,69
+1212,Ejecutar evento,Courtney Rivers,Finalizado,Enviar invitaciones,42
+1213,Reservar local,Andre Gonzalez,Finalizado,Comprar materiales,52
+1214,Reservar local,Gerald Roberts,Pendiente,Comprar materiales,72
+1215,Decorar,Taylor Sanchez,Pendiente,Comprar materiales,32
+1216,Comprar materiales,Andrew Nguyen,Finalizado,Enviar invitaciones,37
+1217,Reservar local,Mark Jackson,En proceso,Ejecutar evento,16
+1218,Reservar local,Jeremy Marshall,Pendiente,Decorar,83
+1219,Reservar local,Mark Love,Pendiente,Decorar,23
+1220,Ejecutar evento,Stephanie Griffith,En proceso,Comprar materiales,57
+1221,Comprar materiales,James Macias,Pendiente,Comprar materiales,47
+1222,Decorar,Jeff Henry MD,En proceso,Reservar local,60
+1223,Reservar local,Melissa Wright,En proceso,Comprar materiales,56
+1224,Enviar invitaciones,Edward Smith,Pendiente,Ejecutar evento,73
+1225,Enviar invitaciones,Michelle Jordan,En proceso,Comprar materiales,37
+1226,Ejecutar evento,Susan Schaefer,En proceso,Decorar,29
+1227,Decorar,Mark Bray,En proceso,Ejecutar evento,31
+1228,Decorar,Grant Walker,Finalizado,Ejecutar evento,54
+1229,Comprar materiales,Kelly Miller,Pendiente,Reservar local,79
+1230,Enviar invitaciones,Christopher Evans,Finalizado,Ejecutar evento,23
+1231,Decorar,Tina Zamora,En proceso,Reservar local,36
+1232,Comprar materiales,Stephanie Carter,Finalizado,Ejecutar evento,56
+1233,Decorar,Cynthia Casey,Finalizado,Comprar materiales,71
+1234,Comprar materiales,Jacqueline Melton,Pendiente,Ejecutar evento,18
+1235,Decorar,Christopher Fowler,Pendiente,Reservar local,28
+1236,Reservar local,Paul Tran,Finalizado,Reservar local,21
+1237,Ejecutar evento,Anthony Murphy,Finalizado,Decorar,74
+1238,Decorar,Melissa Crawford,Finalizado,Decorar,35
+1239,Decorar,Joseph Zimmerman,Finalizado,Enviar invitaciones,34
+1240,Comprar materiales,Kaylee Howe,Pendiente,Enviar invitaciones,62
+1241,Reservar local,Jennifer White,En proceso,Comprar materiales,17
+1242,Ejecutar evento,Nicholas Young,Finalizado,Enviar invitaciones,35
+1243,Ejecutar evento,David Atkinson,Pendiente,Ejecutar evento,63
+1244,Ejecutar evento,Karen Golden,Finalizado,Enviar invitaciones,60
+1245,Decorar,Anthony Hoffman,Finalizado,Decorar,37
+1246,Reservar local,Zachary Gonzalez,En proceso,Reservar local,57
+1247,Ejecutar evento,Earl Bell,Pendiente,Enviar invitaciones,89
+1248,Comprar materiales,Terri Garcia,En proceso,Ejecutar evento,34
+1249,Decorar,Michelle Larson,En proceso,Comprar materiales,37
+1250,Decorar,Grace Reed,Pendiente,Comprar materiales,73
+1251,Decorar,Jennifer Baxter,Finalizado,Reservar local,76
+1252,Decorar,Wayne Dixon,Finalizado,Reservar local,60
+1253,Ejecutar evento,Gerald Watson,En proceso,Enviar invitaciones,42
+1254,Reservar local,Gloria Pennington,Pendiente,Ejecutar evento,84
+1255,Decorar,Rebecca Payne,Pendiente,Ejecutar evento,30
+1256,Reservar local,Eddie Gallegos,En proceso,Decorar,60
+1257,Decorar,Matthew Shaffer,Pendiente,Ejecutar evento,69
+1258,Ejecutar evento,George Martin,En proceso,Decorar,70
+1259,Ejecutar evento,George Scott,Finalizado,Comprar materiales,73
+1260,Comprar materiales,Brent Chapman,Pendiente,Comprar materiales,26
+1261,Enviar invitaciones,Nicholas Garza,Pendiente,Ejecutar evento,66
+1262,Enviar invitaciones,Richard Munoz,Pendiente,Reservar local,83
+1263,Enviar invitaciones,Joseph Davis,En proceso,Decorar,27
+1264,Reservar local,Jacob Gill,En proceso,Reservar local,37
+1265,Enviar invitaciones,Jennifer Davis,Finalizado,Enviar invitaciones,22
+1266,Enviar invitaciones,Sandra Duke,Pendiente,Reservar local,82
+1267,Ejecutar evento,Erika Garrett,En proceso,Enviar invitaciones,68
+1268,Decorar,Kenneth Vazquez,Pendiente,Enviar invitaciones,42
+1269,Decorar,Denise Gonzalez,Pendiente,Enviar invitaciones,35
+1270,Ejecutar evento,Eric Lindsey,Pendiente,Ejecutar evento,32
+1271,Decorar,Edward Morris,En proceso,Comprar materiales,27
+1272,Ejecutar evento,Brooke Wilson,Finalizado,Enviar invitaciones,60
+1273,Reservar local,Willie Olson,Pendiente,Decorar,52
+1274,Decorar,Jimmy Lewis,Pendiente,Comprar materiales,25
+1275,Decorar,Nathan Frazier,En proceso,Ejecutar evento,47
+1276,Comprar materiales,Brandi Smith,Pendiente,Decorar,70
+1277,Comprar materiales,James Robinson,Finalizado,Decorar,50
+1278,Ejecutar evento,Samuel Reed,Pendiente,Reservar local,76
+1279,Decorar,Rodney Rivera,En proceso,Ejecutar evento,46
+1280,Decorar,Shawn Grant,Pendiente,Reservar local,27
+1281,Comprar materiales,Autumn Wagner,Pendiente,Reservar local,72
+1282,Enviar invitaciones,Lisa Fernandez,Pendiente,Decorar,80
+1283,Ejecutar evento,Brandon Marshall,Finalizado,Ejecutar evento,70
+1284,Reservar local,Danielle Ruiz,En proceso,Comprar materiales,45
+1285,Comprar materiales,Kevin Reed,En proceso,Comprar materiales,41
+1286,Decorar,Nicholas Hall,En proceso,Decorar,71
+1287,Reservar local,Jennifer Phelps,En proceso,Decorar,35
+1288,Comprar materiales,Carl Rodriguez,En proceso,Reservar local,32
+1289,Reservar local,James Spencer,Pendiente,Enviar invitaciones,35
+1290,Reservar local,Rodney Moore,Finalizado,Comprar materiales,41
+1291,Ejecutar evento,John Clark,En proceso,Reservar local,83
+1292,Enviar invitaciones,Carla Decker,Finalizado,Enviar invitaciones,25
+1293,Enviar invitaciones,Alexandra Ramirez,Pendiente,Enviar invitaciones,78
+1294,Decorar,Erika Nielsen,En proceso,Decorar,46
+1295,Enviar invitaciones,Holly Phillips,Finalizado,Decorar,51
+1296,Enviar invitaciones,Kelsey Ibarra,En proceso,Ejecutar evento,80
+1297,Comprar materiales,Alisha Erickson,Pendiente,Comprar materiales,68
+1298,Decorar,Brianna Miller,Finalizado,Enviar invitaciones,71
+1299,Enviar invitaciones,Vanessa Henderson,Finalizado,Comprar materiales,56
+1300,Enviar invitaciones,Joseph Patrick,Finalizado,Reservar local,37
+1301,Ejecutar evento,Jennifer Perry,Finalizado,Ejecutar evento,70
+1302,Comprar materiales,Jared Bradley,Pendiente,Decorar,54
+1303,Reservar local,Julia Sanchez,Finalizado,Enviar invitaciones,72
+1304,Comprar materiales,Laura Green,Pendiente,Ejecutar evento,57
+1305,Enviar invitaciones,Kara Harris,En proceso,Comprar materiales,18
+1306,Reservar local,Andrew Wright,Pendiente,Ejecutar evento,23
+1307,Decorar,Reginald Shepard,Pendiente,Reservar local,17
+1308,Decorar,Kathryn Williams,Finalizado,Comprar materiales,67
+1309,Decorar,Ashley Collins,En proceso,Decorar,64
+1310,Reservar local,Thomas Martinez,En proceso,Enviar invitaciones,36
+1311,Comprar materiales,David Taylor,Pendiente,Enviar invitaciones,15
+1312,Ejecutar evento,Connie Brown,Finalizado,Ejecutar evento,70
+1313,Reservar local,Alex Williams,Pendiente,Enviar invitaciones,61
+1314,Reservar local,Richard Sanders,Finalizado,Enviar invitaciones,43
+1315,Ejecutar evento,Lydia Swanson,Pendiente,Enviar invitaciones,61
+1316,Ejecutar evento,Margaret Johnson,Pendiente,Comprar materiales,34
+1317,Ejecutar evento,Dustin Hall,Finalizado,Comprar materiales,63
+1318,Enviar invitaciones,Kimberly Mccormick,En proceso,Decorar,76
+1319,Decorar,Jeffrey Johnson,En proceso,Reservar local,31
+1320,Decorar,Peter Baldwin,En proceso,Decorar,27
+1321,Reservar local,Stephen Holt,Finalizado,Decorar,41
+1322,Enviar invitaciones,Kyle Oconnor,Finalizado,Enviar invitaciones,55
+1323,Enviar invitaciones,Darlene Gibson,Pendiente,Comprar materiales,17
+1324,Enviar invitaciones,Marie Beck,Pendiente,Decorar,20
+1325,Enviar invitaciones,Lauren Foster,Finalizado,Ejecutar evento,61
+1326,Ejecutar evento,Tamara Armstrong,En proceso,Reservar local,52
+1327,Reservar local,Brian Davis,Pendiente,Ejecutar evento,53
+1328,Enviar invitaciones,Jonathan Warren,En proceso,Ejecutar evento,71
+1329,Reservar local,Tyler Braun,Finalizado,Ejecutar evento,38
+1330,Enviar invitaciones,Kathryn Green,En proceso,Enviar invitaciones,78
+1331,Comprar materiales,Jamie Lopez,Pendiente,Decorar,21
+1332,Decorar,Kelly Garcia,En proceso,Reservar local,19
+1333,Decorar,Paula Romero,En proceso,Decorar,46
+1334,Decorar,Matthew Sharp,Pendiente,Enviar invitaciones,20
+1335,Comprar materiales,Gary Thompson,En proceso,Reservar local,68
+1336,Enviar invitaciones,Charles Byrd,Pendiente,Ejecutar evento,34
+1337,Enviar invitaciones,Jamie Ruiz,Pendiente,Comprar materiales,70
+1338,Comprar materiales,Ana Macdonald,Pendiente,Reservar local,29
+1339,Enviar invitaciones,Brooke Fischer,Pendiente,Ejecutar evento,64
+1340,Comprar materiales,Helen Harrison,Pendiente,Decorar,62
+1341,Enviar invitaciones,Jessica Nelson,Pendiente,Comprar materiales,73
+1342,Enviar invitaciones,Jacob Wagner,En proceso,Decorar,36
+1343,Reservar local,Katie English,Pendiente,Ejecutar evento,25
+1344,Decorar,James Smith,En proceso,Comprar materiales,54
+1345,Reservar local,Stephanie Sandoval,Pendiente,Ejecutar evento,84
+1346,Ejecutar evento,Elizabeth Stanley,En proceso,Decorar,88
+1347,Ejecutar evento,Virginia Walters,Finalizado,Ejecutar evento,43
+1348,Reservar local,Leslie Ortiz,Pendiente,Reservar local,59
+1349,Comprar materiales,Jordan Andrews,En proceso,Ejecutar evento,16
+1350,Ejecutar evento,Vanessa Nash,En proceso,Enviar invitaciones,26
+1351,Comprar materiales,Seth Ferguson,Pendiente,Enviar invitaciones,15
+1352,Comprar materiales,Aaron Schmidt,Pendiente,Ejecutar evento,22
+1353,Comprar materiales,Edward Steele,Pendiente,Decorar,40
+1354,Enviar invitaciones,Harold Faulkner,Finalizado,Comprar materiales,62
+1355,Ejecutar evento,Shelby Cruz,En proceso,Comprar materiales,82
+1356,Decorar,Bradley Mccarthy,En proceso,Reservar local,86
+1357,Reservar local,Christopher Berg,En proceso,Enviar invitaciones,38
+1358,Comprar materiales,Kenneth Wilkinson,Pendiente,Enviar invitaciones,80
+1359,Comprar materiales,Molly Chen,Finalizado,Comprar materiales,45
+1360,Decorar,Samantha Harrington,Finalizado,Comprar materiales,87
+1361,Decorar,Robert Larson,En proceso,Ejecutar evento,35
+1362,Decorar,Priscilla Willis,En proceso,Decorar,62
+1363,Comprar materiales,Julie Johnson,Finalizado,Decorar,52
+1364,Ejecutar evento,Peggy Carr,Finalizado,Ejecutar evento,81
+1365,Reservar local,Diana Lewis,Pendiente,Ejecutar evento,77
+1366,Enviar invitaciones,Danielle Wade,En proceso,Enviar invitaciones,61
+1367,Comprar materiales,Deborah Bell,En proceso,Ejecutar evento,76
+1368,Comprar materiales,Richard Phillips,Finalizado,Ejecutar evento,24
+1369,Ejecutar evento,Robert Smith,Finalizado,Reservar local,54
+1370,Ejecutar evento,Alexander Brooks DDS,Finalizado,Comprar materiales,29
+1371,Enviar invitaciones,Christopher Waller,En proceso,Decorar,24
+1372,Comprar materiales,Gregg Peterson,En proceso,Ejecutar evento,29
+1373,Enviar invitaciones,Amber Marshall,Finalizado,Reservar local,20
+1374,Reservar local,Rebecca Fernandez,Pendiente,Comprar materiales,85
+1375,Decorar,Mitchell Becker,Finalizado,Enviar invitaciones,62
+1376,Enviar invitaciones,Mrs. Taylor Martin,Pendiente,Ejecutar evento,60
+1377,Comprar materiales,Daniel Smith,Pendiente,Enviar invitaciones,43
+1378,Enviar invitaciones,William Newman,En proceso,Ejecutar evento,87
+1379,Enviar invitaciones,Shannon Cunningham,Finalizado,Ejecutar evento,85
+1380,Decorar,Ruth Carter,Finalizado,Decorar,51
+1381,Comprar materiales,Karen Cruz,En proceso,Decorar,79
+1382,Decorar,Angela Collins,En proceso,Reservar local,51
+1383,Ejecutar evento,Nancy Watson,En proceso,Ejecutar evento,67
+1384,Decorar,Heather Washington,Pendiente,Enviar invitaciones,59
+1385,Decorar,Ryan Lewis,Pendiente,Enviar invitaciones,22
+1386,Enviar invitaciones,Emily Santiago,Pendiente,Comprar materiales,47
+1387,Reservar local,Paul Frye,En proceso,Ejecutar evento,55
+1388,Enviar invitaciones,James Scott,En proceso,Comprar materiales,86
+1389,Enviar invitaciones,Anthony Schmidt,Finalizado,Reservar local,47
+1390,Reservar local,Stephanie Jacobson,Finalizado,Reservar local,88
+1391,Ejecutar evento,Sandy Lyons DVM,Pendiente,Ejecutar evento,31
+1392,Enviar invitaciones,Scott Gill,En proceso,Reservar local,80
+1393,Decorar,Rebecca Gonzalez,Finalizado,Ejecutar evento,56
+1394,Ejecutar evento,Jeffrey Carlson,Pendiente,Reservar local,16
+1395,Comprar materiales,Anthony Carr,Finalizado,Ejecutar evento,33
+1396,Decorar,David Mclean,Pendiente,Decorar,54
+1397,Enviar invitaciones,Jo Johnson,En proceso,Ejecutar evento,27
+1398,Decorar,Matthew Reynolds,En proceso,Decorar,57
+1399,Comprar materiales,Sarah Jones,Pendiente,Comprar materiales,78
+1400,Enviar invitaciones,George Malone,Finalizado,Comprar materiales,62
+1401,Decorar,Jesse Johnson,Finalizado,Decorar,19
+1402,Reservar local,Gregory Garcia,Finalizado,Ejecutar evento,45
+1403,Reservar local,Kimberly Miller,En proceso,Enviar invitaciones,43
+1404,Enviar invitaciones,Benjamin Patton,Finalizado,Decorar,17
+1405,Reservar local,Brian Williams,Finalizado,Decorar,21
+1406,Ejecutar evento,Victor Fernandez,Pendiente,Ejecutar evento,16
+1407,Ejecutar evento,Steven Reed,En proceso,Ejecutar evento,22
+1408,Reservar local,Kimberly Campbell,Pendiente,Enviar invitaciones,58
+1409,Decorar,Jason Morales,Finalizado,Ejecutar evento,84
+1410,Reservar local,John Brown,En proceso,Decorar,56
+1411,Reservar local,Julia Perez,Finalizado,Ejecutar evento,19
+1412,Decorar,Allen Knight,Finalizado,Enviar invitaciones,68
+1413,Decorar,Deborah Stone,Pendiente,Ejecutar evento,67
+1414,Enviar invitaciones,Tammy Powell,Finalizado,Reservar local,36
+1415,Enviar invitaciones,Allison Richards,En proceso,Comprar materiales,44
+1416,Reservar local,Stacey Diaz,Finalizado,Enviar invitaciones,17
+1417,Decorar,Kim Werner,Finalizado,Ejecutar evento,30
+1418,Comprar materiales,Heather Barr,En proceso,Reservar local,64
+1419,Decorar,Katherine Mendez,En proceso,Enviar invitaciones,24
+1420,Reservar local,Allison Fields,Finalizado,Reservar local,60
+1421,Enviar invitaciones,Zachary Norton,Pendiente,Decorar,59
+1422,Decorar,Alejandro Davis,En proceso,Ejecutar evento,82
+1423,Decorar,Michael Gray,En proceso,Decorar,26
+1424,Reservar local,Jonathan Gomez,Pendiente,Comprar materiales,50
+1425,Enviar invitaciones,Edwin Spencer,Pendiente,Decorar,41
+1426,Enviar invitaciones,Cody Gould,Finalizado,Ejecutar evento,15
+1427,Ejecutar evento,Jessica Miller,Finalizado,Comprar materiales,45
+1428,Ejecutar evento,Wendy Brooks,En proceso,Decorar,47
+1429,Decorar,Christopher Johnson,Pendiente,Enviar invitaciones,25
+1430,Enviar invitaciones,Nancy Macdonald,Finalizado,Comprar materiales,24
+1431,Decorar,Stephanie Jackson,Finalizado,Ejecutar evento,78
+1432,Comprar materiales,Joshua Douglas,Finalizado,Comprar materiales,27
+1433,Enviar invitaciones,Philip Brown,En proceso,Decorar,80
+1434,Comprar materiales,Todd Hernandez,Finalizado,Enviar invitaciones,57
+1435,Decorar,Robert Rasmussen,Finalizado,Reservar local,17
+1436,Ejecutar evento,Logan Morris,Finalizado,Decorar,39
+1437,Reservar local,James Bowers,En proceso,Reservar local,68
+1438,Enviar invitaciones,Sheryl Johnston,Pendiente,Comprar materiales,41
+1439,Reservar local,Carolyn Thomas,Finalizado,Enviar invitaciones,75
+1440,Reservar local,Evelyn Johnson,En proceso,Reservar local,22
+1441,Ejecutar evento,Julie English,Finalizado,Ejecutar evento,62
+1442,Enviar invitaciones,Christopher Mcguire,Pendiente,Enviar invitaciones,62
+1443,Decorar,Anthony Thompson,Pendiente,Ejecutar evento,61
+1444,Enviar invitaciones,Nicholas Murphy,Pendiente,Reservar local,45
+1445,Reservar local,Sonya Byrd,Finalizado,Enviar invitaciones,24
+1446,Comprar materiales,Molly Sanders,En proceso,Ejecutar evento,59
+1447,Ejecutar evento,Andrew Patterson,En proceso,Reservar local,30
+1448,Ejecutar evento,Bruce Bowman,En proceso,Decorar,36
+1449,Ejecutar evento,Jeffrey Nguyen,Pendiente,Reservar local,67
+1450,Reservar local,Jeffrey Lindsey,Finalizado,Decorar,55
+1451,Reservar local,Michelle Wright,Pendiente,Ejecutar evento,35
+1452,Decorar,William Knight,Finalizado,Decorar,72
+1453,Reservar local,Matthew Wade,En proceso,Reservar local,44
+1454,Ejecutar evento,Cynthia Vasquez,Pendiente,Reservar local,65
+1455,Comprar materiales,Charles Moore,En proceso,Enviar invitaciones,45
+1456,Enviar invitaciones,Mrs. Shannon Simon DDS,Pendiente,Comprar materiales,31
+1457,Comprar materiales,Laura Rhodes,Finalizado,Ejecutar evento,51
+1458,Decorar,Holly Allen,Finalizado,Comprar materiales,31
+1459,Enviar invitaciones,Michael White,Finalizado,Ejecutar evento,83
+1460,Comprar materiales,Theodore Potts,Pendiente,Comprar materiales,78
+1461,Comprar materiales,Gail Howard,En proceso,Enviar invitaciones,38
+1462,Enviar invitaciones,Cynthia Carter,En proceso,Decorar,85
+1463,Reservar local,Joseph King,En proceso,Enviar invitaciones,34
+1464,Ejecutar evento,William Mitchell,En proceso,Ejecutar evento,49
+1465,Reservar local,Samantha Larson,En proceso,Comprar materiales,70
+1466,Reservar local,Linda Gregory,Finalizado,Enviar invitaciones,28
+1467,Enviar invitaciones,Jennifer Meadows,Finalizado,Ejecutar evento,88
+1468,Enviar invitaciones,Stephanie Cook,Finalizado,Comprar materiales,50
+1469,Enviar invitaciones,Donald Tucker,Finalizado,Decorar,28
+1470,Decorar,Adam Spencer,Finalizado,Comprar materiales,37
+1471,Decorar,Ryan Rivas,En proceso,Comprar materiales,20
+1472,Decorar,Heidi Turner,En proceso,Reservar local,64
+1473,Ejecutar evento,William Porter,En proceso,Enviar invitaciones,88
+1474,Decorar,Jose Ramos,En proceso,Decorar,59
+1475,Decorar,Faith Mcintyre,Finalizado,Reservar local,36
+1476,Reservar local,Katelyn Wood,En proceso,Reservar local,78
+1477,Reservar local,Philip Lewis,En proceso,Comprar materiales,83
+1478,Comprar materiales,Tina Steele,En proceso,Reservar local,23
+1479,Decorar,Jason Montgomery,Pendiente,Enviar invitaciones,45
+1480,Ejecutar evento,Brandon Burgess,Finalizado,Reservar local,85
+1481,Enviar invitaciones,Brian Blevins,En proceso,Comprar materiales,59
+1482,Decorar,Victoria Shaw,Finalizado,Decorar,53
+1483,Comprar materiales,Carl Pham,En proceso,Decorar,50
+1484,Enviar invitaciones,Jonathan Padilla,Finalizado,Ejecutar evento,25
+1485,Enviar invitaciones,Jennifer Greer,Finalizado,Reservar local,34
+1486,Ejecutar evento,Mr. Anthony Burgess,Pendiente,Decorar,86
+1487,Ejecutar evento,Melissa Matthews,Pendiente,Ejecutar evento,46
+1488,Comprar materiales,Daniel Jenkins,Finalizado,Ejecutar evento,30
+1489,Reservar local,Gerald Gomez,Pendiente,Enviar invitaciones,52
+1490,Ejecutar evento,Amanda Warren,En proceso,Reservar local,65
+1491,Reservar local,Barbara Cortez,Finalizado,Enviar invitaciones,45
+1492,Enviar invitaciones,Sharon Sparks,Pendiente,Enviar invitaciones,26
+1493,Enviar invitaciones,Nicholas Barnett,Finalizado,Decorar,40
+1494,Decorar,Julian Bennett,Pendiente,Comprar materiales,69
+1495,Decorar,Zachary Short,Pendiente,Comprar materiales,77
+1496,Comprar materiales,Bruce Daugherty,Pendiente,Ejecutar evento,35
+1497,Ejecutar evento,Michael Alexander,Pendiente,Enviar invitaciones,29
+1498,Decorar,Chelsea Collins,Finalizado,Decorar,15
+1499,Ejecutar evento,Jeffery Wong,Finalizado,Enviar invitaciones,30
+1500,Reservar local,Alexis Maddox,Finalizado,Comprar materiales,53
+1501,Decorar,Cynthia Russo,Finalizado,Reservar local,87
+1502,Reservar local,Lisa Brown,En proceso,Ejecutar evento,19
+1503,Ejecutar evento,Tim Sanford,Pendiente,Comprar materiales,28
+1504,Ejecutar evento,Anthony Gray,Pendiente,Comprar materiales,40
+1505,Comprar materiales,Deborah Solis,Finalizado,Comprar materiales,89
+1506,Enviar invitaciones,David Webb,Pendiente,Decorar,34
+1507,Ejecutar evento,Samuel Winters,Pendiente,Ejecutar evento,77
+1508,Ejecutar evento,Bruce Williamson,Pendiente,Reservar local,35
+1509,Comprar materiales,Michael Davis,Pendiente,Decorar,68
+1510,Comprar materiales,Sarah Russell,En proceso,Ejecutar evento,50
+1511,Enviar invitaciones,Bryan Griffith,En proceso,Ejecutar evento,86
+1512,Ejecutar evento,Andre Gomez,Pendiente,Ejecutar evento,88
+1513,Reservar local,Troy Merritt,Finalizado,Reservar local,53
+1514,Enviar invitaciones,Daniel Robinson,Pendiente,Decorar,78
+1515,Decorar,Andrea Bright,En proceso,Reservar local,61
+1516,Reservar local,Tiffany Myers,En proceso,Reservar local,50
+1517,Ejecutar evento,Lucas Espinoza,En proceso,Reservar local,76
+1518,Ejecutar evento,Keith Suarez,Finalizado,Reservar local,47
+1519,Enviar invitaciones,Erica Gardner,Pendiente,Ejecutar evento,38
+1520,Reservar local,Angela Poole,En proceso,Decorar,50
+1521,Comprar materiales,Robert Thomas,Pendiente,Decorar,66
+1522,Reservar local,Anthony Bruce,En proceso,Comprar materiales,84
+1523,Reservar local,Bryce Jones,En proceso,Ejecutar evento,57
+1524,Comprar materiales,Heather Craig,Finalizado,Comprar materiales,47
+1525,Enviar invitaciones,Alexandra Murphy,Finalizado,Reservar local,89
+1526,Decorar,Casey Harvey,Pendiente,Decorar,15
+1527,Decorar,Ashley Cain,En proceso,Comprar materiales,47
+1528,Decorar,Terri Hudson,Finalizado,Comprar materiales,53
+1529,Enviar invitaciones,Angela Horton,Pendiente,Enviar invitaciones,60
+1530,Comprar materiales,James Gray,Finalizado,Reservar local,17
+1531,Reservar local,Heidi Owens,Finalizado,Ejecutar evento,56
+1532,Ejecutar evento,Travis Carter,Pendiente,Reservar local,19
+1533,Ejecutar evento,Carrie Casey,Pendiente,Ejecutar evento,68
+1534,Enviar invitaciones,Albert Edwards,En proceso,Enviar invitaciones,79
+1535,Decorar,Bethany Johnson,Finalizado,Comprar materiales,26
+1536,Enviar invitaciones,Paul Dunn,Finalizado,Reservar local,50
+1537,Reservar local,Eugene Poole,Finalizado,Reservar local,35
+1538,Reservar local,Barbara Carter,Finalizado,Comprar materiales,27
+1539,Ejecutar evento,Susan Gutierrez,Finalizado,Decorar,41
+1540,Decorar,Sophia Lindsey,Finalizado,Comprar materiales,47
+1541,Enviar invitaciones,Ryan Hanson,En proceso,Comprar materiales,77
+1542,Enviar invitaciones,Connie Chapman,En proceso,Decorar,52
+1543,Ejecutar evento,Charles Hardy,Finalizado,Decorar,42
+1544,Enviar invitaciones,Crystal Ortiz,Finalizado,Enviar invitaciones,37
+1545,Comprar materiales,Sarah Jensen,Pendiente,Ejecutar evento,37
+1546,Reservar local,Linda Butler MD,Finalizado,Comprar materiales,67
+1547,Reservar local,Traci Rodriguez,Pendiente,Decorar,89
+1548,Ejecutar evento,Charles Adams,Pendiente,Reservar local,66
+1549,Reservar local,Michael Hart,En proceso,Ejecutar evento,46
+1550,Enviar invitaciones,Wendy Dennis,Pendiente,Enviar invitaciones,66
+1551,Reservar local,Christopher Williams,En proceso,Ejecutar evento,70
+1552,Reservar local,Christopher Lopez,Finalizado,Decorar,43
+1553,Decorar,Frank Chung,Finalizado,Comprar materiales,84
+1554,Ejecutar evento,Gabrielle Morrison,En proceso,Comprar materiales,21
+1555,Enviar invitaciones,Ellen Reyes,Finalizado,Reservar local,25
+1556,Decorar,Craig Davis,Finalizado,Decorar,48
+1557,Enviar invitaciones,Lauren Bell,En proceso,Decorar,42
+1558,Enviar invitaciones,Jessica George,Pendiente,Decorar,51
+1559,Comprar materiales,Sean Brewer,En proceso,Decorar,76
+1560,Reservar local,Kathy Mahoney,En proceso,Comprar materiales,83
+1561,Ejecutar evento,Matthew Carpenter,Pendiente,Decorar,71
+1562,Enviar invitaciones,Sandra Scott,Finalizado,Reservar local,21
+1563,Decorar,Megan Franklin,Finalizado,Decorar,38
+1564,Comprar materiales,Gregory Fleming,Pendiente,Reservar local,35
+1565,Comprar materiales,Scott Fernandez,Pendiente,Reservar local,82
+1566,Enviar invitaciones,Christopher Hernandez,En proceso,Reservar local,61
+1567,Ejecutar evento,Mrs. Brandi Young DVM,Finalizado,Reservar local,20
+1568,Reservar local,Jennifer Dennis,En proceso,Reservar local,83
+1569,Comprar materiales,Virginia Ramos,Pendiente,Decorar,57
+1570,Enviar invitaciones,Colton Wood,Pendiente,Decorar,52
+1571,Enviar invitaciones,Lindsey Robbins,En proceso,Comprar materiales,66
+1572,Enviar invitaciones,Charles Bright,Finalizado,Reservar local,32
+1573,Comprar materiales,Mary Davis,Pendiente,Decorar,64
+1574,Decorar,Steven Owens,En proceso,Comprar materiales,32
+1575,Reservar local,Justin Walker,Finalizado,Ejecutar evento,37
+1576,Comprar materiales,John Smith Jr.,Finalizado,Comprar materiales,21
+1577,Decorar,Rebecca Terry,Finalizado,Decorar,44
+1578,Decorar,Christopher Lane,Finalizado,Reservar local,15
+1579,Comprar materiales,Debra Snyder,Finalizado,Decorar,23
+1580,Ejecutar evento,Larry Walker,En proceso,Enviar invitaciones,37
+1581,Comprar materiales,Michael Wallace,Pendiente,Enviar invitaciones,20
+1582,Enviar invitaciones,Thomas Ortiz,Finalizado,Ejecutar evento,67
+1583,Decorar,Kimberly Foster,En proceso,Reservar local,45
+1584,Reservar local,Bradley Sanchez,Pendiente,Reservar local,79
+1585,Ejecutar evento,Edward Henderson,Finalizado,Reservar local,57
+1586,Enviar invitaciones,Phillip Baker,Finalizado,Ejecutar evento,77
+1587,Enviar invitaciones,Julia Willis,Pendiente,Ejecutar evento,45
+1588,Ejecutar evento,Samantha Jackson,Finalizado,Comprar materiales,22
+1589,Enviar invitaciones,Willie Bailey,Pendiente,Ejecutar evento,38
+1590,Comprar materiales,Angela Watts,En proceso,Enviar invitaciones,29
+1591,Decorar,Thomas Reyes,Pendiente,Enviar invitaciones,48
+1592,Reservar local,Kimberly Pollard,En proceso,Enviar invitaciones,77
+1593,Decorar,Daniel Morgan,Pendiente,Decorar,45
+1594,Decorar,Lori Kramer,Pendiente,Reservar local,23
+1595,Reservar local,Vincent Juarez,Pendiente,Reservar local,38
+1596,Ejecutar evento,Kristen Cisneros,Pendiente,Ejecutar evento,74
+1597,Enviar invitaciones,Michelle Smith,En proceso,Decorar,42
+1598,Enviar invitaciones,John Charles,En proceso,Ejecutar evento,39
+1599,Decorar,Carrie Washington,Finalizado,Comprar materiales,15
+1600,Comprar materiales,Karen Fisher,En proceso,Enviar invitaciones,58
+1601,Comprar materiales,Anthony Vasquez,Finalizado,Enviar invitaciones,74
+1602,Comprar materiales,Dan Estrada,Pendiente,Ejecutar evento,23
+1603,Comprar materiales,Chelsea Aguirre,En proceso,Comprar materiales,59
+1604,Reservar local,Jessica Anderson,Pendiente,Decorar,36
+1605,Enviar invitaciones,Breanna Miller,Pendiente,Comprar materiales,17
+1606,Enviar invitaciones,Terrence Short,Pendiente,Comprar materiales,61
+1607,Comprar materiales,Joseph Young,En proceso,Reservar local,45
+1608,Enviar invitaciones,Jonathan Holland,Finalizado,Reservar local,43
+1609,Ejecutar evento,David King,Pendiente,Reservar local,20
+1610,Comprar materiales,James Murphy,Finalizado,Decorar,47
+1611,Comprar materiales,Ebony Cole,En proceso,Ejecutar evento,59
+1612,Enviar invitaciones,Joseph Hart DDS,Pendiente,Comprar materiales,60
+1613,Comprar materiales,Michael Rodriguez,Finalizado,Decorar,20
+1614,Comprar materiales,Donna Moran,Pendiente,Reservar local,49
+1615,Enviar invitaciones,Lee Daniels,Finalizado,Reservar local,77
+1616,Ejecutar evento,James Vasquez,Pendiente,Reservar local,57
+1617,Enviar invitaciones,Jody Wood,En proceso,Reservar local,61
+1618,Comprar materiales,Victoria Malone,Finalizado,Reservar local,64
+1619,Reservar local,Robert Ibarra,Pendiente,Comprar materiales,64
+1620,Enviar invitaciones,Anna Huang,En proceso,Ejecutar evento,47
+1621,Enviar invitaciones,Emily Graves,Pendiente,Comprar materiales,60
+1622,Reservar local,Christopher Hart,En proceso,Reservar local,62
+1623,Ejecutar evento,Frank Mendoza,Finalizado,Comprar materiales,15
+1624,Enviar invitaciones,Raymond Frost,Pendiente,Ejecutar evento,24
+1625,Reservar local,Laura Clark,Finalizado,Ejecutar evento,29
+1626,Ejecutar evento,Lance Long,Pendiente,Decorar,66
+1627,Reservar local,Lindsey Gilbert,En proceso,Ejecutar evento,88
+1628,Comprar materiales,Ashley Bennett,En proceso,Reservar local,75
+1629,Reservar local,James Turner,Pendiente,Reservar local,39
+1630,Enviar invitaciones,Mr. Michael King DDS,Pendiente,Enviar invitaciones,63
+1631,Decorar,Ronald Hernandez,Pendiente,Decorar,49
+1632,Decorar,Dr. Anthony White,Pendiente,Ejecutar evento,25
+1633,Decorar,Sheila Bradley,En proceso,Enviar invitaciones,37
+1634,Ejecutar evento,Jacqueline Allen,En proceso,Reservar local,15
+1635,Ejecutar evento,Jennifer Ford,Finalizado,Decorar,28
+1636,Ejecutar evento,Michael Henry,Finalizado,Reservar local,19
+1637,Ejecutar evento,Elaine Payne,Pendiente,Decorar,21
+1638,Comprar materiales,Thomas Johnson,En proceso,Comprar materiales,44
+1639,Ejecutar evento,Kayla Foster,En proceso,Decorar,75
+1640,Enviar invitaciones,Cynthia Graham,Pendiente,Reservar local,33
+1641,Comprar materiales,Daniel Frazier,Finalizado,Comprar materiales,73
+1642,Comprar materiales,Jake Williams,En proceso,Enviar invitaciones,29
+1643,Decorar,Tina Jones,Finalizado,Enviar invitaciones,82
+1644,Decorar,Katherine Cooper,Pendiente,Enviar invitaciones,43
+1645,Reservar local,John Rodriguez,Pendiente,Decorar,29
+1646,Decorar,Travis Johnson,En proceso,Comprar materiales,32
+1647,Decorar,Jeremy Andrews,Finalizado,Decorar,24
+1648,Enviar invitaciones,Jesus Rasmussen,En proceso,Comprar materiales,31
+1649,Decorar,Tammy Doyle,En proceso,Ejecutar evento,17
+1650,Ejecutar evento,Danielle Williamson,En proceso,Comprar materiales,83
+1651,Reservar local,Joanne Glenn,Finalizado,Ejecutar evento,50
+1652,Ejecutar evento,Hannah Dyer,En proceso,Comprar materiales,37
+1653,Ejecutar evento,Ashley Kennedy,Finalizado,Decorar,84
+1654,Comprar materiales,Jamie Velasquez,Finalizado,Ejecutar evento,61
+1655,Decorar,Timothy Wise,En proceso,Comprar materiales,15
+1656,Comprar materiales,Michael Simmons,En proceso,Comprar materiales,73
+1657,Comprar materiales,David Webb,En proceso,Comprar materiales,33
+1658,Ejecutar evento,George Hensley,Pendiente,Enviar invitaciones,48
+1659,Reservar local,Cassandra James,Finalizado,Comprar materiales,65
+1660,Enviar invitaciones,Philip Huang,Finalizado,Decorar,62
+1661,Decorar,Dalton Farmer,Pendiente,Enviar invitaciones,43
+1662,Decorar,Terri Lambert,Pendiente,Enviar invitaciones,72
+1663,Enviar invitaciones,Nancy Johnson MD,Pendiente,Ejecutar evento,76
+1664,Enviar invitaciones,Stacey Andrews,Finalizado,Reservar local,70
+1665,Decorar,Paul Cruz,En proceso,Enviar invitaciones,45
+1666,Ejecutar evento,Sean Walter,En proceso,Decorar,70
+1667,Decorar,John Walker,En proceso,Decorar,46
+1668,Comprar materiales,Joy Ward,Finalizado,Reservar local,16
+1669,Ejecutar evento,Sean Rios,En proceso,Decorar,32
+1670,Ejecutar evento,Danielle Robbins,Finalizado,Decorar,49
+1671,Reservar local,Joshua Aguilar,Finalizado,Comprar materiales,55
+1672,Reservar local,Megan Preston,Finalizado,Enviar invitaciones,73
+1673,Decorar,Nicole White,En proceso,Comprar materiales,27
+1674,Reservar local,Stephanie Anderson,En proceso,Decorar,68
+1675,Comprar materiales,Linda Arnold,En proceso,Enviar invitaciones,19
+1676,Decorar,Brian Ball,Finalizado,Ejecutar evento,61
+1677,Comprar materiales,Ronald Myers,En proceso,Ejecutar evento,65
+1678,Reservar local,Christina Phelps,Pendiente,Comprar materiales,89
+1679,Ejecutar evento,Marcus Pittman,Finalizado,Enviar invitaciones,85
+1680,Enviar invitaciones,Carrie Johnson,Pendiente,Reservar local,79
+1681,Comprar materiales,Teresa Harrison,Pendiente,Reservar local,76
+1682,Comprar materiales,Jordan Peterson,Pendiente,Enviar invitaciones,47
+1683,Ejecutar evento,Jade Cook,Finalizado,Comprar materiales,58
+1684,Comprar materiales,Alicia Holmes,En proceso,Enviar invitaciones,62
+1685,Decorar,Cynthia Christensen,Finalizado,Ejecutar evento,61
+1686,Reservar local,Mark Reed,Finalizado,Ejecutar evento,58
+1687,Decorar,Peter Taylor,Finalizado,Ejecutar evento,29
+1688,Comprar materiales,Kevin Hicks,Finalizado,Enviar invitaciones,75
+1689,Enviar invitaciones,Mary Barrett,Pendiente,Comprar materiales,59
+1690,Enviar invitaciones,Jeffrey Duncan,Pendiente,Enviar invitaciones,58
+1691,Reservar local,Julie Garner,Pendiente,Decorar,64
+1692,Enviar invitaciones,Daniel Wells,Finalizado,Reservar local,54
+1693,Decorar,Jason Green,Pendiente,Comprar materiales,23
+1694,Enviar invitaciones,Alexis Walker,En proceso,Ejecutar evento,89
+1695,Enviar invitaciones,Rhonda Smith,Finalizado,Decorar,22
+1696,Reservar local,Johnny Oliver,Pendiente,Ejecutar evento,88
+1697,Decorar,John Kelly,Finalizado,Comprar materiales,70
+1698,Reservar local,Kathryn Stanley,En proceso,Comprar materiales,83
+1699,Reservar local,Austin Frost,En proceso,Reservar local,27
+1700,Reservar local,Jeffrey Stevens,Finalizado,Comprar materiales,74
+1701,Comprar materiales,Dan Gates,Pendiente,Enviar invitaciones,19
+1702,Enviar invitaciones,Erin Tyler,Finalizado,Reservar local,57
+1703,Enviar invitaciones,Ronald Gibbs,Pendiente,Reservar local,89
+1704,Decorar,Melissa Harmon,En proceso,Decorar,89
+1705,Reservar local,Michael Coleman,Finalizado,Decorar,51
+1706,Reservar local,Kirk Montoya,En proceso,Reservar local,62
+1707,Enviar invitaciones,Alexandra Ayala,Finalizado,Ejecutar evento,40
+1708,Ejecutar evento,Stephanie Wilson,Finalizado,Ejecutar evento,80
+1709,Enviar invitaciones,Christopher Cannon,Pendiente,Decorar,31
+1710,Enviar invitaciones,Judith Smith,Finalizado,Ejecutar evento,29
+1711,Comprar materiales,Ricky Henry,Finalizado,Reservar local,77
+1712,Reservar local,Karina Miranda,Pendiente,Comprar materiales,61
+1713,Ejecutar evento,Megan Long,Pendiente,Reservar local,35
+1714,Decorar,Lauren Thompson,Finalizado,Decorar,75
+1715,Decorar,Dillon Lee,Pendiente,Ejecutar evento,84
+1716,Ejecutar evento,Alexander Zuniga,En proceso,Comprar materiales,87
+1717,Enviar invitaciones,Thomas Ward,Finalizado,Enviar invitaciones,49
+1718,Enviar invitaciones,Tiffany Murphy,Finalizado,Decorar,15
+1719,Decorar,Kimberly Gonzalez,Finalizado,Decorar,38
+1720,Decorar,Ashley Snyder,Finalizado,Comprar materiales,28
+1721,Enviar invitaciones,Laura Walker,Finalizado,Enviar invitaciones,61
+1722,Decorar,Courtney Padilla,En proceso,Comprar materiales,50
+1723,Reservar local,James Galloway,En proceso,Ejecutar evento,65
+1724,Ejecutar evento,Jared Jackson,Pendiente,Ejecutar evento,38
+1725,Comprar materiales,Christian Lopez,Finalizado,Comprar materiales,74
+1726,Comprar materiales,Lori Hernandez,Pendiente,Enviar invitaciones,78
+1727,Comprar materiales,Brian Simmons,Finalizado,Decorar,46
+1728,Comprar materiales,Charles Parker,Pendiente,Enviar invitaciones,43
+1729,Reservar local,Linda Rasmussen,Pendiente,Ejecutar evento,28
+1730,Reservar local,Patricia Garrett,Pendiente,Ejecutar evento,86
+1731,Decorar,Samuel White,En proceso,Ejecutar evento,25
+1732,Enviar invitaciones,Diana Brock,En proceso,Reservar local,39
+1733,Decorar,Tina Conrad,En proceso,Ejecutar evento,64
+1734,Ejecutar evento,John Vaughn,Finalizado,Ejecutar evento,25
+1735,Comprar materiales,Christina Brown,Pendiente,Decorar,20
+1736,Comprar materiales,Rachel Alexander,Finalizado,Ejecutar evento,74
+1737,Reservar local,Jennifer Colon,Pendiente,Decorar,73
+1738,Ejecutar evento,Michael Joyce,En proceso,Reservar local,44
+1739,Ejecutar evento,John Wilson,En proceso,Decorar,71
+1740,Enviar invitaciones,Robert Sharp,En proceso,Decorar,32
+1741,Reservar local,Shawn Sanders,Pendiente,Decorar,78
+1742,Reservar local,Robin Marshall,Pendiente,Comprar materiales,85
+1743,Ejecutar evento,Jennifer Diaz,Pendiente,Decorar,88
+1744,Enviar invitaciones,Shawn Guzman,Finalizado,Comprar materiales,38
+1745,Comprar materiales,Ralph Adams,En proceso,Decorar,51
+1746,Ejecutar evento,Michelle Hernandez,En proceso,Comprar materiales,59
+1747,Comprar materiales,Jamie Campbell,Finalizado,Ejecutar evento,55
+1748,Ejecutar evento,Susan Contreras,Pendiente,Ejecutar evento,84
+1749,Comprar materiales,Beth Lambert,Pendiente,Decorar,35
+1750,Ejecutar evento,Sarah Booth,Finalizado,Enviar invitaciones,17
+1751,Enviar invitaciones,Christopher Thompson,Pendiente,Comprar materiales,48
+1752,Ejecutar evento,Paige Smith,Finalizado,Reservar local,46
+1753,Comprar materiales,Alexander Mason,Pendiente,Comprar materiales,89
+1754,Enviar invitaciones,Karen Knapp,En proceso,Comprar materiales,38
+1755,Decorar,Sergio Meadows,Pendiente,Comprar materiales,16
+1756,Comprar materiales,Tiffany Fuller,Pendiente,Reservar local,20
+1757,Comprar materiales,Cody Wang,En proceso,Comprar materiales,26
+1758,Comprar materiales,Richard Chan,Finalizado,Enviar invitaciones,26
+1759,Ejecutar evento,Julie Nelson,Finalizado,Decorar,34
+1760,Decorar,Kevin Crosby,En proceso,Decorar,55
+1761,Ejecutar evento,Joshua Hall,Pendiente,Ejecutar evento,62
+1762,Comprar materiales,Ruth Maxwell,Finalizado,Ejecutar evento,18
+1763,Ejecutar evento,David Bolton,En proceso,Reservar local,18
+1764,Reservar local,William Wright,Finalizado,Comprar materiales,23
+1765,Decorar,Tara Mcdaniel,Pendiente,Reservar local,37
+1766,Reservar local,James Williams,Pendiente,Reservar local,74
+1767,Decorar,Billy Webb,Pendiente,Comprar materiales,76
+1768,Decorar,Samantha Ford,En proceso,Ejecutar evento,76
+1769,Ejecutar evento,Alexander Cooper,En proceso,Enviar invitaciones,27
+1770,Decorar,Karen Mcdonald,Finalizado,Enviar invitaciones,84
+1771,Enviar invitaciones,Susan Campos,Finalizado,Reservar local,55
+1772,Decorar,Dr. Andrew Wu,En proceso,Enviar invitaciones,42
+1773,Ejecutar evento,April Simpson,Finalizado,Ejecutar evento,28
+1774,Comprar materiales,Erica Myers,Pendiente,Comprar materiales,26
+1775,Enviar invitaciones,Steven Adams,Pendiente,Reservar local,59
+1776,Comprar materiales,Joseph Schultz,Finalizado,Reservar local,48
+1777,Enviar invitaciones,Emily Sims,Pendiente,Ejecutar evento,88
+1778,Comprar materiales,Kevin Garcia,Finalizado,Ejecutar evento,41
+1779,Reservar local,Sarah Peters,Pendiente,Comprar materiales,44
+1780,Ejecutar evento,Taylor Schmitt,Pendiente,Enviar invitaciones,68
+1781,Reservar local,Sarah Vasquez,En proceso,Ejecutar evento,48
+1782,Decorar,Barbara Fisher,En proceso,Enviar invitaciones,41
+1783,Enviar invitaciones,Tracy Davis,En proceso,Ejecutar evento,44
+1784,Enviar invitaciones,Sarah Reynolds,En proceso,Decorar,61
+1785,Comprar materiales,Nancy Ferrell,Pendiente,Decorar,52
+1786,Comprar materiales,Michael Martin,En proceso,Decorar,38
+1787,Decorar,Amy Bell,En proceso,Decorar,34
+1788,Reservar local,Amy Washington,Finalizado,Decorar,84
+1789,Reservar local,Rick Pierce,En proceso,Enviar invitaciones,35
+1790,Comprar materiales,Jodi Martin,En proceso,Decorar,87
+1791,Enviar invitaciones,Michael Young,Pendiente,Comprar materiales,52
+1792,Comprar materiales,Kathryn Castro,En proceso,Enviar invitaciones,77
+1793,Reservar local,Joanne Thompson,Finalizado,Ejecutar evento,42
+1794,Decorar,Tommy Brown,En proceso,Comprar materiales,85
+1795,Enviar invitaciones,Jennifer Gilbert,Finalizado,Comprar materiales,78
+1796,Ejecutar evento,Amber Wong,En proceso,Enviar invitaciones,54
+1797,Ejecutar evento,Rick Johnson,Pendiente,Ejecutar evento,79
+1798,Comprar materiales,Mary Mata,Pendiente,Ejecutar evento,43
+1799,Reservar local,Leslie Salinas,Finalizado,Enviar invitaciones,52
+1800,Ejecutar evento,Stephanie Taylor,Pendiente,Comprar materiales,33
+1801,Decorar,Robert Lara,Finalizado,Comprar materiales,39
+1802,Ejecutar evento,Kristen Hernandez,Finalizado,Decorar,39
+1803,Enviar invitaciones,Richard Vasquez,Finalizado,Decorar,52
+1804,Decorar,Natalie Morton,Pendiente,Ejecutar evento,61
+1805,Ejecutar evento,Sarah Watson,En proceso,Comprar materiales,43
+1806,Decorar,Whitney Thomas,Finalizado,Enviar invitaciones,81
+1807,Ejecutar evento,Diana Alvarado,En proceso,Ejecutar evento,88
+1808,Reservar local,Mary Mcmahon,En proceso,Ejecutar evento,85
+1809,Reservar local,Michael Phillips,En proceso,Ejecutar evento,27
+1810,Decorar,Sarah Phillips,Finalizado,Reservar local,87
+1811,Reservar local,Melody Roberts,En proceso,Reservar local,44
+1812,Comprar materiales,Jennifer Fields,Pendiente,Enviar invitaciones,51
+1813,Ejecutar evento,April Snyder,En proceso,Enviar invitaciones,71
+1814,Enviar invitaciones,Marie Gross,Pendiente,Decorar,35
+1815,Enviar invitaciones,Jody Bradford,Finalizado,Reservar local,30
+1816,Decorar,Yesenia Bauer,Finalizado,Decorar,69
+1817,Decorar,Douglas Johnson,Finalizado,Enviar invitaciones,44
+1818,Enviar invitaciones,Matthew Beasley,En proceso,Ejecutar evento,65
+1819,Enviar invitaciones,Jackie Taylor,En proceso,Comprar materiales,41
+1820,Decorar,Christopher Sanchez,En proceso,Enviar invitaciones,67
+1821,Decorar,Kathleen Collins,En proceso,Reservar local,74
+1822,Ejecutar evento,James Clark,En proceso,Enviar invitaciones,86
+1823,Enviar invitaciones,Jeremy Martinez,En proceso,Decorar,17
+1824,Enviar invitaciones,Samantha Banks,Pendiente,Enviar invitaciones,40
+1825,Comprar materiales,Lisa Young,Finalizado,Enviar invitaciones,82
+1826,Enviar invitaciones,Matthew Flynn,Pendiente,Comprar materiales,18
+1827,Decorar,Scott Carrillo,En proceso,Comprar materiales,62
+1828,Decorar,Ruben Jackson,Pendiente,Enviar invitaciones,19
+1829,Reservar local,Christopher Ruiz,Finalizado,Ejecutar evento,59
+1830,Comprar materiales,Dawn Obrien,Pendiente,Decorar,68
+1831,Reservar local,Adam Franklin,Finalizado,Ejecutar evento,48
+1832,Comprar materiales,Brenda Green,Finalizado,Enviar invitaciones,24
+1833,Enviar invitaciones,Sharon Alvarez,En proceso,Decorar,70
+1834,Comprar materiales,Kimberly Klein,Pendiente,Decorar,71
+1835,Enviar invitaciones,Donna Richardson,En proceso,Enviar invitaciones,69
+1836,Ejecutar evento,Hannah Martinez,Finalizado,Ejecutar evento,44
+1837,Reservar local,Christine Patton,Pendiente,Enviar invitaciones,48
+1838,Reservar local,Kevin Reed,En proceso,Comprar materiales,37
+1839,Ejecutar evento,Kevin Roberson,En proceso,Comprar materiales,28
+1840,Reservar local,David Clay,En proceso,Reservar local,41
+1841,Decorar,Andrew Williams,Pendiente,Decorar,78
+1842,Ejecutar evento,Jeremy Ramirez,En proceso,Reservar local,74
+1843,Ejecutar evento,Michael Rubio,Pendiente,Decorar,52
+1844,Decorar,Marcia Ramirez,En proceso,Enviar invitaciones,67
+1845,Enviar invitaciones,Mr. Nicholas Ross,Finalizado,Comprar materiales,37
+1846,Ejecutar evento,Raymond Mcmahon,Pendiente,Decorar,84
+1847,Enviar invitaciones,Victoria Nguyen,En proceso,Decorar,45
+1848,Decorar,Brian Gutierrez,Finalizado,Ejecutar evento,54
+1849,Decorar,Jordan Irwin,En proceso,Enviar invitaciones,52
+1850,Enviar invitaciones,Matthew Thompson,Pendiente,Enviar invitaciones,18
+1851,Comprar materiales,Marilyn Parrish,Pendiente,Comprar materiales,87
+1852,Enviar invitaciones,Danny Ellison,Pendiente,Enviar invitaciones,25
+1853,Comprar materiales,Timothy Hicks MD,En proceso,Decorar,22
+1854,Comprar materiales,Thomas Murphy,Pendiente,Reservar local,73
+1855,Comprar materiales,Christopher Davis,Finalizado,Comprar materiales,49
+1856,Decorar,Linda Simmons,Finalizado,Ejecutar evento,67
+1857,Ejecutar evento,Elizabeth Booth,En proceso,Comprar materiales,33
+1858,Ejecutar evento,David Meadows,En proceso,Ejecutar evento,61
+1859,Enviar invitaciones,Brett Sims,Pendiente,Enviar invitaciones,35
+1860,Decorar,Nicole Kelley,En proceso,Ejecutar evento,72
+1861,Ejecutar evento,Hailey Nelson,Finalizado,Enviar invitaciones,65
+1862,Ejecutar evento,Crystal Roberts,Pendiente,Enviar invitaciones,79
+1863,Decorar,Susan Mcdonald,Pendiente,Enviar invitaciones,68
+1864,Comprar materiales,Ryan Maxwell,Pendiente,Enviar invitaciones,27
+1865,Ejecutar evento,Erik Green,Finalizado,Decorar,40
+1866,Enviar invitaciones,Maria Cook,Finalizado,Enviar invitaciones,64
+1867,Reservar local,Melissa Aguirre,En proceso,Ejecutar evento,50
+1868,Comprar materiales,Larry Wagner,Finalizado,Enviar invitaciones,69
+1869,Reservar local,Kenneth Love,En proceso,Reservar local,23
+1870,Decorar,Suzanne Harrington,Finalizado,Decorar,61
+1871,Comprar materiales,Deborah Holmes,Finalizado,Comprar materiales,44
+1872,Enviar invitaciones,Megan Carrillo,Finalizado,Reservar local,15
+1873,Enviar invitaciones,Barbara Lee,Pendiente,Ejecutar evento,88
+1874,Decorar,Breanna Wright,Finalizado,Enviar invitaciones,63
+1875,Ejecutar evento,Jocelyn Medina,En proceso,Decorar,68
+1876,Ejecutar evento,Wesley Clark,Finalizado,Decorar,88
+1877,Ejecutar evento,Lori Cochran,Finalizado,Decorar,42
+1878,Ejecutar evento,Michelle Wright,Finalizado,Decorar,65
+1879,Decorar,Sarah Smith,En proceso,Ejecutar evento,46
+1880,Decorar,Patrick Dunlap,Pendiente,Ejecutar evento,43
+1881,Reservar local,Vanessa Perez,Finalizado,Enviar invitaciones,71
+1882,Ejecutar evento,Antonio Sanders,Pendiente,Reservar local,25
+1883,Reservar local,Matthew Patel,Pendiente,Ejecutar evento,70
+1884,Reservar local,William Martin,Pendiente,Reservar local,75
+1885,Reservar local,Christopher Smith,En proceso,Comprar materiales,25
+1886,Reservar local,Katrina Miller,Pendiente,Ejecutar evento,80
+1887,Comprar materiales,Troy Torres,En proceso,Decorar,80
+1888,Reservar local,James Hayes,En proceso,Comprar materiales,80
+1889,Ejecutar evento,Jeremy Romero Jr.,Pendiente,Decorar,24
+1890,Enviar invitaciones,Mary Anderson,Pendiente,Ejecutar evento,61
+1891,Decorar,Robin Mckenzie,Finalizado,Reservar local,42
+1892,Enviar invitaciones,Troy Hammond,En proceso,Comprar materiales,48
+1893,Comprar materiales,William Walker,Finalizado,Enviar invitaciones,17
+1894,Ejecutar evento,Christopher Lawson,En proceso,Decorar,18
+1895,Enviar invitaciones,Mark Garcia,Pendiente,Enviar invitaciones,55
+1896,Decorar,Mrs. Haley Alexander DDS,Pendiente,Decorar,21
+1897,Ejecutar evento,Robert Smith,Finalizado,Comprar materiales,64
+1898,Decorar,Mr. Carlos Owen,Finalizado,Ejecutar evento,40
+1899,Comprar materiales,Sheena Berg,Finalizado,Reservar local,34
+1900,Comprar materiales,Susan Silva,Pendiente,Reservar local,24
+1901,Reservar local,Erin Shepherd,En proceso,Ejecutar evento,37
+1902,Ejecutar evento,Caroline Sampson,Pendiente,Ejecutar evento,21
+1903,Decorar,Kaitlyn Parker,Finalizado,Comprar materiales,18
+1904,Comprar materiales,Suzanne Alvarado DVM,En proceso,Ejecutar evento,28
+1905,Reservar local,Samantha Smith,Pendiente,Decorar,46
+1906,Reservar local,Casey King,Pendiente,Ejecutar evento,34
+1907,Comprar materiales,Laura Allen,En proceso,Comprar materiales,44
+1908,Decorar,Juan Williams,Finalizado,Reservar local,52
+1909,Ejecutar evento,Elizabeth Rogers,En proceso,Decorar,56
+1910,Ejecutar evento,James Gibbs,En proceso,Decorar,43
+1911,Decorar,Travis Dunn,Pendiente,Decorar,60
+1912,Ejecutar evento,Jordan Young,En proceso,Enviar invitaciones,70
+1913,Reservar local,Mark Lawrence,Pendiente,Enviar invitaciones,34
+1914,Decorar,Cynthia Morris,En proceso,Ejecutar evento,80
+1915,Enviar invitaciones,Donna Edwards,En proceso,Decorar,58
+1916,Comprar materiales,Timothy Roberts,Pendiente,Reservar local,72
+1917,Reservar local,Susan Vega,Pendiente,Reservar local,69
+1918,Reservar local,Jay Pham,En proceso,Reservar local,78
+1919,Enviar invitaciones,Rachel Berg,Finalizado,Reservar local,84
+1920,Comprar materiales,Brenda Ward,En proceso,Reservar local,19
+1921,Comprar materiales,Heidi Clark,En proceso,Ejecutar evento,32
+1922,Ejecutar evento,Garrett Macdonald,Pendiente,Comprar materiales,87
+1923,Enviar invitaciones,Edwin Wilson,Finalizado,Reservar local,62
+1924,Reservar local,Travis Mooney,En proceso,Decorar,53
+1925,Enviar invitaciones,Nancy Boone,Pendiente,Enviar invitaciones,59
+1926,Decorar,Sarah Dominguez,Finalizado,Decorar,45
+1927,Ejecutar evento,Amanda Dixon,En proceso,Ejecutar evento,65
+1928,Decorar,Kara Calderon,Finalizado,Decorar,46
+1929,Decorar,Ashley Richmond,Pendiente,Decorar,69
+1930,Decorar,Ian Foster,Pendiente,Decorar,40
+1931,Ejecutar evento,Chase Sims,Pendiente,Ejecutar evento,62
+1932,Enviar invitaciones,Mary Cox,Finalizado,Reservar local,65
+1933,Enviar invitaciones,Emily Greene,Finalizado,Reservar local,61
+1934,Reservar local,James Sutton,En proceso,Reservar local,24
+1935,Comprar materiales,Angela Thomas,Pendiente,Reservar local,23
+1936,Comprar materiales,Roberta Cox,Finalizado,Enviar invitaciones,52
+1937,Reservar local,Mrs. Misty Brown,Pendiente,Reservar local,56
+1938,Ejecutar evento,Ashley Harvey,Finalizado,Decorar,33
+1939,Enviar invitaciones,Scott Davis,En proceso,Comprar materiales,85
+1940,Enviar invitaciones,Felicia Perez,Pendiente,Reservar local,31
+1941,Comprar materiales,Amanda Walker,En proceso,Comprar materiales,56
+1942,Comprar materiales,Cassandra Oconnell,Finalizado,Ejecutar evento,30
+1943,Decorar,Jason Ibarra,Finalizado,Comprar materiales,80
+1944,Comprar materiales,Jessica Castro,Finalizado,Reservar local,26
+1945,Comprar materiales,Martha Adams PhD,Pendiente,Enviar invitaciones,51
+1946,Decorar,Claudia Parker,Pendiente,Ejecutar evento,89
+1947,Comprar materiales,Clayton Fisher,En proceso,Reservar local,49
+1948,Reservar local,Tammy Moore,En proceso,Enviar invitaciones,45
+1949,Reservar local,John Owens,Pendiente,Comprar materiales,49
+1950,Enviar invitaciones,Brittney Coleman,Pendiente,Enviar invitaciones,89
+1951,Decorar,Cassandra Bennett,En proceso,Reservar local,61
+1952,Enviar invitaciones,James Park,Finalizado,Ejecutar evento,25
+1953,Reservar local,Jonathon Brown,Finalizado,Reservar local,21
+1954,Comprar materiales,Erin George,Pendiente,Ejecutar evento,25
+1955,Comprar materiales,Mr. Timothy Stanley,En proceso,Decorar,49
+1956,Enviar invitaciones,Jacqueline Gould,Pendiente,Enviar invitaciones,31
+1957,Ejecutar evento,Rachel Cohen,Pendiente,Decorar,19
+1958,Enviar invitaciones,Melissa Ryan,En proceso,Ejecutar evento,15
+1959,Comprar materiales,Kaitlyn Sutton,Pendiente,Decorar,45
+1960,Decorar,Nicole Phillips,Finalizado,Decorar,36
+1961,Reservar local,Monica Miller,Finalizado,Comprar materiales,68
+1962,Reservar local,Mary Garner,Finalizado,Reservar local,70
+1963,Enviar invitaciones,Robin Frey,Finalizado,Reservar local,24
+1964,Ejecutar evento,Sabrina Rogers,Finalizado,Reservar local,63
+1965,Comprar materiales,Brenda Watson,Pendiente,Reservar local,56
+1966,Decorar,Seth Lynn,Finalizado,Ejecutar evento,15
+1967,Enviar invitaciones,Chase Miller,En proceso,Decorar,25
+1968,Ejecutar evento,Andrew Bray,En proceso,Ejecutar evento,52
+1969,Decorar,Tamara Oneill,Pendiente,Ejecutar evento,28
+1970,Enviar invitaciones,Tracey Ramos,Finalizado,Comprar materiales,36
+1971,Reservar local,Tiffany Escobar,Finalizado,Reservar local,60
+1972,Enviar invitaciones,Lauren Dennis,En proceso,Ejecutar evento,29
+1973,Ejecutar evento,Nathan Young,En proceso,Enviar invitaciones,39
+1974,Decorar,Christina Carter,En proceso,Reservar local,15
+1975,Comprar materiales,Mr. Robert Nguyen,En proceso,Reservar local,54
+1976,Reservar local,Robert Thomas,Finalizado,Enviar invitaciones,87
+1977,Decorar,Tanner Carroll,Pendiente,Ejecutar evento,74
+1978,Reservar local,Daniel Thompson,Finalizado,Ejecutar evento,67
+1979,Enviar invitaciones,Kimberly Jackson,En proceso,Comprar materiales,78
+1980,Enviar invitaciones,Nicholas Moore,En proceso,Decorar,71
+1981,Comprar materiales,Jill Taylor,Finalizado,Ejecutar evento,49
+1982,Decorar,Laura Estrada,Pendiente,Comprar materiales,74
+1983,Reservar local,Scott Barnett,Finalizado,Ejecutar evento,49
+1984,Enviar invitaciones,Kathleen Mills,Finalizado,Comprar materiales,80
+1985,Enviar invitaciones,Paula Brown,Finalizado,Ejecutar evento,61
+1986,Comprar materiales,Jessica Farrell,Finalizado,Comprar materiales,21
+1987,Ejecutar evento,David Bell,Finalizado,Ejecutar evento,52
+1988,Enviar invitaciones,James Garrison,Finalizado,Decorar,61
+1989,Decorar,Joshua Williams,Finalizado,Ejecutar evento,59
+1990,Ejecutar evento,Selena Young,Finalizado,Decorar,58
+1991,Enviar invitaciones,Karen Rivera,Finalizado,Reservar local,73
+1992,Enviar invitaciones,Roy Jackson,Finalizado,Decorar,68
+1993,Reservar local,Samantha Bird,Pendiente,Ejecutar evento,70
+1994,Ejecutar evento,Riley Waters,Finalizado,Decorar,51
+1995,Ejecutar evento,Aimee Guerrero,Finalizado,Ejecutar evento,70
+1996,Decorar,Kathryn Jackson,En proceso,Comprar materiales,80
+1997,Comprar materiales,Claudia Perez,Finalizado,Comprar materiales,53
+1998,Ejecutar evento,William Jenkins,Pendiente,Decorar,31
+1999,Comprar materiales,Sierra Wilson,Pendiente,Decorar,18
+2000,Ejecutar evento,Michelle Jones,Pendiente,Ejecutar evento,66
+2001,Enviar invitaciones,Vanessa Christian,Pendiente,Comprar materiales,33
+2002,Decorar,Jeffrey Fowler,Finalizado,Ejecutar evento,22
+2003,Reservar local,Dr. Benjamin Contreras,Finalizado,Ejecutar evento,52
+2004,Enviar invitaciones,Kimberly Perry,En proceso,Comprar materiales,57
+2005,Ejecutar evento,Ryan Smith,Finalizado,Ejecutar evento,73
+2006,Enviar invitaciones,Sabrina Roth,Pendiente,Decorar,41
+2007,Decorar,Eric Meyer,Finalizado,Decorar,73
+2008,Reservar local,Stephanie Villanueva,Pendiente,Decorar,71
+2009,Enviar invitaciones,Steve Taylor,Pendiente,Comprar materiales,51
+2010,Reservar local,Stephanie Jarvis,En proceso,Reservar local,76
+2011,Ejecutar evento,Brett Robinson,Pendiente,Decorar,58
+2012,Reservar local,William Ray,Finalizado,Comprar materiales,51
+2013,Decorar,Robert Gutierrez,En proceso,Comprar materiales,23
+2014,Comprar materiales,Todd Martin,En proceso,Enviar invitaciones,73
+2015,Enviar invitaciones,Caleb Jackson,Finalizado,Enviar invitaciones,21
+2016,Reservar local,Emily Turner,En proceso,Decorar,45
+2017,Ejecutar evento,Brandy Patterson,En proceso,Enviar invitaciones,74
+2018,Comprar materiales,William Watkins,En proceso,Ejecutar evento,39
+2019,Enviar invitaciones,Kelly Jordan,En proceso,Ejecutar evento,81
+2020,Ejecutar evento,Crystal Mcintosh,Finalizado,Decorar,54
+2021,Decorar,Katherine Reed,En proceso,Comprar materiales,89
+2022,Ejecutar evento,Ryan Tanner,Pendiente,Reservar local,78
+2023,Comprar materiales,Jasmine Reid,En proceso,Reservar local,65
+2024,Reservar local,Jacob Moore,En proceso,Ejecutar evento,17
+2025,Decorar,Joshua Wheeler,Pendiente,Decorar,20
+2026,Enviar invitaciones,Jose Wyatt,Finalizado,Enviar invitaciones,51
+2027,Enviar invitaciones,Benjamin Murphy,En proceso,Reservar local,63
+2028,Enviar invitaciones,Crystal Adams,En proceso,Decorar,55
+2029,Decorar,Madeline Roberts,Pendiente,Comprar materiales,79
+2030,Reservar local,Joy Weaver,Pendiente,Reservar local,54
+2031,Reservar local,Mary Williams,Finalizado,Ejecutar evento,73
+2032,Reservar local,Amy Cummings,Pendiente,Reservar local,61
+2033,Decorar,Derek Thomas,Finalizado,Decorar,45
+2034,Reservar local,Mark Smith,Pendiente,Comprar materiales,29
+2035,Reservar local,Darin Smith,Finalizado,Enviar invitaciones,64
+2036,Ejecutar evento,Scott Fuller,Finalizado,Decorar,56
+2037,Decorar,Laura Mcfarland,Pendiente,Comprar materiales,27
+2038,Decorar,Gregory Long,Pendiente,Reservar local,19
+2039,Enviar invitaciones,Roy Turner,En proceso,Ejecutar evento,49
+2040,Ejecutar evento,Thomas Jensen,Finalizado,Ejecutar evento,86
+2041,Comprar materiales,Mark Clark,Finalizado,Ejecutar evento,57
+2042,Decorar,Kyle King,En proceso,Ejecutar evento,54
+2043,Ejecutar evento,Crystal Ingram,Finalizado,Comprar materiales,23
+2044,Decorar,Jessica Mitchell,En proceso,Decorar,50
+2045,Decorar,Megan Moreno,En proceso,Decorar,45
+2046,Comprar materiales,Ian Ochoa,Finalizado,Comprar materiales,62
+2047,Ejecutar evento,Thomas Taylor,En proceso,Decorar,46
+2048,Ejecutar evento,Christina Porter,Finalizado,Enviar invitaciones,65
+2049,Enviar invitaciones,Bradley Rodriguez,En proceso,Enviar invitaciones,81
+2050,Comprar materiales,Bonnie Shah,Finalizado,Decorar,31
+2051,Comprar materiales,Anthony Rush,En proceso,Decorar,65
+2052,Decorar,Cynthia Johnson,En proceso,Ejecutar evento,36
+2053,Ejecutar evento,James Ward,Pendiente,Reservar local,21
+2054,Ejecutar evento,Mallory Scott,Pendiente,Enviar invitaciones,42
+2055,Comprar materiales,Calvin Hays,En proceso,Decorar,45
+2056,Decorar,Tracy Mitchell,Finalizado,Reservar local,26
+2057,Comprar materiales,Brooke Adams,Pendiente,Decorar,53
+2058,Reservar local,Angela Diaz,En proceso,Comprar materiales,83
+2059,Enviar invitaciones,Todd Gonzalez,Finalizado,Reservar local,72
+2060,Ejecutar evento,Kathleen Sullivan,Pendiente,Reservar local,17
+2061,Comprar materiales,Michael Reyes,Finalizado,Enviar invitaciones,61
+2062,Reservar local,Juan Mcdonald,Finalizado,Ejecutar evento,50
+2063,Comprar materiales,John Velazquez,Finalizado,Decorar,27
+2064,Comprar materiales,Megan Summers,En proceso,Comprar materiales,48
+2065,Reservar local,Alexander Crawford,Finalizado,Ejecutar evento,42
+2066,Enviar invitaciones,Miss Angel Clark,En proceso,Ejecutar evento,50
+2067,Comprar materiales,David Alexander,Finalizado,Reservar local,30
+2068,Comprar materiales,Damon Hughes,Pendiente,Ejecutar evento,77
+2069,Enviar invitaciones,Laura Fisher,Finalizado,Reservar local,80
+2070,Reservar local,Patricia Reese,Pendiente,Comprar materiales,34
+2071,Comprar materiales,Colleen Carter,Pendiente,Decorar,51
+2072,Ejecutar evento,Jose Stephenson,Finalizado,Comprar materiales,19
+2073,Decorar,Corey Neal,Finalizado,Ejecutar evento,52
+2074,Decorar,Alan Morales,Finalizado,Reservar local,44
+2075,Comprar materiales,Lisa Butler,En proceso,Ejecutar evento,49
+2076,Comprar materiales,Mary Evans,Finalizado,Enviar invitaciones,25
+2077,Decorar,Kevin Christian,En proceso,Ejecutar evento,32
+2078,Enviar invitaciones,Marc Edwards,En proceso,Comprar materiales,35
+2079,Comprar materiales,Janice Hale,En proceso,Ejecutar evento,16
+2080,Enviar invitaciones,Robert Black,Finalizado,Decorar,69
+2081,Ejecutar evento,Marcus Sanchez,Pendiente,Decorar,82
+2082,Ejecutar evento,Shirley Gomez,En proceso,Enviar invitaciones,32
+2083,Enviar invitaciones,Connor Walker,Pendiente,Reservar local,83
+2084,Decorar,Samantha Robertson,Finalizado,Comprar materiales,16
+2085,Enviar invitaciones,Scott Davis,En proceso,Enviar invitaciones,33
+2086,Reservar local,Susan Hanna,En proceso,Enviar invitaciones,88
+2087,Ejecutar evento,Harry Howard,En proceso,Ejecutar evento,50
+2088,Comprar materiales,Amanda Williams,Pendiente,Decorar,47
+2089,Decorar,Jonathan Wilkins,En proceso,Decorar,88
+2090,Comprar materiales,Tyler Price,En proceso,Decorar,49
+2091,Enviar invitaciones,Billy Curtis,Finalizado,Comprar materiales,77
+2092,Enviar invitaciones,Vanessa Barnes,Pendiente,Reservar local,61
+2093,Decorar,Cory Summers,En proceso,Reservar local,15
+2094,Reservar local,Sarah Foster,Finalizado,Enviar invitaciones,20
+2095,Comprar materiales,Sarah Stephens,Finalizado,Ejecutar evento,75
+2096,Enviar invitaciones,Jason Scott,En proceso,Enviar invitaciones,36
+2097,Decorar,Darren Rasmussen,Pendiente,Comprar materiales,25
+2098,Comprar materiales,Joe Johnson,En proceso,Reservar local,71
+2099,Reservar local,Jennifer Butler,En proceso,Reservar local,74
+2100,Comprar materiales,Phyllis Green,En proceso,Comprar materiales,43
+2101,Ejecutar evento,Catherine Crosby,Pendiente,Decorar,42
+2102,Reservar local,Leah Calhoun,En proceso,Reservar local,49
+2103,Enviar invitaciones,Christopher Lawson,En proceso,Enviar invitaciones,55
+2104,Enviar invitaciones,Bradley Davidson,En proceso,Ejecutar evento,85
+2105,Comprar materiales,Robert Howard,Finalizado,Enviar invitaciones,53
+2106,Reservar local,Christopher Price,En proceso,Reservar local,65
+2107,Ejecutar evento,James Guerra,Finalizado,Comprar materiales,44
+2108,Comprar materiales,Alan Lewis,Pendiente,Decorar,55
+2109,Decorar,Scott Brown,Pendiente,Decorar,76
+2110,Enviar invitaciones,Robert Thomas,Pendiente,Reservar local,30
+2111,Enviar invitaciones,Deborah Hughes,En proceso,Comprar materiales,62
+2112,Comprar materiales,James Ibarra,En proceso,Decorar,18
+2113,Reservar local,Daniel Hart,Pendiente,Comprar materiales,15
+2114,Decorar,Heather Griffin,Finalizado,Enviar invitaciones,89
+2115,Reservar local,Theresa Powers,Finalizado,Enviar invitaciones,32
+2116,Enviar invitaciones,Amy Farmer,Finalizado,Reservar local,22
+2117,Reservar local,Amanda Baker,Finalizado,Reservar local,41
+2118,Reservar local,Kimberly Moore,Finalizado,Decorar,16
+2119,Decorar,Joshua Higgins,Pendiente,Ejecutar evento,73
+2120,Comprar materiales,James Oliver,Pendiente,Comprar materiales,43
+2121,Enviar invitaciones,Ashley Day,En proceso,Comprar materiales,53
+2122,Comprar materiales,Bobby Murphy,Pendiente,Comprar materiales,49
+2123,Enviar invitaciones,Peter Huffman,Pendiente,Reservar local,54
+2124,Decorar,Dr. Darren King,Finalizado,Comprar materiales,16
+2125,Comprar materiales,Paula Wright,En proceso,Decorar,54
+2126,Ejecutar evento,Marilyn Hernandez,Pendiente,Enviar invitaciones,42
+2127,Comprar materiales,Larry Sparks,En proceso,Decorar,76
+2128,Reservar local,Paul Marsh,Finalizado,Ejecutar evento,59
+2129,Enviar invitaciones,Michael Hall,Finalizado,Decorar,59
+2130,Ejecutar evento,Samuel Meyer,Pendiente,Decorar,52
+2131,Enviar invitaciones,George Jimenez,Pendiente,Reservar local,28
+2132,Comprar materiales,Paul Padilla,En proceso,Decorar,36
+2133,Reservar local,Ann Wright,Finalizado,Decorar,69
+2134,Comprar materiales,Jacqueline King,Finalizado,Enviar invitaciones,81
+2135,Enviar invitaciones,Diana Alvarado,Finalizado,Decorar,22
+2136,Reservar local,Mckenzie Sandoval,Finalizado,Reservar local,86
+2137,Ejecutar evento,Rachel Riley,Pendiente,Reservar local,46
+2138,Reservar local,Sean Taylor,Finalizado,Ejecutar evento,26
+2139,Enviar invitaciones,Julie Richard,En proceso,Ejecutar evento,70
+2140,Reservar local,Maria Roman,Pendiente,Comprar materiales,69
+2141,Decorar,Johnathan Gutierrez,En proceso,Enviar invitaciones,27
+2142,Decorar,Mary Buckley,Finalizado,Decorar,56
+2143,Enviar invitaciones,Manuel Moreno,En proceso,Comprar materiales,27
+2144,Reservar local,Margaret Day,Pendiente,Ejecutar evento,36
+2145,Comprar materiales,Brian Dickerson,En proceso,Reservar local,46
+2146,Decorar,Cole Welch,En proceso,Ejecutar evento,79
+2147,Reservar local,Herbert Ramirez,Finalizado,Reservar local,55
+2148,Reservar local,Derrick Morales,Pendiente,Enviar invitaciones,87
+2149,Enviar invitaciones,Marvin Combs,En proceso,Enviar invitaciones,47
+2150,Comprar materiales,Sandra Gray,Pendiente,Ejecutar evento,82
+2151,Decorar,Scott Wright,En proceso,Decorar,52
+2152,Reservar local,Steven Cox,En proceso,Enviar invitaciones,54
+2153,Decorar,Deanna Bush,Finalizado,Enviar invitaciones,58
+2154,Reservar local,Nancy Wilcox,Pendiente,Comprar materiales,39
+2155,Ejecutar evento,Anita Nelson,Pendiente,Comprar materiales,33
+2156,Comprar materiales,Jennifer Powers,En proceso,Ejecutar evento,72
+2157,Reservar local,Rebecca Jackson,Finalizado,Reservar local,64
+2158,Comprar materiales,Pamela Rodriguez,Finalizado,Comprar materiales,77
+2159,Comprar materiales,David Thomas,Finalizado,Decorar,32
+2160,Reservar local,Douglas Mason,En proceso,Comprar materiales,15
+2161,Reservar local,James Wheeler,En proceso,Reservar local,72
+2162,Comprar materiales,Stacie Richards,En proceso,Comprar materiales,78
+2163,Decorar,Troy Allen,En proceso,Comprar materiales,75
+2164,Enviar invitaciones,Michael Clarke,En proceso,Decorar,64
+2165,Ejecutar evento,Sergio Romero,En proceso,Ejecutar evento,80
+2166,Ejecutar evento,Michele Whitehead,Pendiente,Ejecutar evento,44
+2167,Decorar,Francis Underwood,Pendiente,Enviar invitaciones,48
+2168,Enviar invitaciones,Charles Norton,Pendiente,Ejecutar evento,85
+2169,Ejecutar evento,Alexander Rodriguez,Pendiente,Decorar,34
+2170,Enviar invitaciones,Debra Farley,En proceso,Ejecutar evento,21
+2171,Decorar,Thomas Anderson,Finalizado,Reservar local,22
+2172,Reservar local,Michael Brown,En proceso,Comprar materiales,22
+2173,Ejecutar evento,Joshua Campbell,Finalizado,Enviar invitaciones,38
+2174,Ejecutar evento,Tonya King DDS,Pendiente,Reservar local,19
+2175,Comprar materiales,Diane Miller,En proceso,Ejecutar evento,80
+2176,Reservar local,Melinda Smith,Finalizado,Ejecutar evento,69
+2177,Ejecutar evento,Christine Miranda,Pendiente,Decorar,55
+2178,Comprar materiales,Anthony Dunlap,Pendiente,Reservar local,76
+2179,Enviar invitaciones,Caleb Stewart,En proceso,Decorar,75
+2180,Decorar,Erik Bautista,En proceso,Comprar materiales,32
+2181,Reservar local,Leslie Smith,En proceso,Ejecutar evento,66
+2182,Comprar materiales,Michael Ortiz,En proceso,Reservar local,66
+2183,Decorar,Sean Mcdaniel,Pendiente,Reservar local,83
+2184,Ejecutar evento,Matthew Matthews,Finalizado,Enviar invitaciones,39
+2185,Enviar invitaciones,Michael Le,Pendiente,Ejecutar evento,70
+2186,Ejecutar evento,Sean Lawrence,Finalizado,Ejecutar evento,46
+2187,Decorar,Mr. James Stephens,Pendiente,Comprar materiales,53
+2188,Decorar,Jacob Hill,Finalizado,Comprar materiales,43
+2189,Decorar,Monica Valencia,En proceso,Decorar,79
+2190,Decorar,William Jordan,Finalizado,Decorar,72
+2191,Ejecutar evento,Melissa Bennett,Pendiente,Enviar invitaciones,65
+2192,Decorar,Tracey Macdonald,Finalizado,Enviar invitaciones,23
+2193,Ejecutar evento,Mary Welch,Pendiente,Comprar materiales,84
+2194,Decorar,Kathryn Meyer,Pendiente,Decorar,81
+2195,Ejecutar evento,Dr. Douglas Ryan,Finalizado,Comprar materiales,81
+2196,Decorar,Briana Smith,Pendiente,Reservar local,41
+2197,Decorar,Jennifer Rogers,Pendiente,Decorar,17
+2198,Enviar invitaciones,John Hoffman,Finalizado,Reservar local,48
+2199,Ejecutar evento,Marie Elliott,Pendiente,Reservar local,87
+2200,Comprar materiales,Robin Patrick,En proceso,Comprar materiales,37
+2201,Ejecutar evento,Daniel Schultz,Finalizado,Reservar local,53
+2202,Comprar materiales,Linda Lee,Pendiente,Enviar invitaciones,37
+2203,Decorar,James Chase III,En proceso,Enviar invitaciones,46
+2204,Reservar local,Joel Reed,Pendiente,Reservar local,20
+2205,Decorar,Anthony Miller,Pendiente,Enviar invitaciones,60
+2206,Reservar local,Michael Snyder,Finalizado,Ejecutar evento,34
+2207,Comprar materiales,Michelle Phelps,Finalizado,Decorar,17
+2208,Enviar invitaciones,Christopher Jackson,Pendiente,Ejecutar evento,27
+2209,Reservar local,Margaret Campbell,Pendiente,Comprar materiales,35
+2210,Comprar materiales,Mrs. Colleen Grant,En proceso,Enviar invitaciones,24
+2211,Enviar invitaciones,Joshua Jones,Finalizado,Reservar local,55
+2212,Comprar materiales,Norman Griffith,En proceso,Enviar invitaciones,42
+2213,Decorar,Willie Ramirez,En proceso,Ejecutar evento,84
+2214,Comprar materiales,Sharon Ford,Finalizado,Ejecutar evento,20
+2215,Comprar materiales,Donna Castillo,Finalizado,Comprar materiales,77
+2216,Decorar,Luis Espinoza,Finalizado,Ejecutar evento,40
+2217,Enviar invitaciones,Jeremy Joyce,En proceso,Reservar local,48
+2218,Ejecutar evento,Robert Ruiz,Finalizado,Enviar invitaciones,56
+2219,Decorar,Mitchell Hernandez MD,Pendiente,Reservar local,21
+2220,Decorar,Anthony Williams,En proceso,Comprar materiales,72
+2221,Ejecutar evento,Jasmine James,En proceso,Enviar invitaciones,84
+2222,Enviar invitaciones,Daniel Brooks,Pendiente,Enviar invitaciones,58
+2223,Ejecutar evento,Michael Wood DDS,En proceso,Enviar invitaciones,18
+2224,Comprar materiales,Patrick Rasmussen,En proceso,Reservar local,27
+2225,Comprar materiales,Raymond Schmidt,Pendiente,Enviar invitaciones,25
+2226,Reservar local,Claudia Smith,En proceso,Decorar,64
+2227,Enviar invitaciones,Jordan Ortega Jr.,En proceso,Enviar invitaciones,54
+2228,Reservar local,Tammy Hammond,Pendiente,Ejecutar evento,56
+2229,Ejecutar evento,Kenneth Parker,Finalizado,Enviar invitaciones,65
+2230,Ejecutar evento,Donald Wiley,Pendiente,Comprar materiales,30
+2231,Enviar invitaciones,Ryan Gentry,Pendiente,Decorar,38
+2232,Ejecutar evento,Tina Blake DDS,Finalizado,Ejecutar evento,47
+2233,Reservar local,Nancy Williams,Pendiente,Reservar local,38
+2234,Enviar invitaciones,Amy Snyder,Pendiente,Ejecutar evento,82
+2235,Ejecutar evento,Jeffery Irwin MD,Finalizado,Decorar,74
+2236,Decorar,Andrew Schneider,En proceso,Ejecutar evento,88
+2237,Comprar materiales,John Thompson,Finalizado,Enviar invitaciones,88
+2238,Reservar local,Christopher Morris,Finalizado,Ejecutar evento,51
+2239,Ejecutar evento,Angela Kennedy,Finalizado,Comprar materiales,81
+2240,Enviar invitaciones,Cory Johnson,En proceso,Comprar materiales,70
+2241,Ejecutar evento,Matthew Shaffer,En proceso,Reservar local,42
+2242,Decorar,Nathan Reynolds,En proceso,Decorar,18
+2243,Decorar,Kelly Allen,En proceso,Reservar local,68
+2244,Ejecutar evento,Amanda Casey,Pendiente,Reservar local,58
+2245,Enviar invitaciones,Wendy Garcia,Finalizado,Comprar materiales,23
+2246,Decorar,Connie Wong,En proceso,Enviar invitaciones,39
+2247,Comprar materiales,Tyler Garcia,En proceso,Enviar invitaciones,44
+2248,Decorar,Jesse Garcia,Finalizado,Reservar local,64
+2249,Enviar invitaciones,Matthew King,En proceso,Comprar materiales,27
+2250,Ejecutar evento,Margaret Hodges,Finalizado,Ejecutar evento,21
+2251,Reservar local,Hunter Campbell,En proceso,Decorar,28
+2252,Ejecutar evento,Rhonda Smith,Finalizado,Reservar local,61
+2253,Enviar invitaciones,Michael Lynch,Finalizado,Reservar local,57
+2254,Comprar materiales,Timothy Jones,Pendiente,Reservar local,88
+2255,Reservar local,Pamela Guzman,Finalizado,Comprar materiales,80
+2256,Comprar materiales,Janice Frederick MD,Finalizado,Ejecutar evento,64
+2257,Ejecutar evento,Bryan Myers,Finalizado,Reservar local,46
+2258,Decorar,Joe Barker,Finalizado,Reservar local,43
+2259,Enviar invitaciones,Savannah Medina,Pendiente,Ejecutar evento,33
+2260,Ejecutar evento,Andrew Flores,En proceso,Enviar invitaciones,44
+2261,Enviar invitaciones,Patricia Collins,En proceso,Decorar,53
+2262,Decorar,Larry Spears,En proceso,Decorar,75
+2263,Enviar invitaciones,Stephen Harding,Pendiente,Enviar invitaciones,79
+2264,Decorar,Dawn Townsend,En proceso,Enviar invitaciones,72
+2265,Comprar materiales,Erin Carter,Pendiente,Enviar invitaciones,87
+2266,Comprar materiales,Stephanie Singh,Finalizado,Ejecutar evento,59
+2267,Decorar,Gerald Parker,En proceso,Comprar materiales,77
+2268,Ejecutar evento,Mitchell Cline,Pendiente,Decorar,72
+2269,Comprar materiales,Juan Walker,En proceso,Comprar materiales,58
+2270,Ejecutar evento,Alison Thomas,En proceso,Ejecutar evento,43
+2271,Comprar materiales,Rachel Horton MD,En proceso,Decorar,51
+2272,Reservar local,Maxwell Smith,Finalizado,Decorar,45
+2273,Reservar local,Jennifer Hayes,Finalizado,Enviar invitaciones,83
+2274,Decorar,David Curtis,Finalizado,Reservar local,56
+2275,Ejecutar evento,Rachel Vance,En proceso,Comprar materiales,36
+2276,Enviar invitaciones,Ryan Williamson,En proceso,Reservar local,45
+2277,Decorar,Kristin Smith,Pendiente,Decorar,61
+2278,Ejecutar evento,Eric Chapman,Finalizado,Reservar local,77
+2279,Enviar invitaciones,Jason Osborne,Pendiente,Reservar local,49
+2280,Reservar local,Robyn Harris,Pendiente,Enviar invitaciones,40
+2281,Comprar materiales,Carlos Hayes,Finalizado,Comprar materiales,69
+2282,Enviar invitaciones,Douglas Flynn,Finalizado,Decorar,32
+2283,Decorar,Cole Evans,En proceso,Comprar materiales,19
+2284,Reservar local,Robert Maynard,Pendiente,Decorar,78
+2285,Reservar local,Justin Jacobs,Finalizado,Enviar invitaciones,77
+2286,Comprar materiales,Mario Johnson,Pendiente,Comprar materiales,82
+2287,Comprar materiales,Travis Sanders,Pendiente,Comprar materiales,44
+2288,Comprar materiales,Alexander Mills,Finalizado,Comprar materiales,21
+2289,Enviar invitaciones,Dr. Jennifer Williams,Pendiente,Comprar materiales,17
+2290,Ejecutar evento,Todd Morgan,Finalizado,Enviar invitaciones,88
+2291,Ejecutar evento,Carmen Shah,Pendiente,Ejecutar evento,72
+2292,Enviar invitaciones,Jessica Baker,Pendiente,Comprar materiales,27
+2293,Comprar materiales,Kimberly Stephens,En proceso,Decorar,81
+2294,Decorar,Corey Pena,Finalizado,Ejecutar evento,31
+2295,Decorar,Justin Hunt,Pendiente,Comprar materiales,55
+2296,Ejecutar evento,Catherine Pena,En proceso,Ejecutar evento,17
+2297,Enviar invitaciones,Claudia Rowe,En proceso,Comprar materiales,77
+2298,Ejecutar evento,Donald Warren,En proceso,Comprar materiales,22
+2299,Enviar invitaciones,Christine Waters,En proceso,Comprar materiales,88
+2300,Reservar local,Kelly Scott,Pendiente,Enviar invitaciones,52
+2301,Decorar,James Butler,Finalizado,Enviar invitaciones,87
+2302,Comprar materiales,Marcus Fischer,En proceso,Decorar,17
+2303,Decorar,Stanley Lawson,En proceso,Reservar local,16
+2304,Ejecutar evento,Gregory Castillo,En proceso,Comprar materiales,59
+2305,Reservar local,Julie Farmer,Pendiente,Decorar,39
+2306,Reservar local,Suzanne Best,Finalizado,Enviar invitaciones,32
+2307,Comprar materiales,Jonathan Ruiz,Finalizado,Ejecutar evento,83
+2308,Ejecutar evento,Ann Chavez,Finalizado,Ejecutar evento,50
+2309,Enviar invitaciones,Trevor Roth,Finalizado,Enviar invitaciones,36
+2310,Enviar invitaciones,Mark Robinson,Finalizado,Ejecutar evento,75
+2311,Comprar materiales,Erin Ray,Pendiente,Reservar local,16
+2312,Ejecutar evento,Richard Waller,En proceso,Decorar,81
+2313,Enviar invitaciones,Kyle Bowers,Pendiente,Ejecutar evento,85
+2314,Enviar invitaciones,Allison Andrade MD,En proceso,Enviar invitaciones,54
+2315,Enviar invitaciones,Sarah Hall,En proceso,Reservar local,62
+2316,Ejecutar evento,Veronica Juarez,En proceso,Ejecutar evento,40
+2317,Comprar materiales,Kathy Walters,Finalizado,Ejecutar evento,36
+2318,Decorar,Sabrina Wilson,En proceso,Comprar materiales,41
+2319,Comprar materiales,David Gonzalez,Finalizado,Decorar,70
+2320,Decorar,Patrick Young,En proceso,Decorar,58
+2321,Ejecutar evento,Kyle Moreno,Finalizado,Enviar invitaciones,77
+2322,Reservar local,Troy Miller,Pendiente,Ejecutar evento,21
+2323,Enviar invitaciones,Kimberly Harris,Pendiente,Comprar materiales,88
+2324,Enviar invitaciones,John Wilson,En proceso,Decorar,30
+2325,Enviar invitaciones,Tiffany Hicks,Pendiente,Reservar local,86
+2326,Ejecutar evento,Hector Miller,Pendiente,Comprar materiales,50
+2327,Decorar,Thomas Rogers,En proceso,Comprar materiales,36
+2328,Decorar,Kimberly Harris,Pendiente,Reservar local,41
+2329,Comprar materiales,Elizabeth Love,Pendiente,Decorar,27
+2330,Enviar invitaciones,Robert Dalton,Finalizado,Ejecutar evento,58
+2331,Ejecutar evento,Rachel Johnson,Finalizado,Enviar invitaciones,59
+2332,Enviar invitaciones,George Murray,En proceso,Enviar invitaciones,39
+2333,Ejecutar evento,Caitlin Leblanc,Pendiente,Decorar,40
+2334,Comprar materiales,Wayne Sullivan,Finalizado,Enviar invitaciones,53
+2335,Enviar invitaciones,Melinda Hurst,Pendiente,Comprar materiales,42
+2336,Reservar local,Richard Morrow,En proceso,Reservar local,27
+2337,Ejecutar evento,John King,Finalizado,Reservar local,23
+2338,Enviar invitaciones,Lauren Carey,En proceso,Enviar invitaciones,23
+2339,Reservar local,Raymond Warner,Pendiente,Comprar materiales,67
+2340,Ejecutar evento,Jennifer May,En proceso,Decorar,20
+2341,Decorar,John Zimmerman,Finalizado,Ejecutar evento,20
+2342,Enviar invitaciones,Jeffrey Frazier,Pendiente,Decorar,77
+2343,Ejecutar evento,Gregory Jones,Pendiente,Ejecutar evento,83
+2344,Decorar,Ashley Fernandez,En proceso,Comprar materiales,86
+2345,Reservar local,Monique Moore,En proceso,Comprar materiales,84
+2346,Enviar invitaciones,Barbara Harrison,Finalizado,Reservar local,72
+2347,Ejecutar evento,Valerie Jones,Pendiente,Decorar,37
+2348,Reservar local,Amanda West,En proceso,Ejecutar evento,53
+2349,Enviar invitaciones,Antonio Estrada,Pendiente,Comprar materiales,76
+2350,Decorar,Anna Wells,Finalizado,Reservar local,39
+2351,Decorar,Crystal Johnson,En proceso,Enviar invitaciones,28
+2352,Reservar local,Lori Walker,Pendiente,Comprar materiales,40
+2353,Ejecutar evento,Joseph Shepherd,Finalizado,Reservar local,42
+2354,Comprar materiales,Christie Williams,Finalizado,Reservar local,82
+2355,Ejecutar evento,Kristin Smith,En proceso,Enviar invitaciones,37
+2356,Comprar materiales,Ricardo Simmons,En proceso,Decorar,43
+2357,Reservar local,Colin Herrera,En proceso,Reservar local,73
+2358,Decorar,Rebecca Moss,En proceso,Enviar invitaciones,81
+2359,Ejecutar evento,Michael Valdez,Finalizado,Enviar invitaciones,46
+2360,Ejecutar evento,Charles Brown,En proceso,Ejecutar evento,32
+2361,Decorar,Charles Chandler,Pendiente,Ejecutar evento,46
+2362,Decorar,Marcus Thompson,En proceso,Enviar invitaciones,43
+2363,Reservar local,Victoria Flowers,Finalizado,Comprar materiales,79
+2364,Enviar invitaciones,Cody Thomas,Finalizado,Ejecutar evento,28
+2365,Enviar invitaciones,Mark Butler,En proceso,Enviar invitaciones,28
+2366,Enviar invitaciones,Paul Vargas,Pendiente,Reservar local,43
+2367,Ejecutar evento,Daniel Wells,Finalizado,Decorar,69
+2368,Reservar local,Robin Smith,En proceso,Comprar materiales,27
+2369,Reservar local,George Matthews,Pendiente,Enviar invitaciones,41
+2370,Comprar materiales,Michael Perry,En proceso,Comprar materiales,16
+2371,Enviar invitaciones,Stephanie Meyer,Pendiente,Comprar materiales,15
+2372,Reservar local,Jennifer Johnson,Finalizado,Comprar materiales,28
+2373,Enviar invitaciones,Sandy Smith,Pendiente,Comprar materiales,65
+2374,Decorar,Kenneth Miller,En proceso,Enviar invitaciones,21
+2375,Enviar invitaciones,Douglas Owen,Finalizado,Reservar local,72
+2376,Ejecutar evento,Angela Vazquez,Pendiente,Decorar,52
+2377,Enviar invitaciones,John Romero,Finalizado,Ejecutar evento,63
+2378,Enviar invitaciones,Mrs. Danielle Riggs DDS,En proceso,Enviar invitaciones,30
+2379,Enviar invitaciones,Nicholas Whitehead,En proceso,Enviar invitaciones,69
+2380,Decorar,Dr. Robert Fleming MD,En proceso,Decorar,44
+2381,Ejecutar evento,Stacey Brown,En proceso,Reservar local,86
+2382,Reservar local,Ashley Hall,Finalizado,Reservar local,33
+2383,Ejecutar evento,Sara Frazier,Finalizado,Decorar,50
+2384,Comprar materiales,Michael Hopkins,En proceso,Ejecutar evento,84
+2385,Enviar invitaciones,Kevin Perez,Pendiente,Comprar materiales,40
+2386,Reservar local,Mark Garcia,Pendiente,Comprar materiales,56
+2387,Decorar,Emily Williams,En proceso,Reservar local,84
+2388,Reservar local,Tiffany Perkins,En proceso,Comprar materiales,17
+2389,Enviar invitaciones,Harold Sharp,En proceso,Reservar local,78
+2390,Comprar materiales,Timothy Miller,Finalizado,Reservar local,48
+2391,Decorar,Brittany Williamson,En proceso,Comprar materiales,40
+2392,Reservar local,Gary Russell,Pendiente,Enviar invitaciones,57
+2393,Enviar invitaciones,Courtney Alvarado,En proceso,Comprar materiales,81
+2394,Decorar,Robert Jones,En proceso,Decorar,21
+2395,Reservar local,Haley Munoz,Finalizado,Decorar,20
+2396,Decorar,Melinda Colon,Finalizado,Decorar,22
+2397,Decorar,Jose Avila,En proceso,Reservar local,73
+2398,Ejecutar evento,Wendy Bennett,En proceso,Reservar local,52
+2399,Decorar,Lee Thompson,Pendiente,Comprar materiales,81
+2400,Enviar invitaciones,Kenneth Greer,Pendiente,Comprar materiales,86
+2401,Ejecutar evento,Eric Estrada,Pendiente,Comprar materiales,36
+2402,Reservar local,Jason Briggs,En proceso,Decorar,29
+2403,Reservar local,Alan Patel,En proceso,Reservar local,65
+2404,Enviar invitaciones,Kelly Bryant,Pendiente,Enviar invitaciones,79
+2405,Ejecutar evento,Andrea Moore,Pendiente,Enviar invitaciones,55
+2406,Decorar,Jesus Compton,Finalizado,Comprar materiales,50
+2407,Reservar local,Emily Joyce,Finalizado,Decorar,86
+2408,Reservar local,Manuel Torres,Finalizado,Decorar,84
+2409,Enviar invitaciones,Jacqueline Harris,En proceso,Enviar invitaciones,86
+2410,Enviar invitaciones,Kendra Taylor,Pendiente,Comprar materiales,79
+2411,Comprar materiales,Michael Berry,En proceso,Comprar materiales,33
+2412,Ejecutar evento,Connie Medina,En proceso,Enviar invitaciones,57
+2413,Reservar local,Tyler Brady,En proceso,Enviar invitaciones,70
+2414,Decorar,Kyle Solis,Finalizado,Decorar,78
+2415,Decorar,Christopher Foley,Finalizado,Enviar invitaciones,84
+2416,Ejecutar evento,Hannah Gomez,Pendiente,Comprar materiales,54
+2417,Ejecutar evento,Anthony Berry,Finalizado,Comprar materiales,36
+2418,Comprar materiales,Corey Butler,En proceso,Enviar invitaciones,67
+2419,Enviar invitaciones,Beth Lyons,Finalizado,Enviar invitaciones,62
+2420,Enviar invitaciones,Robin Parker,Pendiente,Enviar invitaciones,62
+2421,Reservar local,Jonathan Morton,Finalizado,Reservar local,52
+2422,Reservar local,Jonathan Moss,Finalizado,Enviar invitaciones,63
+2423,Enviar invitaciones,Larry Butler,Pendiente,Ejecutar evento,48
+2424,Comprar materiales,Sara Kelley,Finalizado,Decorar,63
+2425,Decorar,Doris James,Pendiente,Reservar local,38
+2426,Comprar materiales,Catherine Robinson DDS,En proceso,Ejecutar evento,78
+2427,Ejecutar evento,James Taylor,Finalizado,Enviar invitaciones,44
+2428,Reservar local,Benjamin Santos,Pendiente,Decorar,38
+2429,Ejecutar evento,Dr. Jacob Vincent,Pendiente,Reservar local,84
+2430,Enviar invitaciones,Lee Davis,En proceso,Enviar invitaciones,66
+2431,Comprar materiales,Melissa Young,Pendiente,Ejecutar evento,25
+2432,Ejecutar evento,Matthew Byrd,Finalizado,Reservar local,21
+2433,Comprar materiales,Alyssa Cooper,Finalizado,Enviar invitaciones,65
+2434,Comprar materiales,Kyle Fritz,Pendiente,Decorar,84
+2435,Enviar invitaciones,Sean Nguyen,En proceso,Reservar local,40
+2436,Decorar,Lori Velez,En proceso,Comprar materiales,84
+2437,Decorar,Jessica Williams,En proceso,Comprar materiales,79
+2438,Enviar invitaciones,Keith Miller,En proceso,Ejecutar evento,21
+2439,Decorar,Rachel Lopez,En proceso,Decorar,51
+2440,Ejecutar evento,Thomas Le,Pendiente,Comprar materiales,79
+2441,Decorar,John Mendoza,Pendiente,Reservar local,22
+2442,Enviar invitaciones,Judith Stevens,En proceso,Comprar materiales,84
+2443,Decorar,Christopher Williams,Pendiente,Ejecutar evento,63
+2444,Reservar local,Samantha Cunningham,Finalizado,Enviar invitaciones,50
+2445,Comprar materiales,Jenna Nelson,Pendiente,Decorar,25
+2446,Comprar materiales,Mary Andrews,Finalizado,Ejecutar evento,41
+2447,Comprar materiales,Melissa Yates,Pendiente,Decorar,67
+2448,Decorar,Brittany Martin,Finalizado,Comprar materiales,69
+2449,Reservar local,Seth Howe,En proceso,Ejecutar evento,28
+2450,Reservar local,Tina Irwin,Finalizado,Reservar local,50
+2451,Ejecutar evento,Katherine White,En proceso,Reservar local,33
+2452,Reservar local,Shawn Reyes,Pendiente,Ejecutar evento,65
+2453,Reservar local,Kenneth Valenzuela,Pendiente,Enviar invitaciones,15
+2454,Reservar local,Wendy Higgins,En proceso,Comprar materiales,15
+2455,Reservar local,Benjamin Smith,Pendiente,Ejecutar evento,85
+2456,Decorar,Jerry Madden,Pendiente,Decorar,86
+2457,Enviar invitaciones,April Webb,Pendiente,Comprar materiales,24
+2458,Reservar local,Stephanie Moore,Finalizado,Ejecutar evento,54
+2459,Enviar invitaciones,Michael Diaz,Finalizado,Ejecutar evento,26
+2460,Reservar local,Paula Lopez,Pendiente,Decorar,62
+2461,Reservar local,Jose Conner,En proceso,Reservar local,36
+2462,Comprar materiales,Jacqueline Warner,Pendiente,Decorar,81
+2463,Enviar invitaciones,Cory Greene,Finalizado,Ejecutar evento,41
+2464,Enviar invitaciones,Lance Howell,Pendiente,Comprar materiales,41
+2465,Reservar local,Carlos Alexander,Finalizado,Enviar invitaciones,15
+2466,Decorar,Fred Gibson,Pendiente,Enviar invitaciones,88
+2467,Decorar,Albert Hull,Finalizado,Decorar,31
+2468,Decorar,Nicole Jones,Finalizado,Enviar invitaciones,42
+2469,Reservar local,Christopher Campos,Finalizado,Enviar invitaciones,83
+2470,Enviar invitaciones,Sara Castillo,Finalizado,Reservar local,65
+2471,Enviar invitaciones,Veronica Rush,Pendiente,Decorar,32
+2472,Decorar,Lisa Green,Pendiente,Decorar,83
+2473,Comprar materiales,Elizabeth Kerr,Pendiente,Ejecutar evento,48
+2474,Decorar,Anthony Kelly,En proceso,Reservar local,47
+2475,Decorar,Joseph Johnson,En proceso,Reservar local,82
+2476,Enviar invitaciones,Jeremy Gonzalez,Finalizado,Decorar,44
+2477,Enviar invitaciones,Mike Cisneros,En proceso,Reservar local,53
+2478,Comprar materiales,Olivia Taylor,Pendiente,Enviar invitaciones,41
+2479,Reservar local,Jacob Cabrera,Pendiente,Ejecutar evento,20
+2480,Comprar materiales,Claire Davenport,En proceso,Decorar,28
+2481,Decorar,Joshua Young,En proceso,Enviar invitaciones,42
+2482,Decorar,Dana Jordan,Finalizado,Enviar invitaciones,23
+2483,Reservar local,Marcia Paul,Pendiente,Enviar invitaciones,87
+2484,Enviar invitaciones,Katrina Lopez,Finalizado,Reservar local,16
+2485,Decorar,Marissa Gamble,En proceso,Comprar materiales,51
+2486,Comprar materiales,Christine Gonzalez,Finalizado,Ejecutar evento,57
+2487,Decorar,Kim Moore,En proceso,Ejecutar evento,54
+2488,Enviar invitaciones,Wyatt Johnson,Finalizado,Ejecutar evento,76
+2489,Enviar invitaciones,Emily Hoffman,En proceso,Enviar invitaciones,82
+2490,Ejecutar evento,David Adams,Pendiente,Ejecutar evento,74
+2491,Reservar local,Kelly Little,Finalizado,Decorar,47
+2492,Decorar,Erica Cooper,En proceso,Decorar,89
+2493,Ejecutar evento,Antonio Garcia,Finalizado,Decorar,55
+2494,Enviar invitaciones,Kevin Hunter,Pendiente,Comprar materiales,54
+2495,Ejecutar evento,Rebecca Torres,Finalizado,Enviar invitaciones,55
+2496,Ejecutar evento,James Ruiz,Finalizado,Comprar materiales,30
+2497,Reservar local,Albert Hernandez,Finalizado,Decorar,22
+2498,Enviar invitaciones,Carlos Vega,En proceso,Reservar local,39
+2499,Reservar local,Diana Mendoza,Pendiente,Decorar,45
+2500,Reservar local,Steven Carr,En proceso,Reservar local,64
+2501,Enviar invitaciones,Latoya Walters,Finalizado,Ejecutar evento,67
+2502,Enviar invitaciones,Lisa Carter,Finalizado,Ejecutar evento,49
+2503,Ejecutar evento,Michelle Turner,En proceso,Comprar materiales,32
+2504,Comprar materiales,Marc Moreno,Pendiente,Comprar materiales,23
+2505,Ejecutar evento,Mr. Jordan Massey,Pendiente,Reservar local,74
+2506,Comprar materiales,Theodore Moore,Pendiente,Comprar materiales,17
+2507,Ejecutar evento,Danny Warner,Finalizado,Enviar invitaciones,58
+2508,Enviar invitaciones,Jack Yates,En proceso,Comprar materiales,49
+2509,Ejecutar evento,Mandy Sanchez,Finalizado,Reservar local,68
+2510,Reservar local,Helen Ramsey,Finalizado,Comprar materiales,62
+2511,Ejecutar evento,Christy Snyder,Pendiente,Comprar materiales,41
+2512,Enviar invitaciones,Michael Neal MD,Finalizado,Reservar local,20
+2513,Reservar local,Nicholas Fisher,Finalizado,Reservar local,40
+2514,Reservar local,Darryl Holmes,Pendiente,Decorar,32
+2515,Ejecutar evento,Michelle Wallace,Pendiente,Enviar invitaciones,39
+2516,Ejecutar evento,Ashley Butler,En proceso,Decorar,54
+2517,Comprar materiales,Brandon Mendoza,Pendiente,Ejecutar evento,40
+2518,Ejecutar evento,Kelsey Vega,Pendiente,Comprar materiales,76
+2519,Reservar local,Cameron Rhodes,Pendiente,Decorar,49
+2520,Reservar local,Lauren Patterson,Finalizado,Enviar invitaciones,44
+2521,Reservar local,Michael Joyce DDS,Finalizado,Decorar,32
+2522,Decorar,Jacob Wagner,Finalizado,Comprar materiales,67
+2523,Decorar,Lynn Andrews,Finalizado,Reservar local,47
+2524,Enviar invitaciones,Jennifer Walker,Pendiente,Decorar,66
+2525,Comprar materiales,Barbara Hammond,Finalizado,Enviar invitaciones,47
+2526,Reservar local,Matthew Armstrong,En proceso,Comprar materiales,51
+2527,Comprar materiales,John Hobbs,En proceso,Enviar invitaciones,86
+2528,Enviar invitaciones,Rhonda Bass,En proceso,Ejecutar evento,36
+2529,Enviar invitaciones,Matthew Bauer,En proceso,Reservar local,79
+2530,Enviar invitaciones,Hannah Wilson,Finalizado,Comprar materiales,27
+2531,Reservar local,Ellen Curtis,En proceso,Ejecutar evento,61
+2532,Ejecutar evento,Victoria Foster,En proceso,Ejecutar evento,59
+2533,Ejecutar evento,Caleb Stewart,Pendiente,Comprar materiales,42
+2534,Comprar materiales,Alicia Donovan,En proceso,Ejecutar evento,72
+2535,Enviar invitaciones,Mr. Robert King,En proceso,Comprar materiales,20
+2536,Comprar materiales,Joshua Avery,En proceso,Comprar materiales,62
+2537,Ejecutar evento,Robert Bryant Jr.,Finalizado,Enviar invitaciones,20
+2538,Decorar,Valerie Kim,En proceso,Enviar invitaciones,16
+2539,Decorar,Cassandra Jones,En proceso,Enviar invitaciones,45
+2540,Ejecutar evento,Kelly Snow,En proceso,Reservar local,60
+2541,Enviar invitaciones,Stephen Wang,Finalizado,Ejecutar evento,37
+2542,Decorar,Katherine Wolf,Finalizado,Reservar local,62
+2543,Comprar materiales,Brian Diaz,Pendiente,Comprar materiales,54
+2544,Reservar local,Anthony Bean,Pendiente,Enviar invitaciones,67
+2545,Comprar materiales,Christopher Calhoun,En proceso,Reservar local,39
+2546,Reservar local,Lisa Robinson,Pendiente,Enviar invitaciones,52
+2547,Ejecutar evento,Nicole King,Pendiente,Enviar invitaciones,76
+2548,Ejecutar evento,Javier Torres,Pendiente,Reservar local,80
+2549,Reservar local,Michelle Gutierrez,Finalizado,Comprar materiales,36
+2550,Comprar materiales,Jessica Logan,En proceso,Reservar local,38
+2551,Reservar local,Haley Huerta,En proceso,Decorar,69
+2552,Comprar materiales,Margaret Levy,Finalizado,Enviar invitaciones,45
+2553,Reservar local,Austin Norris,Pendiente,Enviar invitaciones,52
+2554,Enviar invitaciones,Jessica Bishop,En proceso,Reservar local,52
+2555,Enviar invitaciones,Sara Davis,Pendiente,Comprar materiales,29
+2556,Decorar,Mark Trujillo,Finalizado,Enviar invitaciones,70
+2557,Ejecutar evento,Alisha Peterson,Pendiente,Reservar local,49
+2558,Reservar local,Tamara Perez,Pendiente,Enviar invitaciones,62
+2559,Comprar materiales,Stephanie Wright,Pendiente,Decorar,78
+2560,Reservar local,Stacey Norman,En proceso,Comprar materiales,62
+2561,Ejecutar evento,Erin Morris,Pendiente,Comprar materiales,56
+2562,Comprar materiales,Amanda Johnson,Pendiente,Ejecutar evento,19
+2563,Enviar invitaciones,Kathryn Thompson,Pendiente,Ejecutar evento,46
+2564,Enviar invitaciones,Raymond Wood,Finalizado,Ejecutar evento,44
+2565,Ejecutar evento,Cynthia Flowers,Pendiente,Ejecutar evento,82
+2566,Ejecutar evento,Ricky Horne,Finalizado,Decorar,23
+2567,Enviar invitaciones,Joshua Lewis,Pendiente,Comprar materiales,17
+2568,Comprar materiales,Matthew King,Finalizado,Reservar local,69
+2569,Comprar materiales,April Riley,En proceso,Ejecutar evento,16
+2570,Ejecutar evento,Kevin Sharp,Finalizado,Enviar invitaciones,36
+2571,Ejecutar evento,Brett Martin,En proceso,Reservar local,27
+2572,Reservar local,Kristina Rodriguez,En proceso,Decorar,15
+2573,Decorar,Colin Hall,Pendiente,Ejecutar evento,23
+2574,Decorar,Julia Kramer,Finalizado,Ejecutar evento,62
+2575,Decorar,David Smith,En proceso,Comprar materiales,74
+2576,Comprar materiales,Steven Smith,En proceso,Reservar local,17
+2577,Enviar invitaciones,Caitlin Johnson,Finalizado,Reservar local,40
+2578,Comprar materiales,Rachel Klein,Pendiente,Reservar local,84
+2579,Decorar,Ronald Molina,En proceso,Enviar invitaciones,68
+2580,Reservar local,Nichole Ray,Finalizado,Comprar materiales,57
+2581,Enviar invitaciones,Samantha Miranda,Finalizado,Decorar,58
+2582,Decorar,Jeff Murray,Finalizado,Comprar materiales,71
+2583,Decorar,Margaret Garcia,En proceso,Comprar materiales,16
+2584,Reservar local,Brett Reynolds,En proceso,Ejecutar evento,20
+2585,Comprar materiales,Robert Sparks,Finalizado,Enviar invitaciones,81
+2586,Reservar local,Benjamin Kim,Finalizado,Ejecutar evento,23
+2587,Comprar materiales,Lydia Smith,En proceso,Ejecutar evento,33
+2588,Enviar invitaciones,Jodi Wright,Pendiente,Ejecutar evento,73
+2589,Decorar,Jeffrey James,Finalizado,Decorar,17
+2590,Reservar local,Keith Clements,En proceso,Ejecutar evento,63
+2591,Reservar local,Brandon Cline,Finalizado,Enviar invitaciones,29
+2592,Reservar local,Allison Ramirez,Finalizado,Ejecutar evento,89
+2593,Enviar invitaciones,Jacqueline Woodward,En proceso,Ejecutar evento,17
+2594,Enviar invitaciones,Tracey Fisher,Pendiente,Decorar,36
+2595,Enviar invitaciones,Ethan Robertson,En proceso,Ejecutar evento,89
+2596,Comprar materiales,Debra Smith,En proceso,Ejecutar evento,33
+2597,Enviar invitaciones,Christopher Davis,En proceso,Reservar local,64
+2598,Ejecutar evento,Raymond Nguyen,Finalizado,Ejecutar evento,86
+2599,Enviar invitaciones,Morgan Willis,Finalizado,Reservar local,73
+2600,Decorar,Robert Martin,Finalizado,Comprar materiales,86
+2601,Decorar,Jessica Vazquez,Pendiente,Reservar local,87
+2602,Decorar,Scott Patel,En proceso,Decorar,38
+2603,Decorar,Elizabeth Lamb,En proceso,Ejecutar evento,47
+2604,Enviar invitaciones,Vanessa Sanchez,En proceso,Decorar,65
+2605,Ejecutar evento,Timothy Rocha,En proceso,Decorar,25
+2606,Comprar materiales,Susan Smith,Finalizado,Comprar materiales,67
+2607,Reservar local,Ashley Rogers,En proceso,Ejecutar evento,74
+2608,Comprar materiales,Amanda Hernandez,Finalizado,Ejecutar evento,22
+2609,Enviar invitaciones,Sean Villarreal,Finalizado,Decorar,24
+2610,Enviar invitaciones,Ricky Allen,Finalizado,Comprar materiales,75
+2611,Enviar invitaciones,Carl Williams,En proceso,Ejecutar evento,22
+2612,Comprar materiales,April Ferguson,Finalizado,Reservar local,67
+2613,Comprar materiales,Gregory English,Pendiente,Comprar materiales,57
+2614,Ejecutar evento,Tiffany Smith,En proceso,Decorar,48
+2615,Reservar local,Lisa Scott,Pendiente,Enviar invitaciones,65
+2616,Ejecutar evento,Sean Burch,Finalizado,Enviar invitaciones,23
+2617,Ejecutar evento,Rebecca Little,Pendiente,Reservar local,58
+2618,Ejecutar evento,Jason Sanchez,Pendiente,Reservar local,31
+2619,Ejecutar evento,Chelsea Dunn,Finalizado,Ejecutar evento,35
+2620,Comprar materiales,Andrew Mckenzie,Pendiente,Reservar local,79
+2621,Comprar materiales,Dana Hill,En proceso,Enviar invitaciones,50
+2622,Decorar,Amy Olson,Pendiente,Decorar,77
+2623,Comprar materiales,Clinton Lewis,Finalizado,Reservar local,63
+2624,Reservar local,James Huffman,Finalizado,Enviar invitaciones,26
+2625,Decorar,Mark Thomas,Finalizado,Decorar,59
+2626,Reservar local,Bryan Thomas,Pendiente,Reservar local,49
+2627,Comprar materiales,Jessica Ryan,En proceso,Enviar invitaciones,39
+2628,Comprar materiales,Dr. Theresa Smith,Finalizado,Reservar local,39
+2629,Reservar local,Nicole Harvey,En proceso,Enviar invitaciones,56
+2630,Decorar,Tracey Elliott,Pendiente,Comprar materiales,59
+2631,Reservar local,Ronald Quinn,En proceso,Decorar,79
+2632,Ejecutar evento,Benjamin Lawson,En proceso,Decorar,23
+2633,Ejecutar evento,David Bennett,En proceso,Reservar local,43
+2634,Decorar,Daniel Flores,En proceso,Decorar,38
+2635,Decorar,Kyle Bates,En proceso,Reservar local,68
+2636,Enviar invitaciones,Tracy Barr,En proceso,Decorar,40
+2637,Reservar local,Timothy Stephens,Finalizado,Decorar,50
+2638,Decorar,Nicole Jones,Pendiente,Ejecutar evento,47
+2639,Ejecutar evento,Joan Scott,Pendiente,Enviar invitaciones,87
+2640,Reservar local,John Little,Finalizado,Reservar local,67
+2641,Ejecutar evento,James Johnson,En proceso,Enviar invitaciones,27
+2642,Reservar local,Ivan Bowen,Pendiente,Ejecutar evento,56
+2643,Reservar local,John Lewis,Pendiente,Ejecutar evento,39
+2644,Comprar materiales,Christine Holmes,Pendiente,Comprar materiales,19
+2645,Ejecutar evento,Linda Small,En proceso,Enviar invitaciones,48
+2646,Ejecutar evento,Autumn Quinn,Finalizado,Comprar materiales,43
+2647,Enviar invitaciones,Jessica Johnston,Finalizado,Reservar local,35
+2648,Ejecutar evento,Renee Gonzales,Pendiente,Comprar materiales,18
+2649,Comprar materiales,Kevin Hale,En proceso,Enviar invitaciones,32
+2650,Decorar,Angela Barber,En proceso,Enviar invitaciones,52
+2651,Ejecutar evento,Susan Hendricks,Pendiente,Reservar local,87
+2652,Comprar materiales,Anthony Jackson,En proceso,Ejecutar evento,50
+2653,Decorar,Chad Young,Pendiente,Ejecutar evento,84
+2654,Reservar local,Heather Medina,Pendiente,Ejecutar evento,44
+2655,Decorar,Jasmine Walker,En proceso,Ejecutar evento,35
+2656,Comprar materiales,Antonio Smith,En proceso,Reservar local,36
+2657,Decorar,Nicholas Scott,Pendiente,Ejecutar evento,39
+2658,Ejecutar evento,Joseph Benson,En proceso,Ejecutar evento,39
+2659,Ejecutar evento,Heather Brown,En proceso,Enviar invitaciones,44
+2660,Comprar materiales,Richard Armstrong,Pendiente,Comprar materiales,84
+2661,Ejecutar evento,Stefanie Thompson,Finalizado,Reservar local,38
+2662,Decorar,Jason Donovan,Pendiente,Decorar,51
+2663,Enviar invitaciones,Tonya Vega,En proceso,Enviar invitaciones,23
+2664,Enviar invitaciones,Christopher Brown,Pendiente,Comprar materiales,83
+2665,Comprar materiales,Andrew Valdez,En proceso,Reservar local,56
+2666,Decorar,Jessica Bates,En proceso,Ejecutar evento,43
+2667,Decorar,Brian Curtis,Finalizado,Reservar local,54
+2668,Enviar invitaciones,Heather Bowers MD,Finalizado,Enviar invitaciones,74
+2669,Reservar local,Cheryl Fernandez,En proceso,Enviar invitaciones,52
+2670,Comprar materiales,Jacob Hunt,Finalizado,Ejecutar evento,29
+2671,Decorar,Anne Heath,Pendiente,Comprar materiales,35
+2672,Decorar,Brent Calderon,Finalizado,Reservar local,59
+2673,Enviar invitaciones,Scott Morales,Finalizado,Decorar,51
+2674,Comprar materiales,Laura Garcia,Pendiente,Reservar local,46
+2675,Enviar invitaciones,Erica King,En proceso,Reservar local,58
+2676,Decorar,Emily Wilson,En proceso,Reservar local,18
+2677,Enviar invitaciones,Charles Miller,Pendiente,Enviar invitaciones,73
+2678,Ejecutar evento,Sonya Livingston,Pendiente,Decorar,55
+2679,Ejecutar evento,William Hart,Finalizado,Reservar local,53
+2680,Ejecutar evento,Jesse Allen,Pendiente,Decorar,77
+2681,Enviar invitaciones,Jeremy Smith,Pendiente,Enviar invitaciones,87
+2682,Reservar local,Jonathan Castillo,Pendiente,Ejecutar evento,84
+2683,Ejecutar evento,Savannah Harrington,Pendiente,Ejecutar evento,22
+2684,Reservar local,John Williams,En proceso,Reservar local,57
+2685,Ejecutar evento,Timothy Dodson,En proceso,Enviar invitaciones,36
+2686,Ejecutar evento,Daniel Robbins,En proceso,Decorar,88
+2687,Reservar local,Bethany Giles,Finalizado,Decorar,58
+2688,Reservar local,Justin Walker,En proceso,Reservar local,81
+2689,Ejecutar evento,Justin Young,Pendiente,Decorar,46
+2690,Decorar,Christopher Williams,Pendiente,Ejecutar evento,30
+2691,Decorar,Eric White,Pendiente,Reservar local,80
+2692,Decorar,Evan Lewis,Finalizado,Enviar invitaciones,41
+2693,Decorar,Shane Fischer,En proceso,Comprar materiales,45
+2694,Comprar materiales,Kathy Hanson,En proceso,Ejecutar evento,15
+2695,Decorar,Amy Vega,Finalizado,Decorar,77
+2696,Reservar local,Brett Valencia,Finalizado,Reservar local,64
+2697,Decorar,Shane Gonzalez,Pendiente,Ejecutar evento,50
+2698,Ejecutar evento,Kimberly Green,En proceso,Ejecutar evento,18
+2699,Comprar materiales,David Torres,Pendiente,Enviar invitaciones,53
+2700,Enviar invitaciones,Angela Fuller,Finalizado,Comprar materiales,57
+2701,Enviar invitaciones,Gabriel Ramos,Pendiente,Enviar invitaciones,46
+2702,Comprar materiales,Jason Wagner,En proceso,Comprar materiales,45
+2703,Enviar invitaciones,Sharon Maddox,En proceso,Reservar local,33
+2704,Reservar local,Mary Wilson,Pendiente,Reservar local,84
+2705,Ejecutar evento,Debbie George,Pendiente,Enviar invitaciones,27
+2706,Reservar local,Michael Pacheco,En proceso,Reservar local,41
+2707,Enviar invitaciones,Randy Rowe,Finalizado,Ejecutar evento,89
+2708,Enviar invitaciones,Erin Gomez,Finalizado,Decorar,30
+2709,Enviar invitaciones,Stanley Miller,Pendiente,Enviar invitaciones,67
+2710,Reservar local,Christopher Simpson,Pendiente,Ejecutar evento,33
+2711,Decorar,Erika Burke,En proceso,Enviar invitaciones,61
+2712,Ejecutar evento,Veronica Martin,Pendiente,Ejecutar evento,71
+2713,Decorar,Kimberly Murray,En proceso,Enviar invitaciones,50
+2714,Decorar,Arthur Anderson,Finalizado,Comprar materiales,75
+2715,Reservar local,Matthew West,En proceso,Ejecutar evento,86
+2716,Reservar local,Gabriela Rivera,Pendiente,Ejecutar evento,30
+2717,Ejecutar evento,Alicia Ball,En proceso,Enviar invitaciones,35
+2718,Comprar materiales,Antonio Williams,En proceso,Decorar,63
+2719,Enviar invitaciones,Pamela Ho,Finalizado,Comprar materiales,38
+2720,Enviar invitaciones,Christopher Harding,En proceso,Ejecutar evento,60
+2721,Reservar local,Sarah Curtis,Pendiente,Reservar local,58
+2722,Enviar invitaciones,Erica Harris,Pendiente,Reservar local,61
+2723,Comprar materiales,Stephen Williams Jr.,Finalizado,Decorar,27
+2724,Enviar invitaciones,Kathleen Rogers,En proceso,Decorar,62
+2725,Ejecutar evento,Sara Gibson,En proceso,Reservar local,40
+2726,Enviar invitaciones,Casey Baker,Pendiente,Reservar local,63
+2727,Decorar,Dr. Brian Williams,Pendiente,Ejecutar evento,51
+2728,Enviar invitaciones,Daniel Wallace,En proceso,Decorar,77
+2729,Ejecutar evento,Sarah Dominguez,Pendiente,Comprar materiales,28
+2730,Enviar invitaciones,Carolyn Pham,En proceso,Ejecutar evento,71
+2731,Ejecutar evento,Curtis Bowen,En proceso,Decorar,57
+2732,Enviar invitaciones,John Ellis,Pendiente,Ejecutar evento,28
+2733,Decorar,Robin Davis,En proceso,Ejecutar evento,85
+2734,Comprar materiales,William Ross,En proceso,Decorar,60
+2735,Ejecutar evento,Carol Rodriguez,En proceso,Comprar materiales,65
+2736,Comprar materiales,Mallory Mullins,Pendiente,Reservar local,46
+2737,Reservar local,Jason Hunter,Pendiente,Reservar local,58
+2738,Reservar local,Daniel Mcclure,Finalizado,Reservar local,59
+2739,Comprar materiales,Dr. Caroline Baird DDS,Finalizado,Enviar invitaciones,70
+2740,Reservar local,Samantha Allen,En proceso,Enviar invitaciones,55
+2741,Comprar materiales,Kelly Rogers,Finalizado,Ejecutar evento,30
+2742,Enviar invitaciones,Darin Turner,Finalizado,Ejecutar evento,43
+2743,Enviar invitaciones,Jerry Phillips,En proceso,Reservar local,51
+2744,Comprar materiales,Tammy Thomas,Pendiente,Decorar,38
+2745,Decorar,Jeffrey Jones,En proceso,Enviar invitaciones,58
+2746,Decorar,Jennifer Potter,Pendiente,Enviar invitaciones,72
+2747,Enviar invitaciones,Andrew Mitchell,Pendiente,Reservar local,43
+2748,Ejecutar evento,Emily Castillo,Finalizado,Reservar local,81
+2749,Ejecutar evento,Terry Wu,En proceso,Comprar materiales,88
+2750,Enviar invitaciones,Jill Harris,Finalizado,Reservar local,56
+2751,Ejecutar evento,Victoria Willis,Pendiente,Enviar invitaciones,57
+2752,Enviar invitaciones,Alan Myers,Finalizado,Enviar invitaciones,48
+2753,Decorar,Troy Fisher,Pendiente,Decorar,64
+2754,Decorar,Keith Cummings,En proceso,Enviar invitaciones,81
+2755,Reservar local,Jasmine Wiggins,Pendiente,Decorar,77
+2756,Reservar local,Bethany Williams,En proceso,Decorar,63
+2757,Decorar,Victor Alvarado,En proceso,Enviar invitaciones,44
+2758,Ejecutar evento,Michael George,Finalizado,Ejecutar evento,41
+2759,Enviar invitaciones,Phillip Zamora,En proceso,Ejecutar evento,43
+2760,Decorar,Dr. Rachel Johnson,Finalizado,Ejecutar evento,77
+2761,Comprar materiales,Elizabeth Lambert,Finalizado,Enviar invitaciones,37
+2762,Decorar,Danny Crawford,Pendiente,Enviar invitaciones,82
+2763,Enviar invitaciones,Bradley Hodges,En proceso,Decorar,26
+2764,Ejecutar evento,Jessica Jones,En proceso,Enviar invitaciones,45
+2765,Ejecutar evento,Jon Avila,Pendiente,Comprar materiales,85
+2766,Decorar,Jared Wilkinson,Finalizado,Decorar,39
+2767,Reservar local,Michael Sanders,Finalizado,Comprar materiales,86
+2768,Decorar,Joseph Bryan,Finalizado,Ejecutar evento,80
+2769,Enviar invitaciones,Dylan Bell,Pendiente,Decorar,54
+2770,Decorar,Mikayla Andrade,Finalizado,Decorar,44
+2771,Comprar materiales,Monica Dunn,Pendiente,Enviar invitaciones,38
+2772,Ejecutar evento,Heather Mendoza,Pendiente,Reservar local,40
+2773,Comprar materiales,Lisa Coleman,Finalizado,Decorar,31
+2774,Decorar,Sharon Harrison,Pendiente,Enviar invitaciones,88
+2775,Decorar,Kathleen Weber,Pendiente,Reservar local,28
+2776,Enviar invitaciones,Jason Stewart,Finalizado,Comprar materiales,85
+2777,Reservar local,Alicia Rodriguez,En proceso,Ejecutar evento,63
+2778,Comprar materiales,George Davis,En proceso,Reservar local,87
+2779,Decorar,Brian Murray,Pendiente,Comprar materiales,64
+2780,Comprar materiales,Tiffany Anderson,En proceso,Comprar materiales,89
+2781,Reservar local,Jonathan Oliver,Pendiente,Decorar,56
+2782,Enviar invitaciones,Melissa Mcclain,Finalizado,Comprar materiales,86
+2783,Decorar,Emily Jenkins,Finalizado,Enviar invitaciones,28
+2784,Comprar materiales,Mackenzie Moreno,Pendiente,Decorar,69
+2785,Comprar materiales,Dennis Weaver,Pendiente,Enviar invitaciones,66
+2786,Reservar local,Mary Peters,Pendiente,Comprar materiales,43
+2787,Ejecutar evento,Katrina Clark,Pendiente,Comprar materiales,32
+2788,Reservar local,Raven Carroll,En proceso,Decorar,68
+2789,Reservar local,Kellie Smith,En proceso,Comprar materiales,38
+2790,Decorar,Brittany Nelson,En proceso,Decorar,22
+2791,Reservar local,Kimberly Carter,En proceso,Comprar materiales,26
+2792,Comprar materiales,Maria James,Pendiente,Comprar materiales,18
+2793,Ejecutar evento,Christopher Adams,En proceso,Ejecutar evento,61
+2794,Ejecutar evento,Christopher May,Pendiente,Decorar,26
+2795,Reservar local,Jennifer Johnson,Finalizado,Enviar invitaciones,64
+2796,Reservar local,Cheryl Robinson,En proceso,Ejecutar evento,88
+2797,Reservar local,John Blankenship,En proceso,Decorar,59
+2798,Ejecutar evento,Stephen Murray,En proceso,Reservar local,55
+2799,Comprar materiales,Alicia Hall,Pendiente,Reservar local,46
+2800,Decorar,Ronald Schultz,En proceso,Ejecutar evento,24
+2801,Decorar,James Knox,En proceso,Ejecutar evento,42
+2802,Comprar materiales,John Prince,En proceso,Reservar local,73
+2803,Reservar local,Brandon Jackson,En proceso,Reservar local,49
+2804,Ejecutar evento,Jessica Smith,Pendiente,Ejecutar evento,37
+2805,Comprar materiales,Gwendolyn Avery,Finalizado,Enviar invitaciones,77
+2806,Enviar invitaciones,Martha Smith,Pendiente,Comprar materiales,40
+2807,Comprar materiales,Michael Stone,En proceso,Decorar,36
+2808,Comprar materiales,David Herrera,En proceso,Enviar invitaciones,23
+2809,Reservar local,Chelsea Martin,En proceso,Decorar,39
+2810,Reservar local,Juan Allen,Finalizado,Decorar,39
+2811,Enviar invitaciones,Seth Stephenson,Pendiente,Comprar materiales,54
+2812,Comprar materiales,Mark Goodwin,Finalizado,Reservar local,75
+2813,Enviar invitaciones,Carlos Smith,En proceso,Ejecutar evento,75
+2814,Enviar invitaciones,John Giles,Finalizado,Comprar materiales,23
+2815,Ejecutar evento,Wendy Wood,En proceso,Reservar local,68
+2816,Enviar invitaciones,Julie Yang,En proceso,Enviar invitaciones,75
+2817,Ejecutar evento,Dakota Mcgee,Pendiente,Enviar invitaciones,86
+2818,Decorar,Michael Conley,Finalizado,Comprar materiales,33
+2819,Ejecutar evento,Alexander Lawrence,Pendiente,Reservar local,51
+2820,Reservar local,Teresa Fritz,Pendiente,Ejecutar evento,46
+2821,Reservar local,Michael Chandler,Pendiente,Reservar local,46
+2822,Comprar materiales,Richard Gray,En proceso,Reservar local,65
+2823,Enviar invitaciones,Rebecca May,Pendiente,Reservar local,18
+2824,Decorar,Douglas Thompson,En proceso,Ejecutar evento,40
+2825,Comprar materiales,Sean Miller,En proceso,Enviar invitaciones,64
+2826,Reservar local,Julie Stewart,Pendiente,Ejecutar evento,61
+2827,Comprar materiales,Steven Parsons,Pendiente,Decorar,78
+2828,Comprar materiales,William Dennis,Finalizado,Comprar materiales,38
+2829,Reservar local,Richard Garcia,Pendiente,Ejecutar evento,69
+2830,Reservar local,Tiffany Sanchez,Pendiente,Decorar,83
+2831,Reservar local,John Riddle,En proceso,Ejecutar evento,69
+2832,Reservar local,Karen Farmer,Finalizado,Comprar materiales,78
+2833,Ejecutar evento,Natalie Rose,Pendiente,Reservar local,74
+2834,Decorar,Anna Clark,Pendiente,Comprar materiales,36
+2835,Enviar invitaciones,Michael Cannon,Pendiente,Ejecutar evento,21
+2836,Decorar,Brandon Hurst,Pendiente,Reservar local,46
+2837,Enviar invitaciones,James Robinson,En proceso,Reservar local,45
+2838,Ejecutar evento,Jill Perry,Finalizado,Reservar local,41
+2839,Comprar materiales,Alexis Evans,Pendiente,Reservar local,39
+2840,Comprar materiales,Cory Powers,En proceso,Reservar local,78
+2841,Reservar local,Sherry Schroeder,Pendiente,Ejecutar evento,62
+2842,Comprar materiales,Tiffany Dean,En proceso,Reservar local,68
+2843,Comprar materiales,Cody Stevens,Finalizado,Decorar,22
+2844,Reservar local,Tammy Chen,En proceso,Decorar,74
+2845,Enviar invitaciones,Cathy Gutierrez,Finalizado,Reservar local,44
+2846,Enviar invitaciones,Luis Hamilton,Pendiente,Reservar local,76
+2847,Comprar materiales,Andrew Taylor DDS,Pendiente,Enviar invitaciones,72
+2848,Comprar materiales,Michelle Perez,En proceso,Comprar materiales,33
+2849,Decorar,Heather Wood,En proceso,Ejecutar evento,86
+2850,Decorar,Jessica Clark,Finalizado,Decorar,36
+2851,Comprar materiales,Heather Carr,En proceso,Comprar materiales,61
+2852,Enviar invitaciones,Elizabeth Rodriguez,Finalizado,Enviar invitaciones,33
+2853,Reservar local,Angela Jackson,Pendiente,Reservar local,17
+2854,Reservar local,Madison Kaufman,Finalizado,Ejecutar evento,22
+2855,Enviar invitaciones,Richard Carrillo,Finalizado,Decorar,88
+2856,Decorar,Dawn Bennett,Pendiente,Ejecutar evento,80
+2857,Decorar,Jamie Blair,Finalizado,Enviar invitaciones,58
+2858,Reservar local,Pam Schultz,Pendiente,Decorar,45
+2859,Enviar invitaciones,Timothy Aguilar,En proceso,Enviar invitaciones,29
+2860,Enviar invitaciones,Krystal Jackson,Finalizado,Ejecutar evento,45
+2861,Ejecutar evento,Michael Barrett,Finalizado,Enviar invitaciones,89
+2862,Ejecutar evento,Lee Thompson,Finalizado,Reservar local,43
+2863,Reservar local,Kenneth May,Pendiente,Enviar invitaciones,74
+2864,Ejecutar evento,Jennifer Riley,Pendiente,Reservar local,32
+2865,Ejecutar evento,Ms. Michelle Herman,En proceso,Reservar local,41
+2866,Enviar invitaciones,Stacey James,En proceso,Ejecutar evento,54
+2867,Enviar invitaciones,Susan Chavez,En proceso,Reservar local,89
+2868,Comprar materiales,Mary Hardy,En proceso,Decorar,87
+2869,Decorar,Ana Elliott,Finalizado,Enviar invitaciones,36
+2870,Decorar,Tiffany Martin DDS,Pendiente,Decorar,58
+2871,Enviar invitaciones,Matthew Michael,Finalizado,Decorar,80
+2872,Comprar materiales,Martin Stanley,Finalizado,Enviar invitaciones,50
+2873,Decorar,Sierra Patton,En proceso,Enviar invitaciones,59
+2874,Ejecutar evento,Crystal Owen,Finalizado,Reservar local,75
+2875,Ejecutar evento,Logan Gonzalez,Pendiente,Decorar,89
+2876,Enviar invitaciones,David Deleon,Pendiente,Decorar,66
+2877,Decorar,Zachary Valentine,Pendiente,Reservar local,74
+2878,Reservar local,Debra Mcintosh,Pendiente,Enviar invitaciones,58
+2879,Enviar invitaciones,Robert Davis,En proceso,Ejecutar evento,15
+2880,Reservar local,Daniel Green,En proceso,Ejecutar evento,53
+2881,Decorar,David White,En proceso,Decorar,88
+2882,Enviar invitaciones,Tommy Lyons,Pendiente,Enviar invitaciones,63
+2883,Enviar invitaciones,Adam Williams,En proceso,Enviar invitaciones,16
+2884,Enviar invitaciones,Jason Reynolds,Pendiente,Enviar invitaciones,48
+2885,Ejecutar evento,George Nelson,Pendiente,Decorar,46
+2886,Enviar invitaciones,Jeffrey Esparza,En proceso,Decorar,44
+2887,Enviar invitaciones,Jorge Suarez,Pendiente,Ejecutar evento,33
+2888,Reservar local,Haley Li,En proceso,Comprar materiales,43
+2889,Comprar materiales,Elizabeth Perry,Finalizado,Ejecutar evento,82
+2890,Reservar local,Kimberly Guerrero,En proceso,Enviar invitaciones,16
+2891,Decorar,Melissa Griffin,Pendiente,Enviar invitaciones,84
+2892,Ejecutar evento,Michelle Brown,Finalizado,Enviar invitaciones,20
+2893,Comprar materiales,Vanessa Jordan,En proceso,Reservar local,83
+2894,Decorar,Jennifer Nicholson,En proceso,Comprar materiales,45
+2895,Decorar,Brian Esparza,Finalizado,Comprar materiales,66
+2896,Decorar,Leslie Roman,En proceso,Ejecutar evento,39
+2897,Decorar,Christopher Beck,Finalizado,Decorar,66
+2898,Comprar materiales,Frederick Vincent,Pendiente,Ejecutar evento,84
+2899,Enviar invitaciones,Lisa Myers,Finalizado,Decorar,66
+2900,Decorar,Brandon Collins,Pendiente,Enviar invitaciones,17
+2901,Ejecutar evento,Monica Lopez,Finalizado,Ejecutar evento,26
+2902,Reservar local,Gabriel Wade,Finalizado,Enviar invitaciones,64
+2903,Ejecutar evento,Richard Pierce,En proceso,Enviar invitaciones,67
+2904,Enviar invitaciones,Angela Donaldson,Pendiente,Ejecutar evento,54
+2905,Enviar invitaciones,Angela Nelson,En proceso,Comprar materiales,86
+2906,Reservar local,Alexander Williams,En proceso,Comprar materiales,50
+2907,Reservar local,Kristen Burton,Pendiente,Decorar,20
+2908,Reservar local,Travis Dawson,En proceso,Ejecutar evento,41
+2909,Comprar materiales,Matthew Mcdaniel,Finalizado,Enviar invitaciones,83
+2910,Comprar materiales,Richard Carey,Finalizado,Reservar local,81
+2911,Comprar materiales,Alexandra Gardner,En proceso,Ejecutar evento,50
+2912,Ejecutar evento,Sara Carpenter,Pendiente,Ejecutar evento,70
+2913,Comprar materiales,Rebecca Young,Finalizado,Decorar,70
+2914,Decorar,Katie Garcia,En proceso,Comprar materiales,37
+2915,Decorar,Devon Davis,Finalizado,Comprar materiales,80
+2916,Comprar materiales,Anthony Ball,En proceso,Decorar,58
+2917,Reservar local,Regina Brady,En proceso,Reservar local,44
+2918,Enviar invitaciones,Kristopher Green,Pendiente,Enviar invitaciones,17
+2919,Reservar local,Cassie Jones,En proceso,Comprar materiales,76
+2920,Reservar local,Sabrina Sanchez,Pendiente,Enviar invitaciones,82
+2921,Decorar,Nathaniel Welch,Finalizado,Decorar,16
+2922,Comprar materiales,John Obrien,Finalizado,Enviar invitaciones,61
+2923,Decorar,Carla Chang,Pendiente,Comprar materiales,20
+2924,Reservar local,Oscar Monroe,En proceso,Enviar invitaciones,45
+2925,Reservar local,William Mcknight DVM,Finalizado,Reservar local,57
+2926,Comprar materiales,Robert Delgado,Finalizado,Decorar,45
+2927,Reservar local,Connie Nielsen,Finalizado,Reservar local,30
+2928,Comprar materiales,Erin Stephens,En proceso,Ejecutar evento,86
+2929,Decorar,Cindy Webb,Finalizado,Decorar,29
+2930,Reservar local,Gregory Garcia,Finalizado,Ejecutar evento,79
+2931,Ejecutar evento,Jennifer Bradford,Pendiente,Decorar,27
+2932,Comprar materiales,Erica Wright,Pendiente,Reservar local,16
+2933,Ejecutar evento,Miss Deborah Olsen,En proceso,Enviar invitaciones,57
+2934,Enviar invitaciones,Tammy Hamilton,En proceso,Decorar,37
+2935,Ejecutar evento,Rachel Harris,Pendiente,Enviar invitaciones,26
+2936,Comprar materiales,Catherine Eaton,Pendiente,Decorar,81
+2937,Reservar local,Renee Massey,Pendiente,Ejecutar evento,47
+2938,Ejecutar evento,Yvonne Smith,Finalizado,Ejecutar evento,44
+2939,Enviar invitaciones,Michelle Moody,En proceso,Comprar materiales,68
+2940,Ejecutar evento,Shannon Mason,Pendiente,Enviar invitaciones,18
+2941,Reservar local,Charles Aguilar,Pendiente,Comprar materiales,64
+2942,Reservar local,Mr. Martin Bryan,Finalizado,Comprar materiales,59
+2943,Reservar local,Ashley Herrera,En proceso,Ejecutar evento,73
+2944,Enviar invitaciones,Jerome Wilson,En proceso,Reservar local,40
+2945,Decorar,Ashley Miller,Pendiente,Enviar invitaciones,77
+2946,Ejecutar evento,Peter Leonard,Pendiente,Decorar,70
+2947,Decorar,Natalie Aguilar,En proceso,Ejecutar evento,23
+2948,Enviar invitaciones,Andre Rosales,En proceso,Enviar invitaciones,47
+2949,Reservar local,Carrie Farley,Pendiente,Decorar,17
+2950,Comprar materiales,Matthew Lee,Finalizado,Decorar,77
+2951,Ejecutar evento,Mark Chapman,Finalizado,Comprar materiales,83
+2952,Comprar materiales,Isabella Brown,Finalizado,Reservar local,36
+2953,Decorar,Roy Frazier,En proceso,Ejecutar evento,16
+2954,Ejecutar evento,Joseph Walker,Finalizado,Ejecutar evento,47
+2955,Comprar materiales,Paul Villegas,Pendiente,Enviar invitaciones,22
+2956,Comprar materiales,Michael Davis,En proceso,Decorar,65
+2957,Ejecutar evento,Eric Wise,Finalizado,Reservar local,72
+2958,Comprar materiales,Stephanie Franco,Pendiente,Enviar invitaciones,88
+2959,Ejecutar evento,Holly Reese,Pendiente,Reservar local,86
+2960,Enviar invitaciones,Robert Smith,Pendiente,Reservar local,76
+2961,Reservar local,Jeremy Hamilton,Finalizado,Enviar invitaciones,15
+2962,Decorar,Evan Ramos,En proceso,Ejecutar evento,67
+2963,Decorar,Nathaniel Allen,Pendiente,Comprar materiales,81
+2964,Reservar local,Christian Kline,Pendiente,Ejecutar evento,21
+2965,Decorar,Julie David,En proceso,Comprar materiales,76
+2966,Ejecutar evento,Mr. Jason Watts DDS,Finalizado,Ejecutar evento,50
+2967,Decorar,Michael Miller,Finalizado,Enviar invitaciones,51
+2968,Decorar,Brent Wilson,Finalizado,Comprar materiales,23
+2969,Comprar materiales,Matthew Lopez,Pendiente,Reservar local,85
+2970,Decorar,Janet Ali,Finalizado,Decorar,74
+2971,Comprar materiales,Dylan Martin,Pendiente,Ejecutar evento,85
+2972,Decorar,Kristi Hill,Finalizado,Decorar,51
+2973,Reservar local,Jodi Tate,Finalizado,Enviar invitaciones,53
+2974,Decorar,Veronica Swanson,Finalizado,Ejecutar evento,51
+2975,Enviar invitaciones,Shelby Pope,En proceso,Decorar,55
+2976,Ejecutar evento,Crystal Walker,Finalizado,Ejecutar evento,75
+2977,Ejecutar evento,Phillip Martinez,Pendiente,Reservar local,67
+2978,Ejecutar evento,Mary Mcclain,Finalizado,Enviar invitaciones,22
+2979,Comprar materiales,Lisa Collins,Pendiente,Ejecutar evento,30
+2980,Comprar materiales,Gary Mullins,En proceso,Ejecutar evento,48
+2981,Reservar local,Dawn Delgado,Pendiente,Ejecutar evento,37
+2982,Reservar local,Julia Franklin,Finalizado,Enviar invitaciones,59
+2983,Ejecutar evento,Timothy Singleton,Pendiente,Comprar materiales,54
+2984,Decorar,Shelby Martinez,Pendiente,Comprar materiales,51
+2985,Ejecutar evento,Bailey Ward,En proceso,Ejecutar evento,62
+2986,Reservar local,Alex Cochran,En proceso,Reservar local,82
+2987,Enviar invitaciones,Mr. William Galloway,Pendiente,Enviar invitaciones,18
+2988,Decorar,Daniel Farley,Finalizado,Decorar,75
+2989,Decorar,Mr. Christopher Hart,En proceso,Comprar materiales,50
+2990,Enviar invitaciones,Debra Diaz,Finalizado,Ejecutar evento,27
+2991,Comprar materiales,Rachael Wolf,En proceso,Decorar,18
+2992,Ejecutar evento,Kenneth Ramirez,Pendiente,Enviar invitaciones,24
+2993,Reservar local,Andrea Willis,En proceso,Reservar local,17
+2994,Comprar materiales,Andrea Simmons,Finalizado,Ejecutar evento,53
+2995,Comprar materiales,Danielle Clark,Finalizado,Enviar invitaciones,31
+2996,Comprar materiales,Sharon Murphy,Pendiente,Comprar materiales,45
+2997,Ejecutar evento,Elijah Lee,Finalizado,Ejecutar evento,30
+2998,Enviar invitaciones,Sarah Castro,En proceso,Decorar,63
+2999,Ejecutar evento,Linda Hamilton,En proceso,Enviar invitaciones,25
+3000,Enviar invitaciones,Jon Gamble,Finalizado,Decorar,20
